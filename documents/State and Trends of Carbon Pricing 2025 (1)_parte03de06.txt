@@ -1,0 +1,493 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 3 de 6
+Páginas 31 a 45
+======================================================================
+
+
+--- PÁGINA 31 ---
+
+State and Trends of Carbon Pricing 202531
+Inflation has eroded 
+the real value of 
+carbon taxes2.2 Despite inflationary pressures, carbon prices 
+held steady in real terms, but with variation across 
+jurisdictions  
+ii In its Effective Carbon Rates 2023 report, the OECD observed a reduction in real carbon tax rates in the road transport sector due to a lack of indexation to inflation.Nominal carbon prices increased slightly in the 12 
+months prior to April 1, 2025. At an individual policy level, 
+there was a range of nominal carbon price changes. Slight 
+nominal price increases were observed in large ETSs, 
+such as in the China, EU, and the Republic of Korea ETSs. 
+Other ETSs, such as in California and New Zealand, saw 
+slight decreases. Several established carbon taxes saw the 
+implementation of planned increases in tax rates, including 
+in Colombia, Denmark, Estonia, Iceland, Ireland, Norway, 
+and South Africa, but most of these were modest. Figure 4 
+shows the prices as of April 1, 2025, across ETSs and carbon 
+taxes and different degrees of coverage.
+Inflation has had varied effects on carbon prices, 
+depending on policy design. In Chile, France, and Spain, tax 
+rates in real terms have fallen over time and thus inflation 
+has eroded the real value of carbon taxes.iiiSome carbon 
+taxes—for example in Colombia and South Africa—include 
+an automatic adjustment for inflation. There is often a lag 
+in applying the inflation adjustment so the price may see an 
+initial decrease in real terms before the adjustment takes 
+effect. Other countries, such as Singapore, have planned 
+rate rises to increase price incentives even with inflation. 
+Inflation—like other macroeconomic fluctuations—affects 
+ETSs differently from carbon taxes, because ETS prices 
+adjust dynamically based on supply and demand within the emissions cap. Inflation can influence expectations of both 
+supply and demand, but ultimately carbon prices in ETSs 
+align with the ambition reflected in the cap. 
+ 
+
+--- PÁGINA 32 ---
+
+State and Trends of Carbon Pricing 202532
+FIGURE 4
+Prices and coverage across ETSs and carbon taxes, as of April 1, 2025 
+
+
+--- PÁGINA 33 ---
+
+State and Trends of Carbon Pricing 202533
+FIGURE 5
+Emissions-weighted average carbon prices for covered emissions and global emissions, 
+2015–2025
+Note: The purple line shows the global emissions-weighted average carbon price. This price accounts for all 
+global emissions, including those without a carbon price. Jurisdictions without a carbon price are included in the 
+calculation of the global emissions-weighted average carbon price, but treated as having a carbon price of zero. 
+The global emissions-weighted average carbon price metric provides an indication of global progress of carbon 
+pricing, taking both price and coverage into account. The blue/red bars show average carbon price for implemented 
+instruments. The global emissions-weighted average carbon price provides an estimate of the weighted average 
+carbon price across countries with an implemented ETS or carbon tax. That is, each implemented carbon price is 
+weighted by its contribution to global covered emissions, with covered emissions defined as the total emissions in 
+each jurisdiction that are subject to that jurisdiction’s carbon pricing instrument. As a result, the global emissions-
+weighted average carbon price only accounts for prices in those jurisdictions that have implemented a carbon 
+price—it does not include those jurisdictions without a carbon price. The average carbon price for implemented 
+instruments therefore provides a global snapshot of how carbon prices have changed over time in jurisdictions that 
+have implemented a carbon price.
+iii The average carbon price provides an estimate of the emissions-weighted average carbon price across countries with an implemented ETS or carbon tax. The contribution of each implemented ETS and carbon tax to the average price is 
+determined by the amount of emissions it covers.Average carbon prices have increased over the past 
+10 years. The average carbon priceiiiiifor implemented 
+instruments has almost doubled in the past 10 years in real 
+terms—from just above USD 10 per tCO2e in 2015 to around 
+USD 19 per tCO2e in 2025 (see Figure 5). The contribution of 
+carbon taxes to these average covered carbon prices has 
+remained relatively stable over this period. The increase was 
+primarily driven by allowance prices in the EU ETS, which 
+saw significant rises over the past 10 years. Recognizing 
+that most global emissions (over 70%) do not currently face 
+a carbon price, Figure 5 also includes a global emissions-
+weighted average carbon price. This metric accounts for 
+the unpriced emissions in economies without an ETS or a 
+carbon tax and therefore reflects changes in both price and 
+global coverage over time. The global emissions-weighted 
+average carbon price in 2025 was around USD 5 per tCO2e—
+over four times higher than the value in 2015. Importantly, 
+these carbon pricing metrics provide a useful indication of 
+progress, but they should not be interpreted as a measure 
+of ambition or effort.47 In addition, as noted in the report 
+of the Joint Task Force on Climate Action, Carbon Pricing 
+and Policy Spillovers, aggregated metrics (at the national or 
+global level) can mask the heterogeneity of carbon prices 
+across jurisdictions, sectors, fuels, and products.48 
+
+--- PÁGINA 34 ---
+
+State and Trends of Carbon Pricing 202534
+The price incentives 
+provided through 
+indirect carbon 
+pricing are often 
+considerably larger 
+than the incentives 
+provided by ETSs 
+and carbon taxesHowever, the average direct carbon prices only tell 
+part of the story. Overall, the existing price levels of ETSs 
+and carbon taxes remain below the levels found in the 
+modeled scenarios that achieve global temperature goals, 
+as assessed by several organizations. In 2017, the High-
+Level Commission on Carbon Prices estimated that direct 
+carbon prices (in 2017 USD) of at least USD 40 to 80 per 
+tCO2e by 2020 and USD 50 to USD 100 per tCO2e by 2030 
+were consistent with limiting temperature rises to well 
+below 2ºC.49 In the 2022 Intergovernmental Panel on Climate 
+Change Sixth Assessment Report, the modeled scenarios 
+that limit warming to 2°C have a marginal abatement cost 
+around USD 90 per tCO2e (in 2015 USD) in 2030 and USD 
+210 per tCO2e in 2050.50 In the Network for Greening the 
+Financial System’s most recent update in November 2024, 
+the scenarios consistent with a transition toward net zero in 
+2050 have a carbon price (in USD 2010) of around USD 300/
+tCO2e by 2035.51 Any comparison to these benchmark levels 
+must consider the spectrum of pricing and non-pricing 
+policies that can support decarbonization efforts. In relation 
+to pricing policies, indirect carbon prices, such as fuel taxes, 
+provide an important price incentive that is not captured in 
+the direct carbon pricing metrics that are the focus of this 
+report. In most regions, due to the prevalence of fuel excise 
+taxes, the price incentives provided through indirect carbon 
+pricing are often considerably larger than the incentives 
+provided by ETSs and carbon taxes. This is the case in Latin America where several countries have recently reformed 
+fuel taxes. The combination of higher direct carbon prices, 
+the alignment of energy excise taxes with broader fiscal and 
+climate policy, and the elimination of fossil fuel subsidies 
+has resulted in an increase in the total carbon price in Latin 
+America (Box 6).
+
+--- PÁGINA 35 ---
+
+State and Trends of Carbon Pricing 202535
+BOX 6
+Total carbon pricing in Latin America 
+Developments in Latin America highlight how broader fiscal reforms 
+that improve the carbon price incentive might complement progress 
+on carbon pricing for fuel combustion-based emissions. Direct 
+carbon pricing through carbon taxation and emissions trading provides 
+a powerful incentive to reduce emissions across an economy. Changes 
+to indirect carbon pricing policies, such as fuel excise taxes and fossil 
+fuel subsidies, can also significantly influence production, consumption, 
+and investment choices. The World Bank’s total carbon priceiv provides 
+a comprehensive picture of the overall carbon price incentive by 
+incorporating both direct and indirect carbon pricing policies.52 Similarly, 
+the OECD publishes its net effective carbon rates, which combine indirect 
+(which OECD terms “implicit”) carbon pricing and direct carbon pricing for 
+79 countries.53In Latin America net energy tax rates are being adjusted upward 
+following reductions implemented during the global energy crisis. In 
+2022, amid high inflation and rising energy prices, governments in Latin 
+America, as in many other regions, provided price relief to consumers 
+through reduced fuel taxation and increased fuel subsidies. Over the 
+past two years, many of these measures have been reversed, with excise 
+taxes being restored to their pre-crisis levels and some subsidies being 
+phased out. As a consequence, for most countries in Latin America the 
+total carbon price has recovered from recent downward trends (Figure 
+6) and is now positive. Fuel subsidies have been reduced in several 
+countries, including Colombia, Ecuador, and Peru. Taxes have also 
+increased in Argentina, Chile, and Mexico, as the excise rates of fuel 
+taxes in the latter two countries are formally linked with oil prices. While 
+the drivers for subsidy reforms are different across countries, some 
+governments are acknowledging that the public budget requirements of 
+fossil fuel subsidies divert resources that could be used to meet broader 
+policy objectives. A key outcome of these reforms is that Latin American 
+governments now have additional fiscal space. For example, in Colombia, 
+the finance minister called for eliminating fuel subsidies to reallocate 
+resources toward social spending while addressing climate change,54 
+and Ecuador’s central bank acknowledged that fuel subsidies are less 
+beneficial for the economy than targeting the same resources at social 
+spending or public investment in education, energy, health, security, and 
+roads.55i 
+iv The price gap approach developed by Agnolucci et al. (2023) was complemented by a bottom-up 
+approach developed by Campmas et al. (forthcoming). The World Bank’s Total Carbon Pricing approach 
+is a comprehensive methodology designed to calculate the overall carbon pricing signal affecting the 
+emissions from CO2 emitting fuels based on local data—detailed if possible—on both direct carbon pricing 
+instruments, such as carbon taxes and ETSs, and indirect instruments like energy taxes, subsidies, and 
+VAT differentials. This approach helps standardize, aggregate, and compare the level of carbon pricing 
+efforts across different jurisdictions, sectors, and policy instruments. Total Carbon Price estimates with 
+this bottom-up approach include several instruments (such as sectoral tax exemptions, local taxes on 
+certain fuels, price interventions, or fuel price stabilization mechanisms) that are not considered in other 
+methodologies but have significant effects on final prices.
+
+--- PÁGINA 36 ---
+
+State and Trends of Carbon Pricing 202536
+FIGURE 6
+Total carbon price by component in Latin America, 2016–2024 
+Note: Average total carbon pricing for CO2 emissions from fuel combustion in Latin America, weighted by the 
+share of each country’s CO2 emissions from fuel combustion over the sample total. Values in 2022 USD. The 
+countries included in the sample are Argentina, Chile, Colombia, Dominica, Jamaica, Mexico, Paraguay, Peru, 
+St. Lucia, and Uruguay, from 2017 to 2023 and up to 2024 when preliminary data was available.While direct carbon pricing instruments are an important part of the 
+total carbon price, their contribution remains relatively low compared 
+to fossil fuel taxes (and subsidies), particularly in the transport 
+sector. Over the past five years, direct carbon pricing, primarily through 
+carbon taxes, has contributed less than 13% to the total carbon price 
+aggregated across Latin American countries.
+Across Latin America, diesel and gasoline typically face a high total 
+carbon price while natural gas and liquefied petroleum gas (LPG) 
+are largely untaxed or even subsidized. Because excise taxes and 
+subsidies are not referenced to emissions, or in some cases are only 
+applied selectively, the total carbon price differs substantially across 
+fuels and sectors. Even though taxes are high for both diesel and 
+gasoline, CO2 emissions from diesel are priced substantially lower than 
+those from gasoline (Figure 7). In the transport sector, diesel taxation 
+is lower due to concerns about the inflationary impact of increased 
+transportation costs for goods and services. In several countries natural 
+gas has been promoted, and natural gas has remained largely untaxed 
+and has benefited from other measures that support its use. This has 
+resulted in a slightly negative total carbon price. Similarly, LPG also has a 
+negative total carbon price, although subsidies directed toward LPG have 
+typically been aimed at shifting households away from higher-emitting 
+fuels. Coal remains essentially untaxed. Importantly, these estimates do 
+not include emissions from agriculture and land use change—including 
+deforestation—which represent more than 40% of GHG emissions in the 
+region.
+
+--- PÁGINA 37 ---
+
+State and Trends of Carbon Pricing 202537
+FIGURE 7
+Carbon prices by fuel in Latin America, 2017–2024 
+Note: Average total carbon pricing for CO2 emissions of each fuel in Latin America, weighted by the share of 
+each country on CO2 emissions from each of the fuels over the sample total. Values in 2022 USD. The 
+countries included in the sample are Argentina, Chile, Colombia, Dominica, Jamaica, Mexico, Paraguay, Peru, 
+St. Lucia, and Uruguay, from 2017 to 2023 and up to 2024 when preliminary data was available.Stark differences in the total carbon price across fuels and sectors 
+dampen incentives to adopt energy efficiency measures or the switch 
+to lower emission alternatives. The World Bank’s report Taxing and 
+Subsidizing Energy in Latin America and the Caribbean: Insights from a 
+Total Carbon Price Approach concludes that reform of existing taxes and/
+or the introduction of direct carbon pricing instruments could allow better 
+alignment of the carbon price incentive across fuels and, combined 
+with complementary actions at the sector level, would provide stronger 
+incentives for technological transformation and mitigation of GHG.56
+
+--- PÁGINA 38 ---
+
+State and Trends of Carbon Pricing 202538
+An increasing number of organizations are using 
+internal carbon prices as a tool to help manage climate-
+related risks, capture opportunities, and inform 
+capital investment decisions. While administratively 
+and operationally different to carbon taxes and ETSs, 
+businesses’ use of internal carbon pricing offers insights 
+into how the private sector is incorporating carbon pricing 
+into its business decisions. According to data reported 
+to the global nonprofit CDP, 1,753 companies across 56 
+countries reported using internal carbon pricing in 2024—an 
+89% increase on the 927 companies that reported using an 
+internal carbon price in 2021 (Figure 8). The drivers behind 
+the increase center on a continued need to decarbonize 
+investments, promote energy efficiency, set and/or achieve 
+climate-related policies and targets, and incentivize 
+consideration of climate-related issues in decision-making 
+and risk assessments. Shadow carbon pricing, which 
+assigns a theoretical cost to emissions to help evaluate 
+investments and organizational decisions, is increasingly the 
+dominant type of internal carbon price used by companies. 
+Note: Companies may report using multiple types of internal carbon prices (e.g., a shadow price and an internal fee). The 
+percentages are also based on companies who disclose their choice of instrument. Therefore, the sum of reported use of 
+internal carbon price type is not equal to the total number of organizations with an internal carbon price. Source: CDPFIGURE 8
+Number of organizations using an internal carbon price and share of type of internal carbon price used, 
+2021–2024
+
+--- PÁGINA 39 ---
+
+State and Trends of Carbon Pricing 202539
+The level of 
+internal carbon 
+price applied by 
+companies in 2024 
+varied significantlyFor organizations that disclosed the type of internal 
+carbon price they use, almost two-thirds of organizations 
+adopted a shadow carbon price in 2024. This is a 
+significant increase from 2021, where shadow carbon pricing 
+was used by around half of the reporting organizations 
+(Figure 8). The second most common is internal carbon fees 
+(15%), which put a monetary value on emissions to fund 
+sustainability initiatives, followed by implicit carbon pricing 
+(13%), where the carbon price is calculated retrospectively 
+based on the costs of implementing emissions reduction 
+projects. The level of internal carbon price applied by 
+companies in 2024 varied significantly—from under USD 10 
+per tCO2e to over USD 130 per tCO2e, with around a quarter 
+of organizations applying a price of less than USD 20 per 
+tCO2e. Higher internal carbon prices are becoming more 
+common—in 2024 15% of companies applied a price above 
+USD 130 per tCO2e, an increase from 11% in 2023. 
+
+--- PÁGINA 40 ---
+
+State and Trends of Carbon Pricing 202540
+2.3 Global carbon pricing revenues declined slightly, but 
+continue to deliver over USD 100 billion to government 
+budgets 
+Carbon pricing continues to provide a small but 
+important revenue stream for public budgets. There 
+are increasing demands for public resources, including 
+to support decarbonization, build resilience, and protect 
+nature and biodiversity, in addition to broader budgetary 
+demands.57 This places additional pressure on public 
+finance and debt sustainability, meaning many countries 
+are investigating options for fiscal consolidation and 
+domestic revenue mobilization. However, despite these 
+additional pressures, and its broader fiscal advantages, 
+carbon revenues in 2024 declined slightly from 2023 highs—
+hovering at just over USD 100 billion. The contribution and 
+year-on-year change differs between ETSs and carbon 
+taxes. Revenues from ETSs decreased by around 10%, in 
+real terms, driven by a reduction in revenue from large 
+ETSs, including in the EU, the UK, and in the US states of 
+California and Washington (Figure 9). These reductions were 
+largely due to generally lower allowance prices during 2024 
+compared to 2023. In the EU (the largest contributor to 
+global revenue), the decline in collected revenues occurred 
+despite the continued reduction of free allocations, which 
+increases auction volumes and the associated revenue base. FIGURE 9
+Total revenues from ETSs and carbon taxes, 2015–2024
+
+
+--- PÁGINA 41 ---
+
+State and Trends of Carbon Pricing 202541
+While USD 100 
+billion in carbon 
+revenue reflects a 
+three-fold increase 
+over the past 
+decade, it remains 
+a fraction of total 
+government tax 
+revenueThe fall in ETS revenue contrasts with carbon taxes, 
+which experienced an increase of approximately 10%, 
+albeit from a smaller base. This increase was driven by 
+increases across several carbon taxes, including in Mexico, 
+Norway, Portugal, Switzerland, and Canada’s federal fuel 
+charge before it was removed beginning April 1, 2025. 
+While USD 100 billion in carbon revenue reflects a three-
+fold increase over the past decade, it remains a fraction 
+of total government tax revenue collected globally and 
+significantly less than the USD 620 billion spent on fossil fuel 
+consumption subsidies in 2023.58
+Revenue collected from carbon pricing has been used for 
+multiple purposes. This includes promoting environmental 
+and development outcomes, such as investments targeting 
+clean energy projects. For example, California has directed 
+almost USD 28 billion (cumulatively) collected from its ETS 
+toward projects that help deliver specific objectives, such 
+as decarbonization, public health, and economic growth.59 
+Carbon revenues are also being used to manage the impact 
+of rising costs through transfers by supporting affected 
+businesses and households, which can help create jobs 
+where revenues are used to reskill workers. Almost 9% 
+of EU ETS revenues were allocated to promote improved 
+social outcomes, including skill development.60 Carbon 
+pricing revenue has also been used to offset labor taxes, 
+which can promote economic growth through higher labor 
+productivity.61 For example, in Denmark the carbon tax was 
+introduced in the 1990s in a revenue-neutral way as part of 
+a larger environmental tax package. Additional case studies 
+are summarized in Box 7.
+
+--- PÁGINA 42 ---
+
+State and Trends of Carbon Pricing 202542
+BOX 7
+Three real-world examples of carbon pricing revenue 
+allocation or planned use 
+• Supporting vulnerable groups under 
+EU ETS2: In the EU, the Social Climate 
+Fund was created to sit alongside the 
+forthcoming EU ETS2, which becomes fully 
+operational in 2027. The Social Climate Fund 
+is intended to provide vulnerable sectors 
+and groups with financial support in the 
+transition to net zero. A key component is 
+the development of National Social Climate 
+Plans, through which financial support 
+is directed to identified affected groups. 
+Measures can include energy efficiency 
+and renovation of buildings; low-carbon 
+transport; and clean heating and cooling.62 • Supporting industrial decarbonization 
+and compensating indigenous 
+communities in Brazil: Brazil’s law 
+establishing its ETS prescribes how future 
+carbon revenues must be allocated in the 
+first five years: 15% to the operationalization 
+and maintenance of the ETS, 75% to finance 
+decarbonization of activities at covered 
+facilities, and at least 5% to compensate 
+Indigenous peoples and communities.63• Compensating households in Canada: 
+In Canada, revenues from the federal fuel 
+charge (prior to its repeal in April 2025) 
+were rebated to households, with additional 
+supplements for rural households and large 
+families. Initially, the rebate was designed 
+as a tax cut until the government began 
+directly depositing rebates. However, 
+studies found that only 12% of respondents 
+in 2022 knew that the revenues were 
+redistributed as rebates. In 2023, the 
+Canadian government made updates 
+requiring all banks to include labels to clarify 
+the link between the carbon tax and the 
+rebate.64 
+
+--- PÁGINA 43 ---
+
+State and Trends of Carbon Pricing 202543
+An increasing proportion of carbon pricing revenue is 
+being directed toward low-carbon development projects. 
+Analysis from the Institute for Climate Economics (I4CE) 
+indicates that in 2024 around 56% of carbon revenues 
+were earmarked toward environment, infrastructure, and 
+development projects, over four percentage points higher 
+than in 2018.viiiThis trend partly explains the rising number 
+of green funds, for example in Colombia, Portugal, and 
+Québec. These funds are mostly geared toward climate 
+mitigation, climate adaptation, and low-carbon innovation. 
+Around 25% of global carbon revenue was used to offset 
+the social impact of the transition in 2024, either through 
+direct transfers of these proceeds to households and 
+companies impacted by carbon pricing (19%) or through tax 
+cuts (6%) (Figure 10). This share has increased since 2018, 
+mainly due to a growing portion of transfers in the EU ETS, 
+increased revenues collected through Canada’s federal 
+fuel charge (returned to the citizens through the Canada 
+Carbon Rebate), and the implementation of new policies 
+(German and Austrian ETSs), which dedicate all or part of the 
+proceeds toward easing the transition for households and 
+businesses.
+v Note: I4CE analysis is based on revenue use in 2024, except for EU where revenue use is inferred based on 2023 revenue allocations and mandated allocations, e.g., the latest 
+revision of the EU ETS Directive increased the targeted EU ETS revenue use toward climate and energy objectives from 50% to 100%. FIGURE 10
+Share of ETS and carbon tax revenue by category, 2018–2024 
+
+
+--- PÁGINA 44 ---
+
+State and Trends of Carbon Pricing 202544
+While free 
+allocation can 
+help manage 
+carbon leakage 
+and international 
+competitiveness 
+concerns, it reduces 
+the revenues 
+collected by 
+governmentsFree allocations, tax exemptions, and use of carbon 
+credits as offsets represent foregone government 
+revenue. To help ease the introduction of ETSs, it is 
+common, at least initially, to allocate allowances freely, 
+rather than selling via auction. While free allocation can help 
+manage carbon leakage and international competitiveness 
+concerns, it reduces the revenues collected by 
+governments. I4CE analysis indicates that forgone annual 
+revenue (as represented by the estimated value of freely 
+allocated allowances) in 2023 for implemented cap-and-
+trade systems with auctioning was around USD 67 billion, 
+which is close to the total revenue generated by ETSs.65 
+Similarly, in the UK it is projected that the future phaseout 
+of free allowances for the sectors covered by the UK 
+CBAM could amount to almost USD 2 billion of additional 
+revenues by 2034.66 Carbon tax exemptions also represent 
+foregone revenue, although explicit exemptions are less 
+common than free allocation, meaning the amount of 
+forgone revenues from carbon taxes is relatively smaller. 
+South Africa provides tax rebates through free allowances, 
+which for some industries represents an effective rebate 
+of over 90%, significantly reducing the amount of revenue 
+collected. Using carbon credits as offsets provides greater 
+flexibility to businesses and can stimulate investment in 
+uncovered sectors, but it also reduces potential carbon 
+revenue collected. For example, in 2024 around 17.6 million 
+carbon credits were used to offset carbon tax liabilities in 
+Colombia and almost 4 million in South Africa—translating to 
+over USD 100 million and USD 40 million in forgone revenue, 
+respectively.
+
+--- PÁGINA 45 ---
+
+CHAPTER 3
+Carbon 
+crediting 
+markets and 
+mechanisms

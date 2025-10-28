@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+venv_ieta/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documents (descomente se não quiser subir documentos)
+# documents/*.pdf
+# documents/*.docx
+# documents/*.txt
+```
+
+**O que isso faz:**
+Diz ao Git para **ignorar** esses arquivos (não subir para GitHub)
+- Ambientes virtuais (pesados)
+- Arquivos temporários
+- Secrets/senhas
+- (Opcionalmente) documentos
+
+---
+
+## 2. SIM! Vamos adicionar o `chunk_documents.py`
+
+**Ótima ideia!** Isso vai ser útil para a equipe processar documentos grandes.
+
+### Estrutura atualizada:
+```
+IETA_Bot/
+├── meeting_prep.py          ← App principal
+├── chunk_documents.py       ← Script de chunking
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── documents/
+│   └── .gitkeep             ← Arquivo vazio para manter pasta
+└── utils/                   ← (opcional) pasta para helpers

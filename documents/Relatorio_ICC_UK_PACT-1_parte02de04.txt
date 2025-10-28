@@ -1,0 +1,1307 @@
+DOCUMENTO: Relatorio_ICC_UK_PACT-1
+PARTE 2 de 4
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil16
+AnexosReferências  
+bibliográficasETS Ano de inícioAceita créditos de fora 
+da jurisdição/país?Limite quantitativo atual Escopo Origem dos créditosPadrão de certificação 
+de carbono aceitoAspectos sociais Outros requisitos
+Pequim  
+(China)2013Sim,	apenas	do	país, 	 
+sendo	ao	menos	50% 	 
+da jurisdição.5% Energia; FlorestasPermitido que os créditos 
+venham apenas de seto -
+res não regulados.Padrão Nacional de CCER Não	identificadosTemporalidades distintas 
+dependendo do tipo de 
+projeto
+Quebec  
+(Canadá)2013Sim,	somente	da	 
+Califórnia8% Florestas; ResíduosPermitido que os créditos 
+venham apenas de seto -
+res não regulados.Québec cap-and-trade 
+system for greenhouse 
+gas emission allowances  
+(SPEDE) e CARBNão	identificados Não	identificados
+RGGI  
+(EUA)2010 Não 3,30%Florestas; Pecuária;  
+ResíduosPermitido que os créditos 
+venham apenas de seto -
+res não regulados.Módulo de compensações 
+do RGGI CO2	Allowance	
+Tracking	System	(RGGI	
+COATS). Não	identificados Não	identificados
+Saitama  
+(Japão)2011 Sim,	de	Tóquio --- Energia; FlorestasPodem ser gerados  
+créditos em setores  
+cobertos desde que  
+as instalações não  
+sejam cobertasJapan’s J-Credit Scheme Não	identificados Não	identificados
+Shanghai  
+(China)2013 Não 3%Todos,	com	restrição	à	 
+hidroeletricidadeNão	foi	identificada	 
+restriçãoPadrão Nacional de CCER Não	identificadoReduções de emissões 
+ocorridas depois  
+de janeiro de 2013
+Shenzhen  
+(China)2013 Sim,	do	país 20%Todos,	com	restrição	à	 
+hidroeletricidadeNão	foi	identificada	 
+restriçãoPadrão Nacional de CCER Não	identificado Não	identificados
+Tianjin  
+(China)2013Sim,	de	Pequim	 
+ou	Hubei10%Todos,	com	restrição	à 
+hidroeletricidadeNão	foi	identificada	 
+restriçãoPadrão Nacional de CCER Não	identificadoReduções de emissões 
+ocorridas depois de janei-
+ro de 2013
+Tóquio  
+(Japão)2010 Sim,	de	SaitamaLimites quantitativos 
+ aplicam-se apenas aos 
+créditos externos  
+a TóquioEnergiaPodem ser gerados crédi-
+tos em setores cobertos 
+desde que as instalações 
+não sejam cobertasJapan’s J-Credit Scheme Não	identificado Não	identificados
+Washington  
+(EUA)2023 Não ---Florestas; Pecuária;  
+Substâncias que  
+destroem a camada  
+de	ozônioPermitido que os créditos 
+venham apenas de  
+setores não regulados.Climate Commitment Act 
+(CCA) do próprio sistema 
+cap-and-tradeNão	identificadoTodas as compensações 
+devem demonstrar  
+benefícios ambientais 
+diretos para o estado
+Fonte: Elaboração	própria	com	base	em	LA	HOZ	THEUER	et	al.	(2023)	e	WORLD	BANK	(2024).
+
+--- PÁGINA 17 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil17
+AnexosReferências  
+bibliográficas2.1. Seleção de ETS a serem analisados
+Após	a	análise	geral	dos	ETS	que	aceitam	o	uso	de	compensações,	 três	deles	foram	
+selecionados	 como	estudos	de	caso	para	maior	aprofundamento,	 são	eles:	o	Progra-
+ma de Cap-and-Trade 	da	Califórnia,	o	Esquema	de	Comércio	de	Emissões	da	Coreia	
+do Sul e o ETS Nacional da China.
+Para	a	seleção	foram	priorizadas	 jurisdições	 que	possuíssem	 características	 varia-
+das	entre	si.	Para	isso,	foram	analisados	 os	seguintes	critérios:	maturidade	 do	siste -
+ma	e	disponibilidade	 de	informações	 e	dados,	os	padrões	de	certificação	 de	carbono	
+aceitos e os requisitos e escopos de projeto aplicáveis.
+Nesse	sentido,	o	Programa	de	Cap-and-Trade  da Califórnia é um sistema mais an-
+tigo	e	bem	consolidado,	 com	muitas	informações	 disponíveis,	 que	tem	parceria	com	
+padrões	independentes	 de	certificação	 de	carbono	e	possui	requisitos	mais	rigoro -
+sos e escopos limitados. 
+Já o Esquema de Comércio de Emissões da Coreia do Sul é um pouco mais recente 
+e	aceitava,	além	de	créditos	do	padrão	nacional	de	certificação	 de	carbono,	créditos	
+do	MDL.	Apesar	deste	mecanismo	 não	estar	mais	operacional,	 o	sistema	também	
+aceitará	créditos	dos	mecanismos	 do	Artigo	6.4	do	Acordo	de	Paris,	que	o	substi-
+tuirá,	além	de	ITMOs	do	Artigo	6.2.	De	maneira	oposta	ao	Programa	da	Califórnia,	o	
+esquema coreano aceita uma ampla gama de escopos de projeto. 
+Por	fim,	o	ETS	Nacional	da	China	é	o	mais	recente,	porém	o	país	tem	experiências	
+prévias com pilotos regionais que contribuíram para o desenvolvimento do sistema 
+nacional.	Ele	aceita,	exclusivamente,	 créditos	gerados	pelo	mecanismo	 nacional	de	
+compensações,	que	passou,	recentemente	por	uma	grande	reestruturação.
+2.2. California cap-and-trade
+O Programa de Cap-and-Trade 	da	Califórnia	foi	estabelecido	 em	2012	e	cobre	85%	
+das	emissões	do	estado,	abrangendo	 os	setores	de	indústria,	energia,	transporte	 e	
+edifícios. Ele se ligou ao Sistema de Cap-and-Trade 	de	Québec	em	janeiro	de	2014,	
+incluindo	a	mútua	comercialização	 de	créditos	para	compensação.	 Na	fase	atual,	o	
+programa	permite	que	as	entidades	usem	créditos,	para	cumprir	até	4%	das	suas	obrigações. Estes créditos devem ser gerados na Califórnia ou em outros estados 
+dos	EUA,	e	emitidos	pelo	 California Air Resources Board 	(CARB),	órgão	que	regula	e	
+operacionaliza	 o	sistema	de	utilização	dos	créditos,	ou	gerados	nas	jurisdições	 vin-
+culadas	(atualmente,	apenas	Québec)	e	emitidos	pela	autoridade	correspondente.
+O CARB também é responsável pelo desenvolvimento dos Protocolos de Compen-
+sação	do	sistema,	ou	seja,	as	metodologias	 para	a	implementação	 de	projetos	de	
+carbono	e	geração	de	créditos,	com	base	em	metodologias	 do	mercado	voluntário.	
+No	momento,	existem	seis	metodologias		 que	englobam	diferentes	tipos	de	projeto:	
+projetos	florestais;	projetos	de	pecuária	(sistemas	de	manejo	de	esterco);	projetos	de	
+captura e destruição de metano na mineração; projetos atrelados a substâncias que 
+destroem	a	camada	de	ozônio;	projetos	de	floresta	urbana	e;	projetos	de	cultivo	de	
+arroz,	sendo	que	os	dois	últimos,	até	o	momento,	não	possuem	nenhum	projeto	re-
+gistrado.	A	quantidade	 de	metodologias	 é	limitada,	dada	a	capacidade	 de	absorção	
+do desenvolvimento e controle de qualidade delas pelo CARB.
+Apesar de o CARB ser responsável pelo desenvolvimento dos protocolos e pela emis-
+são	final	do	crédito	usado	no	programa	de	cap-and-trade ,	o	processo	ocorre,	primei-
+ramente,	em	padrões	independentes	 de	certificação	 parceiros.	O	CARB	possui	par-
+ceria	com	três	padrões:	o	ACR,	o	CAR	e	o	VCS.	Nesse	sentido,	os	responsáveis	 pelos	
+padrões	independentes	 de	certificação	 de	carbono	realizam	o	processo	de	registro	e	
+validação	do	projeto,	bem	como	dos	créditos	de	carbono	gerados,	fazendo	uso	dos	
+Protocolos de Compensação do CARB. Tais processos também estão sujeitos à ve -
+rificação	de	terceira	parte,	regulamentada	 pelo	CARB	e	ajudam	o	trabalho	do	órgão	
+regulador,	facilitando	 a	listagem	e	verificação	 dos	projetos.	As	ações	do	CARB	en-
+volvem:	tornar	a	listagem	do	projeto	pública,	revisar	o	RELATÓRIO	 DE	VERIFICAÇÃO	
+(no	processo	deles,	chamado	de	Offset Verification Statement ) e determinar se os 
+requisitos	para	emissão	de	créditos	foram	atendidos	para,	somente	então,	emitir	os	
+próprios	créditos	de	compensação	e	notificar	os	responsáveis	pelo	projeto.
+É	importante	 destacar,	no	entanto,	que	é	responsabilidade	 do	CARB	emitir	créditos	
+de compensação apenas para projetos que tenha determinado que estão em con-
+formidade	regulatória,	 com	base	no	processo	de	verificação	 e	em	qualquer	informa-
+ção	adicional	que	possa	ser	disponibilizada	 a	ele	antes	da	emissão.	O	CARB	não	é	
+obrigado	a	fazer	esta	determinação	 com	base	apenas	na	avaliação	do	verificador	sobre	a	conformidade	 regulamentar.	 Esta	etapa	final	de	checagem	 deve	garantir	
+que apenas sejam emitidos instrumentos de conformidade considerados aderentes 
+aos	requisitos	da	Regulação	(California	Air	Resources	Board,	2015).	
+Além	das	restrições	mencionadas	 anteriormente,	 outra	exigência	do	programa	é	que	
+pelo	menos	50%	das	compensações	 venham	de	projetos	que	proporcionem	 Bene -
+fícios	Ambientais	 Diretos	ao	Estado	(DEBS,	na	sigla	do	inglês).	Projetos	localizados	
+na Califórnia são automaticamente considerados como fornecedores de DEBS. Os 
+projetos de compensação implementados fora do estado também podem resultar 
+em	DEBS,	melhorando	 a	qualidade	e	quantidade	 da	água	na	Califórnia	ou	reduzin-
+do	grandes	incêndios	florestais	que	possam	afetar	a	qualidade	do	ar	no	estado,	por	
+exemplo,	mas	devem	comprovar	 esses	benefícios	com	base	em	evidências	 científi-
+cas e nos dados de projeto.
+Todos os projetos de compensação de emissões da Califórnia devem estar em con-
+formidade	com	todos	os	regulamentos	 ambientais,	 de	saúde	e	de	segurança	 esta-
+duais,	federais	e	locais	aplicáveis	ao	local	do	projeto	de	compensação	 antes	que	o	
+CARB emita créditos de compensação do CARB. A Regulação também prevê um 
+mecanismo de invalidação dos créditos caso esses requisitos não sejam cumpridos.
+A	conformidade	 legal	dos	projetos	deve	ser	avaliada	pelos	verificadores	 dos	projetos	
+durante	a	fase	de	verificação	 e	avisar	ao	CARB,	caso	haja	algum	indício	de	não	con-
+formidade.	 No	entanto,	essa	revisão	de	conformidade	 regulamentar	 é	uma	tarefa	do	
+CARB	e	outras	instâncias	do	governo	e	não	exige	que	um	verificador	 determine	de	
+forma	independente	 se	existe	uma	violação	real	ou	alegada,	separada	da	revisão	ou	
+investigação	conduzida	por	uma	agência	reguladora.
+Em	geral,	um	verificador	 pode	analisar	a	conformidade	 regulatória	 das	seguintes	
+formas:
+• Análise dos documentos fornecidos pelo Operador do Projeto de Compensação ou 
+de seus representantes;
+• Acesso a base de dados publicamente disponíveis de agências reguladoras que 
+mantêm bancos de dados de violações;
+• Contato com as agências reguladoras apropriadas.
+
+--- PÁGINA 18 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil18
+AnexosReferências  
+bibliográficas9.	Segundo	o	artigo	2º	da	Lei	6385/76,	os	valores	mobiliários	definidos	de	forma	ampla	são:	(i)	os	contratos	de	investimento	coletivo	(CIC)	e	(ii)	derivativos.
+10.	O	Howey	Teste	consiste	em	uma	série	de	critérios	que	devem	ser	atendidos	de	forma	cumulativa	para	que	o	objeto	de	análise	seja	considerado	um	contrato	de	investimento	coletivo. 	
+11.	O	Relatório	1267	da	Controladoria	 Geral	da	União	analisou	o	tempo	que	a	CVM	demora	em	seus	Processos	Administrativos	 Sancionadores	 (PAS),	indicando	um	tempo	médio	de	1.024	dias	(2	anos	10	meses,	aproximadamente)	 só	na	fase	
+pré-sancionadora,	 que	representa	o	tempo	que	a	CVM	leva	desde	o	conhecimento	 do	fato	até	a	instauração	 do	PAS	(BRASIL,	2024a).	Assim,	a	invalidação	 dos	créditos	de	carbono	na	CVM	pode	demandar	um	tempo	substancialmente	 alto,	o	
+que	pode	tornar	o	processo	de	invalidação	ineficaz,	especialmente	se	essa	invalidação	dos	créditos	de	projetos	fraudulentos	tiver	que	acontecer	em	um	prazo	pré-determinado.Além	da	não-conformidade	 regulatória,	 o	CARB	pode	inviabilizar	 os	projetos	e	seus	
+respectivos créditos em qualquer um dos seguintes critérios:
+• Exagero de reduções de GEE ou de melhorias de remoção: Os créditos de com-
+pensação do CARB podem ser invalidados se o CARB descobrir que o valor das 
+reduções de GEE ou melhorias de remoção que receberam crédito foi exagerado em 
+mais de 5 por cento do que o projeto de compensação realmente alcançou dentro do 
+RELATÓRIO PERIÓDICO DE MONITORAMENTO aplicável.
+• Emissão Dupla para Reduções de GEE ou para Melhorias de Remoção: Os 
+créditos de compensação podem ser invalidados se o CARB descobrir que créditos 
+de compensação não-CARB foram emitidos para as mesmas reduções de GEE ou 
+melhorias de remoção dentro do mesmo limite do projeto de compensação e para o 
+mesmo período em que foram emitidos os créditos de compensação CARB.
+• Não conformidade em leis e regulamentos: os créditos de compensação do 
+CARB podem ser invalidados se o CARB descobrir que as atividades do projeto de 
+compensação não estavam de acordo com os regulamentos ambientais e de saúde 
+e	segurança	 locais,	estaduais	e	nacionais	aplicáveis	durante	o	período	de	crédito	
+aplicável.
+Nos	casos	de	invalidação	 dos	créditos,	se	o	crédito	já	tiver	sido	emitido	e	compen-
+sado,	o	CARB	cancela	esse	crédito	no	Serviço	do	Sistema	de	Rastreamento	 de	Ins-
+trumentos	de	Conformidade	 (CITSS,	na	sigla	em	inglês)	e	o	usuário	do	crédito	de	
+compensação é obrigado a substituí-lo por outro instrumento de conformidade váli-
+do.	Se	o	crédito	tiver	sido	comprado,	 mas	ainda	não	aposentado,	 o	CARB	não	exige	
+que o titular da conta substitua esse crédito de compensação por outro instrumento 
+de	conformidade	 válido;	no	entanto,	esse	crédito	de	compensação	 não	estaria	mais	
+disponível para ser entregue para cumprimento posteriormente ou negociado com 
+outro participante do mercado. Esse mecanismo é visto como uma forma de incenti-
+var que os compradores dos créditos façam a devida diligência na busca de créditos 
+que atendam a todos os requisitos regulatórios. Não há mais descrições sobre como o processo de invalidação dos créditos aconte -
+ce	dentro	do	CITSS.	Segundo	o	PMR,	nos	Estados	Unidos	não	há	uma	definição	da	
+natureza	jurídica	dos	direitos	de	emissão	e	do	regulador	estatal	responsável	 pela	su-
+pervisão e regulamentação do mercado secundário de direitos de emissão (BANCO 
+MUNDIAL,	 2020b).	Dessa	forma,	não	parece	haver	interferência	 da	Securities	and	
+Exchange Commission (SEC) nesse processo de invalidação dos créditos dentro do 
+CITSS.
+No	Brasil,	por	outro	lado,	a	Lei	nº	15.042	de	11/12/2024,	 define	os	créditos	de	carbo -
+no,	quando	negociados	 no	mercado	financeiro	e	de	capitais,	como	valores	mobiliá-
+rios,	sujeitos	ao	regime	da	Lei	nº	6.385,	de	7	de	dezembro	de	1976,	e	consequente -
+mente	sob	a	responsabilidade	 da	Comissão	de	Valores	Mobiliários	 (CVM)	(BRASIL,	
+2024b).	Dessa	forma,	é	possível	que	a	invalidação	 dos	CRVEs	deva	seguir	um	pro-
+cesso administrativo na CVM.
+Nesse	sentido,	duas	questões	relevantes	surgem	para	esse	processo	de	invalidação:	
+em	primeiro	lugar,	em	diversos	momentos,	 a	CVM	já	descartou	a	possibilidade	 de	
+os CRVEs serem valores mobiliários9,	dado	que	não	passam	no	“Howey	Test”10 para 
+serem considerados contratos de investimentos coletivos e também não são deri-
+vativos,	já	que	o	seu	valor	não	deriva	de	um	ativo	ou	título	(BRASIL,	2010;	BANCO	
+MUNDIAL,	 2020b).	Adicionalmente,	 ainda	que	os	CRVEs	sejam	considerados	 valo-
+res	mobiliários	 pela	Comissão,	pode	não	haver	capacidade	 operacional	 da	CVM	em	
+invalidar esses créditos em tempo hábil11.
+2.3. Sistema de Comércio de Emissões  
+da Coreia do Sul 
+O	Sistema	de	Comércio	de	Emissões	da	República	da	Coreia	(K-ETS,	na	sigla	do	in-
+glês)	começou	a	operar	em	2015	e	cobre	74%	das	emissões	do	país,	abrangendo	 os	
+setores	de	resíduos,	aviação	doméstica,	transporte,	edifícios,	indústria	e	energia.	
+Na	fase	atual	(2021-2025),	 o	sistema	permite	que	as	entidades	cobertas	usem	cré-
+ditos	para	cumprir	até	5%	de	suas	obrigações.	 São	aceitos	 Korean Offset Credits (KOCs),	que	são	créditos	do	padrão	nacional	de	compensação	 (Korean Offsetting 
+Program	-	KOP),	e	os	créditos	dos	mecanismos	 do	Artigo	6	do	Acordo	de	Paris,	es-
+tes	passam	a	substituir	as	Reduções	Certificadas	 de	Emissões	(RCEs),	do	MDL,	que	
+eram aceitas anteriormente.
+Os	créditos	usados	podem	ser	domésticos,	 de	atividades	de	redução	fora	do	âmbito	
+do	ETS,	implementadas	 por	entidades	não	abrangidas,	 ou	créditos	gerados	por	meio	
+de	projetos	internacionais,	 contanto	que	pelo	menos	20%	dos	direitos	de	proprie -
+dade,	direitos	operacionais	 ou	ações	com	direito	a	voto	pertençam	 a	uma	empresa	
+coreana ou uma empresa coreana forneça tecnologia de baixo carbono no valor de 
+pelo	menos	20%	do	custo	total	do	projeto.
+Os	KOCs,	para	serem	submetidos	 para	conformidade,	 ao	entrarem	no	ambiente	do	
+K-ETS,	são	convertidos	 em	Korea Credit Units 	(KCUs)	de	um	para	um,	e	então,	ao	
+governo coreano para cumprimento das metas do K-ETS. O Korean Offsetting Pro -
+gram,	esquema	de	compensação	 coreano,	aceita	projetos	de	múltiplos	escopos	e	
+setores,	e,	em	dezembro	de	2023,	possuía	292	metodologias	 registradas	 (211	do	
+MDL e 81 do KOP). Quando um proponente de projeto submete um projeto através 
+do	registro	de	compensação,	 há	um	processo	de	validação	do	projeto	que	passa	pelo	
+ministério do setor responsável pelo projeto e posteriormente pelo Ministério do Meio 
+Ambiente. 
+Já	no	caso	dos	RCEs,	eles	precisavam	 primeiro	ser	cancelados	 em	troca	de	KOCs,	
+que podem então ser usados para compensação voluntária ou posteriormente con-
+vertidos em KCUs para conformidade com o K-ETS. O registro ocorre após avaliação 
+de	órgãos	gestores	e	análise	de	um	comitê	de	certificação.
+ 
+2.4. ETS Nacional da China 
+O	ETS	Nacional	da	China	começou	a	operar	em	2021	e	cobre	44%	das	emissões	
+do	país,	abrangendo	 o	setor	de	energia.	Atualmente,	 ele	permite	que	as	entidades	
+cobertas	usem	créditos	para	cobrir	até	5%	das	suas	emissões.	Para	isso,	o	governo	
+chinês	gerencia	um	padrão	nacional	de	certificação	 de	carbono,	por	meio	dos	quais	
+
+--- PÁGINA 19 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil19
+AnexosReferências  
+bibliográficassão	emitidas	CCERs	(Reduções	Certificadas	 de	Emissões	da	China),	geradas	em	ter-
+ritório chinês a partir de projetos não abrangidos pelo ETS nacional. Somente CCERs 
+podem ser usadas para compensar obrigações de redução de emissões estabeleci-
+das sob o ETS nacional chinês e seus pilotos regionais.
+O	esquema	de	CCER	foi	criado	em	2012,	mas,	em	março	de	2017,	foi	pausado,	im-
+pedindo	que	novos	projetos	fossem	registrados,	 devido	a	questões	legais	do	siste -
+ma,	baixo	volume	de	transações	 e	falta	de	padrão	nas	auditorias.	Até	2017,	haviam	
+sido emitidas 200 metodologias de projeto (173 adaptadas do MDL e 27 novas).
+Com	o	início	da	operação	do	ETS	nacional	em	2021,	a	retomada	do	CCER	começou	
+a	ganhar	força	e,	no	início	do	ano	de	2023,	foi	divulgada	a	nova	legislação	e	foram	
+aprovadas	 4	metodologias	 para	emissão	de	créditos	CCER	(reflorestamento;	 culti-
+vo	de	manguezais;	 energia	solar	térmica;	energia	eólica	 offshore),	abrindo	caminho	
+para	que	o	mercado	integre	novos	projetos.	O	reinício	oficial	do	CCER,	é	esperado	
+para o ano de 2024.
+A	China	utiliza	um	mecanismo	 de	consulta	pública	para	a	inclusão	de	metodologias.	
+As partes interessadas submetem propostas de metodologias durante um determi-
+nado período e o Ministério da Ecologia e Meio Ambiente acessa e determina quais 
+metodologias serão aprovadas. Mais de 300 metodologias foram submetidas no 
+primeiro	ciclo,	mas,	como	apontado,	apenas	quatro	foram	selecionadas.	 O	objetivo	
+inicial	é	apoiar	setores	importantes	para	o	país,	como	energia	e	florestas12.
+As	novas	regras	também	incluem	um	requisito	relativo	à	data	de	início	dos	projetos,	
+indicando que as reduções de emissões devem ocorrer após 22/09/2020 e dentro de 
+5 anos antes da data do pedido de registro do projeto.
+O ETS nacional da China é um sistema mais recente e ainda está em fase inicial. No 
+entanto,	o	país	já	teve	experiências	 com	pilotos	regionais,	que	propiciaram	 aprendi-
+zados.	Com	a	retomada	do	CCER,	a	jurisdição	vem	implementando	 uma	base	jurídi-
+ca	sólida,	uma	estrutura	mais	robusta	e	novas	regras	e	controles	voltados	à	melhoria	
+da	credibilidade,	 incluindo	maior	rigor	metodológico,	 maior	atenção	à	adicionalidade	
+e	regulações	para	flutuações	de	preço.2.5. Análise comparativa do modelo de  
+aceitação de compensações nas jurisdições
+A	partir	da	análise	aprofundada	 dos	ETS	apresentados,	 é	possível	tirar	algumas	li-
+ções relevantes para a construção do mecanismo de compensação do SBCE.
+Primeiramente,	 destaca-se	 a	localização	 da	geração	de	créditos	permitidos.	 A	China	
+considera	apenas	créditos	gerados	nacionalmente,	 a	Califórnia	além	dos	créditos	da	
+jurisdição considera créditos gerados em jurisdições vinculadas e a Coreia conside -
+ra,	além	dos	créditos	gerados	no	país,	que	os	projeto	em	outras	localidades	 devem	
+ter	participação	 de	empresas	coreanas.	Embora	a	Lei	nº	15.042	de	11/12/2024,	 não	
+defina	se	os	créditos	aceitos	devem	ser	desenvolvidos	 apenas	no	país,	entende-se	
+que entre os seus objetivos está o de estimular a mitigação de emissões em âmbito 
+nacional,	de	forma	que	créditos	advindos	de	outras	jurisdições	 não	sejam	aceitos.	
+Isso	se	justifica	pelo	alto	potencial	de	geração	de	créditos	brasileiro	e	a	prática	inter -
+nacional de outros ETS em limitar a aceitação a créditos domésticos. 
+Avalia-se ainda que a restrição das metodologias aceitas para geração de créditos 
+pode assegurar que projetos em escopos relevantes e prioritários para o país sejam 
+incentivados.	 Observando	 o	caso	da	Califórnia,	mesmo	com	apenas	seis	metodolo -
+gias	ativas	(duas	delas	ainda	sem	projetos),	não	há	escassez	de	créditos,	ou	outro	
+tipo de adversidade que tenha prejudicado o sistema. 
+Além	disso,	analisando	 também	o	mecanismo	 chinês,	observamos	 que,	ao	aceitar,	
+anteriormente,	 uma	grande	quantidade	 de	metodologias,	 enfrentou	problemas	 de	
+padronização	 nas	metodologias	 e	verificação	 dos	projetos	de	carbono.	Assim,	em	
+sua	retomada,	um	maior	rigor	metodológico	 vem	sendo	considerado,	 assim	como,	
+maior atenção à adicionalidade.
+Como	as	metodologias	 aceitas	no	SBCE	poderão	servir	como	base	para	a	identifica-
+ção	de	metodologias	 elegíveis	para	a	venda	de	ITMOs	brasileiros,	 essa	restrição	de	
+metodologias aceitas leva a um trade-off	entre	maximizar	 a	quantidade	 de	ITMOs	
+comercializados	 e	a	redução	do	custo	operacional	 relacionado	 à	avaliação	dessas	
+metodologias.	 A	identificação	 do	custo-benefício	 de	cada	alternativa	 é	dificultada	
+pela imprevisibilidade acerca do próprio potencial de venda de ITMOs e dos custos 
+operacionais marginais causados pela aceitação de mais metodologias.A	Coreia	é	o	único	dos	três	ETS	analisados,	 que	aceita	uma	grande	variedade	de	
+escopos	de	projeto	e	metodologias,	 não	tendo	prioridades	 específicas.	 Entretanto,	
+entende-se	 que,	nesse	sentido,	o	contexto	do	ETS	coreano	se	diferencia	considera-
+velmente	do	caso	brasileiro.	O	ETS	coreano	tem	uma	cobertura	de	74%	das	emis-
+sões	do	país	e	abrange	seis	setores	representativos,	 inclusive	o	mais	emissor	deles	
+(energia),	logo,	já	gera	uma	limitação	significativa	 a	atividades	de	redução	fora	do	
+âmbito	do	ETS.	Além	disso,	na	Coreia,	não	há	muito	espaço	para	a	disseminação	 de	
+projetos	florestais	e	de	uso	da	terra,	ao	contrário	do	Brasil,	onde	estes	têm	grande	
+relevância	e	tendem	a	ter	participação	significativa	no	mercado.	
+Assim,	conclui-se	que	a priorização e seleção de metodologias seria útil ao Bra-
+sil, pois permitiria um controle de qualidade maior dos créditos gerados, dado 
+o universo menor de escopos a serem acompanhados e avaliados.	 Além	disso,	
+a	priorização	 permite	o	incentivo	a	projetos	e	escopos	específicos,	 que	possam	ser	
+mais	relevantes	para	o	país,	como,	por	exemplo,	projetos	florestais,	de	agropecuária	
+e saneamento. 
+Projetos,	como	os	de	reflorestamento	 e	agropecuária,	 são	muito	relevantes	para	a	
+descarbonização	 e	metas	do	país,	mas	tendem	a	ser	mais	caros	e,	por	isso,	ainda	
+enfrentam	 barreiras	para	expansão.	 A	inclusão	destes	escopos	como	prioritários,	
+tenderia	a	criar	maior	demanda	por	estes	tipos	de	projeto,	incentivando	 sua	dissemi-
+nação.	De	maneira	oposta,	a	aceitação	de	muitas	metodologias	 e	escopos	tenderia	
+a	incentivar,	primordialmente,	 os	projetos	mais	baratos,	que,	muitas	vezes,	não	são	
+os mais estratégicos.
+Reforça-se,	 entretanto,	 que	as	metodologias	 aceitas	não	precisam	se	restringir	à	
+priorização	 inicial,	e	que	é	possível	ter	ciclos	de	reavaliação	 e	inclusão	de	novos	es-
+copos	que	venham	a	ser	relevantes	para	o	país	e	para	o	mercado.	Destaca-se	 que,	
+com	a	definição	das	metodologias	 a	serem	aceitas	no	mecanismo	 do	Artigo	6.4,	
+haverá	a	necessidade	 de	uma	verificação	 de	se	estas	metodologias	 estão	alinhadas	
+às	prioridades	 nacionais,	já	que	as	unidades	geradas	nesse	mecanismo	 se	tornarão	
+CRVEs.	Ainda,	é	importante	 analisar	a	adicionalidade	 dessas	metodologias	 local-
+mente para que não haja controvérsias quanto à sua inclusão no SBCE.
+Outro	aspecto	relevante	para	a	integridade	 dos	créditos,	observado	 na	Califórnia,	é	
+adoção de estratégias de controle de qualidade dos projetos. Para além do desen-
+12.	Fonte:	Prof.	Duan	Maosheng,	durante	reunião	realizada	em	23/01/2024,	com	a	participação	de	Ministério	do	Desenvolvimento,	Indústria,	Comércio	e	Serviços	(MDIC),	WayCarbon	e	Câmara	de	Comércio	Internacional	(ICC).
+
+--- PÁGINA 20 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil20
+AnexosReferências  
+bibliográficasvolvimento	 das	próprias	metodologias,	 o	CARB,	órgão	responsável	 pelo	mecanis-
+mo	de	compensações	 da	Califórnia,	valida	o	documento	 de	verificação	 do	projeto,	
+quando é solicitada a conversão dos créditos correspondentes para créditos CARB 
+(para	uso	no	ETS),	avaliando	o	atendimento	 à	regulação	e	ao	protocolo	aplicável	e	
+solicitando maiores informações caso julgue necessário.
+A	revisão	de	documentos	 também	ocorria	no	sistema	coreano,	com	os	créditos	de	
+MDL,	quando	estes	ainda	eram	aceitos.	Como	abordado,	para	a	conversão	das	RCEs	
+para	KOCs,	eram	solicitados	 documentos	 comprovativos	 relacionados	 ao	histórico	
+de	uso	e	cancelamento	 dos	RCEs,	que	eram	avaliados	pelo	órgão	gestor	e	comitê	de	
+certificação.	
+Além	da	revisão	de	informações	 do	projeto,	o	sistema	da	Califórnia	inclui	requisitos	
+que	os	organismos	 de	verificação	 devem	cumprir	para	serem	acreditados	 para	re-
+alizar	verificações	 regulatórias	 e	exige	que	eles	concluam	uma	formação	específica	
+e	demonstrem	 proficiência,	 através	de	avaliações,	 sobre	o	Padrão	de	Compensação	
+de Conformidade e os Protocolos de Compensação de Conformidade.
+A	acreditação	 de	organismos	 de	verificação	 específicos	 que	se	mostrem	proficientes	
+a	respeito	do	SBCE	e	do	padrão	de	certificação,	 poderia	contribuir	de	forma	signifi-
+cativa para a garantia de qualidade e integridade dos créditos usados no sistema. 
+Sendo	útil	também,	para	endereçar	aspectos	particulares	 ao	Brasil,	como	preocupa-
+ções	com	questões	fundiárias	e	de	respeito	às	comunidades,	 em	projetos	de	uso	da	
+terra.
+Assim,	é	pertinente	também	o	processo	de	invalidação	 de	créditos	fraudulentos	 ou	
+de	não	conformidade	 legal,	que	também	funciona	como	uma	forma	de	garantia	de	
+qualidade,	porém	efetuado	posteriormente	 ao	uso	do	crédito	no	sistema.	Como	ex-
+plicado	anteriormente,	 quando	um	crédito	é	invalidado,	 o	CARB	cancela	em	seu	sis-
+tema e o usuário do crédito é obrigado a substituí-lo por outro instrumento de con-
+formidade (um novo crédito ou uma cota de emissão) válido. Esse tipo de mecanismo 
+busca incentivar que seja feita a devida diligência na compra dos créditos para uso 
+em	compensação,	 contribuindo,	 também,	para	a	garantia	da	integridade	 do	sistema.	
+Como	ressaltado	 anteriormente,	 a	invalidação	 dos	créditos	fraudulentos	 em	tempo	hábil,	no	entanto,	dependerá	 da	capacidade	 operacional	 do	órgão	designado	 para	
+realizar	essa	invalidação,	 no	Brasil,	possivelmente	 a	CVM.	Esse	é	um	fator	que	deve	
+ser	analisado	em	maior	detalhamento	 no	futuro,	dado	que	a	demora	na	invalidação	
+dos	créditos	pode	reduzir	a	eficácia	da	medida.
+Identifica-se,	 portanto,	que	existe,	usualmente,	 uma	etapa	de	validação	interna	dos	
+documentos	 nos	ETS.	Infere-se,	por	meio	da	experiência	 de	ETS	já	implementados,	
+que	a	aceitação	de	determinadas	 metodologias	 não	é	considerada	 suficiente	para	a	
+garantia de requisitos de integridade e qualidade13 .
+Destaca-se	 que,	como	o	Artigo	26	da	Lei	nº	15.042	de	11/12/2024	 veda	a	análise	
+dos	projetos	pelo	órgão	gestor	do	SBCE,	entende-se	 que	a	melhor	alternativa	 para,	
+ainda	assim,	ter	controle	de	qualidade	e	maior	segurança	da	integridade	 dos	CRVEs	
+usados	no	SBCE,	seria	assegurar	que	apenas	Organismos	 de	Validação	e	Verificação	
+(OVVs)	qualificados	 sejam	acreditados.	 A	acreditação	 desses	OVVs	pode	ter	como	
+prerrogativa,	 além	da	verificação	 já	realizada	por	eles,	a	exigência	de	checagens	
+adicionais,	relevantes	ao	contexto	brasileiro,	como	abordado.	Isso	deve	ser	feito	para	
+a garantia da integridade e qualidade dos CRVEs que serão usados para compensa-
+ções no SBCE e inclusive daqueles que poderão ser convertidos em ITMOs.
+Considerando	 os	diversos	aspectos	avaliados	neste	capítulo,	os	quais	identificou-se	
+que	são	relevantes	para	o	uso	de	compensações	 em	ETS,	entende-se	 que	será	ne-
+cessária	uma	estrutura	governamental	 para	geri-los.	Dessa	forma,	deve-se	avaliar	
+a possibilidade de o governo brasileiro desenvolver uma estrutura de registro seme -
+lhante	ao	CARB	na	Califórnia,	que	se	apoia	nos	processos	de	padrões	de	certifica-
+ção,	mas	que	possui	um	único	registro	próprio	e	é	responsável	 por	verificações	 que	
+reforcem a garantia de integridade e qualidade dos CRVE. Tal avaliação será feita 
+em produtos posteriores deste projeto.
+13.	Embora	não	se	tenha	identificado	 um	processo	de	validação	internos	de	documentos	 nos	ETS	da	União	Europeia,	Suíça	e	Nova	Zelândia	que	aceitavam	unidades	do	MDL,	destaca-se	 que	a	análise	ex-post	dos	créditos	que	foram	autorizados 	
+para	conformidade	no	ETS	da	Nova	Zelândia	que	identificou	falta	de	integridade	ambiental	(La	Hoz	Theuer	et	al.,	2023).	Assim,	mostra-se	necessária	uma	etapa	de	validação	dos	documentos	para	além	do	padrão	de	certificação.
+
+
+--- PÁGINA 21 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil21
+AnexosReferências  
+bibliográficas
+3. Requisitos para garantia de qualidade e cobenefícios  
+     em projetos de carbono
+A qualidade dos créditos de carbono é um tema central para o impacto real dos cré -
+ditos	na	mitigação	do	aquecimento	 global.	Em	especial,	é	preciso	que	o	crédito	seja	
+adicional,	permanente,	 não	gere	emissões	em	outros	locais	(vazamentos)	 e	que	a	
+atividade geradora dos créditos não deixe as populações locais em situação pior do 
+que a situação anterior ao início do projeto (salvaguardas). 
+A	ADICIONALIDADE	 é	um	conceito	que	diz	respeito	à	ocorrência	 da	atividade	de	
+mitigação	na	ausência	do	incentivo	gerado	pelo	mercado	de	carbono,	estabelecendo	
+uma relação de causalidade entre a atividade e o resultado esperado da intervenção 
+(Michaelowa	 et al.,	2019).	Ou	seja,	é	demonstração	 de	que	a	atividade	resulta	em	
+reduções ou remoções que excedem o que seria alcançado sob um cenário contra-
+factual e não teria ocorrido na ausência do incentivo fornecido por mercados de car -
+bono.	Ela	é	determinada	 pela	metodologia	 do	projeto	de	carbono,	estabelecida	 pelo	
+padrão	independente	de	certificação	de	carbono.	
+Como	a	análise	de	adicionalidade	 considera	um	cenário	contrafactual,	 não	observá-
+vel,	as metodologias estão em constante evolução para minimizar lacunas meto -
+dológicas.	Por	isso,	é	importante	 que	as	metodologias	 mais	recentes	sejam	preferí-
+veis	às	metodologias	 antigas,	especialmente	 em	projetos	de	Redução	das	Emissões	
+por	Desmatamento	e	Degradação	florestal	(REDD+).	
+As	metodologias	 dos	padrões	independentes	 de	certificação	 de	carbono	também	
+fazem	a	análise	de	permanência e vazamento,	 de	acordo	com	as	respectivas	 ativi-
+dades dos projetos. As salvaguardas,	 por	sua	vez,	são	os	requisitos	mínimos	para	
+garantir	que	as	populações	afetadas	pelos	projetos	não	fiquem	em	situação	pior	do	
+que	a	situação	observada	 antes	da	sua	implementação.	 Em	geral,	os	padrões	inde -
+pendentes	de	certificação	 de	carbono	buscam	integrar	as	salvaguardas	 em	seus	do-
+cumentos	de	requisitos	de	elegibilidade	 dos	projetos,	muito	embora	esses	requisitos	também sejam considerados por certificações adicionais de qualidade de créditos 
+de carbono,	 o	que	gera	uma	redundância	 em	relação	às	recomendações	 básicas	
+dos	padrões	de	certificação.	 Os	requisitos	dos	padrões	independentes	 de	certifica-
+ção e dos selos de qualidade serão analisados em maiores detalhes a seguir. Para 
+além dos requisitos mínimos de qualidade (que incluem as salvaguardas), que 
+têm o cumprimento exigido pelos padrões de certificação, os projetos também 
+podem ser aplicáveis, em alguns casos, a selos adicionais de cobenefícios, quando 
+comprovado que geram contribuições socioambientais relevantes além dos resul-
+tados de mitigação de emissões.
+Os	selos	exigem	a	comprovação	 e	o	monitoramento	 dos	cobenefícios	 alegados	e,	em	
+geral,	são	mais	comuns	em	projetos	florestais.	Padrões	como	o	Verified Carbon Stan -
+dard  (VCS) e o Gold Standard 	têm,	como	um	de	seus	requisitos,	a	contribuição	 do	
+projeto para um determinado número de Objetivos de Desenvolvimento Sustentável 
+(ODS),	enquanto	 os selos adicionais,	 como	o	Climate, Community and Biodiversity 
+Standards	(CCB),	 visam um monitoramento mais estruturado de cobenefícios ex -
+tras, assegurando seu desenvolvimento ao longo do projeto. Logo, a certificação 
+extra tende a garantir preços de venda mais altos.
+3.1. Princípios de garantia de qualidade para 
+projetos de carbono  
+Para a Verra,	o	proponente	 do	projeto	deve	avaliar	o	risco	de	quaisquer	impactos	
+ambientais	 e	socioeconômicos	 negativos	como	resultado	das	atividades	do	projeto.	
+Quando	a	avaliação	identificar	tais	riscos,	o	proponente	 do	projeto	deve	 divulgar 
+os riscos e projetar e implementar etapas para mitigá-los. Quaisquer medidas de impacto e mitigação devem ser relatadas no documento de projeto aplicável na va-
+lidação	e	em	cada	verificação	(Verra,	2024d).	
+Além	das	salvaguardas,	 as	avaliações	 de	direitos de propriedade e de adequação 
+às legislações nacionais	 também	devem	ser	identificadas	 durante	a	fase	de	elabo -
+ração do projeto. A consulta às partes interessadas impactadas pelo projeto,	 in-
+cluindo	o	Consentimento	 Livre,	Prévio	e	Informado	(CLPI),	também	deve	ser	realizada	
+durante	a	elaboração	do	projeto,	ou	seja,	antes	da	execução	das	atividades	de	projeto.
+Há,	ainda,	necessidade	 de	demonstração de que o projeto contribua para pelo me -
+nos três ODS	 até	o	final	do	primeiro	período	de	monitoramento	 e	em	cada	período	
+de	monitoramento	 subsequente.	 Sempre	que	possível,	os	proponentes	 do	projeto	
+devem demonstrar como a atividade do projeto é consistente com os ODS do país 
+anfitrião	(país	que	sedia	o	projeto)	(Verra,	2024d).	
+Por	fim,	os	documentos	 de	todos	os	projetos	ficam	sujeitos	a	um	período	de	30	dias	
+de consulta pública a partir da data em que o projeto é listado no PIPELINE DE 
+PROJETOS,	 para	receber	contribuições	 de	qualquer	parte	interessada	 em	fazê-lo.	
+Quaisquer comentários devem ser enviados por meio da página do projeto no Re -
+gistro	Verra.	No	final	do	período	de	consulta,	a	Verra	fornece	todos	os	comentários	
+recebidos	ao	proponente	 do	projeto	e	ao	órgão	de	validação/verificação	 (OVV).	O	
+proponente do projeto deve levar em conta todos os comentários recebidos durante 
+a	consulta,	o	que	significa	que	eles	precisarão	 atualizar o desenho do projeto ou 
+demonstrar a insignificância ou irrelevância do comentário	(Verra,	2024d).	
+De	forma	similar,	o	Gold Standard também adota medidas de salvaguardas e con-
+tribuição aos ODS,	 incluindo	a	consulta	às	partes	interessadas,	 requerimentos	 de	
+igualdade de gênero e a contribuição com pelo menos mais dois ODS além do ODS 
+
+--- PÁGINA 22 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil22
+AnexosReferências  
+bibliográficas1314	(Gold	Standard,	2024).	Todos	os	projetos	devem	realizar	uma	avaliação	inicial	
+em relação aos Princípios de Salvaguarda e ter sua implementação conforme os 
+requisitos	declarados,	 respondendo	 a	uma	avaliação	comparativa	 entre	o	cenário	do	
+projeto	e	o	cenário	da	linha	de	base	(Gold	Standard,	2019).	
+Apesar desses requisitos relacionados às salvaguardas e garantia da qualidade dos 
+créditos	serem	exigidos	durante	a	fase	de	elaboração	 do	projeto,	e,	em	tese,	verifi-
+cados	antes	do	início	das	atividades,	 existem	vários	casos	de	projetos	de	carbono	
+que	não	os	respeitam,	gerando	impactos	negativos	e	violando	os	direitos	dos	Povos	
+Indígenas (PIs) e comunidades envolvidas15.	Isso	acontece,	principalmente,	 devido	
+às dificuldades de monitoramento e aos riscos associados a possíveis conflitos de 
+interesse para os atores do mercado.
+Enquanto espera-se que seja do interesse geral o desenvolvimento de projetos ro -
+bustos	que	respeitem	todos	os	critérios	de	qualidade,	em	um	mercado	não	regulado,	
+os	desenvolvedores,	 auditores,	padrões	de	certificação,	 intermediários	 e	comprado -
+res,	tendem	a	se	beneficiar	da	alta	aprovação	 de	projetos	e	geração	de	créditos,	o	
+que pode acabar interferindo na rigorosidade aplicada.
+Na	tentativa	de	mitigar	isso,	surgiram	 órgãos de governança independente para 
+integridade e agências de rating.	Organismos	 que	buscam	determinar,	 avaliar e 
+atestar a qualidade dos projetos	 e,	consequentemente,	 dos	créditos	gerados.	Ou-
+tras	iniciativas,	como	a	Aliança NBS Brasil,	 também	buscam	disseminar boas prá-
+ticas de integridade no mercado de carbono e atuar com advocacy .
+A International Carbon Reduction and Offset Alliance  (ICROA),	uma	aliança	de	orga-
+nizações	globais	criada	em	2008,	visa	estabelecer	 critérios	de	qualidade	e	transpa-
+rência	no	mercado	voluntário	de	carbono.	Um	padrão	de	certificação	 independente	
+que demonstre conformidade com esses critérios pode solicitar o Endosso da ICROA. 
+Oito principais critérios são avaliados:  
+1) independência; 
+2) governança; 
+3) registro; 
+4)	verificação	e	validação;	A Figura 2,	abaixo,	apresenta	os	padrões	de	certificação	avaliados	pela	ICROA.
+14.	O	ODS	13	diz	respeito	a	Ação	contra	a	mudança	global	do	Clima.
+15.	Mongabay	(2023);	Mongabay	(2023);	HRW	(2024);	InfoAmazônia	(2023);	Brasil	de	Fato	(2024).
+16.	Maiores	detalhamentos	sobre	esses	requisitos	no	Quadro	8,	no	Anexo	1.5) princípios dos créditos de carbono; 
+6) impactos sociais e ambientais; 
+7) consulta às partes interessadas; 
+8) escala16Fonte: Adaptado de ICROA (2024a).Programas endossados da ONU e de governos
+Programas independentes endossados
+Programas independentes condicionalmente endossados*
+*	Padrões	que	atendem	aos	critérios	do	ICROA	e	estão	pendentes	do	endosso	devido	ao	alcance	dos	valores	limite	definidos	para	validar	a	plena	operacionalização	do	padrão	(por	exemplo,	projetos	registrados,	créditos	emitidos	etc.).Figura 2:  
+Padrões	de	certificação	independentes	endossados	pela	ICROA
+1) governança efetiva; 
+2) rastreabilidade; 
+3) transparência; 
+4)	validação	e	verificação	 robusta	e	
+independente de terceiros; 
+5) adicionalidade; 
+6) permanência; 7)	quantificação	 de	reduções	e	remoções	
+de emissões robusta; 
+8) ausência de dupla contagem; 
+9) benefícios e salvaguardas do desenvol-
+vimento sustentável; 
+10) contribuição para a transição para o 
+cenário	de	zero	emissões	líquidas.Outro órgão independente que busca garantir a integridade nesse mercado é o Con-
+selho de Integridade para o Mercado Voluntário de Carbono (ICVCM,	 da	sigla	em	
+inglês),	um	órgão	independente	 de	governança	 que	define	e	aplica	padrões	de	éti-
+ca,	sustentabilidade	 e	transparência	 para	o	mercado.	O	órgão	também	busca	es-
+tabelecer	rótulos	para	os	créditos	a	fim	de	dar	aos	compradores	 mais	confiança	na	
+identificação	 dos	melhores	créditos	e	garantir	que	o	mercado	voluntário	de	carbono	
+contribua	para	os	objetivos	do	Acordo	de	Paris	(ICVCM,	2024a).	Os	Princípios	Fun-
+damentais	do	Carbono	(CCPs,	na	sigla	em	inglês)	são	balizados	em	dez	princípios:
+
+--- PÁGINA 23 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil23
+AnexosReferências  
+bibliográficas17.	Além	do	ICVCM	e	da	ICROA,	há	a	Voluntary	Carbon	Markets	Integrity	Initiative	(VCMI),	uma	organização	 internacional	 sem	fins	lucrativos	que	visa	apoiar	a	demanda	a	alcançar	créditos	de	alta	integridade	 que	oferecem	benefícios	reais	e	adicio -
+nais	à	atmosfera,	ajudem	a	proteger	a	natureza	e	acelerem	a	transição	para	políticas	e	regulamentações	 climáticas	ambiciosas	 e	abrangentes.	 A	VCMI	não	foi	incluída	neste	estudo	uma	vez	que	é	focada	em	aspectos	relevantes	para	a	demanda	
+e o foco deste estudo está na oferta de créditos.O ICVCM e a ICROA17 compartilham o objetivo abrangente de promover integri-
+dade e credibilidade nos mercados de carbono, mas diferem em seus papéis e 
+funções específicos.	 O	ICVCM	é	focado	principalmente	 em	definir	padrões	globais	
+para padrões de crédito de carbono e os créditos que eles emitem. A ICROA é espe -
+cializada	em	credenciar	provedores	de	compensação	de	carbono	e	participantes	do	
+mercado.	Seu	foco	principal	é	garantir	que	as	organizações	 que	oferecem	serviços	
+de	compensação	 de	carbono	atendam	a	critérios	específicos	 de	qualidade	e	trans-
+parência	(ICVCM,	2024b).
+Além	destes	organismos,	 no	Brasil,	como	mencionado	 anteriormente,	 há	ainda	um	
+guia de boas práticas da Aliança NBS Brasil - uma instituição que reúne 27 mem-
+bros,	entre	empresas	desenvolvedoras	de	projetos,	organizações	não-governamen-
+tais	e	de	integridade	 e	investidores	 de	impacto	que,	juntos,	são	responsáveis	 por	
+mais	de	70%	dos	créditos	brasileiros	 emitidos	relativos	a	Soluções	Baseadas	na	
+Natureza	(Nature-Based Solutions ) e Uso do Solo desde 2022  - que busca adequar especialmente as recomendações de salvaguardas ao contexto brasileiro. Natural-
+mente,	é	esperado	que	os	projetos	que	sigam	as	boas	práticas	se	atentem	a	três	
+princípios básicos: 1) a legislação vigente; 2) o direito à diferença e a autodetermina-
+ção	dos	povos;	3)	regimentos,	 planos,	orientações	 e	diretrizes	colocados	diretamente	
+pela	comunidade	(ou	comunidades)	e	suas	organizações	representativas.	
+Por	fim,	existem,	adicionalmente,	 agências de rating, também chamadas de agên-
+cias de classificação de risco, que atuam no mercado de carbono, desempenhan-
+do um papel semelhante ao que exercem no mercado financeiro. 
+São	organizações	 privadas	e	independentes	 que	avaliam	o	grau	de	investimento	
+de	instituições	 privadas,	como	empresas	e	bancos,	e	de	entidades	públicas,	como	
+governos e empresas estatais. Elas fornecem uma análise da capacidade dessas 
+entidades	de	honrar	seus	compromissos	 financeiros,	 expressa	em	notas	de	risco	ou	
+crédito.	Em	geral,	quanto	maior	a	nota	atribuída	a	uma	empresa	ou	país,	mais	segu-
+ro é considerado o investimento. 
+Calyx Global Sylvera BeZero Renoster
+Tipo de ScoreA abordagem de Target Scoring e Impact Rating  permite 
+uma avaliação detalhada do impacto dos projetos nas 
+Metas	de	Desenvolvimento	Sustentável	(ODSs),	bem	como	
+uma avaliação geral do impacto do projeto.A escala de AAA a D oferece uma visão clara da 
+qualidade dos créditos de carbono.A escala alfabética de AAA a D oferece uma 
+classificação	da	probabilidade	de	os	créditos	
+evitarem	ou	removerem	1	tonelada	de	CO₂e.A Pontuação do Projeto oferece uma avaliação 
+hierárquica e detalhada dos projetos de compensação 
+de	carbono	florestal.
+Parâmetros 
+AvaliadosA Calyx Global oferece uma abordagem abrangente que 
+considera	uma	ampla	gama	de	parâmetros,	incluindo	
+certificação	ODS	e	de	cobenefícios	e	salvaguardas.A Sylvera oferece uma abordagem detalhada que 
+considera	uma	variedade	de	parâmetros,	incluindo	
+adicionalidade,	permanência	e	cobenefícios.A BeZero oferece uma avaliação abrangente de 
+riscos e requisitos de qualidade.A Renoster oferece uma avaliação detalhada de uma 
+ampla gama de parâmetros.
+Requisitos de 
+QualidadeA Calyx Global desenvolveu requisitos de qualidade 
+detalhados	e	abrangentes,	incluindo	certificação	ODS,	
+verificação	por	terceiros	e	de	cobenefícios	e	salvaguardas.Não havendo menções diretas a requisitos  
+de	qualidade,	os	parâmetros	avaliados	indicam	
+a integridade dos créditos de carbono em vários 
+projetos,	oferecendo	uma	visão	de	 
+qualidade completa.A BeZero desenvolveu requisitos de qualidade que 
+cobrem	uma	ampla	gama	de	aspectos,	com	grande	
+foco em transparência e governança.Não havendo menções diretas a requisitos  
+de	qualidade,	os	parâmetros	avaliados	dão	base	 
+para indicar a integridade dos créditos de  
+carbono nos projetosQuadro 2: Comparativo dos principais pontos entre as agências de rating
+Fonte: (BeZero	Carbon,	[s.d.];	Calyx	Global,	[s.d.];	Renoster,	[s.d.];	Sylvera,	[s.d.])No mercado de carbono, elas avaliam os projetos e atribuem notas baseadas 
+nas análises de integridade e qualidade.	 Neste	estudo,	foram	analisadas,	 de	for-
+ma	comparativa,	 informações	 de	agências	de	rating  de carbono como Calyx Glo -
+bal,	Renoster,	BeZero e Sylvera ,	apresentadas	no	Quadro	2,	abaixo.
+Assim,	enquanto	o	objetivo	dos	organismos	 e	iniciativas	de	integridade	 é	voltado	
+à	promoção	da	credibilidade	 nos	mercados	de	carbono	por	meio	da	definição	de	
+padrões	globais	para	os	padrões	de	certificação	 e	os	créditos	que	eles	emitem,	as	
+agências de rating	buscam	assegurar	que	esses	requisitos	estão	sendo	atendidos,	
+avaliando	e	ranqueando	 os	projetos,	de	forma	que	os	compradores	 interessados	
+possam analisá-los comparativamente.
+
+--- PÁGINA 24 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil24
+AnexosReferências  
+bibliográficas3.2. Considerações sobre cobenefícios em 
+projetos de carbono
+Para	além	dos	critérios	de	qualidade	exigidos	pelos	padrões,	que	visam	assegu-
+rar que não sejam gerados impactos negativos (do no harm,	no	termo	em	inglês),	
+os projetos de carbono podem gerar impactos positivos adicionais à mitigação de 
+emissões.	Nesse	sentido,	 é possível classificar estes cobenefícios em: inerentes aos 
+projetos e adicionais.
+Os cobenefícios inerentes	 são	aqueles	que	decorrem,	naturalmente,	 das	atividades	
+de	projeto,	sem	que	seja	necessário	 esforço	adicional	para	sua	implementação.	 Al-
+guns	exemplos	incluem,	a	melhoria	da	qualidade	do	ar	ou	de	recursos	hídricos	em	
+decorrência	de	um	projeto	de	reflorestamento.
+Já os cobenefícios adicionais	 são	aqueles	que	requerem	esforços	específicos	 de	im-
+plementação,	 já	que	não	são	intrínsecos	 à	atividade	de	projeto,	além	de	serem	adi-
+cionais a licenciamentos ambientais ou outras obrigações legais. Exemplos incluem 
+o desenvolvimento de atividades de bioeconomia junto a comunidades da região de 
+projeto	e	o	estabelecimento	 de	parcerias	com	organizações	 para	melhorias	para	as	
+comunidades	 em	âmbitos	externos	ao	projeto,	como	no	caso	da	parceria	entre	uma	
+empresa	de	geração	de	créditos	de	carbono	provenientes	 da	conservação	 florestal	e	
+a	UNICEF,	para	levar	melhorias	de	saneamento	 às	comunidades	 do	entorno	do	pro-
+jeto	(Valor	Econômico,	2024).
+Existem no mercado diversos selos para assegurar a qualidade e benefícios 
+adicionais às mudanças climáticas	 que	os	projetos	geram.	A	Verra,	principal	padrão	
+independente	 de	certificação,	 por	exemplo,	possui	dois	sistemas	de	verificação	
+de qualidade para os créditos de carbono: o Climate,	Community & Biodiversity 
+Standards  (CCB ) e o Sustainable Development Verified Impact Standard  (SD VISta).
+O CCB  busca analisar contribuições adicionais dos projetos de carbono de ativida-
+des relacionadas ao uso do solo para a comunidade do entorno do projeto e para 
+a biodiversidade.	 A	avaliação	dos	benefícios	adicionais	gerados	é	realizada	a	partir	
+de	uma	teoria	da	mudança,	que	consiste	em	uma	ou	mais	hipóteses	sobre	como	as	
+atividades	do	projeto	permitirão	o	atingimento	 de	determinados	 objetivos,	incluindo	os benefícios sociais e de biodiversidade.
+A	teoria	tenta	estabelecer	 uma	relação	causal	de	forma	qualitativa,	 composta	por	
+uma ou mais cadeias de resultados que rastreiam relações causais ao longo do tem-
+po	entre	atividades	e	produtos	de	curto	prazo,	resultados	de	curto	a	médio	prazo	e	
+impactos	de	longo	prazo	do	projeto	(Narasimhan	 et al.,	2014).	De	maneira	geral,	os	
+projetos devem avaliar os requisitos da Figura 3.
+Figura 3: Critérios avaliados no CCB
+Gerais
+G1.	Objetivos	do	Projeto,	escopo	e	
+viabilidade	de	longo	prazo;
+G2. Cenário sem o projeto e 
+adicionalidade;
+G3. Engajamento com partes 
+interessadas;
+G4. Capacidade de gestão;
+G5. Status legal e direitos de 
+propriedade.Clima
+CL1. Cenário sem projeto e 
+adicionalidade;
+CL2. Impactos climáticos positivos 
+líquidos do projeto;
+CL3. Impactos climáticos externos do 
+projeto	(vazamento);
+CL4. Monitoramento do Impacto 
+Climático;
+CL5. Benefícios de Adaptação às 
+Mudanças Climáticas.
+Comunidade
+CM1. Cenário sem projeto e 
+adicionalidade;
+CM2. Impactos positivos líquidos na 
+comunidade;
+CM3. Impactos em outras partes 
+interessadas;
+CM4. Monitoramento do Impacto nas 
+Comunidades;
+CM5. Benefícios Comunitários 
+Excepcionais.Biodiversidade
+B1. Cenário sem projeto e 
+adicionalidade;
+B2. Impactos positivos líquidos na 
+biodiversidade;
+B3. Impactos externos na 
+biodiversidade;
+B4. Monitoramento do impacto da 
+biodiversidade;
+B5. Benefícios excepcionais à 
+biodiversidade.
+Fonte: Adaptado de Narasimhan et al . (2014)É possível notar que parte dos critérios avaliados são critérios já cobertos pe -
+las próprias metodologias dos projetos de carbono,	 principalmente	 em	relação	à	
+adicionalidade climática do projeto e à mitigação de possíveis impactos negativos 
+(salvaguardas).	 Entretanto,	 os	benefícios	relacionados	 à	adaptação	 climática,	para	
+as comunidades e para a biodiversidade são adicionais aos requisitos das metodo -
+logias	de	projetos	carbono	sem	a	certificação	 do	CCB.	 O termo “impacto positivo 
+líquido” vai além do princípio de “ do no harm ” das salvaguardas, elevando os 
+benefícios socioambientais dos projetos.
+Como	esses	benefícios	são	mensurados	 a	partir	da	teoria	da	mudança,	 a compa-
+rabilidade entre os benefícios dos projetos pode ser dificultada pela ausência de 
+métricas e um método quantitativo único para estabelecer a relação de causali-
+dade entre a implementação do projeto e o impacto pretendido.	 Adicionalmente,	
+o	selo	do	CCB	é	válido	apenas	para	projetos	relacionados	 ao	uso	do	solo,	o	que	difi-
+culta	ainda	mais	a	sua	comparabilidade	 com	outros	tipos	de	projeto,	como	projetos	
+de biogás ou de captura de carbono.
+O SDVIsta,	por	sua	vez,	é	um	selo	para	a	verificação	 da	contribuição do projeto 
+para os ODS (o CCB pode ou não fazer essa conexão de forma direta). Ele é válido 
+para todos os tipos de projetos,	 não	só	os	relacionados	 ao	uso	do	solo,	e	estes	po-
+dem		gerar	“ativos	sociais”	ou	“ativos	ambientais”18		(Verra,	2019).
+Outro selo para cobenefícios é o Social Carbon.	 De	origem	brasileira,	o	selo	criado	
+em 2006 se tornou um padrão de certificação de carbono	 em	2022	(Social	Carbon,	
+2023b).	Anteriormente	 era	uma	metodologia	 que	se	concentrava	 em	cobenefícios,	
+como	a	biodiversidade	 e	a	participação	 ativa	das	comunidades	 locais,	de	forma	se-
+melhante	ao	CCB.	Como	ele	não	quantificava	 nem	verificava	os	créditos	de	compen-
+sação	de	carbono,	era	normalmente	 utilizado	em	conjunto	com	outro	padrão,	como	
+o VCS ou o MDL. 
+A metodologia de cobenefícios do Social Carbon envolve o acompanhamento de 
+seis componentes: social, humano, financeiro, natural, biodiversidade e carbono. 
+Este acompanhamento é feito através do monitoramento de indicadores específi-
+cos ao projeto,	 que	podem	ser	adaptados	 de	indicadores	 existentes	ou	desenvolvi-
+dos	do	zero,	e	recebem	pontuações	 que	variam	do	pior	cenário	(nível	1)	ao	cenário	
+ideal	(nível	6).	A	maior	parte	dos	dados	utilizados	para	pontuar	os	indicadores	 é	
+18.	Os	termos	de	“ativos”	aparecem	com	aspas	porque	a	definição	desses	produtos	não	é	consensual.	 Como	não	geram	fluxos	de	caixa	para	quem	os	compra,	não	dão	efetivamente	 direito	a	algo	nem	geram	um	passivo	como	contrapartida,	 esses	
+produtos	podem	não	ser	reconhecidos	como	ativos	em	algumas	jurisdições,	como	a	brasileira	(CPC,	2005;	BACEN,	2006).
+
+--- PÁGINA 25 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil25
+AnexosReferências  
+bibliográficasQuadro 3: Classificações	do	Social	Carbon	para	a	qualidade	dos	projetosrecolhida	através	de	métodos	participativos,	 incluindo	entrevistas,	 questionários	 e	
+reuniões	com	as	partes	interessadas	(Social	Carbon,	2023a).
+Os	desenvolvedores	 de	projeto	devem	listar	os	potenciais	impactos,	riscos	e	partes	
+interessadas associados à atividade do projeto. Após elencar todos os aspectos re -
+levantes	do	projeto,	o	desenvolvedor	 deve	selecionar	quais	serão	monitorados	 atra-
+vés de indicadores ao longo da vida do projeto e distribuí-los entre os seis diferentes 
+componentes da metodologia. O número de indicadores irá variar de acordo com 
+as	necessidades	 de	cada	projeto,	mas	o	standard  recomenda um mínimo de três e 
+um	máximo	de	dez	indicadores	 para	cada	componente.	 Em	seguida,	os	indicadores	
+recebem	as	pontuações,	conforme	as	seguintes	diretrizes	apontadas	no	Quadro	3.
+Pontuação Classificação Caracterização
+1 e 2 CríticoExistência	de	irregularidades;	alto	risco	socioambiental;	níveis	significativos	de	degradação	social	e	ambiental	ou	situação	de	
+extrema	privação,	que	comprometa	significativamente	a	qualidade	de	vida	da	população.
+3 e 4 SatisfatórioAtende todos os requisitos legais relativos às atividades; supera-os através da adoção de boas práticas e de iniciativas volun-
+tárias	em	alguns	casos;	ou	a	qualidade	de	vida	atinge	o	padrão	mínimo	aceitável,	mas	requer	melhoria.
+5 e 6 SustentávelExcede	as	suas	obrigações	legais	e/ou	práticas	comuns	no	mercado,	adotando	em	muitos	casos	as	melhores	práticas	possíveis	
+para	o	setor;	ou	as	comunidades	alcançaram	um	modo	de	vida	sustentável,	com	acesso	adequado	a	bens	materiais	e	sociais,	
+são	capazes	de	se	recuperar	independentemente	de	situações	de	estresse	e	não	estão	causando	a	deterioração	dos	recursos	
+ambientais básicos através das suas atividades.
+Fonte: Adaptado de Social Carbon (2023a).
+19.	É	importante	 ressaltar	que	apesar	das	pontuações	 serem	expressas	em	termos	numéricos,	a	atribuição	dessas	pontuações	 é	um	fator	qualitativo,	de	acordo	com	a	percepção	das	partes	interessadas	 sobre	a	qualidade	do	projeto.	Dessa	forma,	
+as	pontuações	 obtidas	são	categóricas	 e	ordinais,	dado	que	são	geradas	a	partir	de	uma	percepção	qualitativa	e	indicam	apenas	a	ordem	de	preferência	 (1<2<3<4<5<6)	 entre	os	indicadores.	 No	entanto,	uma	atribuição	de	nota	2	pode	não	ser	
+duas	vezes	mais	preferível	a	uma	atribuição	de	nota	1	e	assim	por	diante.Depreende-se,	 portanto,	que	o	principal	diferencial	da	metodologia	 da	Social	Car-
+bon	em	relação	às	demais	certificações	 é	a	tentativa	de	traduzir	os	resultados	 das	
+consultas com as partes interessadas em indicadores qualitativos ordinais19 . Esse 
+pode ser um fator relevante para expressar a opinião das partes interessadas de 
+forma mais concisa e indicar com maior facilidade as características mais passíveis 
+de melhorias e as mais bem aceitas dos projetos. Como ponto de atenção a essa 
+metodologia,	 deve-se	considerar	 que,	como	os	pesos	das	pontuações	 das	partes	
+interessadas	 são	iguais	(média	simples),	populações	 com	maior	representatividade	
+na	pesquisa	podem	enviesar	a	pontuação	 final	obtida.	É	preciso	que	a	amostra	de	
+respondentes	 seja	de	fato	representativa	 e	considere	estratificações	 da	população	
+afetada pelo projeto.3.3. Análise das principais lições para o 
+Brasil quanto aos requisitos mínimos para os 
+projetos de carbono 
+Para	a	aceitação	dos	créditos	de	carbono	no	SBCE,	algumas	considerações	 em	rela-
+ção aos critérios de qualidade e selos de cobenefícios adicionais ao carbono devem 
+ser	observadas.	 Em	primeiro	lugar,	é	possível	observar	que	os padrões,	 em geral,	
+estabelecem,	 em seus próprios documentos,	 requisitos mínimos de qualidade que 
+endereçam,	 entre outros,	 a rigorosidade da análise,	 o cumprimento da legislação,	
+a regulação fundiária e o respeito às salvaguardas socioambientais.	 Nota-se,	as-
+sim,	em	alguns	casos,	uma	 certa redundância em relação ao que seria considerado 
+adicional pelos selos de cobenefícios e o que é requisito mínimo das metodologias 
+para a geração dos créditos de carbono.
+Além	disso,	o	que	se	observa	é	que,	apesar	das	exigências	 dos	padrões,	há	muitos	
+casos	em	que	elas	não	são	cumpridas.	 Ou	seja,	 o problema não está relacionado à 
+falta de regras, mas sim ao cumprimento delas. E o que se observa é que mesmo a 
+adoção	de	selos	adicionais,	 muitas	vezes,	não	é	suficiente	para	resolver	o	problema.	
+A	adoção	de	tais	selos	pode,	assim,	por	vezes,	resultar	em	um	custo	adicional	para	os	
+projetos sem que ocorram benefícios socioambientais adicionais na mesma proporção. 
+Além	da	redundância	 em	relação	a	alguns	critérios,	há	a	dificuldade de mensuração 
+dos benefícios adicionais avaliados pelos selos,	 dado	que	grande	parte	das	rela-
+ções causais entre a atividade do projeto e o benefício pretendido é estabelecida de 
+forma	qualitativa	 a	partir	da	teoria	da	mudança	ou	de	questionários.	 Dessa	forma,	
+além	da	dificuldade	 de	mensurar	a	efetividade	 do	projeto	na	geração	de	cobenefí-
+cios,	há	a	dificuldade	 em	comparar	benefícios	gerados	em	diferentes	projetos,	espe -
+cialmente se os projetos não forem do mesmo tipo. 
+Como não há um padrão para essas avaliações e para o que seria de fato mensura-
+do,	a	obrigatoriedade	 de	adotar	medidas	de	cobenefícios	 pode	levar	os	projetistas	a	
+contestarem	 esses	requisitos,	o	que	poderia	aumentar	o	risco	jurídico	dos	projetos.	
+Adicionalmente,	 especialmente	 em	regiões	mais	isoladas,	não	há	uma	governança	
+robusta	o	suficiente	para	garantir	que	os	cobenefícios	 dos	projetos	sejam	de	fato	
+entregues. 
+
+--- PÁGINA 26 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil26
+AnexosReferências  
+bibliográficasPor	outro	lado,	cabe	ressaltar	que	a	gestão de riscos nesses projetos tende a ser 
+mais bem estruturada,	 o	que	é	refletido	em	uma	maior	procura	e	no	preço	desses	
+créditos.	Se	bem	utilizados,	os	selos	podem	contribuir	para	o	incentivo	a	externalida-
+des	positivas	aos	projetos	de	carbono	como:	mapeamento,	 monitoramento	 e	manu-
+tenção da biodiversidade e outros serviços ecossistêmicos e o empoderamento das 
+populações tradicionais. 
+Adicionalmente,	 os	estudos	sobre	as	populações	 locais	podem	ajudar	na	identifi-
+cação	de	particularidades	 institucionais,	 culturais	e	comportamentais	 escassas	na	
+literatura e na avaliação de políticas públicas em nível municipal. 
+Nos	projetos	de	REDD+,	em	particular,	a	adoção	de	selos	de	cobenefícios,	 em	parti-
+cular	o	CCB,	vem	se	tornando	uma	prática	comum	e	já	é	considerada	 como	necessá-
+ria	por	parte	significativa	 dos	desenvolvedores,	 que	enxergam	esses	projetos	como	
+oportunidades	 de	desenvolvimento	 socioeconômico.	 Nesse	contexto,	dado	que	es-
+ses projetos tendem a ser mais baratos em comparação a outros escopos e que há 
+grande expectativa de que os créditos aceitos no mercado regulado sejam referência 
+em	termos	de	qualidade,	é	factível	requisitar	selos	para	os	projetos	de	REDD+,	caso	
+venham	a	ser	aceitos	pelo	SBCE,	requerendo	 que	os	cobenefícios	 de	cada	projeto	
+sejam	definidos	a	partir	da	CLPI	e	das	interações	com	as	partes	interessadas.
+Quanto	aos	outros	projetos,	 a adoção de selos adicionais para a verificação de 
+cobenefícios sociais e ambientais é considerada uma boa prática que pode ser 
+incentivada e que, inclusive, tende a ser refletida nos preços dos créditos, que 
+costumam ser mais altos para aqueles que possuem cobenefícios certificados. É 
+importante ressaltar, no entanto, que sua obrigatoriedade não garante a efetivi-
+dade dos benefícios. 
+Dessa	forma,	alguns	critérios	básicos	de	integridade,	 devem	ser	analisados	 por	
+OVVs	acreditados.	 A	adequação	 legal	e	o	respeito	aos	direitos	de	propriedade,	 por	
+exemplo,	devem	ser	verificados	 e	não	deixados	sob	a	responsabilidade	 apenas	dos	
+programas	 de	certificação,	 ainda	que	eles	possam	ter	um	papel	auxiliar	nessa	veri-
+ficação.	
+Além dos critérios básicos de conformidade legal, as salvaguardas e os termos de 
+Consentimento Livre, Prévio e Informado (CLPI) devem ser um critério mínimo de aceitação dos projetos no SBCE verificadas pelos OVVs. 
+O	CLPI	é	abordado	na	Convenção	 169	da	Organização	 Internacional	 do	Trabalho	
+que	foi	aprovada	no	Brasil	pelo	Decreto	Legislativo	 nº	143,	de	20	de	junho	de	2002,	
+e passou a vigorar a partir de 25 de julho de 2003. A regulamentação da Conven-
+ção	por	órgão	responsável,	 como	a	FUNAI,	proporcionaria	 maior	segurança	 de	seu	
+devido cumprimento. É factível que a regulamentação demande o envolvimento de 
+um	órgão	público	(como	o	Ministério	Público	estadual,	por	exemplo)	e	de	uma	insti-
+tuição	representativa	 da	comunidade,	 que	seja	escolhida	pela	própria	comunidade.	
+Além	disso,	recomenda-se	 que	a	comunidade	 tenha	uma	assistência	 jurídica	inde -
+pendente,	escolhida	por	ela	também,	e	custeada	pelo	projeto	ou	pelos	proponentes	
+do projeto.
+Assim,	a	partir	das	interações	realizadas	no	âmbito	do	CLPI,	da	forma	regulamenta-
+da,	devem ser produzidos documentos que comprovem conformidade, e que serão 
+avaliados em conjunto aos demais documentos e análises apontados a seguir:
+1. Análise do cumprimento das leis aplicáveis aos projetos:
+1.1. Consulta dos proponentes (CNPJ) e principais sócios (CPF) na Lista de 
+Empregadores que submeteram trabalhadores a condições análogas à escra-
+vidão;
+1.2. Análise da Situação Cadastral do Cadastro Ambiental Rural do imóvel;
+1.3. Análise de áreas embargadas pelo Instituto Brasileiro do Meio Ambiente 
+e dos Recursos Naturais Renováveis (Ibama) e pelo Instituto Chico Mendes de 
+Conservação da Biodiversidade (ICMBio);
+1.4.	Análise	de	prática	de	desmatamento	 ilegal,	conforme	registros	atualiza-
+dos	e	disponibilizados	 pelo	Instituto	Nacional	de	Colonização	 e	Reforma	Agrá-
+ria (Incra);
+1.5. Análise de imóveis rurais em Unidades de Conservação;
+1.6.	Análise	de	licenças	ambientais,	 a	depender	do	escopo	do	projeto	(ex:	nú-
+mero de licença ambiental ou comprovação da dispensa);1.7.	Consulta	a	certidão	negativa	de	débitos	federais,	estaduais	e	municipais	
+dos desenvolvedores dos projetos.
+2. A comprovação do Consentimento Livre, Prévio e Informado.
+3. Comprovação de cumprimento das salvaguardas sociais e ambientais.
+4. A garantia de consulta às populações locais em todos os projetos em que 
+estão envolvidas. Neste caso, os documentos e os canais de denúncia devem 
+ser públicos e divulgados em destaque nos canais de comunicação do projeto 
+e do sistema que abrigará as informações do mercado de carbono brasileiro.
+Novamente,	 em	tese,	todos	esses	grandes	critérios	são	analisados	 pelas	metodolo -
+gias	das	certificadoras	 independentes.	 No	entanto,	não	há	como	garantir	que	esses	
+critérios estejam sendo de fato analisados continuamente e o Órgão Gestor, como 
+instituição de supervisão e monitoramento do mercado, deve assegurar essa ve -
+rificação para garantir no mínimo a integridade legal dos projetos.
+A	acreditação	 dos	OVVs	para	realização	das	revisões	apontadas	 é	uma	forma	com-
+plementar	de	garantia	de	qualidade,	 também	com	base	na	experiência	 da	Califór -
+nia.	A	acreditação	 de	organismos	 específicos	 que	possuam	credibilidade	 e,	adicio -
+nalmente,	cumpram	uma	formação	a	respeito	do	contexto	do	SBCE,	do	padrão	de	
+certificação	 e	dos	projetos	no	Brasil	(dando	atenção	à	questão	fundiária	e	aos	di-
+reitos	dos	PIs,	por	exemplo)	e	demonstrem	 competência,	 através	de	avaliações	 tra-
+ria maior segurança de que particularidades do caso brasileiro seriam endereçadas 
+com maior rigor.
+Por	fim,	é	recomendado	 que,	 periodicamente, seja feita uma checagem amostral, 
+mais completa, dos projetos, para maior controle da eficácia do sistema.
+
+--- PÁGINA 27 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil27
+AnexosReferências  
+bibliográficas
+4. Análise de benchmarking  de padrões independentes  
+    de certificação de carbono selecionados 
+Segundo	a	Lei	nº	15.042	de	11/12/2024,	 os	créditos	de	carbono	gerados	a	partir	
+de projetos ou programas que impliquem redução de emissão ou remoção de GEE 
+poderão	ser	ofertados	voluntariamente	 para	fins	de	conformidade	 (Senado	Federal,	
+2024). Como esses créditos são gerados por meio de padrões independentes de 
+certificação	 de	carbono	e,	pela	experiência	 da	Califórnia	em	aceitar	créditos	de	de-
+terminados	 padrões	parceiros,	faz-se	relevante	conhecer	os	padrões	de	certificação	
+que têm atuação no Brasil e que o SBCE poderia aceitar. 
+20.	A	Verra	foi	fundada	em	2007	por	líderes	ambientais	 e	empresariais	 e,	atualmente	 gerencia	5	padrões.	Além	do	VCS,	CCB	e	JNR,	há	o	Sustainable Development Verified Impact Standards (SD	Vista),	padrão	que	certifica	benefícios	de	projetos	
+sociais	e	ambientais,	 e	o	Plastic Waste Reduction Standards ,	padrão	que	permite	a	avaliação	robusta	do	impacto	de	projetos	novos	ou	ampliados	de	coleta	e	reciclagem	de	resíduos.	Esses	dois	padrões	ainda	não	possuem	projetos	registrados	 no	
+Brasil,	apenas	nas	etapas	de	Validação	e	Verificação,	dois	no	 Plastic Waste Reduction Standards  e um no SD Vista.4.1 Panorama de padrões independentes de 
+certificação de carbono utilizados no Brasil
+Há 10 padrões de certificação com programas ou projetos sendo desenvolvidos 
+ou já registrados no Brasil. São eles: Art Trees,	CerCarbono,	 Global Carbon Council  
+(GCC),	 Gold Standard ,	Puro Earth,	Social Carbon ,	Tero Carbon ,	Jurisdictional and 
+Nested REDD +	(JNR),	o	Community & Biodiversity Standards  (CCB) e Verified Carbon Standard  (VCS). Esses três últimos são gerenciados pela Verra20.	Dentre	esses,	há	
+dois	brasileiros,	 o	Social	Carbon	e	o	Tero Carbon .	Além	desses,	há	um	outro	programa	
+emergindo	 no	Brasil,	o	Lux Carbon Standard ,	mas	este	ainda	não	tem	projetos	em	
+desenvolvimento.	 O	Quadro	4,	abaixo,	apresenta	um	panorama	geral	dos	11	padrões	
+independentes	de	certificação	de	carbono	citados	acima.
+Padrão Início Origem Escopos* Número de Projetos Cobenefícios Sociais
+2020 EUA REDD+Total: 20 (4 no Brasil)
+Registrados: 1 (nenhum no Brasil)Exigência de consistência com as Salvaguardas de Cancún.
+	Diretrizes	para	benefícios	sociais.
+2019 ColômbiaAgricultura
+Captura de metano em minas
+Combustíveis
+Energia
+Florestas – remoção de carbono
+Operações industriais 
+REDD+
+Resíduos  
+Substâncias	que	destroem	a	camada	de	ozônioTotal: 165 (23 no Brasil)
+Registrados: 92 (8 no Brasil)Garantia de nenhum dano líquido às áreas ou comunidades 
+circundantes.
+Incentivo a contribuições para os ODS.
+2020Médio Oriente e Norte de 
+ÁfricaÁgua	e	saneamento
+EnergiaTotal: 1.495 (52 no Brasil)
+Registrados: 55 (1 no Brasil)Garantia de nenhum dano líquido ao meio ambiente e à sociedade. 
+Indicação de contribuições para os ODS.Quadro 4 - Panorama de padrões independentes de certificação de carbono com atuação no país
+
+
+--- PÁGINA 28 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil28
+AnexosReferências  
+bibliográficasPadrão Início Origem Escopos* Número de Projetos Cobenefícios Sociais
+2017 SuíçaAgricultura
+Água	e	saneamento
+Desenvolvimento comunitário
+Energia
+Florestas – remoção de carbono
+Operações industriais 
+Resíduos  
+Restauração e Conservação de áreas úmidas
+TransportesTotal: 3.280 (26 no Brasil)
+Registrados: 1.720 (11 no Brasil)Indicação de contribuições para os ODS Salvaguarda  
+sociais e ambientais. 
+Interação com partes interessadas.
+2022 BrasilAgricultura
+Energia
+Florestas – remoção de carbono
+Operações industriais 
+REDD+
+Resíduos--- Diretrizes	para	abordagem	dos	benefícios	sociais.
+2017 FinlândiaAgricultura
+Captura	e	armazenamento	de	carbono
+Edificações	e	construçãoTotal: 57 (2 no Brasil)
+Registrados: 57 (2 no Brasil)Salvaguardas ambientais e sociais.
+Indicação de contribuições para os ODS.
+2000 BrasilAgricultura
+Energia
+Florestas – remoção de carbono
+REDD+
+Restauração e Conservação de áreas úmidasTotal: 10 (4 no Brasil)
+Registrados: 0Diretrizes	para	benefícios	sociais.
+2022 BrasilFlorestas – remoção de carbono
+REDD+Total: 1 (no Brasil)
+Registrado: 1Incentivo a contribuições para os ODS.
+Diretrizes	para	benefícios	sociais.
+2007 Suíça (atual sede nos EUA)Agricultura
+Captura de metano em minas
+Combustíveis
+Energia
+Florestas – remoção de carbono
+Operações industriais 
+Pecuária
+REDD+
+Resíduos  
+Restauração e conservação de áreas úmidas
+Substâncias	que	destroem	a	camada	de	ozônio
+TransportesTotal: 4.112 (255 no Brasil)
+Registrados: 2.154 (115 no Brasil)Indicação	e	diretrizes	para	contribuições	aos	ODS.
+
+
+--- PÁGINA 29 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil29
+AnexosReferências  
+bibliográficasPadrão Início Origem Escopos* Número de Projetos Cobenefícios Sociais
+2005 EUAAgricultura
+Florestas – remoção de carbono
+REDD+
+Restauração e Conservação de áreas úmidasTotal: 415 (67 no Brasil)
+Registrados: 83 (7 no Brasil)Diretrizes	para	abordagem	dos	benefícios	sociais	e	ambientais.
+2012 EUA REDD+Total: 3 (3 no Brasil)
+Registrados: 0Interação com partes interessadas.
+Fonte: (ART,	2021b;	“ART	Registry”,	[s.d.];	Cercarbono,	[s.d.]-a,	[s.d.]-b;	EcoRegistry	-	Cercarbono,	[s.d.];	Global	Carbon	Council,	[s.d.],	2020;	Gold	Standard,	[s.d.]-a,	[s.d.]-b;	LuxCS,	[s.d.];	Social	Carbon,	[s.d.];	Tero	Carbon,	2023;	VCS,	2017;	Verra,	2021,	2023e)		
+Jurisdictional
+& Nested REDD+
+* Em destaque escopos registrados no Brasil.
+A partir desse panorama geral selecionou-se para a análise os padrões de certi-
+ficação com maior quantidade de projetos já registrados no Brasil (VCS e Gold 
+Standard) e os programas de REDD+ jurisdicional (Art Trees e JNR), considerando 
+que a Lei nº 15.042 de 11/12/2024 traz diversas considerações sobre a inclusão de 
+programas jurisdicionais	(Senado	Federal,	2024).		
+4.1.1 VCS
+O VCS21	foi	criado	em	2007	e,	atualmente,	 conta	com	4.112	projetos	em	sua	
+plataforma,	 sendo	2.154	já	registrados.	 Além	de	ser	o	maior padrão de certificação 
+do mercado voluntário, é o com a atuação mais presente no Brasil. No Brasil, 
+há 258 projetos na plataforma do VCS, sendo 118 já registrados. Esses projetos 
+compreendem	18	diferentes	metodologias	(Verra,	[s.d.]-b).
+Este padrão aceita 37 metodologias próprias e 54 originadas no MDL. Suas 
+metodologias	 abrangem	os	seguintes	escopos:	Agricultura,	 Combustíveis,	 Edificações	
+e	construção;	 energia;	florestas,	gestão	de	resíduos,	mineração,	 pecuária,	processos	
+industriais,	 REDD	e	REDD+,	restauração	 de	áreas	úmidas	e	transporte	(Verra,	2024d).	
+O VCS é aceito na regulação de carbono da Colômbia e África do Sul,	 ambos	tributos	
+sobre	o	carbono,	e	é	elegível	para	fornecer	créditos	de	carbono	para	conformidade	
+com o Esquema de Compensação e Redução de Carbono para Aviação Internacional 
+(CORSIA)	(La	Hoz	Theuer	et	al.,	2023).	Além	disso,	o	VCS	está	entre	os	padrões	
+independentes	 de	certificação	 de	carbono	com	os	quais	 Singapura assinou acordos para uso de compensações na regulação nacional de tributos sobre carbono (British 
+Chamber	of	Commerce	Singapore,	2023).
+O padrão tem determinações quanto à/ao: 
+• atendimento	ao	aos	requisitos	do	padrão	de	certificação;	
+• documentação	 de	projeto	(documento	 de	descrição	do	projeto,	relatório	de	
+monitoramento,	entre	outros);	
+• data de início e período creditício dos projetos; 
+• escala	(os	projetos	são	categorizados	 por	tamanho	de	acordo	com	a	média	
+anual estimada de reduções de emissões de GEE ou remoções de dióxido de 
+carbono); 
+• fronteira	de	projeto	(inclui	as	fontes,	sumidouros	 e	reservatórios	 de	GEE	que	são	
+relevantes para o projeto); e 
+• adicionalidade. 
+Além	desses,	há	requisitos	associados	 ao	desenvolvimento	 social	(Verra,	2024d):	
+• os proponentes devem demonstrar como as atividades do projeto contribuem 
+para os ODS; 
+• os proponentes do projeto devem interagir com as partes interessadas durante a concepção e implementação do projeto; e
+• salvaguardas. 
+Por	fim,	alguns	tipos	de	projetos	têm	particularidades	 e	requisitos	adicionais	
+específicos	(Verra,	[s.d.]-a):	
+• agricultura	 florestas	e	outros	usos	do	solo	(AFOLU):	regras	de	reavaliação	 da	
+linha	de	base,	risco	de	não	permanência,	 benefício	médio	de	GEE	a	longo	prazo,	
+entre outros; 
+• substâncias	 que	destroem	a	camada	de	ozônio:	lista	de	substâncias	 elegíveis,	
+origem	das	substâncias,	tecnologias	de	destruição,	entre	outros;	e	
+• captura	e	armazenamento	 de	carbono	(CCS):	existe	documento	 próprio	que	
+trata das particularidades desse tipo de projeto.
+4.1.2  Gold Standard
+O	Gold	Standard	é	uma	organização	 sem	fins	lucrativos	com	sede	em	Genebra,	
+Suíça,	criada	pela	WWF	e	um	grupo	de	outras	Organizações	 Não	Governamentais	
+em	2003	(Gold	Standard,	[s.d.]-c).	Atualmente,	 conta	com	3.280	projetos	em	sua	
+plataforma,	 sendo	1.720	já	registrados.	 No Brasil, há 28 projetos na plataforma 
+do Gold Standard, sendo 15 já registrados. Este padrão aceita 26 metodologias 
+próprias	e	164	originadas	no	MDL,	sendo	74	em	larga	escala	e	87	em	pequena	escala.	
+21.	O	VCS	ainda	é	um	dos	três	padrões	independentes	de	creditação	de	carbono	utilizados	pelo	ETS	da	 Califórnia e possui o California Offset Project Registry . Ele ajuda o CARB a administrar o componente do 
+Programa de Compensação para Conformidade de seu sistema cap-and-trade .
+
+
+--- PÁGINA 30 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil30
+AnexosReferências  
+bibliográficas
+Suas	metodologias	 abrangem	os	seguintes	escopos:	energia	renovável,	florestas	e	
+uso	do	solo,	agricultura,	 gestão	de	resíduos,	desenvolvimento	 comunitário,	 processos	
+industriais,	 edificações	 e	construção,	 transportes	 e	adaptação	 climática.	 Os 15 
+projetos registrados no Brasil seguem 9 metodologias diferentes, nos escopos de 
+energia renovável, florestas e gestão de resíduos	(Gold	Standard,	[s.d.]-b)22.
+Princípio 1
+Segurança Climática 
+e Desenvolvimento 
+SustentávelSalvaguardasInclusão dos
+stakeholdersDemonstração dos 
+impactos reaisAdicionalidade
+Requerimentos
+Análise da linha de 
+baseAvaliação dos princípios 
+de SalvaguardasConsulta aos 
+StakeholdersMonitoramento ex	post,	
+reporte,	verificação	e	
+emissãoAdicionalidade Final
+Adicionalidade de 
+ImpactoReinvindicações 
+diferenciadas
+Requisitos relacionados ao 
+desenvolvimento socialRequerimentos de 
+igualdade de gênero
+Insumos contínuos 
+e mecanismo de 
+reclamaçãoRequerimentos Requerimentos Requerimentos RequerimentosPrincípio 2 Princípio 3 Princípio 4 Princípio 5
+Obs.:	Além	dos	princípios	e	requerimentos,	há	diversos	outros	requisitos	mais	específicos	relacionados	às	atividades,	metodologias	e	por	tipo	de	
+produto	(já	que	o	GS	emite	não	só	créditos	de	carbono,	mas	também	certificados	de	energia	renovável)
+GovernançaPrincípios e 
+requerimentosRequerimentos 
+por atividadeImpactos das 
+metodologiasRequerimentos por 
+produto
+ODS 13 e + 2 ODS no 
+mínimoFigura 4: Requerimentos do Gold Standard (GS)
+Fonte: Gold	Standard,	2024.Não	há	menção	sobre	o	seu	uso	em	ETSs,	porém,	o	Gold	Standard	tem	se	preparado	
+para	realizar	os	ajustes	correspondentes	 em	transações	 no	Artigo	6	do	Acordo	de	
+Paris	(Gold	Standard,	2023a).	
+O padrão tem como requerimentos os seguintes princípios apresentados na Figura 
+44,	abaixo.4.1.3 JNR
+O Jurisdictional and Nested REDD + (JNR) é uma iniciativa desenvolvida pela Verra 
+que	fornece	uma	estrutura,	também	chamada	de	framework ,	para a implementação 
+de programas REDD+ em nível jurisdicional. O JNR foi projetado para integrar 
+projetos	REDD+	individuais	 em	programas	 jurisdicionais	 mais	amplos,	permitindo	
+uma	abordagem	 coordenada	 e	eficaz	para	a	redução	das	emissões	de	gases	de	
+efeito	estufa	provenientes	do	desmatamento	e	da	degradação	florestal.
+O	JNR	estabelece	requisitos	e	diretrizes	para	a	contabilidade	 de	carbono,	certificação	 e	
+monitoramento	 de	atividades	REDD+	em	nível	jurisdicional,	 garantindo	 a	integridade	
+ambiental e a transparência dos resultados alcançados. Os requisitos gerais da JNR 
+incluem: 
+• o desenvolvimento do NÍVEL DE REFERÊNCIA DE EMISSÕES FLORESTAIS (FREL); 
+• a integração de Projetos Aninhados e Programas de Nível Inferior; 
+• a conformidade com Elementos-Chave da UNFCCC; 
+• o estabelecimento de Sistemas de Medição e Relato; 
+• a implementação de Sistemas de Salvaguardas; e 
+• o estabelecimento de Sistemas de Compartilhamento de Benefícios. 
+Com base nos princípios fundamentais do JNR e nas melhores práticas de conservação 
+florestal	e	REDD+,	espera-se	que	os	programas	 jurisdicionais	 sob	o	JNR	promovam	
+ativamente	 a	inclusão	das	comunidades	 locais,	incluindo	as	comunidades	 indígenas,	
+nos	processos	de	tomada	de	decisão,	na	implementação	 das	atividades	de	REDD+,	
+e	na	distribuição	 justa	dos	benefícios	resultantes	 da	conservação	 florestal	(Verra,	
+2021).
+22.	Coleta	de	dados	realizada	em	11/03/2024.	As	metodologias	dos	projetos	brasileiros	encontram-se	no	Anexo	2.

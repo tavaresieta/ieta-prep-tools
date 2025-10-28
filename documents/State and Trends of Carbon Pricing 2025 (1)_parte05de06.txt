@@ -1,0 +1,541 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 5 de 6
+Páginas 61 a 75
+======================================================================
+
+
+--- PÁGINA 61 ---
+
+State and Trends of Carbon Pricing 202561
+Clarity on Article 
+6.2 and guidance 
+on its operation 
+has strengthened 
+the basis for 
+using bilateral 
+transactionsCountries have agreed to a path forward to generate 
+credits under the UN’s new crediting mechanism. Two 
+important standards were endorsed at COP29 to advance 
+the PACM—the centralized UN-administered crediting 
+mechanism (more in Box 10): the standard for developing 
+and assessing methodologies;99 and the standard on 
+requirements for activities involving carbon removals.100 
+The Supervisory Body of the Mechanism—the authority 
+overseeing the PACM—plans to release the first eligible 
+methodologies in the second half of 2025, which is the 
+first step to creating supply from new projects under the 
+mechanism. These will include revised Clean Development 
+Mechanism (CDM)xiimethodologies,xviii such as for activities 
+relating to grid-connected renewable electricity generation, 
+thermal energy production, flaring or use of landfill gas, and 
+energy efficiency measures for non-renewable biomass.101 
+Agreement was also reached on the required functionalities 
+of the registries to be operated under both the Article 6.2 
+mechanism (which allows for bilateral/multilateral trading 
+of credits between countries) and the PACM.102 Clarity on 
+Article 6.2 and guidance on its operation has strengthened 
+the basis for using bilateral transactions. These agreements 
+gathered momentum throughout 2024, with 20 new 
+bilateral agreements being signed or negotiated, bringing 
+the total to about 100 agreements.103 
+xviii The CDM was a flexibility mechanism under the Kyoto Protocol and the first international crediting mechanism.
+
+--- PÁGINA 62 ---
+
+State and Trends of Carbon Pricing 202562
+BOX 10
+COP29 decisions on Article 6
+At COP29, the final rules for Article 6.2 (cooperative approaches) and 
+Article 6.4 (the Paris Agreement Crediting Mechanism) were adopted. 
+These rules provide clarity on the operationalization of international 
+carbon markets under Article 6 of the Paris Agreement. 
+On Article 6.2, agreement was reached on technical details—
+providing greater certainty on operationalizing country-to-country 
+transfers. In particular, agreement was reached on the procedures and 
+requirements for authorization of internationally transferred mitigation 
+outcomes (ITMOs)—that is where host governments agree to domestic 
+mitigation to be transferred to another party. The COP29 outcome 
+clarified, however, that the initial act of authorization does not necessarily 
+immediately commit the host country to apply a corresponding 
+adjustment. A corresponding adjustment is only required after the point 
+of “first transfer,” which the host country can choose to be: (i) when 
+authorization is given, (ii) when the credit is issued, or (iii) when the 
+authorized credit (ITMO) is used or cancelled by the buyer. Importantly, 
+after the point of first transfer, no further changes to the authorization 
+status are allowed unless explicitly permitted in the authorization terms. 
+Authorizations must furthermore specify critical elements to ensure 
+transparency and legal clarity, such as the uses of credits covered by the 
+authorization and terms for changing the authorization (e.g., withdrawal, 
+changes to the authorized volume of credits, etc.) The COP29 decision also delivered more clarity on the 
+operationalization of the PACM. Two key standards were endorsed 
+(on methodologies and removals), and the COP29 decision clarified 
+outstanding issues including on authorizations and the registry for 
+tracking units. With the main regulatory documents and standards 
+now in place, the PACM Supervisory Body and the Methodological 
+Expert Panel can now focus on developing standards, procedures, and 
+tools. These will provide additional clarity on technical issues, such as 
+accounting for emissions leakage, post-crediting period monitoring 
+requirements, and how to address non-permanence and reversal 
+risks. Further, revisions to six methodologies (referenced above) are 
+ongoing, and the first PACM methodologies are expected in the second 
+half of 2025. In February 2025, the PACM Supervisory Body also approved 
+the procedure for the operation of the mechanism’s registry, including 
+developing an interim registry modeled on the registry used under the 
+Clean Development Mechanism. This interim registry will allow PACM 
+credits (known as A6.4ERs) to be issued and tracked until the full PACM 
+registry is available. User access to the interim registry is pending the 
+development of additional user guidance by the UNFCCC secretariat.
+
+--- PÁGINA 63 ---
+
+State and Trends of Carbon Pricing 202563
+Approximately 
+1,500 activities 
+registered under 
+the CDM are 
+looking to transition 
+to the PACMFuture supply from international crediting mechanisms 
+will originate from transitioning and new projects. 
+Transitioning CDM projects will supply the first carbon 
+credits issued under the new PACM. Approximately 1,500 
+activities registered under the CDM are looking to transition 
+to the PACM, with the first tranche of credits expected to 
+be issued in the second half of 2025.104 While the potential 
+volume of these carbon credits could be close to 1 billion 
+tCO2e, actual supply is likely to be considerably lower, given 
+that credit issuance requires host country approval and 
+projects must successfully complete the issuance process 
+to retroactively claim historical emissions reductions 
+delivered in the period 2021 to 2025. The retroactive nature 
+of the credits and concerns around the environmental 
+integrity of some activities may make this supply less 
+attractive to buyers, who may instead consider new 
+(greenfield) PACM projects using methodologies approved 
+by the Supervisory Body of the Mechanism. As of April 1, 
+2025, over 1,000 new programs and projects had notifiedxixxiii 
+the UN of the intention to submit new projects to the 
+mechanism. This early pipeline of programs and projects 
+shows a broad geographical diversity. While historically large 
+credit-supplying countries, like Brazil and India, continue to 
+be well represented in the list of potential PACM projects, 
+other regions with less success under the CDM (e.g., Sub-
+Saharan African countries including Kenya, Nigeria, Uganda, 
+and Zambia) are showing an expanding pipeline of new 
+activities.105
+xix This relates to “prior consideration” notifications to the United Nations Framework Convention on Climate Change secretariat, which is the first step for project developers to 
+demonstrate that their climate change mitigation activities have considered the financial benefits of the PACM prior to the start of implementation.
+
+--- PÁGINA 64 ---
+
+State and Trends of Carbon Pricing 202564
+3.3 Carbon credit prices generally declined, but credits 
+with specific attributes continued to attract price 
+premiums
+Carbon credit prices fell for most project categories in 
+2024, but nature-based removals displayed resilience. 
+Exchange-traded credit prices declined for most project 
+categories during 2024 (Figure 18). The two largest project 
+categories (measured by annual issuance volumes), avoided 
+deforestation, and renewable energy, experienced sharp 
+declines in exchange-traded prices between April 2023 and 
+April 2024.106 Prices for avoided deforestation rebounded 
+to USD 5.30 per tCO2e as of April 1, 2025.107 Last year’s 
+ICVCM methodology decisions may have contributed to the 
+price declines for credits from renewable energy projects—
+exchange-traded prices fell by nearly one-third following 
+the ICVCM’s rejection of renewable energy methodologies 
+in August 2024. Exchange-traded prices for nature-based 
+removals were more resilient, increasing throughout 2024 
+and closing at around USD 15.50 per tCO2e on April 1, 2025. 
+Changes in prices for credits traded over the counter (OTC) 
+were more varied, but in general prices were lower—the 
+average OTC price reported by Ecosystem Marketplace for 
+2024 was USD 6.78 per tCO2e (about 6% below 2023 average 
+prices). 
+Note: Prices are based on monthly and yearly averages of the price assessments from Platts, S&P Global Commodity Insights (2025), provided by 
+S&P Global.FIGURE 18
+Exchange-traded carbon credit prices by project types, January 1, 2022 to April 1, 2025
+
+--- PÁGINA 65 ---
+
+State and Trends of Carbon Pricing 202565
+OTC credit prices for some project types fell significantly, 
+such as renewable energy credits, which were more than 
+30% lower than in 2023. At the same time, credits from 
+household devices, energy efficiency, and fuel switching 
+displayed notable increases (Figure 19). OTC prices for all 
+credit types attracted a premium compared to prices traded 
+through standardized, exchange-traded contracts. Nature-
+based removal credits continued to receive a premium over 
+credits from avoided emissions projects (such as REDD+), 
+suggesting a reluctance from buyers to bid for credits from 
+avoided emissions projects. Additionally, forward prices 
+for nature-based removals commonly exceeded USD 20 
+per tCO2e, suggesting a bullish outlook for these activity 
+types.108
+ 
+Note: This figure illustrates the exchange-traded and OTC prices of carbon credits. Prices are based on monthly and yearly averages of the price 
+assessments provided by Platts, S&P Global Commodity Insights, 2025. The Platts assessment reflects bids, offers, and trades for credits as 
+reported in the Platts Market on Close assessment process, in the brokered market, or on trading and exchange platforms. For each of its price 
+assessments Platts has identified a reference base to represent fungible credits across each market segment, considering certification, vintage, 
+volume, and the Sustainable Development Goals. For the nature-based projects, a weighted average of Platts nature-based avoidance price and 
+Platts nature-based removals price is used, rather than a singular price assessment. Adjustments are made for credits that vary from this base, 
+normalizing values based on factors like technology, certification standards, geography, and additional benefits to align them with the market 
+value of the reference base. OTC prices were provided by Ecosystem Marketplace and updated as of February 26, 2025. OTC prices represent 
+volume-weighted yearly averages of carbon credit trades in the voluntary carbon markets. Discrepancies may exist in project categorizations 
+between the exchange-traded and OTC data due to different source methodologies. See Annex C, Definitions, for a detailed note on the carbon 
+credit categorizations used in this figure. Details on Platts’s assessments can be found in the Platts’ Specification Guide.FIGURE 19
+Comparison of average annual carbon credit prices from exchange-traded and over-the-counter transactions 
+by project category, 2023–2024
+
+--- PÁGINA 66 ---
+
+State and Trends of Carbon Pricing 202566
+Buyers’ willingness 
+to pay for 
+perceived high-
+integrity credits 
+is increasingly 
+translating into 
+price premiumsCredit prices point to a strengthening correlation 
+between quality and price—credits with a perceived 
+higher quality trade at a premium. Buyers’ willingness 
+to pay for perceived high-integrity credits—defined as 
+those receiving favorable ratings from carbon credit rating 
+agencies—is increasingly translating into price premiums. 
+Reporting from carbon credit rating agencies suggests a 
+positive correlation between their proprietary quality ratings 
+and carbon credit prices, albeit using data drawn from small 
+sample sizes. For example, rating agency analysis suggests 
+that buyers of nature-based removal credits paid a premium 
+of up to USD 5 per credit for each increase in the rating 
+band, while other analyses suggest a price premium of 40% 
+for a higher-rated band.109 
+There is an observed price premium for credits eligible 
+to be used for NDC achievement and international 
+compliance markets relative to voluntary markets. The 
+price of credits transacted under Article 6.2 and CORSIA’s 
+phase 1 surpassed USD 20 per tCO2e. For example, 
+Switzerland reported paying an average price of 29 Swiss 
+francs per tCO2e (over USD 30 per tCO2e) for Article 6.2 
+credits to be delivered between 2022 and 2030.110 Similarly, 
+in February 2025, Singapore conducted a tender process 
+to procure Article 6.2 credits generated between 2021 and 
+2030 from nature-based projects. The tender attracted 
+almost 20 offers, with prices ranging from USD 18 to over 
+USD 40 per tCO2e.111 The premium may partly reflect that, in 
+many jurisdictions, project developers must cover additional 
+costs to obtain host country government approval and the 
+opportunity cost that the jurisdiction incurs by providing a 
+corresponding adjustment. Credits eligible under CORSIA’s phase 1 also attracted buyer interest. IATA’s procurement 
+event in early 2025 saw 11 airlines purchasing eligible credits 
+at a fixed-price offering of USD 21.70 per tCO2e.112 The total 
+volume of these initial purchases was not made public, 
+but all transacted credits are from a jurisdictional REDD+ 
+Architecture for REDD+ Transactions TREES program in 
+Guyana—the only source of phase 1 eligible credits at that 
+time. In March 2025, a second procurement event was 
+organized by IATA, with several new buyers engaging and 
+eligible credits selling at USD 22.25 per tCO2e. These recent 
+prices exceeded 2024 average prices, with exchange-traded 
+phase 1 eligible credits mostly fluctuating between USD 11 
+and USD 20 per tCO2e last year. 
+
+--- PÁGINA 67 ---
+
+Annexes
+
+
+--- PÁGINA 68 ---
+
+State and Trends of Carbon Pricing 202568
+ANNEX A
+Reference list of publications
+State and Trends of Carbon Pricing is a reference document of the key 
+developments in carbon pricing policies and market trends. The report is part 
+of the World Bank’s broader analysis and knowledge base, designed to promote 
+understanding of, and disseminate information on, carbon pricing and carbon 
+markets. Below is a non-exhaustive list of additional resources published 
+during 2024 and 2025 that complement the State and Trends of Carbon Pricing 
+2025 report. 
+• State and Trends of Carbon Pricing Dashboard – an interactive data 
+dashboard including factsheets for all carbon pricing instruments. https:/ /
+carbonpricingdashboard.worldbank.org/ 
+• Balancing Act: Political Economy and the Pursuit of Ambitious Carbon 
+Pricing in Developing Countries – practical insights into the political 
+economy challenges and opportunities for advancing carbon pricing, drawing 
+on the experiences of select countries. https:/ /hdl.handle.net/10986/42093 
+• Carbon Pricing in the Power Sector: Role and Design for Transitioning 
+toward Net-Zero Carbon Development – report delving into the power 
+sector value chain dynamics, demonstrating how well-designed carbon 
+pricing instruments can be instrumental in helping countries reach their 
+decarbonization goals. https:/ /hdl.handle.net/10986/42091 
+• Measuring, Reporting, and Verifying (MRV) Carbon Credits – report 
+addressing the challenges with measuring, reporting, and verifying carbon 
+credits. https:/ /hdl.handle.net/10986/42922 • A Roadmap for Safe, Efficient, and Interoperable Carbon Markets 
+Infrastructure – outline of critical bottlenecks and priority action areas 
+identified by the Carbon Market Infrastructure Working Group. https:/ /hdl.
+handle.net/10986/42389 
+• High Integrity, High Impact: The World Bank Engagement Roadmap 
+for Carbon Markets – roadmap for how the World Bank and others can 
+do more to unlock the potential of carbon markets. https:/ /hdl.handle.
+net/10986/42016 
+• State and Trends of Carbon Pricing: International Carbon Markets, 2024 
+– report evaluating progress made in addressing bottlenecks impeding the 
+growth of carbon markets and proposing recommendations to help markets 
+reach their full potential. https:/ /hdl.handle.net/10986/42094
+• Navigating Decisions on Carbon Markets – high-level guidance document 
+offering structured questions to guide the development of a host country’s 
+carbon market strategy.  https:/ /www.pmiclimate.org/publication/navigating-
+decisions-carbon-markets
+• Carbon Crediting: A Results-based Approach to Mobilizing Additional 
+Climate Financing – a report providing a deep dive into various crediting 
+approaches—from project-based to the more recent policy and other scaled-
+up crediting models. https:/ /hdl.handle.net/10986/43049
+
+--- PÁGINA 69 ---
+
+State and Trends of Carbon Pricing 202569
+ANNEX B
+Summary of carbon pricing instruments
+The table below summarizes key metrics for implemented carbon taxes and ETSs as of April 1, 2025. For up-to-date information, please visit https:/ /
+carbonpricingdashboard.worldbank.org/. 
+Instrument name  Type Start 
+dateJurisdiction Region Economy income 
+groupMain price 
+rate Share of 
+jurisdiction's GHG 
+emissions coveredGovernment 
+revenue from 
+direct carbon 
+pricing (2024)
+Albania carbon tax Carbon tax 2010 Albania Europe & Central Asia Upper middle income USD 13.7 73%
+Alberta TIER ETS 2007 Canada North America High income USD 66.2 59% USD 412 million
+Andorra carbon tax Carbon tax 2022 Andorra Europe & Central Asia High income USD 32.4 95%
+Argentina carbon tax Carbon tax 2018 Argentina Latin America & Caribbean Upper middle income USD 5.3 38% USD 225 million
+Australia safeguard mechanism ETS 2023 Australia East Asia & Pacific High income USD 21.8 26%
+Austria ETS ETS 2022 Austria Europe & Central Asia High income USD 48.5 36% USD 1,264 million
+British Columbia OBPS ETS 2016 Canada North America High income USD 66.2 26%
+Beijing pilot ETS ETS 2013 China East Asia & Pacific Upper middle income USD 12.2 17% USD 1 million
+California cap and trade ETS 2012 United States North America High income USD 29.3 76% USD 4,401 million
+Canada federal OBPS ETS 2019 Canada North America High income USD 66.2 3%
+Chile carbon tax Carbon tax 2017 Chile Latin America & Caribbean High income USD 5.0 55% USD 140 million
+China national ETS ETS 2021 China East Asia & Pacific Upper middle income USD 11.8 51%
+Chongqing pilot ETS ETS 2014 China East Asia & Pacific Upper middle income USD 5.5 14% USD 3 million
+Colima carbon tax Carbon tax 2025 Mexico Latin America & Caribbean Upper middle income USD 27.8 17%
+Colombia carbon tax Carbon tax 2017 Colombia Latin America & Caribbean Upper middle income USD 6.5 20% USD 133 million
+Colorado GHG crediting trading 
+systemETS 2023 United States North America High income 3%
+Denmark carbon tax Carbon tax 1992 Denmark Europe & Central Asia High income USD 108.4 64% USD 503 million
+Durango carbon tax Carbon tax 2023 Mexico Latin America & Caribbean Upper middle income USD 4.9 34% USD 6 million
+
+--- PÁGINA 70 ---
+
+State and Trends of Carbon Pricing 202570
+Estonia carbon tax Carbon tax 2000 Estonia Europe & Central Asia High income USD 27.0 10% USD 2 million
+EU ETS ETS 2005 European Union Europe & Central Asia High income USD 70.4 40% USD 41,703 million
+Finland carbon tax Carbon tax 1990 Finland Europe & Central Asia High income USD 66.9 45% USD 1,375 million
+France carbon tax Carbon tax 2014 France Europe & Central Asia High income USD 48.1 41% USD 7,844 million
+Fujian pilot ETS ETS 2016 China East Asia & Pacific Upper middle income USD 4.7 16%
+Germany ETS ETS 2021 Germany Europe & Central Asia High income USD 48.5 39% USD 13,933 million
+Guanajuato carbon tax Carbon Tax 2023 Mexico Latin America & Caribbean Upper middle income USD 4.9 40% USD 2 million
+Guangdong pilot ETS ETS 2013 China East Asia & Pacific Upper middle income USD 5.4 12%
+Hubei pilot ETS ETS 2014 China East Asia & Pacific Upper middle income USD 5.3 20%
+Hungary carbon tax Carbon tax 2023 Hungary Europe & Central Asia High income USD 38.8 32% USD 182 million
+Iceland carbon tax Carbon tax 2010 Iceland Europe & Central Asia High income USD 60.1 37% USD 54 million
+Indonesia ETS ETS 2023 Indonesia East Asia & Pacific Upper middle income USD 0.7 24%
+Ireland carbon tax Carbon tax 2010 Ireland Europe & Central Asia High income USD 68.5 34% USD 1,111 million
+Israel carbon tax Carbon tax 2024 Israel Middle East & North Africa High income USD 1.5 78%
+Japan carbon tax Carbon tax 2012 Japan East Asia & Pacific High income USD 1.9 80% USD 1,452 million
+Kazakhstan ETS ETS 2013 Kazakhstan Europe & Central Asia Upper middle income USD 0.9 43%
+Korea ETS ETS 2015 Korea, Rep. East Asia & Pacific High income USD 6.5 79% USD 134 million
+Latvia carbon tax Carbon tax 2004 Latvia Europe & Central Asia High income USD 16.2 2% USD 8 million
+Liechtenstein carbon tax Carbon tax 2008 Liechtenstein Europe & Central Asia High income USD 136.0 72% USD 9 million
+Luxembourg carbon tax Carbon tax 2021 Luxembourg Europe & Central Asia High income USD 58.5 72% USD 303 million
+Massachusetts ETS ETS 2018 United States North America High income USD 9.3 9% USD 19 million
+Mexico carbon tax Carbon tax 2014 Mexico Latin America & Caribbean Upper middle income USD 3.9 29% USD 411 million
+Mexico City carbon tax Carbon tax 2025 Mexico Latin America & Caribbean Upper middle income USD 2.8 18%
+Mexico ETS ETS 2020 Mexico Latin America & Caribbean Upper middle income 36%
+Montenegro ETS ETS 2022 Montenegro Europe & Central Asia Upper middle income USD 25.9 43% USD 14 million
+Morelos carbon tax Carbon tax 2025 Mexico Latin America & Caribbean Upper middle income USD 12.3 31%
+Netherlands carbon tax Carbon tax 2021 Netherlands Europe & Central Asia High income USD 94.8 45%
+New Brunswick OBPS ETS 2021 Canada North America High income USD 66.2 54%
+New Zealand ETS ETS 2008 New Zealand East Asia & Pacific High income USD 32.0 44% USD 293 million
+
+--- PÁGINA 71 ---
+
+State and Trends of Carbon Pricing 202571
+Newfoundland and Labrador 
+Performance Standards SystemETS 2019 Canada North America High income USD 66.2 36% USD 0.4 million
+Norway carbon tax Carbon tax 1991 Norway Europe & Central Asia High income USD 133.9 65% USD 1,605 million
+Nova Scotia OBPS ETS 2019 Canada North America High income USD 66.2 36% USD 13 million
+Ontario EPS ETS 2022 Canada North America High income USD 66.2 26%
+Oregon ETS ETS 2021 United States North America High income 48%
+Poland carbon tax Carbon tax 1990 Poland Europe & Central Asia High income USD 0.1 24% USD 7 million
+Portugal carbon tax Carbon tax 2015 Portugal Europe & Central Asia High income USD 72.7 40% USD 1,270 million
+Quebec cap and trade ETS 2013 Canada North America High income USD 41.5 76% USD 1,055 million
+Queretaro carbon tax Carbon tax 2022 Mexico Latin America & Caribbean Upper middle income USD 32.8 18% USD 15 million
+Regional Greenhouse Gas 
+InitiativeETS 2009 United States North America High income USD 23.3 14% USD 1,456 million
+Saitama ETS ETS 2011 Japan East Asia & Pacific High income USD 1.0 16%
+San Luis Potosí carbon tax Carbon tax 2024 Mexico Latin America & Caribbean Upper middle income USD 16.7 68% USD 1 million
+Shanghai pilot ETS ETS 2013 China East Asia & Pacific Upper middle income USD 10.8 21% USD 13 million
+Shenzhen pilot ETS ETS 2013 China East Asia & Pacific Upper middle income USD 6.5 37%
+Singapore carbon tax Carbon tax 2019 Singapore East Asia & Pacific High income USD 18.6 71% USD 150 million
+Slovenia carbon tax Carbon tax 2023 Slovenia Europe & Central Asia High income USD 33.3 46% USD 173 million
+South Africa carbon tax Carbon tax 2019 South Africa Sub-Saharan Africa Upper middle income USD 12.8 82% USD 92 million
+Spain carbon tax Carbon tax 2014 Spain Europe & Central Asia High income USD 16.2 2% USD 118 million
+State of Mexico carbon tax Carbon tax 2022 Mexico Latin America & Caribbean Upper middle income USD 2.8 47% USD 14 million
+Sweden carbon tax Carbon tax 1991 Sweden Europe & Central Asia High income USD 144.6 40% USD 2,306 million
+Switzerland carbon tax Carbon tax 2008 Switzerland Europe & Central Asia High income USD 136.0 35% USD 1,426 million
+Switzerland ETS ETS 2008 Switzerland Europe & Central Asia High income USD 64.7 13% USD 50 million
+Tamaulipas carbon tax Carbon tax 2022 Mexico Latin America & Caribbean Upper middle income USD 16.7 48% USD 82 million
+Tianjin pilot ETS ETS 2013 China East Asia & Pacific Upper middle income USD 5.3 18%
+Tokyo cap and trade ETS 2010 Japan East Asia & Pacific High income USD 4.0 19%
+UK Carbon Price Support Carbon tax 2013 United Kingdom Europe & Central Asia High income USD 23.2 12% USD 872 million
+UK ETS ETS 2021 United Kingdom Europe & Central Asia High income USD 57.2 27% USD 3,250 million
+Ukraine carbon tax Carbon tax 2011 Ukraine Europe & Central Asia Upper middle income USD 0.7 32% USD 80 million
+
+--- PÁGINA 72 ---
+
+State and Trends of Carbon Pricing 202572
+Uruguay CO2 tax Carbon tax 2022 Uruguay Latin America & Caribbean High income USD 158.8 5% USD 302 million
+Washington CCA ETS 2023 United States North America High income USD 50.0 71% USD 811 million
+Yucatan carbon tax Carbon tax 2022 Mexico Latin America & Caribbean Upper middle income USD 15.0 32% USD 6 million
+Zacatecas carbon tax Carbon tax 2017 Mexico Latin America & Caribbean Upper middle income USD 12.3 50% USD 16 million
+Note: Price and revenue values are blank where data is not available or where revenue has not been collected.
+
+--- PÁGINA 73 ---
+
+State and Trends of Carbon Pricing 202573
+ANNEX C
+Definitions
+Carbon pricing
+Carbon pricing seeks to align the costs of consuming carbon-intensive fuels 
+or using carbon-intensive processes with the social costs of those activities. 
+If well designed and sufficiently ambitious, carbon pricing creates economic 
+incentives to shift investments, production, and consumption toward low-
+carbon alternatives, drives clean technological innovation, and reduces the 
+need for additional public spending. Carbon pricing can help raise revenues 
+in a more efficient and less distortive way than alternative options, such as 
+labor taxes, while delivering numerous benefits to society beyond climate 
+mitigation. Carbon pricing is an important policy tool that can be used as part of 
+a comprehensive policy package to decarbonize economies.
+Direct carbon pricing
+Direct carbon pricing is implemented to reduce GHG emissions by providing 
+a price signal closely linked to actual emissions. Direct carbon pricing 
+instruments are categorized as “compliance” instruments or “carbon 
+crediting” mechanisms. Under compliance instruments (such as emissions 
+trading systems or carbon taxes), covered entities are obligated to pay for the 
+emissions from covered activities. Participation in carbon crediting on the other 
+hand is voluntary, with participants earning credits in recognition of quantified 
+and verified emissions reductions or removals.
+Indirect carbon pricing
+Indirect carbon pricing refers to instruments that change the price of products 
+associated with carbon emissions in ways that are not directly proportional 
+to the relative emissions associated with those products. These instruments 
+provide a carbon price signal, even though they are often (primarily) adopted for other socioeconomic objectives, such as raising public revenues or addressing 
+air pollution. Examples of indirect carbon pricing include fuel and commodity 
+taxes, as well as fossil fuel subsidies affecting energy consumers. For example, 
+fuel excise taxes apply a tax to the volume of fuels, such as gasoline and 
+diesel (e.g., dollars per liter), which places a price on the carbon emissions 
+from the combustion of those fuels. However, the price is not determined in 
+proportion to the relative emissions resulting from the combustion of those 
+fuels. Conversely, fuel subsidies that reduce the price of fossil fuels create a 
+“negative” indirect carbon price signal, which incentivizes higher consumption 
+and therefore increases carbon emissions.
+While carbon pricing policies can be categorized as direct or indirect, in 
+practice, the distinction is not always obvious. The most direct carbon 
+pricing policy would apply an equivalent and proportional incentive to reduce 
+greenhouse gas emissions across all sectors and fuels. Indirect carbon pricing 
+policies still create a price signal that applies to fossil fuels or products, but 
+they are not designed to apply a consistent price across emissions from 
+different sources (e.g., the price is not linked to actual GHG emissions or the 
+carbon content of fuels). ETSs, carbon taxes, and carbon crediting are direct 
+carbon pricing policies, but in reality, all examples of these policies currently in 
+operation differ across sectors, fuels, activities, and/or gases. As a result, the 
+distinction between direct and indirect carbon prices is less stark in practice, 
+and carbon pricing policies sit on a spectrum from direct to indirect.
+
+--- PÁGINA 74 ---
+
+State and Trends of Carbon Pricing 202574
+Term category Term Definitions
+Carbon pricing 
+instruments Emissions trading 
+systemIn an ETS, the government places a limit on the amount of GHG emissions from covered entities. Entities must surrender emission 
+units (or “allowances”) to cover their emissions within a compliance period. Each emission unit represents the right to emit a 
+certain volume of emissions (typically 1 tCO2e) and can be traded between covered entities or sometimes with other traders. There 
+are several different types of ETSs, including “cap-and-trade” and “rate-based” approaches, and different terms are used for the 
+emission units within different systems. The carbon price in these systems is usually a function of supply and demand for emission 
+units.
+Carbon tax Through a carbon tax a government levies a fee on covered entities for their GHG emissions, providing a financial incentive to 
+reduce emissions. Under a carbon tax, the government sets the price of emissions (the tax rate). The resulting volume of emissions 
+reductions achieved by the policy is determined by the response of the emitting entities to the set price.
+Carbon crediting 
+mechanismUnder a carbon crediting mechanism, tradable credits (each representing 1 tCO2e) are generated through voluntary mitigation 
+activities that avoid (preventing GHGs from being released, such as capturing methane from landfills) or remove (extracting GHG 
+from the atmosphere, for instance through afforestation that sequesters carbon) emissions. These credits are issued following 
+established protocols designed to ensure that each credit corresponds to a real and measurable reduction or removal. 
+Once issued, carbon credits can be sold, creating a source of revenue for the project. While carbon crediting mechanisms create a 
+source of supply, they rely on a separate source of demand for credits in order to deliver a financial incentive to reduce emissions. 
+Demand for credits can come from compliance instruments (e.g., businesses regulated under an ETS or a carbon tax that allows the 
+use of offsets, countries meeting nationally determined contribution targets under the United Nations Framework Convention on 
+Climate Change (UNFCCC), or voluntary offsetting.
+Types of carbon 
+crediting 
+mechanismsInternational crediting 
+mechanismMechanisms managed or administered by an international organization, including those established with authority of national 
+governments, such as UN agencies. This category includes the Paris Agreement Crediting Mechanism.
+Independent crediting 
+mechanismMechanisms administered by a nongovernmental organization, such as Verra and Gold Standard.
+Governmental 
+crediting mechanismMechanisms administered by one or more governments, such as the California Compliance Offset Program and the Australian 
+Carbon Credit Unit Scheme. 
+Status Under consideration A government has announced its intention to work toward the implementation of a carbon pricing instrument and this has been 
+formally confirmed by official sources.
+Under development A government is actively working toward the implementation of a specific carbon pricing instrument (for example, a mandate may 
+have been established, but regulated entities do not yet face compliance obligations, or no credits have been issued) and this has 
+been formally confirmed by official government sources.
+Implemented The instrument is in full operation. For a compliance instrument, the carbon pricing instrument has been formally adopted through 
+legislation and compliance obligations are in force and enforced. For crediting, credits have been issued (or have frameworks in 
+place to allow credits to be used domestically) and activities are ongoing.
+
+--- PÁGINA 75 ---
+
+State and Trends of Carbon Pricing 202575
+Term category Term Definitions
+Greenhouse gases CO2Carbon dioxide
+CH4Methane
+N2O Nitrous oxide
+PFCs Perfluorocarbons
+HFCs Hydrofluorocarbons
+SF6 Sulfur hexafluoride
+Other Other GHGs or substances that are not regulated under the UNFCCC, for example black carbon or nitrogen oxides. 
+Sectoral coverage 
+statusCovered Point-source emissions from this sector are generally subject to compliance obligations (even if the regulation may apply to entities 
+upstream or downstream from the emissions point source) or eligible for crediting. Some emissions from the sector may not be 
+eligible or covered, for example if there are exemptions or exclusions for a particular GHG.
+Covered in principle Some point-source emissions from this sector are covered, but in practice the share of emissions covered is very low. The low 
+coverage rate is usually due to non-sector-specific exclusions such as certain fuels or gases being exempt, most entities in the 
+sector falling below relevant thresholds for participation, or most entities already being covered by another initiative.
+Not covered No point-source emissions from the sector are covered.
+Sectors covered 
+by a compliance 
+carbon pricing 
+instrument Electricity and heat Emissions resulting from fuels burned in facilities primarily producing electricity or heat for shared use. 
+Industry Emissions produced by industrial facilities including manufacturing, metal production, fertilizer production. Includes emissions from 
+fuel used for energy in these facilities as well as emissions from industrial processes.
+Mining and extractives Emissions from mines, rigs, and fuel processing. Includes emissions from fuel used for energy in these facilities as well as fugitive 
+emissions.
+Transport Emissions resulting from fuels burned for energy in the service of moving people or goods (e.g., road, rail) except for aviation.
+Aviation Emissions resulting from fuels burned in the aviation sector. 
+Buildings Emissions resulting from fuels burned for energy in residential, commercial, and public sector buildings.
+Agriculture, forestry, 
+and fishing fuel useEmissions resulting from fuels burned for energy in the agriculture, forestry, and fishing sectors.
+Agricultural emissions Emissions resulting from agricultural processes like livestock and fertilizer use. Excludes fuel use and land-use, land-use change, 
+and forestry.
+Waste Emissions resulting from waste management facilities including incineration of waste, methane or CO2 produced from landfills, etc. 
+Excludes fuel use.
+Land-use, land-use 
+change, and forestryEmissions (or removals) resulting from changes to carbon sinks in plants and soils.

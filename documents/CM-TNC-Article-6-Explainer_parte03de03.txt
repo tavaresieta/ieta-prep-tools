@@ -1,0 +1,629 @@
+DOCUMENTO: CM-TNC-Article-6-Explainer
+PARTE 3 de 3
+Páginas 31 a 36
+======================================================================
+
+
+--- PÁGINA 31 ---
+
+31• Standards requirements: The line between voluntary 
+and compliance markets is blurring. Traditionally, 
+standards that have typically served the voluntary 
+carbon market, like Verra, Gold Standard  and ART/
+TREES, are now eligible to certify units that will be 
+used as ITMOs or for CORSIA. For example, Sin-
+gapore’s carbon tax system allows companies to 
+meet obligations with ITMOs that may be based on 
+voluntary methodologies. Similarly, CORSIA—the 
+aviation sector’s compliance scheme—can source el-
+igible credits from standards traditionally used in the 
+voluntary space. ART/TREES also offers a pathway 
+aligned with UNFCCC guidance for seller countries 
+to monetize the results of their jurisdictional REDD+ 
+programs and has requirements for providing eligible 
+units to CORSIA, including reporting corresponding 
+adjustments to the UNFCCC. In addition, the IETA 
+Article 6 tracker also shows numerous examples of 
+countries having authorized individual projects for 
+Article 6 purposes based on methodologies normally 
+used for voluntary purposes.
+• Article 6 requirements: With the Paris Agreement 
+Crediting Mechanism - PACM (Article 6.4) coming 
+online, the new standards and methodologies might 
+help shape the definition of “high quality” in the mar -
+ket as a whole, including in the voluntary markets. 
+For example, France announced its commitment 
+to support the use of carbon credits aligned with 
+both IC-VCM’s Core Carbon Principles (CCPs) and 
+Article 6.4 methodologies. The EU’s Task Force for 
+International Carbon Pricing and Markets Diplomacy  
+is promoting the development of carbon pricing and 
+carbon markets worldwide, including high integrity 
+in voluntary carbon markets aligned with Article 6.4 
+standards. Also, the definition of Mitigation Contri-
+bution Units under Article 6.4 reflects the fact that 
+companies might purchase these units to make a 
+contribution to the seller country’s NDC targets.Will corresponding adjustments be required 
+for all voluntary carbon credits?
+No. Corresponding adjustments are not universally required 
+for voluntary uses. Since the UNFCCC does not have author -
+ity over the voluntary market, the decision is left to national 
+governments, independent carbon standards, and the buyers 
+themselves. While some countries like the Bahamas have 
+mandated corresponding adjustments for all international 
+sales, most governments have not yet taken a position on 
+this. Whether corresponding adjustments become a com-
+mon market requirement remains an open question—and 
+much depends on how the private sector, especially major 
+voluntary buyers, chooses to approach this issue.
+Are carbon credits with a corresponding 
+adjustment higher quality than a credit without it?
+Not necessarily. A corresponding adjustment determines 
+how a carbon credit will be accounted for. But the quality 
+of a carbon credit depends on the integrity of the under -
+lying project—how emissions are measured, verified, 
+and monitored—not the market in which it is transacted. 
+Project quality varies between and across sectors (See: 
+Figure 16) and there have been both high- and low-quality 
+credits issued in every type of carbon market - including 
+the CDM, where double counting was not even an issue 
+(See: Article 6 supply ). A single project could generate 
+units that are used for voluntary purposes, domestic 
+compliance schemes, or authorized for use under Article 
+6. In each case, the credit is exactly the same, but the 
+surrounding rules and claims differ. This is why standards, 
+compliance systems, and initiatives like CORSIA and Ar -
+ticle 6 all develop their own rules to define what counts 
+as a valid carbon unit. As these systems evolve, they have 
+been increasingly converging—but for now, the pathways 
+remain parallel, with overlaps in infrastructure and meth-
+odology, but variation in demand, use and governance.
+
+--- PÁGINA 32 ---
+
+32CDM transition: What was decided?
+The Clean Development Mechanism, under the Kyoto 
+Protocol, was one of the world’s first international carbon 
+finance schemes. It allowed developed countries to invest in 
+emission reduction projects in developing countries to meet 
+their reduction targets under the Kyoto Protocol. These proj-
+ects generated certified emission reduction (CER) credits, 
+equivalent to one tonne of CO2e. 
+Can CDM projects transition to 
+the Article 6.4 Mechanism? 
+Yes, but the deadline has already passed for most projects: 
+projects must have requested to transition from the CDM 
+to Article 6.4 by the end of 2023 and the transition needs 
+to be concluded by the end of 2025.107 The exception is 
+afforestation and reforestation projects, which are allowed 
+to request transition until December 2025.108 Seller countries 
+are expected to exert significant control over the transition 
+process and must apply corresponding adjustments to the 
+units generated by transitioned projects. If approved by the 
+seller country, projects may continue to use the original CDM 
+methodology until the end of the current crediting period or 
+until December 31, 2025 (whichever is earlier). After this 
+date, these projects will have to follow Article 6.4 method-
+ologies.109 This poses a growing challenge ahead of COP30, 
+as no new Article 6.4 methodologies have been approved as 
+of May 2025, meaning that transitioning projects risk being 
+stranded unless methodologies are finalized in time – an issue 
+that may become a point of negotiations in Belém (COP30). 
+Nearly 1,400 CDM activities requested to transition into 
+Article 6 and if approved, these projects could issue over 
+900 million units under Article 6.4 for the 2021-2025 pe-
+riod.110 While this suggests a theoretical upper limit of close 
+to 1 billion CERs and Article 6.4 credits, actual issuances 
+will likely be much lower because project transitions need 
+to be approved by the seller country – a process which is 
+different from an Article 6 authorization for NDC or other purposes. (See: What is an authorization? ) In February of 
+2025, a cookstove project in Myanmar became the first CDM 
+project to officially transition into Article 6.4.111 This specific 
+methodology has received criticism and has been rejected by 
+the IC-VCM. New methodologies under the Paris Agreement 
+Crediting Mechanism - PACM (Article 6.4) are expected to 
+meet higher standards of environmental integrity.
+Can CERs be used towards NDCs? 
+Yes, although as of May 2025, no buyer country has explic-
+itly indicated interest in use of CERs for their first NDC. CERs 
+from projects registered (not issued) after 2013 can be used 
+for the first NDC compliance without a corresponding adjust -
+ment by the seller country.112 According to the New Climate 
+Institute, between 320 and 341 million CERs could transfer 
+from the CDM with the 2013 registration cut-off. This is a 
+significant decrease compared to almost 4 billion units that 
+could have been transferred without the 2013 cut-off.113 This 
+was one of the negotiations’ “sticking points” for years, over 
+concerns that these pre-2020 units would “flood” the market 
+and not be considered additional. According to the World 
+Bank around 87 million CDM Certified Emission Reductions 
+(CERs) could be issued for pre-2020 emission reductions, 
+which could be used by countries to achieve their first NDCs. 
+It is important to consider that CERs used toward 1st NDC are 
+not considered ITMOs. ITMOs by definition are generated 
+in 2021 or later, whereas eligible CERs are from 2013-2020. 
+When will the CDM be over?
+The official end-date of the CDM has not yet been agreed. This 
+has significant implications for the financing of the Article 6 
+mechanism infrastructure and operationalization, as the UNF -
+CCC Secretariat may need to use money from the CDM Trust 
+Fund to run the new mechanism before becoming self-funding. 
+It is expected that this issue may take the stage among carbon 
+market negotiators in the UNFCCC process at COP30.
+
+--- PÁGINA 33 ---
+
+33OMGE and SOP: What discounts  
+and fees apply to Article 6?
+What are the various discounts and fees in Article 6 and who 
+pays for them? There are two: Share of Proceeds (SOP) and 
+Overall Mitigation of Global Emissions (OMGE). Both SOP and 
+OMGE are required for all Article 6.4 issuances but are only 
+encouraged for Article 6.2 trades “on a voluntary basis”. How -
+ever, some countries may require the use of OMGE and SOP 
+as part of their Article 6.2 bilateral deals (e.g. Switzerland and 
+Singapore). One important nuance is that both SOP and OMGE 
+are due at issuance by the seller country, not at transfer. As a 
+result, the burden of these fees and discounts falls on the seller 
+country, which will likely try to pass on the cost to buyers. At 
+COP29, it was decided that Least Developed Countries (LDC) 
+and Small Islands Developing States (SIDS) are now exempt 
+from paying Share of Proceeds, a move aimed at reducing finan-
+cial burdens for vulnerable nations and increasing their access 
+to markets. Despite this exemption, LDCs and SIDs retain the 
+option to contribute voluntarily if they wish. 
+• SOP is applied as both a volume of issued units and a 
+monetary contribution ($): For all units issued under Ar -
+ticle 6.4, a levy of 5% of the volume of issued carbon units 
+will be transferred to a new account established in 2021 within the Adaptation Fund. This requirement is similar 
+to what happened under the Kyoto Protocol, where 2% of 
+CERs issued for a CDM project activity would go to the 
+Adaptation Fund to be sold by the Fund’s Trust, which is the 
+World Bank. At COP27, it was clarified that the 5% cancel-
+lation applies to all Article 6.4 units, including Article 6.4 
+Mitigation Contributions (See: Terminology Box 2), which 
+are not authorized by the seller country. The monetary 
+contribution was defined by the Supervisory Body and 
+approved at COP27 as a set of 5 different fees whose level 
+depends on the project size and other factors (See Table 1). 
+These fees are used to pay administrative expenses.
+• OMGE is an automatic cancellation in volume (not $): 
+For all Article 6.4 issuances, 2% of the units will not be 
+eligible for sale. Instead, they will be redirected to a can-
+cellation account that the Supervisory Body will set up. 
+This is intended to increase ambition by ensuring a net 
+reduction in emissions, rather than just 1-to-1 offsetting 
+of CO2. At COP27, it was clarified that the 2% cancella-
+tion applies to all Article 6.4 units, including Article 6.4 
+Mitigation Contributions, which are not authorized by the 
+seller country. (See: Terminology Box 2)
+Table 1: OMGE and SOP
+Name Destination and 
+purposeType Values
+SOP Adaptation Fund (for 
+all activities)*Automatic transfer of 
+issued volume5% of Article 6.4 units at issuance, including MCUs114
+Adaptation Fund (for 
+specific activities)$ 3% of the issuance fee paid for each request for issuance of Article 6.4 
+units and transferred annually to the Adaptation Fund.115
+Supervisory Body 
+for Administrative 
+expenses$ Set of 5 different fees charged for registration, issuance, renewal, 
+inclusion of CPAs, and approval of a post-registration change.116 The 
+Supervisory Body defined the levels for each fee, which have been 
+approved at COP 27.117
+OMGE Cancellation account to 
+increase ambitionAutomatic cancellation 
+of issued volumeMinimum 2% of the issued Article 6.4 units.118
+*Not mandated for those in Least Developed Countries (LDC) and Small Islands Developing States (SIDS)
+
+--- PÁGINA 34 ---
+
+34Notes
+1 For case studies about how countries are developing their domestic frameworks, see 
+TNC’s Article 6 Implementation Report. 
+2 Decision 4/CMA.6, Paragraph 7-9
+3 Decision 4/CMA.6, Paragraph 6
+4 Decision 2/CMA.3, Annex, Paragraph 30
+5 Decision 4/CMA.6, paragraph 53
+6 For more details see: Climate Focus, 2025. “Paris Agreement Crediting Mechanism 
+after COP29”. Available at: https:/ / climatefocus.com/wp-content/uploads/2025/05/
+The-Paris-Agreement-Crediting-Mechanism-After-COP29_FINAL.pdf
+7 Decision 4/CMA.6, paragraph 24
+8 Decision 5/CMA.6, Paragraph 12
+9 Decision 5/CMA.6, Paragraph 13
+10 See report of the 5th meeting of the Supervisory Body, Agenda item 3.3, 8b. Available 
+at: https:/ /unfccc.int/ documents/628263 
+11 Decision 5/CMA.6, Paragraph 21 
+12 Decision 3/CMA.3, Annex, Paragraph 73
+13 World Bank, 2024. “State and Trends of Carbon Pricing 2024. Washington, DC: World 
+Bank”. DOI: 10.1596/978-1-4648-2127-1. License: Creative Commons Attribution CC 
+BY 3.0 IGO. Available at: https:/ / openknowledge.worldbank.org/server/ api/ core/
+bitstreams/253e6cdd-9631-4db2-8cc5-1d013956de15/ content 
+14 Decision 4/CMA.6, paragraph 7
+15 The first reports on expert reviews were published in May 2025 for the cooperative 
+approaches between Switzerland and Ghana, Switzerland and Thailand, and 
+Switzerland and Vanuatu.
+16 Decision 3/CMA.3, paragraph 73(d)
+17 Decision 3/CMA.3, paragraph 73(d)
+18 Decision 2/CMA.3, paragraph 14 and Decision 3/CMA.3, paragraph 10.
+19 This topic was mandate by Decision 2/CMA.3, paragraph 3 (b)
+20 Carbon Pulse, 2024. “Dozens of airlines scoop up CORSIA credits “in the low $20s” at 
+special auction-sources” Available at: https:/ / carbon-pulse.com/352689/ 
+21 Decision 2.CMA.3, Annex, paragraph 1 (b)
+22 Decision 2.CMA.3, Annex, paragraph 1 (g)
+23 Decision 7 /CMA.4, Annex, paragraph 29 (b)
+24 For the purposes of this paper, we define non-market approaches as international 
+cooperation between countries without the expectation of trading carbon credits. 
+25 World Bank, 2021. “Lessons from creating mitigation outcomes”. Available at: https:/ /
+blogs.worldbank.org/ en/ climatechange/lessons-creating-mitigation-outcomes 
+26 Decision 2.CMA.3, Annex, paragraph 1 (b)
+27 Decision 2.CMA.3, Annex, paragraph 1 (g)
+28 Decision 7 /CMA.4, Annex, paragraph 29 (b)
+29 Decision 5/CMA.6, Paragraph 12
+30 OECD/EIA, 2022. “The birth of an ITMO: Authorisation under Article 6 of the Paris 
+Agreement”. Available at: https:/ /www.oecd-ilibrary.org/ docserver/3d175652-en.
+pdf?expires=1669744163&id=id&accname=guest&checksum=7EC7B35BC4E -
+C376F5710F63D3234C8E7 
+31 Decision 4/CMA.6, paragraph 6
+32 Decision 4/CMA.6, paragraph 7-9
+33 Decision 4/CMA.6, paragraph 3. This is not new and was originally agreed upon 
+at COP26. However, the COP29 decision acknowledges these three types of 
+authorizations, providing more clarity to this issue.
+34 Decision 2/CMA.3, Annex, paragraph 14
+35 Decision 3/CMA.3 Annex, paragraph 75d
+36 Decision 7 /CMA.4, Annex, paragraph 29 (b)
+37 Decision 2/CMA.3 Annex, paragraph 33
+38 Decision 2/CMA.3 Annex, paragraph 25-28
+39 Decision 2/CMA.3, Annex, paragraph 18 (h)
+40 The first reports on expert reviews were published in May 2025 for the cooperative 
+approaches between Switzerland and Ghana, Switzerland and Thailand, and 
+Switzerland and Vanuatu.
+41 Decision 20/CMA.1, Annex, paragraph 22 (b)
+42 According to Article 6.2 rules, ITMOs are authorized by a participating Party (singular). 
+Therefore, while countries are free to design cooperative approaches where eligible 
+units must be authorized by both the selling and buying country (bilateral authoriza-
+tion), unilateral authorizations are permitted by the Article 6 rulebook. See Decision 2/
+CMA.3, Annex, paragraph 1f. See also IETA’s Article 6 Policy Briefs – Authorization.
+43 REDD+ results refer to the measured and verified greenhouse gas emission reductions 
+or removals achieved through efforts to reduce deforestation, forest degradation, and 
+enhance forest carbon stocks.
+44 See IETA’s Article 6 Implementation Tracker for a list of countries that have issued 
+unilateral authorizations45 Carbon Pulse, 2024. “Dozens of airlines scoop up CORSIA credits “in the low $20s” at 
+special auction-sources”. Available at: https:/ / carbon-pulse.com/352689/ 
+46 UNFCCC, 2025. “Key Rules Agreed for Credible Climate Project Crediting under UN 
+Carbon Market”. Available at: https:/ /unfccc.int/news/key-rules-agreed-for-credible-
+climate-project-crediting-under-un-carbon-market 
+47 This section brings what we consider to be the key elements for Article 6.4 
+operationalization. For additional elements, see: Climate Focus, 2025. “Paris 
+Agreement Crediting Mechanism after COP29”. Available at: https:/ / climatefocus.
+com/wp-content/uploads/2025/05/The-Paris-Agreement-Crediting-Mechanism-Af -
+ter-COP29_FINAL.pdf
+48 Decision 3/CMA.3, paragraph 73(d)
+49 More information about this project is available at: https:/ / cdm.unfccc.int/
+ProgrammeOfActivities/poa_db/BQ0WHAOXJLK25SCPVF4GZ97ER6MD1N/
+view?_gl=1*czddeh*_ga*NDg0OTIxODU2LjE3MDcxMzExNzE.*_ga_7ZZWT -
+14N79*MTc0MDEyNzA0Mi4zNjguMS4xNzQwMTI3OT g5LjAuMC4w . See also: Calyx 
+Global. “Analyzing the first credits transitioning to the Article 6.4 Paris Agreement 
+Crediting Mechanism”. Available at: https:/ / calyxglobal.com/research-hub/research/
+analyzing-the-first-credits-transitioning-to-the-article-64-paris-agreement-credit -
+ing-mechanism/ 
+50 For more details about the SD Tool, see: UNEP, 2024. “News on the adoption of 
+the SD Tool under Article 6.4”. Available at: https:/ /unepccc.org/wp-content/
+uploads/2024/10/20241010-news-and-technical-analysis-on-adoption-of-a64-sd-
+tool.pdf  
+51 Although this timeline is not clear in the SBM 2025 workplan, the 2025 MEP workplan 
+states that the MEP will make a recommendation to the SBM for consideration in its 
+17th meeting in August 2025. The MEP workplan is available at https:/ /unfccc.int/sites/
+default/files/resource/ A6.4-SBM015-A02.pdf 
+52 See Decision 4/CMA.6, paragraph 49 and Decision 6/CMA.6, paragraph 16.
+53 Japan: Japan has stated in its NDC that it “aims to contribute to international emission 
+reductions and removals at the level of a cumulative total of approximately 100 million 
+tCO2 by fiscal year 2030 through public-private collaborations. Japan will appropriately 
+count the acquired credits to achieve its NDC.” Japan, 2025. “Nationally Determined 
+Contribution (NDC)”. Available at: https:/ /unfccc.int/sites/ default/files/2025-02/
+Japans%202035-2040%20NDC.pdf#page=12 
+Singapore: Singapore has stated in its BTR that the country “estimates the use of 
+2.51 Mt CO2 eq per annum of ITMOs over the NDC implementation period (i.e., from 
+2021 to 2030)”. This estimate translates to a cumulative demand of 25.1Mt CO2e 
+by 2030. Government of Singapore, 2024. Biennial Transparency Report. Available 
+at: https:/ /unfccc.int/sites/ default/files/resource/Singapore%20BTR1%202024.
+pdf#page=28 
+South Korea: South Korea’s Presidential Commission on Carbon Neutrality and Green 
+Growth set reduction targets by sector in accordance with its 2030 NDC goal to 
+reduce GHG emissions by 40 percent from 2018 levels. The commission clarifies the 
+target for the “international reduction” sector is 37.5 Mt CO2e in reductions by 2030. 
+Available at: https:/ /www.2050cnc.go.kr/ eng/ contents/view?contentsNo=67&menu-
+Level=2&menuNo=119 
+Switzerland: The country has not included ITMO demand estimates in its NDC or 
+BTR, but The KliK Foundation estimates a “maximum of 20.3 million ITMOs in the 
+period 2025 to 2030” for motor fuel companies to offset emissions as part of the Swiss 
+Law. Klik Foundation, 2023. “Annual Report 2023”. Available at: https:/ / a.storyblok.
+com/f/246794/x/99b0a3320c/ annual-report_2023.pdf 
+Sweden: Sweden has not announced demand for ITMOs in its NDC nor related 
+documents. The estimate presented in Figure 10 was taken from the report “Road to 
+a Climate-Positive Future” (in Swedish: "Vägen till en klimatpositiv framtid"), by the 
+Climate Policy Roadmap Commission for the Swedish Government at the beginning 
+of the current NDC compliance period (2020). The commission’s recommendations 
+in Section 13 include the following on use of international ERs: (translated via DeepL): 
+“The Government should establish a program to implement efforts for international 
+emission reductions under Article 6 of the Paris Agreement during the 2020s, with the 
+Swedish Energy Agency as the responsible authority. The program should be designed 
+to achieve at least 20 million units from emission reduction measures implemented 
+in other countries.” Available at: https:/ /www.regeringen.se/rattsliga-dokument/
+statens-offentliga-utredningar/2020/01/sou-20204/
+Norway: Background: In November 2022, Norway submitted its updated NDC, 
+committing to reduce greenhouse gas emissions by at least 55% by 2030 compared to 
+1990 levels. Norway intends to achieve this target in cooperation with the EU, building 
+on a 2019 agreement between Norway, Iceland, and the EU to align efforts under EU 
+climate legislation. This cooperation involves participation in three main pillars: (1) the 
+Effort Sharing Regulation (ESR), which sets national reduction targets for sectors like 
+transport, agriculture, and buildings; (2) the EU Emissions Trading System (ETS), and 
+(3) LULUCF regulations, which establish targets for net carbon removals from land use 
+and forestry (Norway’s Climate Status and Action Plan, referenced in the BTR).
+
+--- PÁGINA 35 ---
+
+35However, compliance with these three EU pillars does not automatically ensure that 
+Norway meets its own NDC, due to differences in baseline years (e.g., 1990 for the NDC 
+vs. 2005 for ESR/ETS), and the way ITMO transfers are treated under EU rules versus 
+Article 6 of the Paris Agreement. Norway’s first BTR clarifies that target fulfillment will 
+occur within the Article 6 framework and the EU cooperation structure. Final accounting 
+of ITMOs will depend on future arrangements with the EU and Iceland, particularly in 
+relation to Norway’s participation in the ETS. Since Norwegian entities are expected 
+to remain net purchasers of EU allowances over the NDC period, as per the BTR, this 
+will result in a net acquisition of ITMOs that will be applied toward Norway’s NDC. The 
+BTR notes that the final accounting of Norway’s NDC under Article 6.2 will depend on 
+future arrangements with the EU and Iceland—especially as they relate to Norway’s 
+participation in the EU Emissions Trading System (EU ETS) (BTR, p. 38).
+The BTR further states that if EU mechanisms prove insufficient, Norway intends to use 
+ITMOs from countries outside the EEA to close any remaining gap. 
+The government has earmarked NOK 8.2 billion under the Global Emission Reduction 
+Initiative for purchasing ITMOs from third countries. However, the precise conditions 
+under which such credits would be applied remain ambiguous, particularly since 
+Norway’s NDC is framed as being fulfilled “through EU rules.” The 16.1 Mt figure therefore 
+signals a potential shortfall—but not a definitive ITMO demand—in light of unresolved 
+regulatory and procedural uncertainties. An agreement is signed with Uzbekistan through 
+the World Bank program Transitional Carbon Asset Facility (TCAF), and initial MoUs 
+or agreements are developed with Benin, Indonesia, Jordan, Morocco, Senegal and 
+Zambia for cooperation facilitated by the Global Green Growth Institute. Estimation:  
+With this context, the BTR provides an estimate of a 21.9 MtCO2e cumulative gap in the 
+Effort Sharing Regulation (ESR) sectors between 2021–2030, nder a 50% Effort Sharing 
+target for 2030. (Table 2.5). It further mentions that Norway has access to 5.8 million 
+EU allowances (EUAs) eligible for conversion toward ESR compliance (Box 2.1, pp. 41). 
+Remaining shortfall if no additional transfers: ≈ 16.1 MtCO2e. Subtracting the 5.8 Mt 
+EUAs from the ~21.9 Mt gap leaves roughly 16 MtCO2e as the potential unmet gap for 
+2021–2030 if no further international credits are obtained from the EU. In other words, 
+about 16.1 MtCO2e would still need to be abated or offset by other means in order to 
+hit the 2030 target, absent new transfers.This estimate provides a working estimate of 
+Norway’s anticipated emissions shortfall in ESR sectors if no additional transfers from 
+EU countries occur. We have not found estimates of a similar quantified shortfall for ETS 
+sectors in the BTR. Assumptions: While the 16.1 Mt figure is used as a proxy for potential 
+ITMO demand, some aspects lack clarity from the public information we have reviewed. 
+For once, the EU rules do not permit the use of third-country Article 6 ITMOs for ESR 
+compliance, meaning this gap can only be closed through domestic action, banking, or 
+transfers within the EU/EEA. Yet, Norway’s BTR does reserve the option to use Article 
+6.2 ITMOs from outside the EU/EEA if cooperation with the EU proves insufficient to 
+meet its overall 55% reduction target.
+Liechtenstein: The country signaled intent to purchase 35 kt CO2e.
+CORSIA: This demand estimate is taken from the “Interim Assessments in Support of 
+the 2025 CORSIA Periodic Review” at the 234th ICAO Council Session from March 
+2025. ICAO’s “Updated Forward Looking CORSIA Analyses, Estimation of Offsetting 
+Requirements” Mid CAEP/13 scenario estimates a cumulative demand between 2024 
+to 2030 of 466 MtCO2e. Estimates available at: https:/ /www.icao.int/ environmen-
+tal-protection/CORSIA/Documents/CAEP_Inputs%20to%202025%20CORSIA%20
+periodic%20review%20(C234).pdf
+54 Carbon Pulse, 2024. Dozens of airlines scoop up CORSIA credits in the low $20s” at 
+special auction-sources. Available at: https:/ / carbon-pulse.com/352689/ 
+55 IETA and A6IP, 2024. “Business Pulse Survey”. Available at: https:/ /ieta.b-cdn.net/
+wp-content/uploads/2024/11/IETA_Resources_Report_A6-Pulse-Survey.V3.pdf
+56 IETA and A6IP, 2024. “Business Pulse Survey”. Available at: https:/ /ieta.b-cdn.net/
+wp-content/uploads/2024/11/IETA_Resources_Report_A6-Pulse-Survey.V3.pdf
+57 Switzerland, 2025. “Switzerland’s Nationally Determined Contribution.” Available at: 
+https:/ /unfccc.int/sites/ default/files/2025-01/Switzerland%20second%20NDC%20
+2031-2035.pdf
+58 Carbon Pulse, 2025. “Article 6 Portal.” Available at: https:/ / carbon-pulse.com/
+article-6-portal/
+59 KliK is an association of fossil motor fuel importers in the transport sector. Fossil fuels 
+used for heating for example are not covered under the compensation obligation 
+stipulated under the Swiss CO2 law.
+60 Japan, 2025. “Japan’s Nationally Determined Contribution.” Available at: https:/ /
+unfccc.int/sites/ default/files/2025-02/Japans%202035-2040%20NDC.pdf
+61 Japan Ministry of Foreign Affairs, 2024. “Joint Crediting Mechanism.” Available at: 
+https:/ /www.mofa.go.jp/ic/ ch/page1we_000105.html
+62 Carbon Pulse, 2025. “Article 6 Portal.” Available at: https:/ / carbon-pulse.com/
+article-6-portal/63 Japan: Japan has stated in its NDC that it “aims to contribute to international 
+emission reductions and removals at the level of a cumulative total of approximately 
+100 million tCO2 by fiscal year 2030 through public-private collaborations. Japan will 
+appropriately count the acquired credits to achieve its NDC.” Japan, 2025. “Nationally 
+Determined Contribution (NDC)”. Available at: https:/ /unfccc.int/sites/ default/
+files/2025-02/Japans%202035-2040%20NDC.pdf#page=12 
+64 Defined as per decision 897 in 2015-2016 by the Norwegian Parliament. 
+Government of Norway, 2024. “Norway Launches Initiative to Cut Emissions in 
+Developing Countries.” Available at: https:/ /www.regjeringen.no/ en/ aktuelt/
+norway-launches-initiative-to-cut-emissions-in-developing-countries/id3075202/?-
+expand=factbox3075208
+65 Government of Norway, 2024. Norwegian Carbon Credit Procurement Program. 
+Available at: https:/ /www.regjeringen.no/ en/topics/ climate-and-environment/
+climate/norwegian-carbon-credit-procurement-program/id2415405/?expand=fact -
+box3023299
+66 GGGI, 2023. “Norway and Morocco Sign MoU: Launching bilateral cooperation 
+under Article 6 at COP28.” Available at: https:/ / gggi.org/norway-and-moroc-
+co-sign-mou-launching-bilateral-cooperation-under-article-6-at-cop28/
+67 Data from South Pole. Norway confirms in its recent BTR that “...in the event that the 
+cooperation with the EU does not lead to a full realization of the (NDC) target, Norway 
+intends to use ITMOs acquired from countries outside the European Economic Area 
+(EEA)". It further outlines that "...Norway has established a purchase program for 
+ITMOs from developing countries that could be used in such an event. The program is 
+allotted NOK 8.2 billion through the state budget.” A volume-based demand estimate 
+is not provided as public information. Based on the information in Norway’s BTR on 
+the anticipated emissions gap in the 2021-2030 period and an indication that Norway 
+may resort to using foreign credits if ITMO transfers between EU and Norway are not 
+feasible, we arrive at this demand estimate, which also keeps in mind that the BTR 
+states that Norway may use 5.8 M existing EU Allowances (EUAs) towards reducing 
+the mitigation gap.
+68 Government of Sweden, 2024. Biennial Transparency Report. Available at: https:/ /
+unfccc.int/sites/ default/files/resource/Sweden%27s%20first%20Biennial%20
+Transparency%20Report.pdf
+69 Swedish Energy Agency, 2024. ” Partnerships under the Paris Agreement.“ Available 
+at: https:/ /www.energimyndigheten.se/ en/ cooperation/swedens-program-for-interna-
+tional-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/
+70 Please note the estimate is taken from the report “Road to a Climate-Positive Future” 
+(in Swedish: "Vägen till en klimatpositiv framtid"), prepared by the Climate Policy 
+Roadmap Commission for the Swedish Government at the beginning of the current NDC 
+compliance period (2020). The commission’s recommendations in Section 13 include 
+the following on use of foreign ERs: (translated via DeepL): “The Government should 
+establish a program to implement efforts for international emission reductions under 
+Article 6 of the Paris Agreement during the 2020s, with the Swedish Energy Agency as 
+the responsible authority. The program should be designed to achieve at least 20 million 
+units from emission reduction measures implemented in other countries.” This is the 
+most recent estimate of ITMO demand from the Swedish government.
+71 Government of Singapore. ”How SG supports carbon markets.” Available at: https:/ /
+www.carbonmarkets-cooperation.gov.sg/ our-art6-cooperation/how-sg-sup-
+ports-carbon-markets/#:~:text=From%202024%20onwards%2C%20carbon%20
+tax,under%20Singapore's%20carbon%20tax%20system.
+72 Verra, 2024. “Singapore, Gold Standard and Verra Release Initial Recommendations 
+Outlining Progress in the Development of a Carbon Crediting Protocol to Implement 
+Article 6.2”. Available at: https:/ /verra.org/singapore-gold-standard-and-verra-arti-
+cle-6-crediting-protocol/
+73 Government of Singapore, 2024. Biennial Transparency Report (BTR). Available at: 
+https:/ /unfccc.int/sites/ default/files/resource/Singapore%20BTR1%202024.pdf
+74 Presidential Commission on Carbon Neutrality and Green Growth. 2030 NDC 
+Reduction targets by sector. Available at: https:/ /www.2050cnc.go.kr/ eng/ contents/
+view?contentsNo=67&menuLevel=2&menuNo=119
+75 See more details of the Korea’s model in: Republic of Korea, 2025. Biennial Transparen-
+cy Report (BTR). Available at: https:/ /unfccc.int/sites/ default/files/resource/The%20
+Republic%20of%20Koreas%20First%20Biennial%20Transparency%20Report%20
+and%20Fifth%20National%20Communication.pdf#page=165
+76 South Korea’s Presidential Commission on Carbon Neutrality and Green Growth 
+set reduction targets by sector in accordance with its 2030 NDC goal to reduce 
+GHG emissions by 40 percent from 2018 levels. The commission clarifies the target 
+for the “international reduction” sector is 37.5 Mt CO2e in reductions by 2030. 
+Available at: https:/ /www.2050cnc.go.kr/ eng/ contents/view?contentsNo=67&menu-
+Level=2&menuNo=119
+
+--- PÁGINA 36 ---
+
+3677 The Paris Agreement has not defined or mandated countries to classify their targets 
+as conditional or unconditional, but many countries did so. Conditional NDC targets 
+are the climate actions that a country commits to achieving only if it receives external 
+support, such as international finance, technology transfer, or capacity-building. They 
+usually represent more ambitious goals that go beyond what the country could achieve 
+on its own. In contrast, unconditional NDC targets depend on international support. 
+Given the lack of definition of climate finance and the usual requirement of national 
+co-financing, it may be unclear how to distinguish conditional and unconditional 
+targets. However, the corresponding adjustment requirement applies to both 
+conditional and unconditional targets.
+78 For a detailed explanation of Article 6 fees and levies, see Climate Finance Innovators, 
+Climate Focus, Perspectives Climate Group, and AEE, 2024. “Setting an article 6 levy 
+structure in Senegal A practical guide to administrative fees and benefit sharing levies 
+under Article 6 of the Paris Agreement”. Available at: https:/ / climatefinanceinnovators.
+com/wp-content/uploads/2024/04/CFI_FeeStructureSenegal_ModalitiesAn-
+dRates_2024.pdf
+79 Decision 2/CMA.3, Annex, paragraph 1(b)
+80 Article 6 requires that all ITMOs must have a corresponding adjustment and must 
+be “real, verified, and additional”. They may include both emission reductions and 
+removals, and must refer to mitigation achieved from 2021 onward. In addition, there 
+are specific requirements around reporting and tracking.
+81 For example, the Korea's BTR states that the Korea's Forest Service plans to establish 
+a bilateral cooperation system for national and/ or sub-national REDD+ under Article 
+6.2 and REDD+ activities under Article 6.4 based on the UNFCCC Warsaw REDD+ 
+Framework and utilize ITMOs from REDD+ for achieving 2030 NDC. To systematically 
+implement this, operational standards for REDD+ and a master plan (2025-2029) will 
+be formulated. Republic of Korea, 2025. Biennial Transparency Report (BTR). Available 
+at: https:/ /unfccc.int/sites/ default/files/resource/The%20Republic%20of%20
+Koreas%20First%20Biennial%20Transparency%20Report%20and%20Fifth%20
+National%20Communication.pdf
+82 Decision 2/CMA.3, Annex, paragraph 1(b)
+83 Carbon Pulse, 2024. “Dozens of airlines scoop up CORSIA credits “in the low $20s” at 
+special auction-sources” Available at: https:/ / carbon-pulse.com/352689/ 
+84 Supervisory Body, Methodology Standard, Paragraph 87: For those activities falling 
+under the scope of Article 5, paragraph 2, of the Paris Agreement, mechanism 
+methodologies shall require, in addition to all relevant requirements adopted by the 
+Supervisory Body3, demonstration that the activity is included in all the elements 
+required of the host Party as per decision 1/CP.16, paragraph 71, noting this is 
+consistent with the application of the approaches described in paragraph 85 (c) and 
+(e). See also, the Leakage Standard, paragraphs 15 and 16 
+85 The Nature Conservancy & Conservation International, 2024. “REDD+ & Article 
+6 – COP29 and Beyond”. Available at: https:/ /nature4climate.org/wp-content/
+uploads/2024/11/REDD-Plus-Article-6-Explainer-1.pdf 
+86 In its 10th meeting, the Supervisory Body mandated the Methodological Expert Panel 
+(MEP) to develop a concept note on “large scale crediting programmes”, which may 
+include specific guidance for jurisdictional REDD+ programs. See reference on the 
+Supervisory Body 2024 annual report: https:/ /unfccc.int/ documents/641722. As of 
+May 2025, the MEP workplan indicates this will take place in 2026: https:/ /unfccc.int/
+sites/ default/files/resource/ A6.4-SBM015-A02.pdf 
+87 See the Supervisory Body Standard on Methodologies, paragraphs, 85 and 87 and 
+Leakage, paragraphs 15 and 16. For REDD+ requirements, see also Decision 1/CP.16, 
+paragraph 71.
+88 See more information about international REDD+ standards and sources of finance at: 
+https:/ /internationalreddstandards.org/ 
+89 Paris Agreement, Article 5.2: Parties are encouraged to take action to implement 
+and support, including through results-based payments, the existing framework as 
+set out in related guidance and decisions already agreed under the Convention for: 
+policy approaches and positive incentives for activities relating to reducing emissions 
+from deforestation and forest degradation, and the role of conservation, sustainable 
+management of forests and enhancement of forest carbon stocks in developing 
+countries; and alternative policy approaches, such as joint mitigation and adaptation 
+approaches for the integral and sustainable management of forests, while reaffirming 
+the importance of incentivizing, as appropriate, non-carbon benefits associated with 
+such approaches.90 Supervisory Body, Methodology Standard, Paragraph 87 and Leakage Standard, 
+paragraphs 15 and 16.
+91 Decision 14/CP.19 paragraph 15, laid out a process for countries to apply for 
+market-based programs by meeting existing modality and verification requirements.
+92 According to an IETA survey, 83% of respondents indicated that they would be willing 
+to pay higher or even much higher than average market rates for correspondingly 
+adjusted ITMOs, as well as for non-adjusted 6.4 mitigation contribution units (MCUs). 
+See: https:/ /ieta.b-cdn.net/wp-content/uploads/2024/11/IETA_Resources_Re-
+port_A6-Pulse-Survey.V3.pdf 
+93 This decision was taken at the Bonn UNFCCC Climate Change Conference in June 
+2024 (SB60). See the Report of the Subsidiary Body for Scientific and Technological 
+Advice (SBSTA), Sixtieth session, paragraphs 134 and 144. Available at: https:/ /unfccc.
+int/sites/ default/files/resource/sbsta2024_07E.pdf 
+94 The COP26 decisions for Articles 6.2 and 6.4 state that further work will be done to 
+consider whether “emission avoidance” could be eligible. Decision 2/CMA.3, cover 
+text, para 3c and Decision 3/CMA.3, cover text, para 7h
+95 IPCC, 2018: Annex I: Glossary [Matthews, J.B.R. (ed.)]. In: Global Warming of 1.5°C. 
+An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial 
+levels and related global greenhouse gas emission pathways, in the context of strength-
+ening the global response to the threat of climate change, sustainable development, 
+and efforts to eradicate poverty. Cambridge University Press, Cambridge, UK and New 
+York, NY, USA, pp. 541-562. https:/ / doi.org/10.1017 /9781009157940.008. 
+96 Carbon Pulse, 2025. “Feature: Avoided emissions confusion hangs over international 
+carbon markets.” Available at: https:/ / carbon-pulse.com/361095/ 
+97 See related articles here and here.
+98 See also: Table VI-2, Methodology Categorization Other Sectors
+99 See Supervisory Body, Methodology Standard, paragraph 85 (d)
+100 In addition to these two new rules, all activities, including REDD+ activities, will only 
+be credited when there is a positive change in GHG storage (carbon needs to increase 
+overtime) and this change is directly related to “anthropogenic” action, such as a 
+policy, for example. See Supervisory Body, Removals Standard, paragraph 31. 
+101 Decision 1/CP.16, paragraph 71
+102 Supervisory Body, Leakage Standard, paragraph 15.
+103 Leakage Standard, paragraph 16
+104 “Upscaling implementation is defined as “implementing activities at a higher level (e.g: 
+sectoral, subnational, or national). See Methodology Standard, paragraph 85(e)
+105 Nature-based Solutions (NbS) is another common term which can be used to refer 
+to the land use sector. For some, NCS refers to only mitigation measures, while NbS 
+refers to both mitigation and adaptation. For simplicity, we will use nature as a general 
+term. See more information at: https:/ /www.nature.org/ content/ dam/tnc/nature/ en/
+documents/ TNC_Natural_Climate_Solutions_Handbook.pdf 
+106 Decision 1/CP.16, paragraph 71
+107 Decision 3/CMA.3, paragraph 73
+108 Decision 5/CMA.6, paragraph 21 
+109 Decision 3/CMA.3, paragraph 73(d)
+110 United Nations Environment Programme, “CDM Pipeline,” February 5, 2024, updated 
+March 27, 2024, https:/ /unepccc.org/ cdm-ji-pipeline/ 
+111 Calyx Global, 2025. “Analyzing the first credits transitioning to the Article 6.4 Paris 
+Agreement Crediting Mechanism”. Available at: https:/ / calyxglobal.com/research-hub/
+research/ analyzing-the-first-credits-transitioning-to-the-article-64-paris-agree-
+ment-crediting-mechanism/ 
+112 Decision 3/CMA.3, paragraph 75(a) and (d).
+113 New Climate Institute, 2020. “CDM Supply Potential for Emissions Reductions up to 
+the end of 2020”. Available at: https:/ /newclimate.org/sites/ default/files/2020/11/
+CDM-supply-potential-for-emission-reductions-up-to-the-end-of-2020_Nov2020.pdf 
+114 Decision 3/CMA.3, paragraph 67(a)
+115 Decision 7 /CMA.4, paragraph 15
+116 Decision 7 /CMA.4, paragraph 14
+117 Decision 7 /CMA.4, Annex I, Chapter V 
+118 Decision 3/CMA.3, paragraph 59 and 69; Decision 7 /CMA.4, paragraph 40

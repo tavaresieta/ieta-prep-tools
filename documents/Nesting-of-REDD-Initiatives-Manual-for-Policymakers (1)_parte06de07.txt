@@ -1,0 +1,1282 @@
+DOCUMENTO: Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)
+PARTE 6 de 7
+Páginas 76 a 90
+======================================================================
+
+
+--- PÁGINA 76 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers67
+T able 17: Risks Inherent in the Decentralized Nested Approach
+Type of  
+RiskNational  
+RiskProject  
+RiskSpecific Risks and Mitigation Measures
+ER  
+Performance
+√The government may put its ability to claim ERs in certain contexts at risk if 
+projects perform well, but areas outside the project perform poorly. For example, it 
+may not achieve its NDC, or may not be able to access results-based payments if 
+project performance exceeds national performance. This can be mitigated by:
+·	Ensuring that there are robust government efforts to achieve REDD+ 
+performance outside project areas.
+·	Allowing corresponding adjustments to project credits only after estimating the 
+countrywide performance. 
+·	Defining a robust FREL allocation methodology.
+√Projects may face reputational or credibility risks if the overall national performance 
+is poor and leakage risks are high. This can be mitigated by:
+·	Designing activities for reducing leakage, and communicating why the project 
+has reduced emissions even if the country’s emissions are not reduced.
+Projects may also face risks if the government changes the overall FREL under which 
+they must nest (see Section 4 on MRVs for more detail). This can be mitigated by:
+·	Providing predictability to the extent possible, on when and how the FREL and 
+the allocation will take place, in clearly stated nesting rules; and establishing a 
+calendar for future amendments of FREL.
+·	Defining buffers to enable compensation for this risk, similar to mitigating the 
+risk of nonpermanence.
+Financial  Risk
+√ √Payment and default risk are assumed by the corresponding actors: that is, the 
+government at the jurisdictional level, and projects at their specific scales. Both 
+have direct access to market ERs.
+Legal and 
+Regulatory  
+Risks
+√Early-action projects may be at risk when a nested system is implemented. This can 
+be mitigated by:
+·	Negotiating a transition of such projects into the nested program. 
+“Grandparenting” agreements should be contractually confirmed between 
+early-action projects and the government, and could include a time limitation 
+for existing projects, and a cut-off date for full integration into the nested 
+program. (This may also be addressed by private standards).
+Government changes to nesting rules can put projects at risk. This risk can be 
+mitigated by:
+·	Adopting a clear set of predictable rules and procedures for changing such rules 
+in the future, and allowing for “grandparenting” if the rules are changed.
+√International or domestic private actors may claim damages from the government, 
+in particular if the proportion of the FREL allocated to the projects reduces its 
+capacity to perform. This can be mitigated by:
+·	Agreements with projects, an agreed-upon transition period, and measures 
+that delink the ability of projects to access rewards for GHG performance.
+·	Adopting clear and stable nesting rules. 
+·	Avoiding claiming ERs where governments do not have the right to do so.
+Political  Risk
+√ √Social unrest may occur if the allocation of FREL, or its implementation, is considered 
+unfair. This can be mitigated by:
+·	Including existing and future project proponents and local communities in 
+the design of nesting agreements. 
+Environmental  
+Integrity  Risk
+√ √The risk of double counting could occur, since the sum of the parts could be 
+more than the total. Overestimation of ERs could occur if carbon accounting 
+methodologies at the REDD+ project level or the ER program level are not accurate, 
+or consistent. This can be mitigated by:
+·	Defining an accurate FREL allocation methodology.
+·	Defining accurate and standardized carbon accounting methodologies and 
+monitoring to be applicable to all levels.
+
+--- PÁGINA 77 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers68
+Project Crediting (Only), No Jurisdictional Program
+Under the project crediting (only) approach, the 
+government does not seek payment for jurisdictional 
+performance , but it encourages and regulates projects 
+in the context of its national REDD+ strategy. This 
+approach may constitute a starting point for countries that are moving toward nested approaches. However, 
+if projects are insufficient for achieving national 
+REDD+ goals, it will likely require the government 
+to take action without itself accessing RBF. It may 
+receive other sources of international support for 
+implementing its REDD+ strategy, however, such as 
+climate finance or development assistance.
+T able 18: Risks Inherent in the Project Crediting (Only) Approach
+Type of  RiskNational  
+RiskProject  
+RiskSpecific Risks and Mitigation Measures
+ER  Performance√The government does not participate in crediting programs. It does not run any risk 
+of conflict with international or local partners. However, it remains responsible for 
+achieving REDD+ results and meeting its NDC targets. Where the projects’ transfer 
+of ERs involves corresponding adjustments, this could represent a risk to achieving 
+its NDC targets, especially if the ER performance of projects is overestimated. This 
+may be mitigated by:
+·	 Designing a system that aligns ER claims of REDD+ projects with national 
+GHG reporting.
+√Projects are responsible for their own performance, including for the management 
+of leakage and reversals. There is no link to government performance.
+Financial  Risk √Only relevant for projects. The project must manage crediting and monetizing of 
+ERs via private contracts as well as default risks.
+Legal and  
+Regulatory  
+Risks√The government is liable for adopting and enforcing clear and transparent project 
+rules, and running a smooth authorization system, in particular where project 
+transfer of ERs involves corresponding adjustments.
+Political  Risk √ √·	 There is no national benefit-sharing program that could result in conflict. 
+Projects have their own benefit-sharing systems. Social unrest may occur 
+if the benefit-sharing arrangements are perceived as being unfair, or if they 
+are not adequately implemented. Governments can define safeguards and 
+demand Free Prior Informed Consent (FPIC) for project benefit-sharing 
+systems.  
+Environmental 
+Integrity Risk√ √The risk of double counting could occur if there is a geographical overlap between 
+projects or their leakage belts. Risk of overestimation of ERs could occur if carbon 
+accounting methodologies at the REDD+ project level are not accurate. This can be 
+mitigated by:
+·	Defining accurate and standardized carbon accounting methodologies for 
+projects, including for the management of leakage.
+
+--- PÁGINA 78 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers69
+This part summarizes the administrative steps that 
+need to be taken to implement nested REDD+. 
+9. CONSULTATIONS ON THE 
+ADOPTION OF A NESTED SYSTEM 
+9.1 General Considerations
+Negotiation, consensus-building, and agreements on 
+the specific features of nesting are key to achieving 
+a smooth and efficient nesting approach . However, 
+stakeholder consultations on nesting may present 
+features that render them particularly complex. For 
+example:
+·	 A high level of technicality.  Discussions about 
+nesting often focus on technical aspects such as 
+compatibility between existing voluntary project 
+baselines and the national FREL, the development 
+of jurisdictional baselines, or the allocation of 
+a FREL to projects. These issues will need to 
+be incorporated into the technical and policy 
+nesting guidelines. This level of technicality adds 
+complexity to consultations, and may result in few 
+of the actors having a full understanding of the 
+issues under discussion. 
+·	 Deficiency in the understanding of nesting at 
+the political level . Determining a nesting strategy 
+is a highly political and strategic challenge for 
+a government. In many cases, policymakers 
+are insufficiently acquainted with the details of 
+REDD+, and nesting issues are too complex for 
+nonexperts to grasp. For example, the relevance 
+of nesting for a country’s NDC is not always 
+obvious. Furthermore, there is often a gap between 
+the level of understanding that REDD+ project 
+developers and public officials have. This gap often 
+affects the quality of national discussions on 
+nesting, and can produce delays in the adoption 
+of decisions that must be taken by government on 
+the most appropriate nesting strategy to use.·	 Complications for early-action projects. 
+Addressing the nesting of early-action REDD+ 
+projects is a difficult task. These projects were 
+developed under voluntary carbon standards. 
+They are often quite advanced in terms of their 
+implementation, and project developers have 
+performance and payment expectations that 
+might be frustrated when their project is nested 
+according to national rules. Furthermore, while 
+in some countries early-action projects enjoy 
+the full support of governments, in others they 
+have been developed without consulting with the 
+government and are therefore eyed suspiciously by 
+the government. 
+·	 Challenges in the timing of consultations . One 
+common challenge is how to engage stakeholders 
+in various ways during the national REDD+ 
+process, and how to determine the ways in which 
+various types of stakeholder engagement are most 
+useful in the design and implementation process. 
+Early engagement of existing private REDD+ 
+projects and their beneficiaries in discussions with 
+country officials builds trust and enables a mutual 
+understanding of each other’s expectations and 
+interests. The consultation process in nesting 
+has often proven to be long and inefficient. This is 
+often due to early consultations that are focused 
+on issues such as the distribution of benefits or 
+the implications of the national FREL for projects. 
+Unless the government has a strategic plan on 
+how to achieve benefits, consultations on benefit 
+sharing may create false expectations and lead 
+to future frustration. Consultations should follow 
+a clearly communicated time plan. For example, 
+before allocation methods are discussed or criteria 
+are defined for benefit distribution, it is useful for 
+a government to gather data and test scenarios.
+·	 Sensitive social contexts.  In some cases, 
+stakeholders do not take part in consultations 
+because participating in them could represent a 
+PART III NESTING 
+IMPLEMENTATION
+
+--- PÁGINA 79 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers70
+risk in their immediate or near future. For example, 
+local constituents may not be willing to provide 
+their views in a public meeting in which authorities 
+are present if they are afraid of reprisal.
+Safeguard compliance is also part of a participatory 
+approach to REDD+, which demands fair and 
+accessible consultations.  Ill-conceived REDD+ 
+programs and projects could harm communities, 
+relevant stakeholders and beneficiaries, and generate 
+perverse outcomes. When activities are rushed, 
+there is often a failure to consult and obtain consent 
+from relevant stakeholders. Stakeholder nesting 
+consultations should be carefully designed, taking 
+into consideration the historic and cultural contexts 
+of countries. Within a REDD+ nesting framework, the 
+consultation process needs to include several levels:
+·	Private projects and their stakeholders, including 
+potential beneficiaries.
+·	Decentralized entities (provinces, municipalities, 
+regions), and their stakeholders.
+·	The national REDD+ program and its stakeholders.
+At each of the above levels, the consultation process 
+is essential in order to identify potential benefits and 
+co-benefits, as well as the potential spillover effects 
+of REDD+ programs and measures . Consultations are 
+also essential for establishing a safeguard information 
+system (SIS) and a feedback and grievance redress 
+mechanism (FGRM). Countries with existing donor-
+supported economic incentive schemes or other 
+geographically bound forest-related economic 
+activities, such as forest community concessions or 
+payment-for-ecosystem services (PES) systems, can 
+build on existing experiences with consultations.
+9.2 Application to Nesting Approaches
+Jurisdictional ER Program (Only), with Benefit 
+Sharing
+Public consultations involving all REDD+ stakeholders 
+take place at the national level, as well as in the 
+areas where REDD+ programs are being implemented. 
+REDD+ consultation should operate similarly to 
+consultations undertaken for other public policy 
+programs. Because it is the government that controls 
+the entire flow of REDD+ funds that the country 
+can receive, consultations should focus on ensuring 
+an understanding of their overall use; the possible 
+creation of a national REDD+ fund and how it will be 
+controlled; the geographic and social distribution of the funds; and their impact on the financing of 
+existing policies, or those that will be established to 
+foster a reduction in deforestation and to support 
+conservation. In this model, where the state exercises 
+full control over REDD+ resources, and where one 
+of the main risks is the misuse of such resources, 
+transparency about and understanding of the 
+processes and channels of REDD+ fund disbursement 
+are most likely to be the main purposes for public 
+consultations. Consultations should also take place in 
+those areas of the country where REDD+ activities are 
+being implemented.   
+Projetct Crediting (Only), No Jurisdictional Program
+Under the project crediting (only) approach, 
+consultations take place mainly within REDD+ 
+projects, to discuss issues such as the requirements 
+related to safeguards and benefit sharing . The 
+government may also wish to promote consistency 
+across REDD+ projects, for example by imposing 
+certain measurement, recording and verification 
+(MRV) rules that also align with the national methods 
+for estimating GHGs. The government should 
+consult with project or program developers about 
+the impact of any new MRV rules, or the feasibility 
+of implementing safeguards, benefit-sharing 
+arrangements, or other requirements.  
+Centralized and Decentralized Nested Approaches
+In both the centralized and decentralized nested 
+approaches, a fair and inclusive consultation 
+process is of the essence.  Consultation regarding 
+nested models should take place both at the national 
+level and directly with REDD+ projects and their 
+stakeholders. They should begin with discussion 
+of the overall objectives and design of the nested 
+system. They should also involve the ultimate 
+beneficiaries—communities, small farmers, private 
+owners—and should clarify the implications of the 
+nested system for the programs and projects in which 
+they participate. Nesting consultations serve not 
+only to guarantee the establishment of an approach 
+that respects all rights and justified interests, but 
+also to educate all stakeholders about the purposes, 
+objectives, and procedures of REDD+ and nesting. 
+Consultations should include technical discussions 
+on FREL data and its use. Data used by REDD+ 
+projects to make ER claims should be agreed upon. 
+These early consultations should be led by the 
+technical agencies and institutions in charge of 
+REDD+ policies, and they should share their results 
+
+--- PÁGINA 80 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers71
+directly with project developers and investors. At this 
+early stage of consultations, the purpose should be 
+to obtain an agreement on existing data, as well as 
+to identify gaps and understand the various nesting 
+options and their implications for REDD+ projects or 
+programs.
+Once the discussions on technical data are 
+complete, consultations may begin on any necessary 
+“allocation” system . In the case of the centralized 
+nested approach, this will be focused on the approach 
+to ER allocation, whereas for a decentralized nested 
+system the focus may be on the allocation of FRELs. 
+For nested projects, it is important to understand 
+the assumptions and criteria guiding the allocation 
+methods, since they determine how benefits will flow 
+to projects. Discussions may also include the risks of 
+underperformance (as discussed in Section 8.2).  
+Particular attention should be paid to finding a robust 
+compromise on how to nest early-action projects, 
+including by allowing for a transition period and for 
+grandparenting existing transactions. The technical 
+design of the allocation system should be led by 
+technical experts and public officials. However, it 
+should also involve the decision makers who will 
+have to make the final decisions on the national 
+nesting strategy, based on a full understanding of the 
+implications of the various options. The participation 
+of stakeholders in the development of allocation 
+methods at an early stage will promote confidence in 
+the system.
+Project Crediting (Only), No Jurisdictional Program
+Under the project crediting (only) approach, 
+consultations take place mainly within REDD+ 
+projects, to discuss issues such as the requirements 
+related to safeguards and benefit sharing . The 
+government may also wish to promote consistency 
+across REDD+ projects, for example to impose 
+certain MRV rules that also align with the national 
+methods for estimating GHGs. The government should 
+consult with project or program developers about 
+the impact of any new MRV rules, or the feasibility 
+of implementing safeguards, benefit-sharing 
+arrangements, or other requirements. Similarly, REDD+ 
+projects should maintain a dialogue with government 
+officials in order to be informed about, as well as to 
+inform, the national requirements. The establishment 
+of national procedures for consulting with project 
+developers and other stakeholders concerning 
+amendments to legislation relative to MRV, benefit 
+77  Korhonen-Kurki, K., Brockhaus, M., Bushley, B., Babon, A., Gebara, M. F., Kengoum, F., et al. (2016). Coordination and Cross-Sectoral Integration in REDD+: Experiences from Seven Countries. 
+Climate and Development 8 (5): 458–71.sharing, and safeguards provides additional certainty 
+to REDD+ projects.
+10. INSTITUTIONAL  
+REQUIREMENTS FOR NESTING
+In order for nesting to be implemented effectively, 
+it is essential to assign clear responsibilities 
+among ministries and public agencies for the 
+operations related to the nesting process.  Successful 
+implementation of REDD+ requires policy changes 
+and governance reforms, in forestry as well as in 
+other sectors—for example, to disburse REDD+ 
+payments. However, weak forest governance in 
+most of the REDD+ countries constitutes one of the 
+main challenges for REDD+ implementation, carbon 
+effectiveness, cost efficiency, and equity.77 What 
+makes things even more complex is that REDD+ 
+is inherently a multilevel endeavor; there is thus a 
+need for policy coherence and coordination across 
+the various levels of governance, as well as the 
+relevant sectors in order to make it work. Nesting 
+adds complexity to policymaking by requiring 
+additional considerations regarding the integration 
+of the various levels of MRV and carbon accounting, 
+the grandparenting of early projects, and/or the 
+management of risks.
+Nested REDD+ policies should  therefore be supported 
+by enduring institutional arrangements.
+Institutional Assessment and the Allocation of 
+Responsibilities
+Institutions define who has the power to make 
+decisions and who will have access to REDD+ 
+benefits . These benefits may flow, for example, 
+from international sources to national budgets, and 
+from there to various stakeholders. Thus, nested 
+approaches require procedures that allow for the flow 
+of funds, the collection and analysis of information, 
+and a way to link the national system to international 
+reporting obligations. In all nested models, institutions 
+are needed to manage the technical, financial, 
+administrative, and supervisory aspects of REDD+ 
+finance. The architecture that forms the nested 
+system can build on existing institutions or create new 
+ones. 
+Institutional coordination for the implementation 
+of nesting frameworks implies (i) an assessment of 
+institutional needs; (ii) an assignment of regulatory 
+and oversight responsibilities; (iii) the creation of new 
+
+--- PÁGINA 81 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers72
+institutional arrangements where needed; and (iv) the 
+staffing and resourcing of institutions. 
+Institutional Requirements: MRV and Accounting
+Nested MRV should be embedded into national forest 
+monitoring, which includes data collection for REDD+, 
+as well as other domestic needs and international 
+reporting commitments, such as UNFCCC or the Food 
+and Agricultural Organization of the United Nations 
+(FAO) Forest Resource Assessment . Additional 
+institutional arrangements may be needed in order to 
+manage the MRV and carbon accounting requirements 
+of a nested system. A government may need to 
+estimate emissions, establish baselines, and monitor 
+REDD+ results—in some nested models, at multiple 
+scales. 
+There are some specific elements in the centralized 
+nested, decentralized nested, and project-crediting 
+(only) approaches that must also be considered in 
+making institutional arrangements.  For example, 
+under both the centralized and decentralized nested 
+models, allocation systems—whether emission 
+reduction (ER) or forest reference emissions levels 
+(FREL)—must be designed and implemented. Data 
+and information will be generated at multiple 
+scales, from the project level to the national level. 
+T o integrate, manage, and ensure the quality of this 
+data and information, the government may need to 
+have a quality data management system. It may also 
+seize the opportunity to improve information in an 
+integrated way, which would benefit both project-
+scale and national-scale MRV systems. Governments 
+should consider the institutional arrangements 
+and responsibilities that are needed to make the 
+nested system operational. When assigning nesting 
+responsibilities, the government should take into 
+consideration which of their national institutions have 
+the capacities needed to implement the tasks, and 
+then estimate the technical capacity gaps that will 
+need to be covered.
+Institutional Requirements: Benefit Sharing
+Many forest countries suffer from limited 
+administrative/technical capacity, which hinders 
+the quick implementation of an effective, efficient, 
+and equitable REDD+ program. In most cases, these 
+countries do not have specific legislative frameworks 
+that are adapted to regulating the allocation or 
+distribution of REDD+ benefits and finance . While 
+many countries have already started to implement 
+REDD+ policies, the scarcity of resources and weak forest governance often slow the implementation 
+of effective REDD+ frameworks. If countries opt for 
+nesting in this context, they may permit projects 
+to proceed while the national frameworks are being 
+finalized so that early GHG gains can be achieved. In 
+this situation, it may be advisable to define minimum 
+benefit -sharing criteria for projects, and enact a 
+simplified interim approval process that ensures that 
+projects can transition into a fully nested system once 
+the national systems are established. 
+Under a jurisdictional ER program (only), with 
+benefit sharing and centralized nested approaches, 
+governments need to establish or appoint 
+institutions to allocate and disburse both monetary 
+and nonmonetary carbon benefits to projects . In the 
+case of a centralized nested approach, the allocation 
+of such benefits is contingent on projects having 
+successfully reduced their GHG emissions. Some 
+countries may have experience with payment-for-
+ecosystem services (PES) and/or contractual models 
+for distributing and assigning benefits that might 
+be useful in the context of nesting. Other countries 
+may have funds that are experienced in dispersing 
+cash benefits for specific purposes (for example, in 
+extractive industries) that can be used to support 
+nested REDD+. Payments can either follow a budget 
+or a trust fund approach. Under a budget approach, 
+payments to projects should be structured through 
+national budgets while avoiding extra-budgetary 
+funds or earmarking. A trust fund approach, in 
+contrast, ring-fences funds and may be useful where 
+donors and recipients want to make sure that benefits 
+for projects are safeguarded. (See Section 7.2 on risk 
+management.)
+Governments should execute contracts for early-
+action projects that define the allocation of benefits 
+and their conditions.  Individually negotiated 
+agreements may allow the inclusion of early REDD+ 
+projects in the first phase of nesting. Agreements 
+between national authorities and projects can be 
+a solid foundation that provides legal certainty 
+to project developers regarding the conditions for 
+accessing payments under a nesting system. 
+Under a decentralized nested or project-crediting 
+(only) model , projects are not included in the benefit-
+sharing arrangements of the government . However, 
+governments may require projects to meet regulatory 
+demands: for example, reporting requirements on 
+MRV-related data and information; requirements on 
+disbursing REDD+ benefits to guarantee that local 
+and Indigenous communities have access to them; or 
+
+--- PÁGINA 82 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers73
+specific requirements related to the implementation 
+and reporting of data on the distribution of benefits to 
+be incorporated in the safeguard information system. 
+Such regulation requires additional government 
+capacity, and a dedicated institutional structure in 
+order to enforce such rules.
+Institutional Requirements: Safeguards
+Institutions play a role in ensuring the fair and 
+effective design and implementation of the REDD+ 
+safeguard approach, with respect to national 
+safeguard policies and procedures, as well as the 
+safeguard information system (SIS). Countries that 
+have existing policies and regulations and REDD+ 
+safeguards, including the specifications necessary for 
+the nesting of projects and programs, should build on 
+their existing frameworks. This includes regulations 
+for the protection and consideration of ecosystem 
+functions, forests, and biodiversity, as well as those 
+that provide social protection, participation, and 
+empowerment to the people. REDD+ safeguards 
+also require systems for collecting and reporting 
+the information that the country will need to report 
+under the SIS. However, the country’s systems and 
+institutions will need to be carefully assessed in order 
+to determine how well they meet the requirements of 
+the chosen nesting approach. 
+Under the centralized model, nesting does not 
+demand additional safeguard requirements beyond 
+those established in the context of national REDD+ 
+implementation . This includes any procedures 
+adopted to meet the requirements for particular 
+donors and funding streams. Donors may also require 
+the establishment of new institutional requirements, 
+such as a feedback and grievance redress mechanism 
+(FGRM). Under the project-crediting-only approach, 
+such adjustments are not necessary, and the 
+safeguard requirements for projects follow the existing 
+national safeguard policies and procedures, or the 
+requirements of the carbon standard certifications 
+they seek. 
+Both the centralized and decentralized nested models 
+require the involvement of actors at multiple levels 
+who will develop and implement the nested projects.  
+The national safeguards are government policies that 
+apply to all REDD+ national activities. In the context of 
+such safeguards, a government might wish to provide 
+details on how nested projects and programs can 
+fulfill national safeguard policies. It may also clarify 
+which authorities are in charge of enforcing such rules. 
+Nested projects should also be reported under the SIS. Authorities can create an information platform and can 
+engage in outreach activities to ensure that projects 
+are aware of safeguards requirements. It can also help 
+projects provide relevant information to the SIS by 
+developing templates to facilitate effective use of the 
+project information, setting up reporting procedures, 
+and establishing quality control mechanisms. 
+Institutional Requirements: Registries
+Nested systems require a data management system, 
+and in some cases an additional transaction registry 
+(see Section 9).  REDD+ data management may 
+be linked to GHG recording and tracking systems 
+that are set up for other sectors. But registries 
+in existing GHG trading and transaction systems 
+follow different institutional models. While some 
+regulators have assigned the registry to a government 
+agency—generally the agency that is in charge of 
+environmental issues—others have mandated a range 
+of independent and reliable third parties.  
+Countries can also decide to outsource registry 
+functions.  The World Bank is offering such services 
+to REDD+ countries through its transaction registry 
+platform. During a transitional period, projects 
+could also use the accredited registries of voluntary 
+standards, and issue credits under those standards. 
+Then, once a national (or subnational) trading 
+registry is in place, the accredited registries under 
+the voluntary standard could either be linked to or 
+integrated into the national registry. 
+11. REGULATIONS  AND  
+APPROVALS
+11.1 General Considerations
+Regulations and approvals facilitate the 
+implementation of any REDD+ system . Clear rules 
+offer REDD+ actors legal certainty. Within the context 
+of the REDD+ regulatory framework, a country’s 
+nesting strategy and benefit-sharing arrangements 
+may need to be translated into a legal act. Nested 
+models that officially approve projects must define 
+the requirements that projects and project developers 
+are required to meet in order to be formally recognized 
+by the government. Nesting also requires adoption 
+of the procedures by which projects will be nested in 
+national systems. Once there is more clarity under 
+Article 6 of the Paris Agreement, procedures will also 
+have to cover the reporting necessary to undertake 
+corresponding adjustments, to the extent they apply.
+
+--- PÁGINA 83 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers74
+REDD+ Regulation
+Nested REDD+ is inherently a multilevel endeavor; 
+thus, there is a need for policy coherence and 
+coordination across the various levels of governance 
+and agencies in order for it to work . Nesting brings 
+another level into an already complex international, 
+national, and subnational sphere of decision making. 
+A country may need legislative changes in order to 
+provide the necessary legal endorsement and capacity 
+to administer REDD+-related activities and funds. 
+Even in cases where the government does not decide 
+to authorize carbon projects as part of the country’s 
+REDD+ strategy, it will have to establish the legal basis 
+for implementation of the benefit-sharing and registry 
+arrangements, and consultation requirements. 
+Project and Program Approvals 
+A regulation that officially approves projects and 
+programs could establish the purpose for nesting.  
+Such a regulation can provide clarity for potential 
+project developers on the objectives that the 
+government is pursuing in recognizing projects as 
+part of its REDD+ strategy—for example, facilitating 
+nonstate engagement in REDD+, empowering 
+communities, mobilizing investment for the forest 
+sector, supporting the achievement of the country’s 
+nationally determined contribution (NDC), and so 
+on—and define how projects can apply for inclusion 
+in the program. Such a regulation should include the 
+types of projects and actors that can be authorized 
+to nest projects or programs; the conditions for doing 
+so, including the technical specifications concerning 
+baselines; and the criteria a project must comply 
+with in order to remain in the program; for example, 
+measurement, reporting, and verification (MRV) and 
+safeguard requirements. 
+Approval procedures link projects, MRV, and benefit-
+sharing arrangements . Such procedures can be used as 
+a tool for translating the benefit-sharing arrangements 
+into the regulatory context of the country. Depending 
+on the nesting approach, this may include the allocation 
+of credits or funding to projects, or the authorization 
+to commercialize project ERs, possibly up to a defined 
+cap. They may also implement the risk management 
+approaches of the government (see Section 7.2); define 
+the consequences of jurisdictional underperformance 
+for REDD+ projects; and instruct projects on the use 
+of an approved registry. They also include procedures 
+regarding the authority in charge, deadlines, appeals, 
+and so on. (See Box 10 ).
+78  Resolution NO. 1447 August 1st, 2018 on National mitigation action monitoring, reporting and verification system mentioned in article 175 of Act 1753 of 2015.
+79  Art. 28. and ss. Ibid.Box 10: Summary of Approval Requirements
+Government tasks concerning the eligibility of projects 
+and programs, as well as the continued compliance of 
+nested activities include:
+·	 Defining ex ante  criteria (including definitions and 
+protocols) that projects and programs must meet 
+in order to qualify for nesting;
+·	 Defining ongoing MRV and safeguards 
+requirements for projects and programs;
+·	 Allocation of baselines;
+·	 Adopting and disseminating the approved 
+eligibility and compliance rules;
+·	 Ensuring a swift approval process and continued 
+enforcement of rules;
+·	 Defining the rules for transitioning early-action 
+projects into a nested system;
+·	 Coordinating with various agencies to ensure full 
+complementarity and consistency of the rules with 
+other environmental and social regulations.
+By June 2021, few countries had presented project 
+approval procedures for nesting (see Box 11).  
+Countries that do not yet have project approval 
+procedures in place but are preparing its drafting can 
+draw on experiences such as the clean development 
+mechanism (CDM) approval procedures. While REDD+ 
+requires material provisions that differ from CDM, 
+particularly regarding MRV and benefit allocation, the 
+basic procedures of project approval are similar.
+Box 11 What Types of Approval Procedures 
+Are Countries Developing?
+One of the most comprehensive legal frameworks 
+for nesting is in Colombia; it has been used as an 
+example of transparency and recognition for REDD+ 
+projects.78 The Colombian regulation applies to all 
+individuals or legal entities, public or private, that 
+intend to register their GHG mitigation initiative in 
+order  to participate in results-based finance (RBF) or 
+similar compensations, as well as those who intend 
+to register in order to demonstrate mitigation results 
+within the framework of compliance. The regulation 
+applies to all types of ER activities, but contains 
+specific and detailed provisions on REDD+ programs 
+and projects.79 It offers very precise guidelines on 
+the nesting of REDD+ programs; REDD+ projects; the 
+overlapping of REDD+ programs and projects; and the 
+
+--- PÁGINA 84 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers75
+procedures for excluding REDD+ projects from REDD+ 
+programs, as well as provisions that are applicable 
+to the registration of ongoing REDD+ projects. For 
+this last case, the regulation includes grandparenting 
+provisions that are applicable to existing REDD+ 
+projects, by which the state determines the GHG 
+mitigation potential for the period from January 2016 
+to December 2019.80
+Countries like the Democratic Republic of Congo 
+(DRC) and Mozambique have also adopted REDD+ 
+legislation that includes partial procedures on the 
+nesting of programs and projects, albeit with less 
+detail than Colombia’s.81 Mozambique’s legislation 
+sets out in considerable detail the requirements that 
+must be observed by holders of state-issued licenses 
+to carry out REDD+ projects in the country, and the 
+validity of those licenses. Rules also establish that 
+the boundaries of REDD+ projects have to align with 
+the boundaries of municipalities.82 In the Democratic 
+Republic of Congo (DRC) REDD+ regulation procedures, 
+the country has specified very general guidelines for 
+the approval of REDD+ and projects.83
+NDCs and Corresponding Adjustments
+For most developing countries with significant 
+forests, REDD+ is part of their strategy for meeting 
+their NDCs . Where the transfer of ERs in the form of 
+an International Transferable Mitigation Outcome 
+(ITMO) under Article 6.2 or 6.4 of the Paris Agreement 
+occurs, a corresponding adjustment (CA) is necessary. 
+Parties account for these transfers in order to 
+ensure the avoidance of double counting.84 It is not 
+entirely clear yet which metrics CAs will use, nor is 
+the basis for accounting clear; that is, against which 
+parameters they will be accounted. Another open 
+question is whether CAs should occur at the end of 
+the parties’ implementation periods, or continuously 
+throughout the duration of the project. In general, 
+at the time of writing this report, CAs remain poorly 
+understood. 
+However, governments will have to keep in mind that 
+a new reporting framework may need to be created 
+for the purposes of consolidating the various streams 
+of information and reporting to UNFCCC, including 
+for CAs. Some  nested projects may also demand 
+or require CAs outside of Article 6 transactions, 
+for example in the context of CORSIA. Under some 
+circumstances, countries and corporations may agree 
+80  Art. 40 and 41. Ibid.
+81  Decreto n.º 23/2018 de 3 de Maio: Regulamento para Programas e Projectos Inerentes à Redução de Emissões por Desmatamento e Degradação Florestal de Carbono (REDD+).
+82  Art. 19 of Decreto n.º 23/2018 de 3 de Maio: Regulamento para Programas e Projectos Inerentes à Redução de Emissões por Desmatamento e Degradação Florestal de Carbono (REDD+) 
+refers to the prohibition of nesting projects within existing programs in certain cases but it is not clear in its scope and does not offer neat criteria.
+83  9 mai 2018. – Arrêté Ministériel n° 047/CAB/MIN/EDD/AAN/MML/05/2018  fixant la procédure d’homologation des investissements REDD+ en République Démocratique du Congo.
+84  paragraph 36, Decision 1/CP.21to CAs in cases where the government, corporate 
+investors, or standards require them. 
+Corresponding adjustments may eventually 
+become relevant to all nested REDD+ models . If the 
+government enters into an Article 6.2 Paris Agreement 
+transaction with a partner country, CAs will need 
+to be made to reflect ERs authorized for use toward 
+another party’s NDC. In this case, REDD+ projects can 
+form part of such a collaborative approach, and can 
+demand CAs. In the case of the decentralized nested 
+or project-crediting (only) approach, CAs might be 
+necessary under certain circumstances, but this is 
+still under discussion (see Section 3.4 for more detail.) 
+In such cases the country may want to promote 
+alignment in the ER transactions under Article 6 and 
+NDC accounting, and record their transactions in the 
+data management system or transaction registry. 
+This will require significant capacities, resources, and 
+procedures; however, few of the requirements will be 
+specific to nested REDD+. 
+11.2 Application to Nesting Approaches
+Jurisdictional ER Program Only
+Under a jurisdictional-only crediting approach, 
+in which the government centralizes the design, 
+implementation, and monetization of REDD+, the 
+government has to implement the benefit- sharing 
+arrangements through one, or several, regulatory 
+acts. The government is not required to adopt 
+procedures for projects. However, it has to establish 
+the legal basis for the arrangements, that is how 
+carbon finance will be distributed among national 
+institutions and national actors. Within that 
+regulation it should also establish timelines, the 
+areas to be financed, and the eventual conditions for 
+access to financing as part of the benefit-sharing 
+arrangements. 
+Centralized or Decentralized Nesting Approaches
+REDD+ regulation should define the conditions, 
+rights, and obligations of nested projects and 
+programs . Approval procedures need to contain at 
+a minimum (i) the actors and projects authorized to 
+nest projects or programs; (ii) the conditions for doing 
+so, including any technical specifications concerning 
+baselines and other MRV aspects; safeguards 
+compliance; benefit sharing by projects; and any 
+definition of liabilities that could be incurred by the 
+
+--- PÁGINA 85 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers76
+government or the REDD+ projects and programs; (iii) 
+in the case of centralized nesting, the implications 
+of underperformance; (iv) the conditions applicable 
+to existing REDD+ initiatives and the eventual 
+transitional period; (v) the conditions for the opening 
+of private accounts in the national registry, if such a 
+registry exists (or the authorization to use external 
+registries); (vi) rules regarding the involvement of 
+carbon-rights holders (communities and Indigenous 
+peoples); and (vii) the procedures for approvals (the 
+authority in charge, deadlines, appeals or contesting 
+of national nesting decisions, etc.).
+Project Crediting (Only), No Jurisdictional Program
+Although project crediting (only) recognizes that 
+REDD+ projects can generate carbon credits unilaterally and can monetize them, the government 
+may adopt program rules intended to regulate such 
+projects. Such rules could align project ER claims 
+with the national MRV system and national reporting 
+requirements. In such cases, the government should 
+also establish procedures indicating the obligations 
+projects have with respect to MRV. A country may also 
+pass regulations for safeguard application or benefit-
+sharing rules to ensure that affected communities are 
+provided with a fair share of proceeds from carbon 
+sales. Along with this, the country should approve 
+the procedures for projects to access the national 
+transaction registry if it opts for the creation of one; 
+and the opening of private accounts or, alternately, 
+reporting requirements into a data management 
+system if applicable.
+
+
+--- PÁGINA 86 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers77
+12. REGISTRIES
+12.1 General Considerations
+Countries that engage in nested REDD+ may need 
+to develop GHG accounting and tracking systems to 
+ensure consistency between national, jurisdictional, 
+and project-level processes and results . These 
+systems would consist, at a minimum, of data 
+management systems that systematically record 
+and monitor information to ensure transparency and 
+consistency, and in some instances to avoid the double 
+counting or double sale of ERs. 
+If countries seek to engage in market-based 
+transactions (including REDD+ or other forest 
+carbon units), they will need a  registry to allow for 
+the unique identification and tracking  of carbon 
+units.  Such registries are important in order to 
+track transactions between different accounts within 
+one registry, as well as between different national or 
+international registries. The government will also have 
+to establish protocols to ensure the “conversion” of 
+carbon credits into fungible units, or, alternatively, to 
+allow for units to be traded within the same system.  
+In some cases, a government will not need to develop 
+a transaction registry . Governments can engage 
+in results-based finance (RBF ) without generating 
+transferable carbon credits. In addition, voluntary 
+carbon credits  can be tracked in third-party registries; 
+for example, Verra  operates a registry for verified 
+carbon units generated under its  Verified Carbon 
+Standard (VCS) program. In such cases, a national  
+emissions trading registry is not needed; a simple 
+data management  system is sufficient to fulfill the 
+requirements of a nested  system that is comprised of 
+national nonmarket payment for results , combined with 
+voluntary carbon crediting . 
+Box 12 summarizes the main questions policymakers 
+should consider when making decisions about the 
+development of a registry or data management 
+system.Box 12  Considerations When Deciding 
+on a Registry System
+A country that is contemplating a nested REDD+ 
+approach needs to consider the following questions 
+regarding the accounting and tracking of carbon 
+credits:
+·	 Does the country need a full transaction registry, 
+or would a data management system, potentially 
+with a link to existing voluntary carbon market 
+registries or other international carbon registries 
+(like the carbon registry under the FCPF Carbon 
+Fund) be sufficient?
+·	 Does the country already have a GHG registry for 
+nonforest sectors? If so, is expanding this registry 
+to include REDD+ units a preferred option?
+·	 Does the country foresee including the accounts 
+of public or private nonstate actors (subnational, 
+private, or not-for-profit entities) in a national 
+trading system?
+·	 Does the country have the institutional 
+capabilities for operating a transaction registry, 
+including the necessary security provisions and 
+protocols? If not, are there operational third-party 
+systems that could provide registry services?
+·	 Does the country foresee any type of internal 
+carbon market in which carbon units (forestry or 
+others) will be eligible as offsets?
+·	 Which government institution is best suited to 
+maintaining and operating a data management 
+system, or transaction registry?
+·	 Which legal provisions will be necessary in order 
+to establish a data management system or 
+transaction registry?
+·	 What risks need to be considered and managed?
+·	 Will there be enough ER transactions in the 
+country to justify the costs of setting up and 
+operating a transaction registry?
+
+--- PÁGINA 87 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers78
+Data Management Systems and Transaction 
+Registries
+The complexity of data management, accounting, 
+and tracking systems depends on the number 
+of accounting levels there are in the national 
+implementation of REDD+, and which of these levels 
+are linked to carbon markets.85 Carbon accounting 
+and incentive allocation frameworks are a central 
+component of REDD+ mitigation programs, and in 
+structuring these frameworks decisions need to be 
+made about how to reach the REDD+ objectives in 
+a timely, economically efficient, and socially and 
+environmentally sustainable manner. Establishing 
+accounting frameworks at the project and program 
+levels may form part of the public system of benefit 
+sharing, or it can help to facilitate direct private sector 
+investments into voluntary carbon market projects. 
+Nested REDD+ requires the consolidation of data 
+from projects and programs at both the subnational 
+and national levels, and checking their compliance 
+with nesting rules. The government will also have 
+to consolidate MRV information, and apply fair 
+and transparent program rules that handle the 
+overlapping programs or projects that are responsible 
+for maintaining the environmental integrity of the 
+ERs claimed. Such approaches could deduct the 
+ERs that are earned by lower-level programs from a 
+national total; cap the ERs that lower-level programs 
+can claim; or exclude areas covered by subnational 
+programs or projects from the national accounting. 
+While the participation in public results-based 
+finance (RBF) programs will not require the 
+establishment of full registry capacities, the 
+nesting of projects adds a layer of  complexity to 
+carbon tracking and accounting that may require 
+additional data management . A data management 
+system can fulfill several program and project-
+level tracking functions, such as collecting basic 
+information about project-level activities or 
+subnational programs, and recording applicable 
+safeguards and technical requirements, land-use 
+rights, distribution of benefits, or other information.  
+It may evolve over time as REDD+ continues to develop 
+and be  implemented. Tracking systems can be created 
+at the subnational level instead of, or in addition to the 
+national level.  
+Registries that help manage Article 6, or CORSIA 
+units, would have to link to NDC accounting in order 
+85  For a general overview of registry options, see “Partnership for Market Readiness; Forest Carbon Partnership Facility. ” 2016. Emissions Trading Registries: Guidance on Regulation, Development 
+and Administration . Washington DC: World Bank. available at http:/ /hdl.handle.net/10986/25142to make corresponding adjustments . Under the 
+Paris Agreement, the use of international transfers 
+toward NDCs is voluntary, and must be “authorized by 
+participating Parties. ” The approval of Article 6 rules 
+is expected to provide more clarity on carbon market 
+transactions. 
+Registries are not specific to REDD+, and many 
+countries are in the process of establishing 
+transaction registries for other sectors. Where such 
+registries already exist, or are being developed, it is 
+not necessary to establish a separate REDD+ registry. 
+Rather, the existing registry can simply be expanded 
+to include REDD+ units. This ensures the efficient use 
+of institutional capacities, promotes the harmonized 
+use of security protocols, and, most importantly, 
+facilitates the consistent accounting and tracking of 
+carbon units. This is particularly important in cases 
+where a country already has a carbon trading system 
+that covers the forest sector (see Box 13 below).
+The registry will need to manage the risks of 
+permanence, project or program leakage, and/
+or national underperformance . Such risks can be 
+managed, for example, with buffer accounts through 
+which a portion of the ERs are held to cover the risk of 
+reversal (as is done in the FCPF Carbon Fund and the 
+Verified Carbon Standard (VCS) of the Jurisdictional 
+and Nested REDD+ (JNR). The national registry can 
+adopt procedures that enable the application of buffer 
+accounts. It would have to establish and manage such 
+accounts at the entity or project level, or pool them 
+across all registered projects and programs: a pooled 
+buffer provides additional assurance that risks at the 
+project or program level can be managed.
+Managing registry systems requires significant 
+capabilities. Countries may consider approaching 
+entities such as the World Bank, or private operators 
+that offer registry solutions. These solutions can be 
+tailored to a country’s specific registry needs, and can 
+help ensure compliance with the necessary security 
+protocols. For example, a country might not need a 
+fully elaborated transaction registry, but may want to 
+be able to transfer carbon credits to market buyers in 
+a safe environment. In this case outsourced solutions 
+may be adequate, and can help the government avoid 
+the effort and expense of establishing its own national 
+registry. The outsourcing of registry functions can 
+also be considered as a temporary solution until the 
+country has set up its own national registry.
+
+--- PÁGINA 88 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers79
+Box 13:  What Types of Registries are 
+Countries Developing?
+The type of registry and/or database system that a 
+country needs depends on the REDD+ implementation 
+approach selected by the country. Several examples 
+are provided below:
+·	 New Zealand issues carbon units for avoided 
+deforestation, to be traded under the New 
+Zealand Emissions Trading System (NZ ETS). It 
+operates a full transaction registry that is linked 
+to the Kyoto Protocol registry under UNFCCC via 
+the International Transaction Log.86 
+·	 Colombia allows the use of forest offsets under 
+its carbon tax program. It launched its National 
+Register of GHG Emissions Reductions (Registro 
+Nacional de Reducción de Emisiones de Gases 
+Efecto Invernadero, or RENARE) in September 
+2020.87 This register consolidates carbon 
+project information and accounts for ERs from 
+registered projects all in one place. Operated 
+through a web-based platform, RENARE defines 
+the national MRV system that is applicable to all 
+mitigation activities in the country.88 Colombia 
+requires REDD+ projects to have a mechanism for 
+managing the risk of the nonpermanence of ERs; it 
+does not include a pooled buffer in its system. 
+·	 Mozambique’s REDD+ regulation states that 
+it intends to develop a REDD+ transaction 
+registry or, if the national transaction registry 
+is not in operation at the time of the relevant 
+transaction, the country could approve an 
+alternate ER transaction registry approved 
+by the government. The country’s transaction 
+registry has not yet been operationalized. The 
+Mozambique regulation stipulates the creation 
+of single accounts per project and program, 
+and requires the establishment of single-buffer 
+accounts (there is no intention of having a pooled 
+buffer).89 
+86  https:/ /www.epa.govt.nz/industry-areas/emissions-trading-scheme/the-emissions-trading-register/
+87  https:/ /www.minambiente.gov.co/index.php/noticias-minambiente/4497-renare-plataforma-para-registrar-reducciones-gases-efecto-invernadero
+88  http:/ /renare.siac.gov.co/GPY-web/#/ingresar
+89  Art 27 and ss. Decree n.º 23/2018, Regulation for the Implementation of Projects Inherent to the Reduction of Emissions from Deforestation and Forest Degradation, Conservation and 
+Increase of Carbon Stocks.
+90   Additional Final Rule, 4, Law N.30754 -2018, Climate Change Law Framework.
+91  Ministerial Resolution No. 197-2016. Ministry of Environment.
+92  ER Program: Reducing Emissions from San Martin and Ucayali in the Peruvian Amazon. Peru, June 2019.
+93  The FCPF Carbon Fund is currently preparing the User Guidelines, Business Plan, and Operational Guidelines. These documents have not been analyzed in the preparation of the present 
+document.·	 Guatemala is developing a regulation, in 
+accordance with their Climate Change Law 
+Framework90 and their National REDD+ Registry 
+resolution,91 that focuses on the development of a 
+national database management system; it does 
+not intend to create a transaction registry. 
+·	 Peru intends to create both a database system 
+and a transaction registry (the National 
+Mitigation Measures Registry), which will be 
+linked to the Registry of Retribution Mechanisms 
+for Ecosystem Services with respect to carbon 
+sequestration and storage. Their registry 
+will recognize ERs from international carbon 
+standards, and their conversion to national 
+carbon credits, for the purpose of international 
+transfers or NDC compliance, and will be 
+implemented by IHS Markit.92
+The technical, operational, and financial requirements 
+for operating a transaction registry have led most 
+countries participating in the FCPF Carbon Fund to 
+choose not to develop an internal transaction registry, 
+and to use instead, at least in the first phase, the 
+transaction registry that is being designed by the 
+World Bank. This registry could become the standard 
+registry to be used in the long term; it is open to both 
+countries and other entities, that is, to buyers and 
+sellers, outside the FCPF Carbon Fund.93
+
+
+--- PÁGINA 89 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers80
+12.2 Jurisdictional ER Program (Only), with 
+Benefit Sharing
+The jurisdictional-only crediting approach requires 
+only a simple accounting system . In this model, the 
+government accounts for ERs at the national level, and 
+may decide to issue carbon credits and transfer them 
+to international accounts. The state is the sole owner 
+of ERs; the primary recipient of results-based finance 
+(RBF) and carbon finance; and it retains the right to 
+generate and market ERs. For countries that wish 
+to participate in markets, Annex I registries, which 
+exclude the clean development mechanism (CDM)/ 
+Joint Implementation (JI)  functionality, may serve as 
+a model.
+If a country only anticipates participating 
+in nonmarket RBF, it may only need a data 
+management system . Because there are few 
+technical and financial requirements for operating 
+such an accounting system, in this case the country 
+would not need a transaction registry.  A simple 
+data management system would help to keep track 
+of ERs, and would be likely to generally satisfy 
+donor demands for RBF . Such a system could also 
+incorporate details about the programs and activities 
+implemented at the national, subnational, or site-
+specific levels, as well as information concerning the 
+types of activities implemented, the areas they cover, 
+the number of beneficiaries, and the types of benefits 
+they receive, as well as the status of activities under 
+implementation. Such a system could complement the 
+safeguard information system (SIS) as a transparency 
+information tool.
+Centralized Nested Approach
+Under the centralized nested approach, at a 
+minimum, a data management system with the 
+functionality for tracking ER performance at the 
+project level is needed.  The registry will not need to 
+feature accounts for private sector project proponents 
+if they implement REDD+ but they are not issued 
+forest carbon credits. However, information about the 
+performance achieved by specific entities—based on 
+the criteria of the ER allocation system—should be 
+recorded. The data in the data management system 
+would provide the basis for the distribution of benefits 
+to approved projects.
+Decentralized Nested Approach
+The decentralized nested approach requires a 
+transaction registry, although a country may use a third-party registry, combined with a national 
+data management system, to fulfill this obligation. 
+Since this approach allows the direct marketing of 
+ERs by private entities, the registry requirements 
+are more stringent. The government needs to keep 
+track of government and project GHG performance 
+(at a minimum with a data management system), 
+while private entities can hold their own accounts for 
+tracking and commercializing ERs. If nested projects 
+sell ERs into carbon markets, the transaction registry 
+needs to record such transactions—but this can be 
+done by a third-party registry. 
+Under a decentralized nested approach, the tracking 
+of units may require the ability to recognize, hold, 
+and convert various units . Private sector accounts 
+will need to be integrated (nested) into the national 
+or subnational REDD+ framework. This requires 
+significant administrative capacity and resources, 
+and should be done only after a careful cost-
+benefit analysis. Augmenting the number of market 
+participants greatly increases the cost and complexity 
+of monitoring and verifying ER activities, and tracking 
+the ownership and use of forest carbon credits. REDD+ 
+countries will need to determine whether they can 
+feasibly develop this capacity, and if so, the extent 
+to which the benefits of private sector involvement 
+outweigh the added transaction costs.  The integration 
+of private accounts into a national tracking system 
+(whether a data management system or a registry) 
+also calls for enhanced security and data protection.
+The government may also outsource some or all 
+functionalities of the registry to other registries or 
+registry providers. As mentioned above, credits can be 
+issued to the accredited registries of standards that 
+are used by projects or jurisdictional programs. Thus, 
+a country can start with just a data management 
+system, which can evolve into a more sophisticated 
+transaction registry over time. Once a national (or 
+subnational) transaction registry is in place, the 
+accredited voluntary standard registries could either 
+be linked with, or integrated into, the national registry.
+Project Crediting (Only), No Jurisdictional Program
+In cases where only projects are generating tradable 
+ERs, if private projects sell ERs under Article 6.2 
+or Article 6.4 of the Paris Agreement to foreign 
+buyers, or if they are authorized to generate ERs 
+with corresponding adjustments, at a minimum, a 
+data management system is needed. The government 
+must be able to receive and process the information 
+necessary to make corresponding adjustments and to 
+
+--- PÁGINA 90 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers81
+ensure robust NDC accounting. Under a decentralized 
+approach, a country might also want to adopt a 
+system for tracking information on its various REDD+ 
+initiatives and projects, and for compiling information 
+about project transactions.
+Private entity transactions of carbon credits also 
+need access to a transaction registry and to its associated accounts.  The government can recognize 
+the registries of approved carbon standards, and/
+or can establish its own transaction registry and 
+authorize private entities to open an account in 
+it. This may be an option if the country already 
+operates a transaction registry for other sectors, or 
+if it integrates REDD+ projects in a national carbon 
+market.
+T able 12 Types of Registries Linked to Various Nesting Models
+Nesting 
+ModelDescription Country 
+ExamplesRegistry ImplicationsJurisdictional-crediting 
+(only)The government 
+records ERs at the 
+national level. It may 
+issue carbon credits 
+and transfer them to 
+international accounts. Ecuador, where 
+forest carbon 
+credits are only 
+issued at the 
+national level.·	A simple, single-account system where the national 
+government is the sole owner of forest carbon credits.
+·	Few technical and financial needs for operating the account 
+system.
+·	Where forest carbon credits are transferred to international 
+sovereign buyers, a link to the registries of buyer countries 
+might be useful.
+·	A data management system can incorporate additional 
+information, such as benefit-sharing implementation. Centralized- nested 
+modelThe government 
+records ERs at the 
+national level. It also 
+records the data 
+necessary to operate 
+the ER allocation to 
+projects/programs.DRC, Mozambique, 
+Brazil (sharing of 
+ERs with states)·	Nested projects have specific accounts for recording 
+performance (as input to ER allocation). 
+·	Where forest carbon credits are transferred to international 
+sovereign buyers, a link to the registries of buyer countries 
+might be useful.
+·	Transactions from nested projects that participate in selling 
+ER to voluntary markets can be tracked.Decentralized-nested modelNational and REDD+ 
+project ERs need to be 
+tracked.Cambodia, 
+Colombia·	A transaction registry with private accounts is needed 
+where ERs are being transacted in markets.
+·	Countries can allow REDD+ projects to be registered under 
+third-party registries. Once a national transaction registry 
+is in place, the registries are linked, or integrated into the 
+national registry.
+·	The functioning of a transaction registry requires technical 
+and financial capacities. This can either be established 
+within the country, or it can be outsourced.Project-crediting (only)Only projects 
+commercialize ERs, 
+which requires trackingNew Zealand ·	A transaction registry is required for transactions of private 
+entities; a third-party registry can be used for voluntary 
+markets.
+·	A national registry is needed in the context of a national 
+carbon accounting standard or market.
+·	The government can also operate a data management 
+system to record information about national projects and 
+their GHG performance.

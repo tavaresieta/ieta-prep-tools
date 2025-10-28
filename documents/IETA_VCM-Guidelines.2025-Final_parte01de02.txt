@@ -1,0 +1,738 @@
+DOCUMENTO: IETA_VCM-Guidelines.2025-Final
+PARTE 1 de 2
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+VCM Guidelines 2.0
+September 2025
+GUIDELINES FOR
+HIGH INTEGRITY USE OF VERIFIED CARBON CREDITS V2.0
+
+--- PÁGINA 2 ---
+
+IETA VCM GUIDELINES 2.0 2
+
+--- PÁGINA 3 ---
+
+301 INTRODUCTION
+02 THE V OLUNTARY CARBON 
+ MARKET ( VCM)
+03 GUIDELINE S FOR HIGH
+ IN TEGRITY USE OF VERIFIED 
+ C ARBON CREDITS (VCC s)
+04 CONCLUSIONPg 04
+Pg 07
+Pg 13
+Pg 25
+GUIDELINES DISCLAIMER
+THESE GUIDELINES HAVE BEEN DEVELOPED BY IETA TO FACILITATE THE USE OF VERIFIED CARBON CREDITS (VCCS) BY COMPANIES TO SUPPORT NET ZERO DELIVERY IN A MANNER CON -
+SISTENT WITH THE PARIS AGREEMENT GOALS. 
+NOTICE OF DISCLAIMER & WAIVER: THESE GUIDELINES WERE PREPARED BY IETA AND DO NOT CONSTITUTE LEGAL ADVICE. ANY AND ALL USE OF THESE GUIDELINES IS AT YOUR OWN RISK, 
+AND DOES NOT CONSTITUTE, NOR MAY IT BE RELIED UPON AS, LEGAL OR PROFESSIONAL ADVICE. THESE GUIDELINES DO NOT CONSTITUTE A COMPLIANCE OR OTHER LEGAL ANAL YSIS OR OPINION OF IETA. 
+IETA PROVIDES NO WARRANTY IN RESPECT OF THE ACCURACY , COMPLETENESS OR FITNESS FOR ANY PURPOSE OF THE GUIDELINES, OR ITS TIMELINESS IN A RAPIDL Y CHANGING IN -
+TERNATIONAL BEST PRACTICE AND LEGAL CONTEXT. IETA, THE IETA MEMBERS, REPRESENTATIVES, IETA COUNCIL (BOARD OF DIRECTORS), SECRETARIAT AND COUNSEL INVOLVED IN ITS 
+PREPARATION AND APPROVAL ARE NOT LIABLE OR OTHERWISE RESPONSIBLE FOR ITS USE, INCLUDING ANY DAMAGES OR LOSSES WHATSOEVER RESUL TING FROM ITS USE HOWEVER CAUSED IN ANY CASE OR JURISDICTION.
+THE USE OF THESE GUIDELINES REMAINS THE RESPONSIBILITY OF EACH PARTY WISHING TO USE THESE GUIDELINES AND EACH ENTITY USING THEM SHOULD ENSURE THAT IT HAS OB -
+TAINED INDEPENDENT LEGAL ADVICE ON THEM AND THEIR INTENDED USE. ALL USERS SHOULD CONSUL T THEIR OWN COUNSEL; CONDUCT THEIR OWN DUE DILIGENCE ON THE LEGAL 
+AND REGULATORY REQUIREMENTS OF ANY JURISDICTION THEY NEED TO SATISFY AND SEEK ANY AND ALL OTHER ADVICE THEY DEEM APPROPRIATE PRIOR TO USING THESE GUIDELINES.
+SINCE 1999 IETA HAS BEEN THE LEADING VOICE OF BUSINESS ON AMBITIOUS MARKET-BASED CLIMATE CHANGE SOLUTIONS AND DRIVING NET ZERO. IETA ADVOCATES FOR TRADING 
+SYSTEMS FOR EMISSIONS REDUCTIONS AND REMOVALS THAT ARE ENVIRONMENTALL Y ROBUST, FAIR, OPEN, EFFICIENT, ACCOUNTABLE AND CONSISTENT ACROSS NATIONAL BOUNDAR -
+IES. REPRESENTING MORE THAN 300 LEADING INTERNATIONAL ORGANISATIONS, IETA IS A TRUSTED PARTNER IN DEVELOPING INTERNATIONAL POLICIES AND MARKET FRAMEWORKS TO REDUCE GREENHOUSE GAS EMISSIONS AT THE LOWEST COST WHILE BUILDING A CREDIBLE PATH TO NET ZERO EMISSIONS. SEE WWW.IETA.ORG FOR MORE INFORMATION.
+THE IETA VCM GUIDELINES FOR HIGH INTEGRITY USE OF CARBON CREDITS WAS DEVELOPED BY THE IETA DEMAND TASK FORCE DURING 2023/2024. THE IETA GUIDELINES ENDEAVOUR TO 
+PRESENT A COLLECTIVE VIEW OF THE TASK FORCE LISTED ABOVE AND, AL THOUGH THE CONTRIBUTORS SUPPORT THE GENERAL THRUST OF THE DOCUMENT, CONTRIBUTORS CANNOT BE TAKEN TO AGREE WITH ALL OF ITS CONTENT. THE CONTRIBUTORS HAVE NOT BEEN ASKED TO FORMALL Y ENDORSE THE IETA GUIDELINES.
+DESIGN: HITMAN CREATIVE MEDIA INC.
+MAKING NET ZERO POSSIBLE
+
+--- PÁGINA 4 ---
+
+4
+IETA VCM GUIDELINES 2.0
+However, the gap between climate commit -
+ments and the 1.5°C pathway is growing, and 
+the Intergovernmental Panel on Climate Change 
+(IPCC) shows the world is on track for a tem -
+perature rise of over 3°C. If the world is to lim -
+it warming to 1.5°C, the IPCC has stated that 
+global emissions must peak now, almost halve 
+by 2030 and that removals must be deployed at 
+considerable scale.1 
+Y et, since publishing version 1.0 of IETA’s “Guide -
+lines for high-integrity use of carbon credits”2 in 
+April 2024, an increasing body of research has emerged indicating that, while some progress 
+towards corporate net zero is being made, com -
+panies overall are behind in their climate targets. 
+This under delivery is contributing to the risk of overshoot of the Paris Agreement objectives 
+and raises ongoing concern in IETA. Although 
+these research studies follow different method -
+ological approaches, they draw the same broad conclusions: 
+a) The majority of companies have not set net zero targets
+3 4 5  
+b) There is growing concerns that companies with net zero targets are not on track to meet both near- and long-term targets
+6 7 8  
+c) Delivery of scope 3 targets is particularly challenging
+9 10 11   Even if all companies set Paris aligned targets, 
+the risk of missing targets will continue to ex -
+ist. In this regard, the voluntary carbon market 
+(VCM) is an essential mechanism for companies to decarbonise as fast as possible in the most cost-effective way. In a report released by the 
+Voluntary Carbon Markets Initiative (VCMI)
+12 this 
+year, companies stated that carbon markets are 
+a critical element to meeting climate and sus -
+tainability goals with “Making progress towards climate goals” ranked as the top opportunity. IETA has outlined the following Guidelines 
+which we believe offer a pragmatic approach to 
+the high integrity use of verified carbon credits (VCCs) by companies as a complement to in -
+ternal decarbonisation efforts. The IETA Guide -
+lines V1.0 were first published in April 2024
+13 and 
+updated in September 2025. 
+In 2025, there remains a lack of consensus in 
+guidelines and standards on the ‘use cases’ for VCCs to support Net Zero delivery. In the same VCMI report as referenced earlier, businesses 
+conclude “clear, aligned and stable rules wheth -
+er from regulatory or voluntary frameworks, are 
+the critical levers to justify larger scale invest -
+ment into the market”. 01 INTRODUCTION
+THE PARIS AGREEMENT’S OBJECTIVE OF “HOLDING THE INCREASE IN THE 
+GLOBAL AVERAGE TEMPERATURE TO WELL BELOW 2°C ABOVE PRE-IN -
+DUSTRIAL LEVELS AND PURSUING EFFORTS TO LIMIT THE TEMPERATURE INCREASE TO 1.5°C ABOVE PRE-INDUSTRIAL LEVELS”, REQUIRES IMMEDI -
+ATE ACTION BY THE PRIVATE SECTOR ALONGSIDE GOVERNMENTS AND BROADER SOCIETY .
+GLOBAL EMISSIONS 
+MUST PEAK NOW AND 
+NEARL Y HALVE BY 
+2030— THE VOLUNTARY 
+CARBON MARKET IS 
+CRITICAL IN COMPANIES DECARBONIZATION TO 
+SUPPORT THE PARIS AGREEMENT GOALS.
+
+--- PÁGINA 5 ---
+
+5 MAKING NET ZERO POSSIBLEIETA GUIDELINES
+FOR HIGH INTEGRITY USE
+OF VERIFIED CARBON CREDITS
+DEMONSTRATE SUPPORT FOR THE PARIS
+AGREEMENT GOALS
+QUANTIFY AND PUBLICL Y DISCLOSE SCOPE 
+1, 2, AND 3 EMISSION PROFILES
+ESTABLISH A NET ZERO DECARBONISATION
+PATHWAY AND NEAR-TERM TARGETS
+USE VERIFIED CARBON CREDITS IN LINE 
+WITH THE MITIGATION HIERARCHY
+ENSURE THAT ONL Y HIGH-QUALITY VERIFIED 
+CARBON CREDITS (VCCs) ARE USED 
+TRANSPARENTL Y ACCOUNT AND PUBLICL Y
+DISCLOSE USE OF VCCs
+MAKE ROBUST, TRANSPARENT 
+SUBSTANTIATED AND CREDIBLE CLAIMS01 
+02 
+03 
+04 
+05 
+0607
+
+--- PÁGINA 6 ---
+
+IETA VCM GUIDELINES 2.06
+It is encouraging to note that we are starting to 
+see some alignment with IETA’s view, as set out in the IETA Guidelines V1.0, that the use case for 
+VCCs should include helping companies stay 
+on track and meeting interim internal emissions reduction targets.
+14 15 The Guidelines continue to 
+build on existing and emerging guidance as we work towards a consensus in the market on the 
+high integrity use cases for VCCs to help meet 
+net zero commitments and the claims that com -
+panies can make based on their use. 
+These Guidelines were developed by and for 
+companies who are committed to climate ac-tion and decarbonising their businesses. IETA’s mission is to “Empower business to engage in climate action and pursue net zero ambitions to 
+advance the Paris Agreement’s objectives”.
+16 At 
+this critical stage, it is fundamental that compa -
+nies seeking to engage in climate action, reduce emissions and reach net zero, maximise all avail -
+able solutions. IETA encourages all c ompanies 
+to (1) set Paris Agreement aligned net zero tar -gets, (2) compensate with VCCs for some or all 
+of their unabated emissions
+17, be they scope 1, 
+2 or 3, during their net zero pathway as well as to counterbalance their residual emissions
+18 at 
+net zero and beyond, and (3) contribute to the global effort to meet net zero by contributing to 
+emissions mitigation beyond their own net zero 
+pathway. 
+These Guidelines are intended to outline IE -
+TA’s position on best practices when leveraging 
+the VCM to ensure high integrity use cases of VCCs. In this regard, we identified multiple use cases for VCCs that companies can follow to support their internal decarbonisation efforts, 
+with a focus on the use of VCCs to meet interim 
+internal emissions reduction targets as the main driver for companies to invest in VCCs and the use case with the highest mitigation potential.
+19 
+IETA supports companies using both high-qual -
+ity emission reductions and removals VCCs in 
+their decarbonisation pathway and to reach and 
+maintain net zero.
+HIGH-INTEGRITY 
+VCC s ARE A VITAL 
+TOOL TO KEEP 
+COMPANIES ON TRACK TOWARD NET ZERO—SUPPORTING REAL EMISSIONS CUTS TODAY 
+WHILE BUILDING 
+MOMENTUM FOR 
+TOMORROW.THESE GUIDELINES ARE INTENDED TO 
+OUTLINE IETA’S POSITION ON BEST PRACTICES WHEN LEVERAGING THE VCM TO 
+ENSURE HIGH INTEGRITY USE CASES 
+OF VCCs.
+
+
+--- PÁGINA 7 ---
+
+MAKING NET ZERO POSSIBLE7
+Carbon markets (compliance and voluntary), 
+funded by companies and governments, can play a role in delivering the Paris Agreement 
+Goals. International carbon markets could re -
+duce GHG mitigation costs by up to 32%.
+21 IETA 
+acknowledges the importance of the adaptation 
+component of the Paris Agreement and firm -
+ly believes carbon markets can help drive the much-needed climate finance, technology and capacity to the low- and lower-middle income countries (LLMIC) and most vulnerable com -
+munities helping to close the finance gap and support the New Collective Quantified Goal on Climate Finance (NCQG) .
+More specifically the VCM, that is “the use of 
+VCCs that are not purchased with the intention 
+to surrender into an active regulated, compli -
+ance carbon market” ,
+22 has a unique role to play 
+in paving the way for compliance markets, facili -
+tating the achievement of NDCs and encourag -
+ing private investment in decarbonisation and achievement of Paris aligned net zero. As a run -
+way towards compliance, the VCM helps build capacity and knowledge for governments and 
+companies on the best practices for registries, 
+verification, project development and financing mechanisms. The agility of the VCM offers on -
+going opportunities for development, technol-ogy innovation and additional forms of climate 
+mitigation.
+In a 2023 Capstone report  by IETA and the 
+University of Maryland,
+23 modelling showed 
+that in the near-term, cooperative implemen -
+tation of Nationally Determined Contributions 
+(“NDCs”) using Article 6 could substantially re-
+duce resources needed to achieve emissions reductions. Given the lack of finance to address climate change, this outcome highlights the sig -nificant role of VCCs to allow countries to reach their NDCs. Building on this report, further eco -
+nomic modelling was conducted,
+24 indicating 
+that the VCM has a potentially important role to play in enabling emissions mitigation in the near 
+term, and that the role of the VCM will fade as 
+the world approaches net zero. The VCM plays a larger role transferring resources to the LL -
+MICs than when NDCs are implemented inde -
+pendently.
+The VCM can also channel finance to where it 
+is desperately needed, including to LLMICs, removals (both nature-based and technolo-
+gy-based), environmental conservation, and for 
+delivery of the UN SDGs.
+25 Recent research into 
+corporate net zero and the use of VCCs coming from independent research providers (such as 
+Sylvera,
+26 MSCI,27 Ecosystem Marketplace,28 
+AlliedOffsets and Bain & Company29), together 
+with the experience of IETA members, shows 
+that VCCs can accelerate and increase climate 
+action, at the lowest cost. 
+Despite this critical role, the VCM has under -
+performed. Since 2022, voluntary retirement of 
+VCCs has levelled off. This stagnation jeopardis -
+es progress toward global targets and under -
+scores the urgent need to revive business de -
+mand for VCCs. While companies view carbon 
+markets as essential to achieving their climate 
+and sustainability objectives, recent concerns 
+about reputational risk, litigation, VCC quality, and inconsistencies in regulatory and voluntary frameworks on how VCCs can be used in corpo -
+rate decarbonisation strategies and the claims that may be made in respect of retirements, have made many companies hesitant to invest, and slowed down decarbonisation.THE VCM CHANNELS 
+VITAL FINANCE, 
+INNOVATION, AND ACTION—ACCELERATING DECARBONISATION NOW WHILE BUILDING THE PATHWAY TOWARD PARIS-ALIGNED NET ZERO.02 THE VOLUNTARY 
+CARBON MARKET (VCM)
+THE VCM CAN PROVIDE A ROBUST MECHANISM FOR COMPANIES TO REDUCE OR REMOVE EMIS -
+SIONS IN SUPPORT OF GLOBAL DECARBONISATION. PURCHASE OF VCC s PLACES AN INTERNAL 
+PRICE ON CARBON, WHICH ENCOURAGES COMPANIES TO MAKE DECARBONISATION EFFORTS  
+IN THEIR VALUE CHAIN. COMPANIES PARTICIPATING IN THE VCM ARE INVESTING THREE TIMES 
+MORE IN EMISSIONS REDUCTION EFFORTS WITHIN THEIR VALUE CHAINS COMPARED TO NON-  
+PARTICIPANTS.20 
+
+--- PÁGINA 8 ---
+
+IETA VCM GUIDELINES 2.08
+A report by VCMI30 clearly found that the top two 
+drivers for the use of VCCs by companies are: 
+1. making progress towards climate goals and, 
+2. demonstrating action across broader social 
+and nature goals. The report confirmed that cor -
+porates are willing to invest in VCCs to support market and technology innovation, stay ahead 
+of regulatory, compliance and reporting risks, 
+access revenue opportunities and investments, enhance brand reputation and have better man-agement of financial cost and risks. However, as stated above, multiple concerns are stalling in-
+vestment and trust in the market.
+The urgency of the climate crisis requires sig -
+nificant action now. Science-based pathways 
+that make sense on paper are in themselves not 
+enough – actions are critical.
+2. 1 U SE OF VERIFIED CARBON
+ CREDI TS (VCC s) IN CORPORATE 
+ DECARBONISATION
+In developing these Guidelines, IETA builds on an extensive body of existing work within the VCM. Several parties – both private and public 
+sector – are developing guidelines, standards 
+and regulations related to the use of VCCs in corporate decarbonisation strategies (Figure 1). 
+As illustrated in Figure 1, it is best practice 
+across frameworks to emphasise a focus on emissions reductions first and foremost; most operational frameworks take this a step further by not allowing carbon credit use for meeting 
+interim internal emissions reduction targets 
+or demonstrating progress on the path of net zero. This is unfortunately a missed opportunity to drive additional climate finance to emission 
+reductions and avoid missing targets. At net 
+zero, most frameworks emphasise the need to counterbalance residual emissions with durable 
+removals VCCs. Insetting,  voluntary retirement 
+as contributions, and  infrastructure scaling  are 
+emerging use cases for VCCs. 
+Existing frameworks provide limited use cases 
+for VCCs. T o provide impactful action towards 
+NDC delivery and corporate decarbonisation, organisations need an effective business case for the use of VCCs in corporate net zero strat -
+egies, e.g. using them to balance emissions that cannot otherwise be eliminated on the path to net zero. IETA differs from many frameworks as members view the primary incentive for com-panies to voluntarily purchase and retire VCCs 
+is for their own carbon accounting and related 
+claims that may be made in service of net zero delivery. Companies should be able to use VCCs alongside internal decarbonisation efforts. 
+Government recognition of the potential of the 
+VCM to help achieve NDCs, and clear rules for a functioning market are critical to scale-up cor -
+porate climate action. Governments are increas -
+ingly developing VCM principles (e.g. Singapore and UK governments), guidelines and frame -
+works to set these clear rules including the new -
+ly established Coalition to Grow Carbon Mar -
+kets, a multi-national effort to provide aligned principles to the global business community.
+31
+2.2 U SE OF VCC s IN DOMESTIC
+ AND IN TERNATIONAL COMPLIANCE
+ MARKETS
+Besides voluntary use of VCCs by corporates, VCCs are also being used under domestic and internationally regulated frameworks.
+32 Notably, 
+Article 6 of the Paris Agreement allows coun -
+tries to use VCCs as a flexible mechanism to 
+support countries in meeting their NDCs and 
+Long-T erm Strategy ( Figure 2). Countries like 
+Singapore, Japan, South Korea, Norway, and Switzerland are planning to use Article 6 VCCs 
+to help meet their NDCs.
+33 The Carbon Offset -
+ting and Reduction Scheme for International 
+Aviation (CORSIA) allows airlines to use VCCs 
+to compensate emissions.34 THE URGENCY 
+OF THE CLIMATE CRISIS REQUIRES SIGNIFICANT ACTION NOW. SCIENCE-BASED PATHWAYS THAT MAKE SENSE ON PAPER ARE IN THEMSELVES NOT ENOUGH – ACTIONS ARE CRITICAL.
+
+
+--- PÁGINA 9 ---
+
+MAKING NET ZERO POSSIBLE9
+FRAMEWORK / 
+STANDARDUSE CASES FOR VERIFIED CARBON CREDITS (VCC s)CONDITIONS CLAIMS
+SBTi Corporate Net Zero Standard (Version 2.0 under-development, Draft for public consultation, March 2025)
+45 46 47   - Neutralise48 residual emissions49 
+with removals VCCs 
+- Contribute to mitigation “beyond” (or outside of) value chain by taking responsibility for unabated emissions
+50
+- T ake accountability for underperformance using removal VCCs- VCCs cannot be used to meet interim internal emissions reduction targets
+- The use of carbon removals to address potential underperformance, does not negate the need for companies to reduce these emissions. It represents an additional measure that companies take to address the atmospheric impact of excess emissions from the previous cycle
+- Net zero can be claimed only after >90% emissions reduction- “Net zero committed” – targets validation 
+- “Supporting mitigation beyond our value chain”
+51
+- “Net-zero” 
+ISO 14068-1 (Carbon 
+Neutrality)52 - Offset53 unabated emissions54 at 
+product/service level- Must follow hierarchy: reduce → remove → 
+offset
+- VCCs must meet permanence, additionality, 
+and verification standards- “Carbon neutral”
+ISO Net Zero Guidelines 
+(IWA 42:2022)55 and 
+Draft Net Zero Standard 
+(under development, ISO 14060)
+56 - Offset57 residual emissions58 
+(Scopes 1, 2, relevant Scope 3)
+- Insetting removal projects
+- Purchase removals beyond value chain
+- Retire VCCs voluntarily for beyond value-chain mitigation
+- Scale removal infrastructure via long-term agreements- Offsets not allowed for interim internal 
+emissions reduction targets
+- Focus on long-lived removals and 
+infrastructure scaling
+- Avoided emissions59 cannot be included 
+in claims of progress towards targets nor should be used to counterbalance residual emissions.- “Net zero 
+committed” – 
+targets validation
+- “Net Zero” 
+achieved and maintained
+VCMI Claims Code of Practice
+60 - Purchase and retirement of high-quality VCCs proportionate to its remaining emissions
+61 
+once a company has met, or demonstrated progress towards meeting, its near-term emission reduction targets.- Must meet VCMI Foundational criteria, including set and publicly disclose science-aligned near-term emission reduction targets consistent with reaching net zero no later than 2050, including all emissions scopes. Companies must demonstrate that they are making progress towards near-term targets. - “Carbon Integrity Claim” tiers: Silver (10–50%), Gold (50–100%), or Platinum (>100%) remaining emissions
+VCMI Scope 3 Action Code of Practice (2025)
+62 - Retiring high-quality VCCs, every year, to close the Scope 3 emissions gap, in an amount at least equal to their excess emissions
+63 as the company works 
+to meet their reduction targets.- The scope 3 emissions gap to be closed by VCCs cannot be more than 25% of the corporate’s total scope 3 emissions trajectory
+- Must meet Foundational Criteria: GHG inventory, near-term targets, Scope 1 & 2 progress, governance, financial commitments 
+- Only for companies falling behind on short-term targets
+- Companies must eliminate the gap by 2040.- No specific VCMI claims associated
+Singapore draft VCM Guidelines
+64- Use VCCs particularly for hard-to-abate emissions
+- Support use of VCCs for voluntary climate commitments
+- Raise global climate ambition- VCCs can be used for compliance or voluntary purposes
+- No corresponding adjustments required for voluntary use- Claims guidance under development
+UK Principles for Voluntary Carbon and Nature Market Integrity
+65 - Support insetting approaches 
+- Expand VCCs use cases beyond VCMI standards- Principles still under development - Claims guidance under consultation
+Coalition to Grow Carbon Markets
+66 
+(VCMI as Secretariat)- Use of VCCs to enhance companies’ climate action while supporting further mitigation and sustainable development in host countries.- Shared principles under development which will outline the role of VCCs in credible corporate decarbonisation plansN/AFigure 1. Comparison of VCM guidelines.
+
+--- PÁGINA 10 ---
+
+IETA VCM GUIDELINES 2.010
+Several national and subnational governments 
+allow for the use of VCCs to compensate emissions regulated by domestic carbon pric-
+ing instruments. T oday, around 28% of global 
+GHG emissions are covered by a direct carbon price, and jurisdictions representing two-thirds of global GDP have adopted carbon taxes or 
+emissions trading systems (ETS).
+35 There are 
+80 emissions trading systems and carbon taxes 
+implemented globally, plus ETSs planned in Bra-
+zil, India, and Türkiye.36 The use of VCCs to meet 
+targets is consistent with how VCCs are being 
+integrated into many regulatory carbon pricing 
+mechanisms (Figure 3).
+These frameworks often permit regulated en -
+tities to retire a limited number of VCCs to fulfil 
+part of their compliance obligations. In 2024, al -
+most a quarter of global VCC retirements were 
+to meet domestic compliance obligations. Some good examples include the California’s Cap-and-Trade program, allowing from 4% to 6% of 
+VCCs to offset emissions, and Singapore’s use 
+of eligible international VCCs to offset up to 5% of their taxable emissions. The French Climate and Resilience Act requiring airlines to offset 
+100% of their GHG emissions from domestic 
+flights.
+VCCs are being used within the national ETSs 
+of China and New Zealand and in the carbon tax 
+systems of Mexico, Chile, Colombia, South Afri -
+ca, and Switzerland.
+37 It is also planned in Indian 
+and Brazilian regulation to allow the domestic 
+use of VCCs.
+It should be noted that some jurisdictions are 
+also considering regulating the use of VCCs for voluntary purposes (as opposed to use in do -
+mestic carbon pricing schemes). This regulation includes consumer protection of green market -
+ing claims to avoid misleading consumers, (e.g. EU Draft Green Claims Directive currently on hold
+38), regulation on disclosure (e.g. California 
+Bill AB 1305 (enacted) and Canada’s C59 leg -
+islation that changes the competition act with 
+regards to environmental claims). Governments could unlock demand if they set 
+demand-side integrity frameworks, which clar -
+ify: (i) the role that carbon credits can play in 
+supporting corporate climate commitments, 
+consistent with science-aligned pathways; (ii) the claims that carbon credit users can make; and (iii) guardrails for the use of carbon credits.
+39
+2.3 M ARKET CONVERGENCE
+ AND IN TEGRITY
+Carbon market mechanisms are becoming in -
+creasingly integrated, with some VCCs used interchangeably across markets. As illustrated 
+in Figure 4, market destination dictates the units’ 
+eligibility based on private frameworks, sub-na-
+tional, national and international regulation. The use also dictates rules such as whether authori -
+sation by host countries and corresponding ad -
+justments are required. 
+The Paris Agreement requires emissions reduc -
+tions and removals from Internationally Trans -
+ferred Mitigation Outcomes (ITMOS) to be de-
+ducted from host countries’ GHG mitigation ef -
+fort, known as Corresponding Adjustment (CA). This CA is an accounting mechanism under the 
+Article 6 Rulebook
+40 to prevent double-counting 
+of emissions reductions and removals across 
+national inventories. VCCs from independent, 
+government-run and UN regulated crediting 
+programmes are also becoming interchange -
+able, allowing VCCs to be used by both coun -
+tries and corporates. 
+Private and public high-quality labels and criteria 
+are emerging globally to increase market integ -
+rity. The roles of the Integrity Council for the Vol -
+untary Carbon Market (ICVCM)41, CORSIA42, the 
+Article 6 Rulebook43 and ICROA44 are critical, as 
+illustrated in Figure 4. At the project level, ratings 
+and insurance play a key role in assessing car -
+bon projects and derisking investments.FROM CALIFORNIA 
+TO SINGAPORE, 
+GOVERNMENTS ARE INTEGRATING VCCs 
+INTO COMPLIANCE MARKETS—
+UNLOCKING FINANCE, CUTTING 
+COSTS, AND ACCELERATING 
+GLOBAL CLIMATE ACTION.
+International Compliance Details & Examples
+Support countries in meeting 
+climate targets under the Paris 
+AgreementParis Agreement Article 6 enables use of VCCs to-
+wards Nationally Determined Contributions (NDCs) 
+and Long-T erm Strategies (L TS)
+Offset aviation emissions 
+under global schemesCORSIA  (Carbon Offsetting and Reduction 
+Scheme for International Aviation) allows airlines to use VCCs to compensate for their emissionsFigure 2. Use of VCCs in international compliance markets.
+
+--- PÁGINA 11 ---
+
+MAKING NET ZERO POSSIBLE11
+ MAKING NET ZERO POSSIBLECOUNTRY / 
+JURISDICTIONMECHANISM TYPEVCC s USE CASE DETAILS
+California (USA) Emissions Trading 
+System (ETS) VCCs for compliance Entities may use California Compliance Offsets (CCOs) 
+for up to  4% of their compliance obligation for 2021 to 
+2025  emissions and up to 6% per year for 2026 to 2045 
+emissions. VCCs must be outside their value chain.
+Australia National ETS Use of domestic VCCs for compliance VCCs in Australia’s Safeguard Mechanism are used by large 
+emitters to offset emissions that exceed their set limits, allowing them to comply with climate regulations.
+Singapore Carbon T ax Offset taxable emissions with international VCCs
+Up to  5% of taxable emissions can be offset using  eligible 
+international VCCs. VCCs need to be correspondingly 
+adjusted.
+France Sectoral 
+RegulationMandatory offsetting aviation emissions with international (50%) and EU VCCs (50%)Article 147 of Climate and Resilience Act requires airlines to 
+offset  100%  of domestic flight emissions (from 2024)
+China National ETS Integration of VCCs into ETS Domestic offsets allowed within ETS framework to meet 
+compliance targets
+New Zealand National ETS Use of domestic and international VCCs VCCs used to meet obligations under the NZ ETS, with 
+evolving rules on eligibility
+Mexico Carbon T ax Use of VCCs to offset emissions VCCs permitted to reduce taxable emissions under national carbon pricing
+Chile Carbon T ax Offset mechanism within carbon tax frameworkVCCs used to lower tax liability for regulated entities
+Colombia Carbon T ax VCCs used for compliance Entities can use VCCs to meet carbon tax obligations
+South Africa Carbon T ax VCC retirement allowed Regulated entities may use VCCs to reduce footprint and ultimately tax liability
+Switzerland Carbon T ax 
+& ETSUse of VCCs in both tax and trading systemsVCCs integrated into compliance pathways for both mechanismsFigure 3. Use of VCCs in domestic compliance markets. 
+Greater market convergence would help scale 
+investments in VCCs by increasing fungibility of VCCs, developing clear rules for accounting and claiming, delivering robust interconnected reg -
+istries and infrastructure, promoting consistent reporting and review, increasing transparency, and promoting climate action. Several challeng -
+es remain to achieving convergence, including 
+more certainty on the legal nature of VCCs, car -
+bon accounting issues, registry interoperability 
+and data standardisation, clarity on correspond -
+ing adjustments for the voluntary use of VCCs, and what companies can claim based on the 
+use of VCCs. There are existing initiatives in the 
+market to address some of these challenges, such as the ICVCM’s Continuous Improvement Work Program on Market Transparency, Scal-
+ability and Standardization.
+67
+Certainty around the legal nature of VCCs un -
+der private law is an important issue for juris -
+dictions to resolve affecting accounting and tax reporting as well as the ability to safely transact and secure financing. Companies need legal 
+certainty that a VCC can be the subject of pro -
+prietary rights under private law in the relevant 
+jurisdictions, to be able to account for the value 
+of any VCCs as an asset under its regulatory re -
+porting obligations.68
+Further clarity is also required on the claims the end buyer may make in respect of the VCCs it has retired for voluntary use. This is an important 
+issue for building integrity and avoiding claims of 
+greenwashing. 
+See further section 3.7 : Guideline 7 on making 
+robust and transparent claims.GREATER MARKET 
+CONVERGENCE AND INTEGRITY WILL UNLOCK INVESTMENT, BOOST TRANSPARENCY , AND SCALE HIGH-QUALITY CLIMATE ACTION.
+
+--- PÁGINA 12 ---
+
+IETA VCM GUIDELINES 2.012
+Host countries are not required to apply CAs 
+when companies retire VCCs for voluntary cli -
+mate claims provided the VCCs is not counted 
+towards any other countries’ NDC. A VCC can 
+support a companies’ voluntary claim while al -
+lowing the associated emission reduction or re -
+moval to count toward the host country’s NDC.
+Whilst not the focus of this paper, it should be 
+noted that many companies also invest in oth -
+er market-based instruments such as  environ -
+mental attribute certificates (EACs),  r enewable 
+energy certificates (RECs), sustainable aviation fuel certificates, and other commodity-specif -
+ic or energy carrier certificates as part of their 
+climate action and climate risk mitigation strat -
+egies. Building convergence and integrity re -quires clear guidance on inventory accounting 
+for these mitigation actions to be captured con-
+sistently in company greenhouse gas  invento -
+ries. Government’s guidance on data, disclosure format, and endorsement of other sources of 
+guidance will increase transparency and con -
+sistency in reporting by companies that actively 
+use market instruments.  
+IETA would like to see increased levels of dis -
+closure and reporting from carbon projects and 
+standardise reporting. Improving global report -
+ing standards would reduce asymmetries of information, enable more scrutiny, and hence scale VCCs integrity. See section 3.6 for further 
+details.MARKET 
+CONVERGENCE AND INTEGRITY ARE KEY —CLEAR RULES, TRANSPARENCY , AND LEGAL CERTAINTY WILL UNLOCK INVESTMENT AND SCALE HIGH-QUALITY CLIMATE ACTION.PARIS AGREEMENT
+Credits from independent standards (VCUs, VERs)
+Credits from government-run national crediting programmes (e.g. JCM, T-VER)
+NET ZERO CLAIMSCreditingprograms & methodologiesAuthorization for 
+international transfers requires corresponding adjustments (CA)Market rules dictates unit 
+eligibility and authorization requirements
+Mitigation internationally
+transferredMitigation counted by host country
+in GHG inventory
+Paris Agreement Crediting Mechanism
+(PACM) A6.4 AERsPACM A6.4 MCUs
+Ratings InsuranceProject level quality
+& riskNDCs CORSIAVoluntary
+(Corporate net zero)Domestics
+ (ETS/T ax mechanisms)
+ICVCM/CCP labels CORSIA  ICROA Endorsed Domestic EligibleAccess/ & 
+integrity labelsCA ✅✅ ✅✅Figure 4: Carbon market convergence and integrity.
+Acronyms: NDC (Nationally Determined Contribution) CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation), CA (Corresponding Adjust -
+ment), VCUs (Verified Carbon Unit), VERs (Verified Emission Reduction), Joint Crediting Mechanism  (JCM), T-VER (Thailand Voluntary Emission Reduction Pro -
+gram), PACM (Paris Agreement Crediting Mechanism), A6.4 AERs (Article 6.4 Authorized Emission Reductions), A6.4 MCUs (Article 6.4 Mitigation Contribution Units), ICVCM/CCP (The Integrity Council for the Voluntary Carbon Market/ Core Carbon Principles), ICROA (International Carbon Reduction and Offset Alliance).
+
+--- PÁGINA 13 ---
+
+IETA’s Guidelines for the high integrity use 
+of VCCs to support companies’ delivery of net zero climate ambition:
+1. Demonstrate support for the Paris Agreement goals
+2. Quantify and publicly disclose scope 1, 2, and 3 emission profiles
+3. Establish a net zero decarbonisation pathway and near-term targets
+4. Use VCCs in line with the mitigation hierarchy
+5. Ensure that only high-quality VCCs areused 
+6. Transparently account and publicly disclose use of VCCs
+7. Make robust, transparent, substantiated and credible claims
+GUIDELINE 01
+3. 1 DEM ONSTRATE SUPPORT FOR THE 
+ P ARIS AGREEMENT GOALS
+IETA takes the position that companies should use all reasonable means at their disposal to prevent or control activities carried out by their 
+company, or associated with the activities of 
+their company, from causing harm to the envi-ronment. They should also, where possible, pro-tect the global climate system. 
+A first step in achieving such ambition is to mea -
+sure the environmental impact of their activities 
+and accurately account for direct and indirect emissions, whether such obligation is manda-
+tory or not. The second step is to demonstrate 
+the highest possible ambition in helping support the achievement of the Paris Agreement 1.5°C target by abating direct and indirect emissions 
+using all reasonable means available. Such am -
+bition should be disclosed in a public statement.IETA takes the position that all companies ought 
+to voluntarily help finance projects that reduce, remove or avoid emissions, as doing so can 
+make a significant contribution to the global am -
+bition under the Paris Agreement. Companies 
+can do this through the voluntary purchase of high-quality VCCs.
+In summary, companies can demonstrate sup -
+port for the Paris Agreement goals by:
+I. Setting a science-based decarbonisation 
+net zero pathway aligned with the IPCC 1.5°C pathway;
+II. Meeting interim internal emissions reduction targets and staying on track to meet these targets over time in their net 
+zero pathway;
+III. Committing to counterbalance any residual 
+emissions to reach and maintain net zero;
+IV. Contributing as much as possible to the decarbonisation of the global economy and to addressing their historical emissions;
+V. Ensuring compliance with domestic regulation, including national voluntary frameworks and national arrangements for 
+the Paris Agreement, where relevant.
+IETA highlights the importance of the adaptation 
+and finance components of the Paris Agree -
+ment. Private sector investment in LLMICs helps to finance adaptation and support the New Collective Quantified Goal on Climate Fi -
+nance (NCQG). Companies are encouraged to measure and publicly report their contribution to 
+adaptation and global climate finance.HIGH-INTEGRITY 
+VCC USE MEANS MORE THAN OFFSETS—IT’S ABOUT TRANSPARENCY , AMBITION, AND HELPING DELIVER THE PARIS AGREEMENT’S 1.5°C GOAL.03 GUIDELINES FOR
+HIGH INTEGRITY USEOF VERIFIED CARBON 
+CREDITS (VCCs)
+MAKING NET ZERO POSSIBLE 13
+
+--- PÁGINA 14 ---
+
+IETA VCM GUIDELINES 2.014
+GUIDELINE 02
+3.2 QU ANTIFY AND PUBLICL Y DISCLOSE 
+ SCOPE 1, 2, AND 3 EMI SSION PROFILES
+For effective emissions management and trans -
+parency in reporting, it is important that robust 
+and accepted emissions accounting methods 
+are used. A company ought to follow the man -
+datory or recommended standard they are ad -
+hering to, or it should use a widely recognised 
+independent standard. 
+Reference GHG accounting and disclosure 
+frameworks include the GHG Reporting Proto -
+col - Corporate Standard69 and the International 
+Organisation for Standardization (ISO) 14064-1:2018.
+70 Examples of good practice in global 
+climate disclosure framework include the IFRS S2 Climate Related Disclosure
+71 managed by 
+the International Financial Reporting Standards (IFRS) Foundation, which integrates the work of 
+the of the T askforce For Climate Related Finan -
+cial Disclosure (TCFD),
+72 the Climate Disclosure 
+Standards Board (CDSB),73 The Global Report -
+ing Initiative Sustainability Reporting Guidelines 
+(GRI),74 and the Transition Plan T askforce Dis -
+closure Framework (TP TDF).75 
+3.2. 1  QUANTIFY
+Companies should quantify scope 1, 2, and 3 
+GHG emissions, in line with internationally rec -
+ognised standards, using established baselines 
+and make data- and science-based decisions on where to prioritise emissions reductions 
+efforts and set targets. All disclosure of GHG 
+emissions should be made as a gross figure in tonnes of CO
+2e.
+Quantifying emissions in alignment with inter -
+nationally recognised standards is essential for comparability, transparency, and alignment with UNFCCC reporting principles. This framing also supports consistent disclosures of voluntary re -
+porting initiatives across different jurisdictions.Once measured, companies can then develop a detailed decarbonisation strategy including 
+plans to influence, support, and collaborate 
+within their value chain to drive down emis -
+sions across their demand and/or supply side. These plans need to take into consideration that companies mostly have direct control over 
+their scope 1 and 2 emissions profiles, but often 
+do not have as much visibility, data, or control of scope 3 emissions. Responsibility and leverage over scope 3 varies significantly across sectors 
+often requiring systemic, cross-sector solutions.
+Emissions intensity disclosures can also be an effective quantification method enabling prod-uct and cross-sector comparisons between companies. While useful for tracking progress 
+and guiding customer choice, carbon intensity 
+measurement (e.g. emissions per unit of prod -
+uct) should not lead to delays in absolute reduc-tions. Companies using intensity measurement 
+should disclose the trajectory to net-zero using 
+consistent indicators over time.
+3.2.2  DISCLOSURE
+Companies should regularly disclose their prog -
+ress in meeting near term emissions reduction targets and net zero goals by following wide -
+ly adopted disclosure frameworks to improve comparability and demonstrate progress to in -
+vestors, or follow regulation, where it exists. 
+T o improve robustness of reporting, it is gener -
+ally considered best practice to seek third-party 
+verification of the company’s emission profile.
+76QUANTIFYING AND 
+DISCLOSING SCOPE 1, 2, AND 3 EMISSIONS WITH RECOGNISED STANDARDS IS THE FOUNDATION OF CREDIBLE NET ZERO ACTION.
+
+--- PÁGINA 15 ---
+
+MAKING NET ZERO POSSIBLE15
+GUIDELINE 03
+3.3 E STABLISH A NET ZERO  
+ DE CARBONISATION PATHWAY AND
+ NE AR-TERM TARGETS
+Companies setting net zero targets need to 
+address 1) their unabated emissions and make progress to reduce their emissions at a pace 
+consistent with their net zero pathway as
+ well as 
+2) their residual emissions to reach and maintain 
+net zero (Figure 5). Residual emissions may re-
+duce over time as technology improves. Com-
+panies will need to counterbalance the residual emissions that cannot be eliminated. A compa-ny is only considered to have reached net-zero 
+when it has achieved its science-aligned net 
+zero target and counterbalanced any residual emissions. 
+Companies should set relevant and measurable 
+decarbonisation pathways, setting targets to 
+achieve the maximum abatement reasonably possible in the shortest timescale. Companies should strive to achieve the highest ambition 
+using all reasonable means at their disposal, 
+setting a science aligned pathway as the mini -
+mum benchmark. While some companies can achieve net zero sooner than 2050, others will be restricted given their sectoral constraints 
+and unique circumstances. Companies can find guidance on how to set tar -
+gets from the many frameworks that have been 
+developed in line with science-based practic -
+es, such as Science-Based T argets Initiative,
+77 
+Transition Pathway Initiative,78 and Mission Pos -
+sible Partnership.79 
+3.3. 1  NET ZERO TARGETS
+IETA supports companies setting targets that 
+take into account scientific evidence related to 
+climate change and are aligned with achieving the Paris Agreement goals. “Science-aligned” means that the whole of society should collec -
+tively aim to reduce global emissions, relative to 2019 emissions, by 43% by 2030, 60% by 2035, 69% by 2040 and 84% by 2050.
+80 “Net zero 
+aligned” means a company’s gross emissions are on track to deliver its pathway to reach net 
+zero by 2050 or sooner. 
+Companies can contribute to these societal 
+goals by aiming for net zero no later than 2050, 
+while considering their own circumstances. De -
+pending on their sector, geography and policies 
+in the jurisdictions in which they operate, some companies may achieve net zero earlier than others. In particular, hard-to-abate sectors may 
+have different pathways to net zero versus soci -
+ety’s overall average pathway. “NET ZERO ALIGNED” 
+MEANS A COMPANY’S GROSS EMISSIONS ARE ON TRACK TO DELIVER ITS PATHWAY TO REACH NET ZERO BY 2050 OR SOONER. Figure 5. Corporate decarbonisation in a net zero pathway.
+Base yearemissions
+Interimtarget
+Science-aligned emissionsreduction pathway to Net ZeroHISTORICAL EMISSIONSGHG EMISSIONS REMOVALSBase year Time
+Progress MaintainedNET ZERO
+ReachedRESIDUAL EMISSIONS UNABATED EMISSIONSEmissionsreductions

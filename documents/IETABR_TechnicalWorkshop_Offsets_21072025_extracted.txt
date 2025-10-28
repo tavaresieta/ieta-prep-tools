@@ -1,0 +1,889 @@
+DOCUMENTO: IETABR_TechnicalWorkshop_Offsets_21072025
+Total de Slides: 136
+============================================================
+
+--- SLIDE 1 ---
+
+TECHNICAL WORKSHOP ON CARBON OFFSETS FOR THE SBCE
+21 July 2025
+
+
+--- SLIDE 2 ---
+
+COMPETITION POLICY
+IETA firmly believes in full and fair competition. 
+
+IETA’s activities must not lead to a restriction of competition between members, nor should meetings of members that IETA organises or supports be used by members to discuss or coordinate future market behaviour resulting in a restriction of competition.
+
+For further details, please see IETA’s Competition Policy, which can be accessed here.
+CONFIDENTIALITY
+Chatham House Rule applies. 
+Only IETA members are allowed to join this call, except for invited guests.
+This meeting is NOT recorded. 
+AI recording or notetaking devices are prohibited. 
+
+--- SLIDE 3 ---
+
+Opening Remarks
+
+
+--- SLIDE 4 ---
+
+Initiative’s Main Goal 
+Facilitate the implementation of a national compliance market efficiently connected with the VCM that can open the potential for high-integrity international market linkages aligned with Article 6.
+Overall Approach 
+Implement activities involving public and private sectors to promote capacity building, coordinate efforts, facilitate consensus and inform regulatory developments.  
+Technical dialogues, capacity building activities, coordination meetings, studies and taught leadership pieces.
+Agile Structure 
+IETA local team supported by a strong network of members, partner initiatives and organizations in the country and globally. 
+Companies Involved 
+Vale, Petrobras, Itaú, Shell, Dow Chemicals, Mitsui, Mercuria
+Co-Chairs 
+Vivian Macknight (Vale) and Claudia Schaeffer (Dow) 
+
+--- SLIDE 5 ---
+
+AGENDA
+
+Evolution of the VCM and Impact of SBCE in Brazil
+Updates and Perspectives from the Federal Government 
+Addressing Integrity Risks
+VCM & SBCE: Potential Pathways Forward
+Technical Discussions and Private Sector Perspectives
+Final Remarks and Next Steps
+
+
+
+
+--- SLIDE 6 ---
+
+Evolution of the VCM and Impact of SBCE in Brazil
+Luis Panichelli
+IETA
+Pedro Venzon
+IETA
+Ben Rattenbury
+Sylvera
+
+--- SLIDE 7 ---
+
+Contexto Global
+Pressão fiscal ao redor do mundo
+Ambiente econômico incerto
+Baixas projeções de crescimento
+Volatilidade comercial e nos mercados financeiros
+Custos e impactos das mudanças climáticas
+Consequências para do desenvolvimento sustentável?
+
+
+Fonte: CDP 2025
+
+--- SLIDE 8 ---
+
+Mercados de Créditos de Carbono
+Fonte: The Wolrd Bank 2024 / 2025
+Precificação de carbono crescendo em números, diversidade e complexidade   
+A linha entre os mercados voluntários e instrumentos regulados se tornando cada vez mais tênue
+Aposentadorias voluntárias estáveis e reguladas aumentando
+Excedente crescente de créditos não aposentados (maioria relacionado a florestas e uso da terra 36% e energias renováveis 30%) - 2/3 pré-2022
+ 
+
+--- SLIDE 9 ---
+
+Mercados de Créditos de Carbono
+Oferta x Demanda:
+Tendencia de diversificação de portfólio de créditos
+Mercado a caminho de emissões líquidas negativa de créditos
+Aumento de engajamento com estágios iniciais de projetos
+Priorização por qualidade:
+60% das aposentadorias em 2024 foram créditos com vintage entre 3 e 5 anos (era 32% em 2021) 
+Prêmio de 217% nos preços em relação a anos anteriores 
+Impacto das recomendações do ICVCM: 
+Mudanças no pipeline de projetos 
+Oferta encarando os CCPs como padrão mínimo
+Maiores custos para desenvolvedores com risco de redução da geração de créditos e de receitas.
+Jurisdições adotando diferente abordagens quanto a integridade 
+
+
+Fonte: The World Bank and S&P Global 2025
+
+--- SLIDE 10 ---
+
+Fonte: The Wolrd Bank 2025
+
+
+Ainda poucos programas de créditos de governos, mas tendência de aumentar 
+33 mecanismos de crédito em vigor (+11 em desenvolvimento)   
+Programas de Créditos de Carbono Nacionais
+
+--- SLIDE 11 ---
+
+Programas de Créditos de Carbono Nacionais – Alguns Exemplos
+
+--- SLIDE 12 ---
+
+Fonte: World Bank and ICAP. 2021
+Necessidade de Harmonização dos Mercados de Carbono (Tipos e Jurisdições) 
+
+--- SLIDE 13 ---
+
+Pontos Críticos para Discussão
+ Art. 4º O SBCE observará os seguintes princípios:     I - harmonização e coordenação entre os instrumentos disponíveis para alcançar os objetivos e as metas da PNMC, inclusive mecanismos de precificação setoriais de carbono;     II - compatibilidade e articulação entre o SBCE e a Convenção-Quadro das Nações Unidas sobre Mudança do Clima e seus instrumentos, com particular atenção aos compromissos assumidos pelo Brasil nos regimes multilaterais sobre mudança do clima;     III - participação e cooperação entre a União, os Estados, os Municípios, o Distrito Federal, os setores regulados, outros setores da iniciativa privada e a sociedade civil;     IV - transparência, previsibilidade e segurança jurídica;     V - promoção da competitividade da economia brasileira;
+
+--- SLIDE 14 ---
+
+Pontos Críticos para Discussão
+Art. 7º O CIM é o órgão deliberativo do SBCE, ao qual compete:I - estabelecer as diretrizes gerais do SBCE;
+III - instituir grupos técnicos para fornecimento de subsídios e apresentação de recomendações para aprimoramento do SBCE;
+
+Art. 8º O órgão gestor é a instância executora do SBCE, de caráter normativo, regulatório, executivo, sancionatório e recursal, ao qual compete:I - regular o mercado de ativos do SBCE e a implementação de seus instrumentos, observado o disposto nesta Lei e nas diretrizes do CIM;
+ XVIII - credenciar e descredenciar metodologias de geração de CRVE, ouvida a Câmara de Assuntos Regulatórios;
+ XXI - estabelecer regras e gerir eventuais processos para interligação do SBCE com sistemas de comércio de emissões de outros países ou organismos internacionais, garantidos o funcionamento, o custo-efetividade e a integridade ambiental;
+§ 3º A elaboração e a edição das normas associadas ao exercício das competências normativas do órgão gestor serão precedidas de oitivas formais à Câmara de Assuntos Regulatórios do SBCE em relação às competências de que tratam os incisos II, III, V, VI, VII, VIII, XVI, XVIII e XXI do art. 8º desta Lei, e essa oitiva será facultativa nos demais casos.
+
+[NOTAS DO APRESENTADOR]:
+Questões Críticas:
+Objetivo do SBCE na PNMC até 2030 e 2035?   
+Princípios e crítérios para acreditação de metodologias?  
+
+Compatibilidade dos critérios do SBCE com Artigo 6.4? 
+Governança e Comitê Técnico Consultivo Permanente?
+
+--- SLIDE 15 ---
+
+Eventuais Impactos do SBCE
+Excluindo AFOLU, outros setores emitiram um total de 586 MtCO2e em 2020 (MCTI)– Energia, Processos Industriais, Resíduos
+Sendo aprox. 240 MtCO2e emitidos por processos industriais e energia e aprox. 340 MtCO2e por resíduos e transporte aéreo
+Considerando o limiar inicial de 25.000 tCO2e/ano estima-se em média que 70% das emissões de tais setores seriam cobertas
+Isso representaria aproximadamente entre 170 e 240 MtCO2e ou 10 a 15% das emissões nacionais líquidas
+Se considerarmos que um faixa entre 10% e 20% para compensações no SBCE conforme modelagens e estudos anteriores 
+O SBCE teria um potencial de demanda entre ~ 17– 48 MtCO2e por ano. 
+Para efeito de comparação, o mercado voluntário no Brasil gerou um recorde de 25,4 MtCO2e de compensações em 2021 
+Mas despencou para 7,6 MtCO2e em 2022 e 5,6 MtCO2e em 2023.
+
+
+[NOTAS DO APRESENTADOR]:
+Questão-chave: para quais atividades de mitigação o SBCE será capaz de prover sinais efetivos de preço e volume?
+
+--- SLIDE 16 ---
+
+Technical Workshop: Use of Offsets in Brazil ETS21st July 2025
+
+[NOTAS DO APRESENTADOR]:
+Recall to send events
+Register to task forces
+
+--- SLIDE 17 ---
+
+Carbon markets linkages and integrity
+The Coalition to Grow Carbon Markets (UK, Singapore, Kenya, others to join): here. 
+Align governments regulation
+Derisk investments
+Improve quality
+
+--- SLIDE 18 ---
+
+ITMOs
+(other NDCs, CORSIA, VCM)
+Use of carbon credits: Market linkages and regulation
+SBTi
+ISO Carbon Neutralty
+ISO Net Zero
+VCMI
+VCMI Scope3
+HC NDC credits (domestic compliance)
+GHG P
+National Targets 
+Corporate Targets
+Art 6
+Domestic Rules
+VCM 
+Credits 
+Interim targets
+Corrective action
+Contribution to global net zero
+Residual emissions
+Products &Services
+
+--- SLIDE 19 ---
+
+Use of carbon credits: Markets rules and Integrity
+NDC
+CORSIA
+Voluntary
+(Corporate net zero) 
+Domestics
+(ETS/Tax mechanisms)
+Use (buyer) dictates unit eligibility and authorization requirements
+Authorization dictates whether CA is required
+Authorized
+By host country under Article 6 
+Crediting programs & methodologies
+PACM (A6.4) credits
+A6.4 MCUs
+Credits from Independent standards (VCUs, VERs)
+Non-Authorized
+ICROA Endorsed
+CORSIA Eligible
+ICVCM/CCP labels
+Insurance
+Adjusted by host country 
+Counted by host country in GHG inventory
+Ratings
+Access/ Integrity labels
+Project level quality
+Domestic Eligible
+
+--- SLIDE 20 ---
+
+ieta.org
+Thank 
+you
+
+--- SLIDE 21 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 22 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 23 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 24 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 25 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 26 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 27 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 28 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 29 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 30 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 31 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 32 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 33 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 34 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 35 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 36 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 37 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 38 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 39 ---
+
+Updates and Perspectives from Federal Government
+Klenize Favero
+MMA
+Roberta Cantinho
+CONAREDD+
+
+--- SLIDE 40 ---
+
+SISTEMA BRASILEIRO DE
+COMÉRCIO DE EMISSÕES (SBCE)
+OFFSETS
+PERSPECTIVAS E ATUALIZAÇÕES
+
+Julho 2025
+
+--- SLIDE 41 ---
+
+“OFFSETS”
+O que são?
+E, principalmente, o que NÃO SÃO?
+
+--- SLIDE 42 ---
+
+Art. 2º VII - crédito de carbono: ativo transacionável, autônomo [...], representativo de efetiva retenção, redução de emissões ou remoção [...] de 1 tCO2, obtido a partir de projetos ou programas de retenção, redução ou remoção de GEE, realizados por entidade pública ou privada, submetidos a metodologias nacionais ou internacionais que adotem critérios e regras para mensuração, relato e verificação de emissões, externos ao SBCE;
+CRÉDITO DE CARBONO
+Lei 15.042/2024
+
+--- SLIDE 43 ---
+
+III – Certificado de Redução ou Remoção Verificada de Emissões (CRVE): ativo fungível, transacionável, representativo da efetiva redução de emissões ou remoção de GEE de 1 tCO2e (uma tonelada de dióxido de carbono equivalente), seguindo metodologia credenciada e com registro efetuado no âmbito do SBCE, nos termos de ato específico do órgão gestor do SBCE;
+CERTIFICADO DE REDUÇÃO OU REMOÇÃO
+VERIFICADA DE EMISSÕES (CRVE)
+
+--- SLIDE 44 ---
+
+Art. 12. Serão reconhecidos como CRVEs no âmbito do SBCE os resultados verificados que observem metodologia credenciada, nos termos do ato específico do órgão gestor, para realizar:     I - a conciliação periódica de obrigações pelos operadores, observado o percentual máximo admitido no âmbito do Plano Nacional de Alocação; ou     II - a transferência internacional de resultados de mitigação, condicionada à autorização prévia pela autoridade nacional designada para fins do disposto no art. 6º do Acordo de Paris (ITMOs)
+CERTIFICADO DE REDUÇÃO OU REMOÇÃO
+VERIFICADA DE EMISSÕES (CRVE)
+
+--- SLIDE 45 ---
+
+EMISSÕES
+LÍQUIDAS
+EMISSÕES
+BRUTAS
+REMOÇÕES
+_
+=
+EMISSÕES LÍQUIDAS
+
+--- SLIDE 46 ---
+
+REDUÇÃO
+REMOÇÃO
+EMISSÃO
+(NÃO É OFFSET)
+(NÃO É OFFSET)
+EMISSÃO LÍQUIDA
+EMISSÕES LÍQUIDAS
+
+--- SLIDE 47 ---
+
+REMOÇÕES EXCEDENTES
+REMOÇÕES EXCEDENTES
+(NÃO É OFFSET)
+
+--- SLIDE 48 ---
+
+Art. 1º § 5º - Eventuais remoções que excedam as emissões não serão automaticamente convertidas em Certificados de Redução ou Remoção Verificada de Emissões (CRVEs) e deverão submeter-se ao processo de registro no SBCE.
+REMOÇÕES EXCEDENTES ÀS EMISSÕES
+
+--- SLIDE 49 ---
+
+EMISSÃO (LÍQUIDA)
+CBEs
+Obrigação de conciliar (CBEs, CRVEs)
+
+--- SLIDE 50 ---
+
+OFERTA VOLUNTÁRIA DE
+CRÉDITOS DE CARBONO
+Quanto usar?
+Onde usar?
+Como usar?
+
+--- SLIDE 51 ---
+
+Opção de cada sistema:
+ 
+Usar/não usar; 
+quanto usar; 
+qual tipo usar; 
+de onde comprar
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+
+--- SLIDE 52 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 53 ---
+
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+NO SBCE
+Art. 42. Os créditos de carbono gerados a partir de projetos ou programas que impliquem redução de emissão ou remoção de GEE poderão ser ofertados, originariamente, no mercado voluntário, por qualquer gerador ou desenvolvedor de projeto de crédito de carbono que seja titular dos créditos, [...], ou por ente público desenvolvedor de programas jurisdicionais e projetos públicos de crédito de carbono [...]
+
+--- SLIDE 54 ---
+
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+NO SBCE
+  Art. 44. Os créditos de carbono somente serão considerados CRVEs, integrantes do SBCE, caso sejam:     I - originados a partir de metodologias credenciadas pelo órgão gestor do SBCE;     II - mensurados e relatados pelos responsáveis pelo desenvolvimento ou implementação do projeto ou do programa e verificados por entidade independente, nos termos da metodologia credenciada pelo SBCE;     III - inscritos no Registro Central do SBCE.
+
+--- SLIDE 55 ---
+
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+NO SBCE
+Art. 8º O órgão gestor é a instância executora do SBCE, de caráter normativo, regulatório, executivo, sancionatório e recursal, ao qual compete:
+
+XVII - estabelecer os requisitos e os procedimentos de credenciamento e descredenciamento de metodologias de geração de CRVE;
+XVIII - credenciar e descredenciar metodologias de geração de CRVE, ouvida a Câmara de Assuntos Regulatórios;
+
+--- SLIDE 56 ---
+
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+NO SBCE
+Art. 2º XX - metodologias: conjunto de diretrizes e regras que definem critérios e orientações para mensuração, relato e verificação de emissões de atividades, projetos ou programas de redução de emissões ou remoção de GEE por fontes não cobertas pelo SBCE;
+
+--- SLIDE 57 ---
+
+OFERTA VOLUNTÁRIA DE CRÉDITOS DE CARBONO
+NO SBCE
+Art. 8º O órgão gestor é a instância executora do SBCE, de caráter normativo, regulatório, executivo, sancionatório e recursal, ao qual compete:
+
+XXIV - estabelecer as regras e os parâmetros para a definição dos limites de CRVEs a serem aceitos para fins do processo de conciliação periódica de obrigações;
+
+--- SLIDE 58 ---
+
+QUAL SERÁ O PERCENTUAL DE CRVEs ACEITO
+PARA CONCILIAÇÃO PERIÓDICA NO SBCE?
+
+--- SLIDE 59 ---
+
+Projeto “Partnership for Market Readiness” PMR Brasil (World Bank)
+2016-2020
+Modelagens econômicas sugeriram uma faixa entre 10% e 20% de offsets aceitos no mercado regulado (a depender dos setores cobertos pelo sistema)
+No SBCE, será decidido pelo Órgão Gestor:
+Na Fase 1 – 12 meses + 12 meses
+Meados da Fase 3 – 3 a 4 anos – Plano Nacional de Alocação
+QUAL SERÁ O PERCENTUAL DE CRVEs ACEITO
+PARA CONCILIAÇÃO PERIÓDICA NO SBCE?
+
+--- SLIDE 60 ---
+
+Inclusão de setores não cobertos pelo SBCE na precificação de carbono (uso da terra/agricultura)
+Flexibilidade para atingir metas climáticas
+Redução de custos para setores regulados
+Geração de co-benefícios em outros setores
+OFFSETS NA IMPLEMENTAÇÃO DO
+PLANO CLIMA
+
+--- SLIDE 61 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 62 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 63 ---
+
+12 Mha recuperação de vegetação nativa até 2030
++9 Mha entre 2031 e 2050
+Desmatamento ilegal zero até 2030
+Incentivos ao fim de supressão de vegetação
+Compensação da supressão legal de vegetação
+Recuperação de pastagens degradadas
+30 Mha até 2030
++60 Mha até 2050
+=> Offsets são indispensáveis para o atingimento das metas climáticas (+VCM, Artigo 6, etc)
+OFFSETS NA IMPLEMENTAÇÃO DO
+PLANO CLIMA
+
+--- SLIDE 64 ---
+
+RISCOS NO USO DE OFFSETS
+Redução do incentivo de descarbonização nos setores regulados
+Excesso de CRVEs reduz o preço das CBEs (reduz incentivo de descarbonização)
+Aumento das emissões totais, caso os créditos não possuam alta integridade
+
+--- SLIDE 65 ---
+
+65
+DPMI/SMC/MMA
+klenize.favero@mma.gov.br
+Secretaria Nacional de 
+Mudança do Clima – SMC
+
+Departamento de Políticas de Mitigação e Instrumentos de Implementação - DPMI
+Obrigada!
+Klenize Fávero
+Coordenadora de Mercados de Carbono
+
+--- SLIDE 66 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 67 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 68 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 69 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 70 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 71 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 72 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 73 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 74 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 75 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 76 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 77 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 78 ---
+
+Q&A
+
+
+--- SLIDE 79 ---
+
+Coffee Break
+
+
+--- SLIDE 80 ---
+
+Addressing Integrity Risks
+Remo Filleti
+ICVCM
+
+--- SLIDE 81 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 82 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 83 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 84 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 85 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 86 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 87 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 88 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 89 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 90 ---
+
+Interplay between Article 6 
+and the VCM 
+Annie Groth 
+Verra
+Henrique Pereira
+Way Carbon 
+Alex Saer 
+Cercarbono
+Jacobo Carrizales
+Gold Standard
+
+--- SLIDE 91 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 92 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 93 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 94 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 95 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 96 ---
+
+VCM e SBCE: convergência de mercados
+Perspectiva da certificadora Verra
+Annie Groth, Country Liaison for Brazil
+
+--- SLIDE 97 ---
+
+AGENDA
+Panorama brasileiro: projetos VCS no Brasil e metodologias para uso no SBCE
+Outros mercados regulados: exemplos de uso VCS
+
+--- SLIDE 98 ---
+
+Projetos VCS no Brasil
+
+--- SLIDE 99 ---
+
+Projetos VCS no Brasil
+Dados levantados da Plataforma de Registro da Verra 
+Informações levantadas em 25/02/2025 
+As informações incluíam nome do projeto, reduções estimadas de emissões, desenvolvedor e tipo de projeto
+Informações ausentes adicionadas: localização de por estado
+
+Análise
+
+--- SLIDE 100 ---
+
+O Brasil tem >100 projetos registrados e um pipeline robusto
+
+--- SLIDE 101 ---
+
+A maioria dos projetos está localizada no Bioma Amazônico
+
+--- SLIDE 102 ---
+
+A maioria dos projetos tem potencial para < 100.000 VCUs/ano (créditos ex-ante)
+*Dados de julho/24
+
+--- SLIDE 103 ---
+
+Tipos de atividades - a maioria (56% dos projetos) são AFOLU
+
+--- SLIDE 104 ---
+
+Dentro de AFOLU, o REDD+ é o principal tipo de projeto
+
+--- SLIDE 105 ---
+
+Convergindo com o SBCE: metodologias relevantes para aprovação
+VM0048 (REDD+) – representando 38% dos projetos no Brasil. Metodologias antigas deverão fazer a transição; mapas de risco de desmatamento já disponíveis para os estados do Pará e Mato Grosso.
+
+Metodologias voltadas a projetos de energia (como por exemplo AMS-I.D e AMS-I.E) – representando 23% dos projetos. Destaque para a consulta pública da ACM0002 que tornaria o Brasil elegível. 
+
+VM0047 (ARR) – representando 14% dos projetos. Essa metodologia também pode ter destaque dentro do contexto da Lei 11.284/06 (concessões florestais).
+
+
+--- SLIDE 106 ---
+
+Outros mercados regulados e o uso do VCS
+
+--- SLIDE 107 ---
+
+Aceitação do padrão VCS em mercados regulados
+
+--- SLIDE 108 ---
+
+Exemplo da Colômbia – aceitação total de uso de créditos
+O governo colombiano implementou um Imposto Nacional de Carbono (Lei 1.819 de 2016) em 2017, determinando que as indústrias poluentes sejam tributadas pelas emissões de GEE que emitem. 
+
+A lei tributária permite que entidades no país compensem até 100% de sua obrigação tributária com créditos de carbono de alta qualidade de projetos na Colômbia, incluindo VCUs (créditos emitidos no Programa Padrão de Carbono Verificado da Verra).
+Todos os participantes do programa devem cumprir as regras e requisitos do Programa VCS e as determinações da legislação tributária colombiana.
+A Verra desenhou um guia para facilitar o compliance do uso de VCUs
+
+--- SLIDE 109 ---
+
+Exemplo da África do Sul – aceitação parcial de uso de créditos
+Em junho de 2019, a Lei do Imposto de Carbono da África do Sul entrou em vigor para ajudar o país a cumprir seus compromissos climáticos sob o Acordo de Paris. 
+
+Entidades sul-africanas com obrigações fiscais podem usar Unidades de Carbono Verificadas (VCUs) para cobrir parte de sua obrigação tributária. 
+Os VCUs do Registro Verra podem ser retiradas e listadas no Sistema de Administração de Compensação de Carbono (COAS), o que facilita o uso de compensações no mercado de carbono da África do Sul. 
+Projetos sul-africanos nos setores de transporte, resíduos e AFOLU são elegíveis para gerar créditos.
+
+--- SLIDE 110 ---
+
+Exemplo CORSIA – exclusão de fatores como metodologia, tamanho e localização
+Para ajudar a indústria da aviação a atingir sua meta de crescimento neutro em carbono, a Organização da Aviação Civil Internacional (OACI) implementou o Programa de Compensação e Redução de Carbono para a Aviação Internacional. 
+
+O VCS é elegível para fornecer unidades de redução de emissões para conformidade com o CORSIA
+Em princípio, todas os VCUs se enquadram no escopo de elegibilidade do CORSIA, exceto pelas exclusões detalhadas no documento ICAO’s Eligible Emissions Unit
+Em março de 2025, apresentamos um pedido de reavaliação pelo Conselho Consultivo Técnico da OACI para ser considerada elegível para fornecer VCUs para a segunda fase do CORSIA (2027-2029)
+
+--- SLIDE 111 ---
+
+Aproveitando: consulta final Versão 5 do Programa VCS
+À medida que o mercado evolui e a necessidade de escaloná-lo aumenta, é fundamental que a Verra continue atualizando o Programa VCS para que ele reflita as mudanças científicas e tecnológicas mais recentes e atenda às crescentes demandas do mercado.
+Três atualizações principais:
+
+Aumento de integridade (incluindo atualizações mais frequentes do período de crédito e/ou reavaliações de base em todos os tipos de projetos)
+Acessibilidade e usabilidade aprimoradas (incluindo diretrizes novas e transparentes sobre como a Verra define datas efetivas para atualizações do programa)
+Escopo do programa revisado para maximizar o impacto (incluindo uma lista revisada de escopos setoriais aprovados no âmbito do Programa VCS e um novo sistema para classificar categorias de projetos e tipos de atividades de projetos)
+Consulta aberta entre os dias 26/06 e 11/08
+
+[NOTAS DO APRESENTADOR]:
+Singapore’s National Climate Change Secretariat (NCCS) in the Strategy Group, Prime Minister’s Office and the world’s largest independent carbon crediting programmes – Gold Standard and Verra’s Verified Carbon Standard (VCS) Program – are working together to develop an Article 6.2 Crediting Protocol (“Protocol”) aimed at supporting countries in their use of Article 6 to achieve their Nationally Determined Contributions (NDCs) and sustainable development goals.
+
+--- SLIDE 112 ---
+
+Estrutura do Sistema Brasileiro de Comércio de Emissões
+Definir todos os requisitos do ETS 
+Prepara o Plano Nacional de Alocação 
+Aplica sanções
+Deve enviar um plano de monitoramento e relatar as emissões.
+Não há necessidade de reduzir ou compensar as emissões
+Relata emissões e deve estar legalmente dentro do limite. 
+Se o setor é regulado, a entidade também o é
+Órgão Gestor
+Entidade >10.000 toneladas/ano
+Entidade >25.000 toneladas/ano
+Créditos de carbono
+Cotas SBCE
+Apenas se for proveniente de uma metodologia aprovada pelo Órgão Gestor. O padrão não será aceito como guarda-chuva.
+Atribuição de licenças de emissão a título gratuito em conformidade com o Plano Nacional de Alocação 
+Modelo de leilão
+
+--- SLIDE 113 ---
+
+OBRIGADA
+ANNIE GROTHCountry Liaison for BrazilStrategy & Policy Departmentagroth@verra.org
+
+--- SLIDE 114 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 115 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 116 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 117 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 118 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 119 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 120 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 121 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 122 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 123 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 124 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 125 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 126 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 127 ---
+
+CICLO DE CERTIFICACIÓN
+Emisión / Aseveraciones
+DP
+OVV
+Revisor
+
+[NOTAS DO APRESENTADOR]:
+So how does this impact your day to day life developing projects.
+
+--- SLIDE 128 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 129 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 130 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 131 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 132 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 133 ---
+
+[Slide sem texto - possivelmente gráficos/imagens]
+
+--- SLIDE 134 ---
+
+Technical Discussions and Private Sector Perspectives
+
+
+--- SLIDE 135 ---
+
+Final Remarks and Next Steps
+Summary of the discussions and Forthcoming IETA Activities
+
+--- SLIDE 136 ---
+
+Muito Obrigado!
+
+
+
+IETA Brazil Initiative Contacts   
+Pedro Venzon – venzon@ieta.org 
+Elisa Guida – guida@ieta.org 
+Mariana Tavares – tavares@ieta.org
+
+

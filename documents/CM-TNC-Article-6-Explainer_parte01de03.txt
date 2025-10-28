@@ -1,0 +1,829 @@
+DOCUMENTO: CM-TNC-Article-6-Explainer
+PARTE 1 de 3
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+1
+By: Beatriz Granziera, Kelley Hamrick Malvar, and John VerdieckArticle  6 
+Explainer
+QUESTIONS AND ANSWERS ABOUT THE COP DECISIONS ON 
+CARBON MARKETS AND WHAT THEY MEAN FOR NDCS, NATURE, 
+AND THE VOLUNTARY AND COMPLIANCE CARBON MARKETSUPDATED WITH
+COP29
+DECISIONS
+
+--- PÁGINA 2 ---
+
+Companion Reports
+Article 6 Implementation: This 
+paper explores the tools and 
+trends in Article 6 implementa-
+tion. We use the examples of 8 
+seller countries - The Bahamas, 
+Ghana, Indonesia, Kenya, 
+Paraguay, Rwanda, Tanzania, 
+and Zambia - as well as insights 
+from buyer countries including 
+Switzerland, Singapore, Sweden 
+and Norway. 
+Article 6 and REDD+: The 
+relationship between Article 6 and 
+REDD+ has been a controversial 
+topic and ground for heated 
+discussions. We break down the 
+relationship between REDD+ and 
+Article 6, what was decided in the 
+Article 6 negotiations.COP29 Article 6 Key outcomes: 
+The conclusion of the Article 
+6 negotiations after nearly a 
+decade sends a clear and decisive 
+message: The rules—imperfect as 
+some may be—are now estab-
+lished, providing much-needed 
+certainty for countries, investors, 
+and stakeholders to advance their 
+cooperative approaches. This 
+paper breaks down the decisions 
+on Article 6 taken at COP29.Feedback
+If you have any feedback, please send inputs and comments to:
+Beatriz Granziera b.granziera@tnc.org 
+Kelley Hamrick Malvar kelley.hamrick@tnc.org 
+John Verdieck john.verdieck@tnc.orgwww.puntoaparte.com.co
+Cover image: Atharva Tulsi, unsplash.comGraphic design by
+Acknowledgments
+Many thanks to our reviewers for their valuable insight: Amy Steen, Andrea Bonzanni, Anton Tsvetov, Benedict Chia, 
+Björn Fondén, Breanna Lujan, Carmen Alvarez, Christina Magerkurth, Clare Shakya, Cristina Andrea Figueroa Vargas, 
+Dirk Nemitz, Felipe Ferreira, Fenella Aouane, Florence Laloe, Grace Gamble, Hugh Salway, Jacqui Ruesga, 
+John Erik Prydz, Julia Paltseva, Julio Giraldo Bermudez, Kavya Bajaj, Kendall Damon, Kim Myers, Kyu-uk Lee, 
+Lorna Ritchie, Luca Birigazzi, Maggie Comstock, Maggie Ferrato, Mariela Perrone, Maximiliano Bernal Temores, 
+Pauline Blanc, Peter Ellis, Rane Cortez, Ritika Tewari, Si Liang Puar, Simon Fellermeyer, Stefanie Simpson, 
+Subrata Chakrabarty, Wesley Ramnauth, and Yannick Träris-Kahriman
+
+--- PÁGINA 3 ---
+
+3Acronyms
+A6.4ERs Article 6.4 Emission Reductions
+ART Architecture for REDD+ Transactions
+CARP Centralized Accounting and Reporting 
+Platform
+CDM Clean Development Mechanism
+CER Certified Emissions Reductions (Kyoto 
+Protocol)
+CMA Conference of the Parties serving as the 
+Meeting Parties of the Paris Agreement
+CMP Conference of the Parties serving as the 
+Meeting Parties of the Kyoto Protocol 
+CO2eq Carbon dioxide equivalent
+COP Conference of the Parties
+CORSIA Carbon Offsetting and Reduction Scheme 
+for International Aviation
+DNA Designated National Authority
+ETS Emissions trading systems
+FREL Forest Reference Emission Level
+GCF Green Climate Fund
+GHG Greenhouse gas
+HFLD High Forest Low Deforestation
+IC-VCM Integrity Council for the Voluntary Carbon 
+Market
+IPCC Intergovernmental Panel on Climate Change
+ITMOs Internationally Transferred Mitigation 
+Outcomes
+JCM Joint Credit Mechanism
+LDC Least Developed Countries LEAF Lowering Emissions by Accelerating Forest 
+Finance
+MCUs  Mitigation Contribution A6.4ERs
+MEP Article 6.4 Methodological Expert Panel
+NCS Natural Climate Solutions
+NDC Nationally Determined Contribution
+ODA  Official Development Assistance
+OMGE Overall Mitigation in Global Emissions 
+OIMP Other international mitigation purposes 
+PACM Paris Agreement Crediting Mechanism
+PAICC Paris Agreement Implementation and 
+ Compliance Committee
+REDD+ Reducing emissions from deforestation 
+and forest degradation, and the role of 
+conservation, sustainable management of 
+forests, and enhancement of forest carbon 
+stocks
+SIDS Small Islands Developing States
+SOP Share of Proceeds
+TER  Technical Expert Review
+TREES The REDD+ Environmental Excellence 
+Standard
+UAE United Arab Emirates
+UNFCCC United Nations Framework Convention on 
+Climate Change
+VCM Voluntary Carbon Market
+VCMI Voluntary Carbon Markets Integrity 
+Initiative
+
+--- PÁGINA 4 ---
+
+Image: Tobias Tullius, unsplash.comExecutive summary 
+The Paris Agreement paved the way for a new era of car -
+bon trading. With the establishment of Article 6, countries 
+can collaborate in achieving their Nationally Determined 
+Contributions (NDCs) by trading carbon units. At its 
+best, Article 6 offers countries a way to invest in actions 
+outside their borders and raise global ambition to limit 
+temperature rise to 1.5C. However, this is only possible 
+with clear and transparent accounting around what is 
+traded and how countries plan to meet their NDCs.
+Countries first established the framework for international 
+carbon trading through Article 6 in late 2021. One year 
+later, at the 27th Conference of the Parties (COP27) in 
+Sharm el-Sheikh, further rules were adopted on reporting, 
+registries and governance. Despite the lack of progress at 
+COP28 in Dubai, momentum around Article 6.2 continued 
+to grow, with numerous bilateral agreements signed and 
+an increasing number of countries participating as both 
+buyers and sellers. All of that built political pressure that 
+helped set the stage for a breakthrough at COP29 in Baku 
+(See Figure 1).
+COP29 marked a historic milestone for Article 6 as coun-
+tries finalized (most of) the remaining building blocks of 
+carbon markets under the Paris Agreement. The conclu-
+sion of the Article 6 negotiations after nearly a decade 
+sends a clear and decisive message: the rules—imper -fect as some may be—are firmly established, providing 
+much-needed certainty for countries, investors, and 
+stakeholders to advance their cooperative approaches. 
+But the real work begins now: Only one country-to-country 
+transfer has been concluded under Article 6.2 between 
+Switzerland and Thailand, mostly due to limited domestic 
+regulation and uncertainty around NDC progress. However, 
+many countries are full speed ahead in developing domes-
+tic frameworks to participate in Article 6. 1 Meanwhile, the 
+Article 6.4 Supervisory Body, a separate technical body 
+that oversees the operationalization of the Paris Agreement 
+Crediting Mechanism - PACM (Article 6.4), will continue to 
+meet regularly and are expected to soon approve the first 
+methodologies accepted under Article 6.4. They will also 
+address critical technical rules that will define what types of 
+projects will be eligible and shape the scope and feasibility 
+of carbon market investments in various sectors.
+What’s next for Article 6? Why have trades not yet taken 
+off? Is nature included in Article 6? What about REDD+? 
+How does Article 6 impact the Voluntary Carbon Markets 
+(VCM)? What about domestic compliance markets? This 
+paper offers straightforward guidance on what was decided 
+at the United Nations Framework Convention on Climate 
+Change (UNFCCC) COPs and dives into the complex 
+implications of Article 6 for NDCs, nature and the VCM.
+
+--- PÁGINA 5 ---
+
+Table of Contents
+WHAT HAPPENED AT COP29 AND WHAT’S NEXT FOR COP30?   7
+WHAT IS ARTICLE 6?   11
+HOW IS DOUBLE COUNTING ADDRESSED?   13
+WE GOT A DEAL ON ARTICLE 6 - WHEN WILL TRADING SCALE UP?   15
+ARTICLE 6 DEMAND: WHO WILL BUY ITMOS?   18
+ARTICLE 6 SUPPLY: WHO SELL BUY ITMOS?   22
+IS NATURE INCLUDED IN ARTICLE 6? WHAT ABOUT REDD+?   24
+HOW DOES ARTICLE 6 IMPACT THE VOLUNTARY CARBON MARKETS (VCM)?   30
+CDM TRANSITION: WHAT WAS DECIDED?   32
+OMGE AND SOP: WHAT DISCOUNTS AND FEES APPLY TO ARTICLE 6?   33
+Click or tap to jump across pagesFigures
+Figure 1: Article 6.2 and 6.4 timeline   6
+Figure 2: Article 6.2   10
+Figure 3: Article 6.4   10
+Figure 4: Article 6.8   10
+Figure 5: Landscape of carbon credit markets   11
+Figure 6: How is double counting addressed?   13
+Figure 7: When is a corresponding adjustment needed?   14
+Figure 8: Examples of Article 6.2 bilateral agreements  
+and Article 6 trades as of May 2025   15
+Figure 9: Operationalization of the Paris Agreement Crediting 
+Mechanism – PACM (Article 6.4)   17
+Figure 10: Cumulative demand for ITMOs until 2030 from  
+airlines and buyer countries   18
+Figure 11: Examples of seller country developing Article 6 domestic 
+frameworks   22
+Figure 12: Example of marginal abatement cost curve (MACC)   24
+Figure 13: Article 6.2   25
+Figure 14: Article 6.4   25
+Figure 15: The five activities of REDD+   28
+Figure 16: Direct and indirect influences of Article 6 in the VCM   30Terminology boxes
+Box 1: What are the CMA, CMP and COP and 
+how they relate to Article 6?   9
+Box 2: Article 6 Units and their uses   12
+Box 3: Article 6 fees and levies   23
+Box 4: Nesting   26
+Box 5: Natural Climate Solutions (NCS) & 
+REDD+   27
+Tables
+Table 1: OMGE and SOP   33
+
+--- PÁGINA 6 ---
+
+6A6.4A6.2
+Article 6.4 not yet operational.  
+Further guidance needed on removals 
+and methodologies. CMA endorses 
+standards on 
+removals and 
+methodologiesKey decisions will 
+be taken by the 
+Supervisory Body, 
+which continues to 
+meet regularly
+Fully oper ational2015
+Paris 
+Agreement
+Article 6 is 
+established
+Article 6.2 
+Operational2021
+COP 26
+Glasgow
+Article 6 “Rule 
+Book” is finalized
+First letter of 
+Authorizations 
+between Ghana 
+and SwitzerlandMore bilateral 
+deals and more 
+countries as buyers 
+and sellersFirst Article 6.2 
+trade between 
+Thailand and 
+SwitzerlandMore countries 
+regulating Article 6, 
+a key step for 
+trades, scale up2022
+COP 27
+Sharm El-Sheikh
+Further technical 
+guidance adopted2023
+COP 28
+Dubai
+No decisions adopt-
+ed due to political 
+disagreements2024
+COP 29
+Baku
+Historic milestone 
+with Article 6 
+(mostly) finalized2025
+COP 30
+Belém
+No negotiations2028
+COP 33
+Negotiations 
+resume. Review of 
+A6.2 and 6.4Figure 1: Article 6.2 and 6.4 timelineWhat happened at COP29  
+and what’s next for COP30?
+What were the main outcomes at COP29?
+Article 6.2
+Authorization: One of the main outcomes of COP29 
+was a mandate for countries to follow a standardized 
+authorization process for Article 6.2, a crucial step for 
+transparency. It also brought more clarity to the fact that  
+countries can only change or revoke authorizations be-
+fore Internationally Transferred Mitigation Outcomes 
+(ITMOs) have been first transferred - unless stipulated 
+in the bilateral agreements or letters of authorization.2 
+This decision strikes a balance, addressing concerns from 
+buyer countries and investors who feared that changes 
+and revocations could undermine market confidence 
+and predictability. On the other hand, it gives flexibility to seller countries that want to mitigate the risk that 
+exporting ITMOs could undermine their national climate 
+commitments. (See: Risks for seller countries ) The UNF-
+CCC  and the World Bank have developed authorization 
+templates, but these are not mandatory.3 All authoriza-
+tions will be made publicly available on the UNFCCC’s 
+Centralized Accounting and Reporting Platform ( CARP ). 
+(See: What is an "authorization" under Article 6?) 
+Registries: To participate in Article 6.2, countries need 
+access to a registry—whether through a national registry, a 
+private third-party registry, or an alternative UN-managed 
+“Article 6.2 International Registry”  designed for coun-
+tries with limited capacity or resources to develop their 
+own registries.4 At COP29, countries decided to create a 
+dual-tier system for the Article 6.2 International Registry: 
+the registry’s primary function is to track ITMOs, but it 
+
+--- PÁGINA 7 ---
+
+7can now include an optional service, managed by the UN, 
+for issuing and trading credits. This solution is intended to 
+address the needs of countries requiring additional registry 
+functionalities from the UN, while avoiding any implied UN 
+endorsement of Article 6.2 trades.5 At the same time, it 
+leaves some ambiguity about what this extra functionality 
+will look like. In parallel, Article 6.4 uses a different registry 
+called the Mechanism Registry (Article 6.4), which is not 
+yet fully operational as it currently relies upon an interim 
+registry approved in February of 2025. (See: Is Article 6.4 
+operational?) At COP29, countries decided that the 
+Mechanism Registry could connect with the Article 6.2 
+international registry and that countries and entities (com-
+panies, project developers, investors, etc.) can open holding 
+accounts to receive and manage Mitigation Contribution 
+A6.4ERs.6 (See: Terminology Box 2)
+Reporting: Countries adopted the draft of a reporting 
+table to submit information about trades and fulfill their 
+reporting requirements, called the Agreed Electronic 
+Format. Standardized reporting is crucial to bring trans-
+parency to trades, but the decision fell short of making 
+this table mandatory.7 Still, it brings a solid common 
+ground for trades to be reported. 
+Inconsistencies: At COP29, there was a lot of debate 
+on what should happen if a trade was identified with 
+inconsistencies. Specifically, should these trades be 
+restricted so that ITMOs flagged with inconsistencies 
+could not be used for NDCs, the Carbon Offsetting and 
+Reduction Scheme for International Aviation (CORSIA), 
+or the Voluntary Carbon Market? Ultimately, the COP29 
+decision stopped short of making this a binding require-
+ment and the final text instead only “requests” countries 
+to refrain from using such flagged ITMOs, leaving it as a 
+recommendation rather than an obligation. (See: What 
+if a country fails to apply a corresponding adjustment or 
+report inconsistencies?)Paris Agreement 
+Crediting Mechanism 
+– PACM (Article 6.4)
+Standards on methodologies and activities involving 
+removals: Day 1 of COP29 concluded with the endorse-
+ment of new standards for removals and methodologies, 
+resolving a key bottleneck for the Paris Agreement 
+Crediting Mechanism – PACM (Article 6.4) - to be -
+come operational. Previously, at COP27 and COP28, 
+these documents failed to be approved by the CMA 
+(See: Terminology Box 1). However, in October 2024, 
+the Supervisory Body reclassified these documents 
+from “recommendations” to “standards” – a strategic 
+move that eliminated the need for further approval at 
+COP29. Now, the Supervisory Body has some of the 
+main guidelines it needs to start considering and eventu -
+ally approving methodologies that will be eligible under 
+Article 6.4. The first methodologies to be considered are 
+adaptations from the Clean Development Mechanism 
+(CDM), but new methodologies will also be assessed 
+in the future. Only after methodologies are approved 
+can projects be registered under Article 6.4. While the 
+Supervisory Body will make the final decision on what 
+methodologies will be approved, it will be assisted by the 
+Methodological Expert Panel (MEP ), a separate struc-
+ture that was created to support the Supervisory Body in 
+the development of methodologies and will provide key 
+technical guidance on the rules that will govern the Paris 
+Agreement Crediting Mechanism – PACM (Article 6.4). 
+More flexibility to attract climate finance through 
+Mitigation Contribution A6.4 ERs (MCUs): MCUs are 
+Article 6.4 units with no corresponding adjustments (See: 
+Terminology Box 2). The COP29 decision clarified that 
+countries can issue MCUs first, and then later convert 
+
+--- PÁGINA 8 ---
+
+8them into ITMOs, by authorizing them and applying a 
+corresponding adjustment - as long as the MCU does 
+not leave the official Article 6.4 registry (the Mechanism 
+Registry).8 This decision lets countries raise climate 
+finance without locking themselves too early into deals 
+that might undermine their climate targets in the future 
+(See: Article 6 supply ). The Article 6.4 Supervisory Body 
+will decide if there should be a time limit for making this 
+conversion and report its decision to countries at COP30.9 
+It is important to note that aside from the accounting 
+requirements, ITMOs and MCUs are identical units.
+CDM Transition of afforestation and reforestation proj-
+ects: Under Article 6.4, most CDM projects could request 
+transition until December 2023. However, the Supervi-
+sory Body had postponed decisions on afforestation and 
+reforestation projects, leaving their transition in need of 
+explicit approval by the Conference of the Parties serving 
+as the Meeting Parties of the Paris Agreement ( CMA ).10 
+At COP29, CDM afforestation and reforestation projects 
+were allowed to transition - if they submit a request by 
+the end of 202511 and comply with the new standards on 
+removals and methodologies, ensuring alignment with up-
+dated rules.12 As with all CDM projects, the seller country 
+must approve the transition. In practice, afforestation and 
+reforestation projects represent only around 1% of the 
+projects that requested transitions to Article 6.4. 13 (See: 
+CDM Transition)
+What is next for 
+Article 6? 
+The Article 6 process does not end here. While there 
+will be no formal Article 6 negotiations until 2028, sig-
+nificant work lies ahead to fully operationalize the Paris 
+Agreement Crediting Mechanism - PACM (Article 6.4) and scale up high-quality cooperative approaches under 
+Article 6.2. Most importantly, the Article 6.4 Supervisory 
+Body will now start to consider and approve the first 
+methodologies accepted under Article 6.4, following the 
+adoption of key standards on methodologies, removals, 
+additionality , baselines and leakage. It will also address 
+critical technical rules that will shape the scope and 
+feasibility of market investments in various sectors. 
+Meanwhile, work is also progressing at the UNFCCC 
+to build the Article 6 infrastructure, including the 6.4 
+Mechanism Registry, the 6.2 International Registry and 
+the related platforms.
+At COP30 in Belém, there will be no formal Article 6 
+negotiations, but countries are expected to react to the 
+Article 6.4 Supervisory Body annual report and may 
+offer new guidance and considerations that could shape 
+its future work.14 Countries are also expected to weigh in 
+on the Article 6.2 Initial Reports, which detail information 
+about trades and authorizations and it is a pre-condition 
+for participating in cooperative approaches. These reports 
+are undergoing expert reviews and identified inconsisten-
+cies could become a significant topic of debate at COP30.15 
+(See: What if a country fails to apply a corresponding 
+adjustment or report inconsistencies ). Additionally, the 
+deadline for transitioning CDM projects to continue to 
+use CDM methodologies goes until December of 2025.16 
+Without approved new Article 6.4 methodologies, transi-
+tioning projects risk being stranded – an issue that is also 
+expected to surface at COP30. (See: CDM Transition)17
+What will be negotiated in 2028?
+2028 is a pivotal year for the future of Article 6 as countries 
+will undertake a full review of both Article 6.2 and 6.4 to 
+be completed by 2030.18 How much of the framework will 
+change remains to be seen, but the review opens the door 
+for rediscussing critical rules shaping international carbon 
+
+--- PÁGINA 9 ---
+
+9markets. Additionally, not all issues related to Article 6 
+were resolved at COP29. Some key negotiation mandates 
+have been postponed to 2028, leaving gaps to be further 
+addressed. One such topic is how to apply corresponding 
+adjustments for single-year versus multi-year NDC targets 
+to avoid double-counting.19 This is a critical issue to reduce the risk of overselling by countries and to prevent “surpris-
+es” in 2030, where countries might fall short of meeting 
+their NDCs because they “oversold” ITMOs. (See: Article 6 
+supply ) Similarly, discussions on emissions avoidance were 
+also deferred to 2028. (See: What is "emission avoidance" 
+and how is it related to nature?)
+Terminology Box 1
+What are the CMA, CMP and COP and how do they 
+relate to Article 6?
+In the context of the UNFCCC negotiations, these acronyms refer to different governing bodies that oversee 
+the implementation of specific agreements.  These three bodies convene every year during the UN COPs. While 
+most of the participating countries are the same, they cover different issues and hold discussions in parallel 
+in different negotiation rooms. 
+CMA: Conference of the Parties serving as the Meeting of the Parties to the Paris Agreement. It was es-
+tablished in 2016 to oversee the implementation of the Paris Agreement. The CMA meets every year at COPs 
+and is the body in charge of making final legal decisions around Article 6. The Article 6.4 Supervisory Body 
+operates under the CMA, so many of its decisions are subject to CMA control, endorsement or approval. 
+Beyond Article 6, the CMA also covers the outcomes of the Global Stocktake, Global Goal on Adaptation, New 
+Collective Quantified Goal on Climate Finance (NCQG), and others.
+CMP: Conference of the Parties serving as the Meeting Parties of the Kyoto Protocol. Established in 2005 to 
+oversee the implementation of the Kyoto Protocol. In past COPs, it has covered guidance related to the Clean 
+Development Mechanism (CDM).
+COP: Conference of the Parties. This body comprises all countries that are part of the UNFCCC. It was established 
+when the UNFCCC was adopted during the Earth Summit in Rio in 1992. The Convention entered in force in 1994 
+and the first COP meeting (COP1) took place in Berlin in 1995. It covers the dates and venues of future sessions, 
+administrative financial, institutional matters and others.  
+
+--- PÁGINA 10 ---
+
+10
+Image: Stephane Bidouze, shutterstock.comArticle  6.2
+(market) 
+Countries can trade Article 6 units through bilateral or multilateral agreements - or 
+even through unilateral authorizations. Article 6.2 enables a seller country that is 
+on track to exceed its NDC target, to trade units to attract investments and access 
+to technologies that might not be available domestically. The buyer purchases these 
+units, known as Internationally Transferred Mitigation Outcomes (ITMOs), (See: 
+Figure 7) to help meet its NDC in a cost-effective way. 
+Despite growing momentum and numerous bilateral agreements being signed, only 
+one country-to-country trade has been concluded to date, between Switzerland 
+and Thailand. This slow uptake is mostly due to the lack of domestic frameworks 
+to implement Article 6, and uncertainty around NDC progress. There have been 
+several Article 6.2 transactions between the Government of Guyana and airlines 
+for CORSIA compliance, including one cancellation in February 2025.20 (See: When 
+will trading scale up?) 
+Article 6.2 gives the buyer and the seller a lot of flexibility in how to cooperate. There 
+are no restrictions on the sectors or methodologies that can be used, as long as Article 
+6.2 requirements are followed. Because of such flexibility, cooperation between coun-
+tries has taken different approaches and already includes links with the private sector 
+and some regulated carbon markets. Each country is responsible for designing its own 
+systems to implement trades and for setting the rules that define how cooperation 
+will work in practice. (See: When will trading scale up?)Article  6.4
+Paris Agreement Crediting Mechanism (PACM)
+(market)
+Countries can also trade units through a centralized mechanism overseen by the 
+United Nations (UN), with standardized methodologies. Article 6.4 is now called 
+the Paris Agreement Crediting Mechanism (PACM) and builds on lessons from 
+the Clean Development Mechanism under the Kyoto Protocol. The Article 6.4 Su-
+pervisory Body is the appointed entity responsible for overseeing the mechanism, 
+approving methodologies, registering projects, and managing the registry. 
+Units issued under Article 6.4, called A6.4 ERs,21 can follow two paths: if they are 
+authorized for NDC use, CORSIA or other purposes (such as voluntary claims), they 
+receive a corresponding adjustment and become ITMOS.22 When they are not au-
+thorized (without a corresponding adjustment), they become Mitigation Contribution 
+A6.4 ERs (MCUs) 23 and can be used to mobilize climate finance. ( See Figure 7) Aside 
+from the accounting requirements, ITMOs and MCUs are identical units.
+While there will be no formal Article 6 negotiations until 2028, significant work lies 
+ahead to fully operationalize the Paris Agreement Crediting Mechanism – PACM 
+(Article 6.4). The Supervisory Body is now moving to a crucial phase of approving 
+the first methodologies accepted under Article 6.4, following the adoption of key 
+standards on removals, methodologies, and others. It will also address critical 
+technical rules that will shape the scope and feasibility of investments in various 
+sectors. (See: Is A6.4 operational?)Article  6.8  
+(non-market)24
+Countries and entities may decide to support other countries, financially or techni-
+cally, without any expectation of trading carbon credits (non-market approach). 
+Article 6.8 established a framework for the creation of a UNFCCC centralized 
+website where countries and other stakeholders could submit projects that are 
+being planned and outline where support is needed. This online platform could be 
+voluntarily used to facilitate matching projects with financial and technical support 
+available in several focus areas. Article 6.8 is less defined than Articles 6.2 and 
+6.4 and there is not much clarity on how the mechanism will influence existing 
+non-market approaches, such as philanthropic initiatives. Article 6.8 is in phase 2 
+of its work programme and there will be a review in 2026. What is Article 6? 
+Direct trading of ITMOs between countries and/ or entities, generally through bilateral or 
+multilateral agreements, with a high degree of flexibility to define the cooperative approach.
+Financial support Financial supportFinancial support or capacity 
+buildingArticle 6.2 units (ITMOs)
+Seller 
+countrySeller country / 
+project developerSeller 
+countryBuyer country 
+/ entityBuyer country 
+/ entityBuyer country 
+/ entityUNFCCC
+UNFCCCUNFCCC web platform could be voluntarily used to facilitate matching projects with 
+financial and technical support available in several focus areas
+Figure 2: Article 6.2 Figure 3: Article 6.4 Figure 4: Article 6.8
+UNFCCC-centralized market mechanism, where units are generated under 
+standardized and pre-approved rules and methodologies.
+
+
+--- PÁGINA 11 ---
+
+11Source: Adapted from AbatableFigure 5: Landscape of carbon credit markets
+Domestic 
+compliance 
+(E.g. EU ETS, 
+Singapore’s 
+carbon tax)
+International 
+Aviation  
+CORSIA
+Paris  
+Agreement 
+UNFCCC 
+Article 6Voluntary 
+MarketsDOMESTIC COMPLIANCEVOLUNTARY
+INTERNATIONAL COMPLIANCEEligible credits 
+could be accepted 
+in more than 
+one market
+Is there a difference between a 
+“carbon credit” and an ITMO? 
+A carbon credit is a generic term for a unit representing 
+one metric tonne of CO2e. At “birth”, a carbon credit 
+is simply a certificate stating that a project reduced 
+or removed emissions. The same carbon credit can 
+then take on “different identities” depending on how it 
+is used. For example, if it is used by a company for a 
+voluntary claim (without a corresponding adjustment), 
+it becomes a “voluntary carbon credit”. If it is authorized 
+by a government for use towards another country’s NDC, 
+that carbon credit becomes an ITMO. (See: Terminology 
+Box 2) Traditionally, standards that have typically served the voluntary carbon market, like Verra, Gold Standard  
+and the Architecture for REDD+ Transactions’ (ART) 
+REDD+ Environmental Excellence Standard (TREES) 
+standard ( ART/TREES ), are now eligible to certify units 
+under other markets. For example, Singapore’s carbon 
+tax system allows companies to meet obligations with 
+ITMOs that may be based on voluntary methodologies. 
+In addition, the IETA Article 6 tracker also shows numer -
+ous examples of countries having authorized projects 
+for Article 6 based on methodologies normally used for 
+voluntary purposes. Similarly, CORSIA—the aviation 
+sector’s compliance scheme—can source eligible credits 
+from standards traditionally used in the voluntary space.
+
+--- PÁGINA 12 ---
+
+12
+Terminology Box 2
+Article 6 Units and their uses
+1 tonne 
+of CO2eqMitigation Outcomes: Under Article 6, the term Mitigation Outcomes replaces most forms of 
+international carbon credits. If Mitigation Outcomes generated in a country are transferred to 
+another country, they become Internationally Transferred Mitigation Outcomes.25
+1 tonne 
+of CO2eqITMOs are a specific type of carbon credit, created by Article 6 of the Paris Agreement and can be 
+used in three ways: for NDC achievement, CORSIA or other purposes, such as voluntary claims (See: 
+Figure 7). An ITMO must meet specific requirements: for example, include a corresponding adjustment 
+to avoid double counting and follow certain reporting and tracking rules. ITMOs can represent both 
+emission reductions and removals from all sectors, and they must originate from mitigation achieved 
+from 2021 onward. Since an ITMO requires a corresponding adjustment, its trade reduces a seller 
+country’s available emissions reductions or removals for meeting its own NDC. Therefore, it carries 
+risks of potentially undermining national climate commitments for the seller country.
+1 tonne 
+of CO2eqArticle 6.4 ERs: Units issued under Article 6.4, called “A6.4 ERs”,26 can follow two paths:
+• ITMOS: Article 6.4 ERs become ITMOs when they are authorized for NDC use, CORSIA or 
+other purposes and receive a corresponding adjustment.27 They must also meet standards 
+and follow methodologies approved by the Article 6.4 Supervisory Body. 
+• Mitigation Contribution A6.4ER (MCUs): These are Article 6.4 ERs generated without a 
+corresponding adjustment.28 MCUs can be used to mobilize climate finance for domestic 
+climate action. Differently from ITMOs, MCUs are not transferred internationally but instead 
+stay within the seller country to help meet its own climate targets. Therefore, MCUs do not 
+undermine a seller country’s NDC accounting. MCUs can be converted into ITMOs if countries 
+apply a corresponding adjustment, as long as the MCU does not leave the official Article 6.4 
+registry (the Mechanism Registry).29 Aside from the accounting requirements, ITMOs and 
+MCUs are identical units.
+* See also Figure 7 .
+
+--- PÁGINA 13 ---
+
+13What is a corresponding adjustment?
+Article 6 of the Paris Agreement addresses double counting 
+through corresponding adjustments, an accounting measure 
+that prevents two countries from counting the same emissions 
+reductions twice. When an ITMO is sold to another country, 
+the seller country must add emissions to its accounting, so 
+that only the buyer can count emission reductions toward 
+their climate goal. This ensures that emissions reductions or 
+removals are counted only once.
+What is an “authorization” under Article 6?
+It is a concept first introduced by Article 6.3 of the Paris 
+Agreement which requires countries to “authorize” the use of 
+ITMOs towards NDCs. The concept was further developed at 
+COP26 to become a key component of Article 6, as it triggers 
+a commitment by the seller country to apply a corresponding 
+adjustment, as well as reporting requirements.30 While some 
+elements must be included, such as how ITMOs will be used, 
+there is no mandatory template countries need to follow when 
+issuing authorizations. Instead, the UNFCCC has developed a 
+voluntary template to guide countries.31 Authorizations can be changed or revoked, but only until ITMOs are first transferred 
+internationally, unless otherwise stipulated in the bilateral 
+agreements or letters of authorization.32 Normally, when the 
+issue of authorization comes up in the Article 6 context, it refers 
+to the authorization of ITMOS. However, Article 6 establishes 
+three types of authorizations, which could be consolidated into 
+one single process:33 authorization of ITMOs, authorization of 
+cooperative approaches and authorization of entities.
+When is a corresponding adjustment required? 
+A corresponding adjustment is required in Articles 6.2 and 
+6.4 and for all units authorized by the seller country and 
+transferred internationally, including from conditional tar -
+gets and sectors outside an NDC.34 Countries must apply a 
+corresponding adjustment for units transferred to the buyer 
+country’s NDC or for CORSIA. There are a few exceptions 
+to the application of corresponding adjustments in Article 6:
+• Pre-2020 units: corresponding adjustments are not 
+required for pre-2020 Certified Emissions Reductions 
+(CERs), which may be transferred to Article 6.4 but only 
+used to meet the seller country’s first NDC.35How is double counting addressed?
+Figure 6: How is double counting addressed?
+NDC targetTransferred 
+ITMOs
+Buyer countryBuyer country purchases 
+ITMOs to address gaps in 
+meeting its own climate goalsSeller countrySeller country  can no 
+longer use transferred 
+ITMOs towards its NDC
+NDC target NDC target NDC targetSurplus emissions 
+reductionsGap to meet 
+NDC
+BEFORE ARTICLE 6 TRADE AFTER ARTICLE 6 TRADE
+Emission reductions 
+become ITMOs
+* This is an illustrative example but there are other ways in which an Article 6 trade can happen 
+
+--- PÁGINA 14 ---
+
+14• Mitigation Contribution Units: In 2022, for the first time, 
+countries introduced a new name for Article 6.4 units 
+that do not require a corresponding adjustment, called 
+Mitigation Contribution A6.4 ER (MCU).36 These units 
+can be used to mobilize climate finance for domestic 
+climate action. (See: Terminology Box 2) 
+What if a country fails to apply a corresponding 
+adjustment or report inconsistencies? 
+Article 6.2 trades will undergo two levels of review. First , 
+there will be an automated consistency check,37 designed to 
+catch formal mistakes, and second - and more important -
+ly - a technical expert review (TER).38 The review looks at 
+whether countries are applying corresponding adjustments 
+consistently and upholding environmental integrity, for ex -
+ample, so there is no net increase in global emissions and so 
+conservative baselines are being used.39 The first reports by 
+the TER were published in May 2025,40 and there are more 
+underway, with experts currently reviewing Initial Reports  
+submitted by countries. The conclusions of these early 
+reviews are likely to shape how key Article 6.2 rules are in -
+terpreted in practice—especially what counts as a significant 
+or persistent inconsistency. Therefore, this issue may take 
+the stage at COP30, with countries providing key guidance 
+on the reach of the review process. If experts find inconsis-
+tencies, they can flag them but not block trades. At COP29, 
+there was a lot of debate on whether trades identified with 
+significant or persistent inconsistencies should be restricted so that ITMOs could not be used for NDCs, CORSIA, or the 
+voluntary carbon market. Ultimately, the COP29 decision 
+stopped short of making this a binding requirement and left 
+it as a recommendation. Still, serious and repeated issues can 
+trigger the Paris Agreement Implementation and Compliance 
+Committee (PAICC), a separate UN body responsible for pro-
+moting compliance with the Paris Agreement, to take action.41 
+What is a unilateral authorization? 
+A unilateral authorization is used by a seller country to autho-
+rize ITMOs even before the buyer is identified, making them 
+available for the aviation sector (CORSIA), voluntary markets, 
+or other buyer countries. It is different from a “classic” coun-
+try-to-country cooperative approach where two countries 
+negotiate and authorize ITMOs together. The viability of 
+unilateral authorizations took the stage at COP28 and COP29 
+under agenda item “definition of cooperative approaches”. 
+Some countries feared that “unilateral authorizations” could 
+undermine the intention of Article 6.2 to prioritize coopera-
+tion between countries and risk complications in the reporting 
+and accounting of ITMOs. At the same time, it allows for 
+improved flexibility by seller countries and paves the way for 
+an expanded market of authorized ITMOs, including for use in 
+CORSIA. Ultimately, the proposal to restrict unilateral authori-
+zations was rejected in Baku (COP29).42 A few countries have 
+issued unilateral authorizations in the past years, including, 
+for example, Guyana to allow trades of REDD+ results,43 under 
+the ART TREES standard.44
+Figure 7: When is a corresponding adjustment needed?
+Other international mitigation purposes (e.g. CORSIA)Use towards another NDC
+Authorized 
+by the seller 
+country with a 
+corresponding 
+adjustment
+Non authorized 
+by the seller 
+country, no 
+corresponding 
+adjustmentPOSSIBLE USES
+Other purposes (e.g. voluntary claim)IS A CORRESPONDING 
+ADJUSTMENT NEEDED?
+6.4
+Mitigation 
+contribution6.2 + 6.4
+ITMOs
+Domestic use
+Other purposes (e.g. voluntary claim)
+
+--- PÁGINA 15 ---
+
+15When will Article 6.2 trades scale up?
+Article 6.2 has been operational since 2021, and over 
+80 bilateral agreements have been signed, but only 
+one country-to-country trade (Switzerland-Thailand) 
+has been completed as of May 2025 (See: Figure 8). 
+This slow uptake is mostly due to the lack of domestic 
+frameworks to implement Article 6, uncertainty around 
+NDC progress, and the time it takes to develop a solid 
+pipeline of carbon projects. Beyond bilateral agreements 
+between governments, there have been a few Article 6.2 
+transactions between Guyana and airlines for purposes of 
+CORSIA, including one cancellation in February 2025.45While COP29 finalized key rules, real scaling up of Arti -
+cle 6.2 trades depends on a mix of political, technical and 
+institutional readiness. Most decisions around implementa-
+tion are left to national governments. Key decisions —such 
+as what will be traded, how trades will be operationalized, 
+and who will oversee the markets— need to be addressed 
+domestically before trading starts to take off. Developing 
+these frameworks take time and even when they are in 
+place, a more complex issue will arise as seller countries  
+define how to participate in Article 6 without undermining 
+the achievement of their NDCs. Since an ITMO requires a 
+corresponding adjustment, its trade reduces a seller coun-
+try’s available emissions reductions or removals for meeting We got a deal on Article 6 -  
+when will trading scale up?
+Cambodia Cambodia
+Colombia Colombia
+Costa Rica Costa RicaBhutan BhutanBenin Benin
+Chile Chile
+Dominican Republic Dominican Republic
+Papua New Guinea Papua New Guinea
+Paraguay Paraguay
+Peru PeruGhana GhanaGabon GabonFiji Fiji
+Indonesia Indonesia
+Jordan Jordan
+Philippines Philippines
+Senegal Senegal
+Sri Lanka Sri LankaMongolia MongoliaMalaysia MalaysiaMorocco MoroccoMalawi MalawiLaos LaosKenya KenyaKazakhstan Kazakhstan
+Rwanda RwandaNepal Nepal
+Vietnam VietnamUzbekistan Uzbekistan
+Vanuatu VanuatuThailand Thailand
+Tunisia Tunisia
+Ukraine Ukraine
+Uruguay Uruguay
+Zambia ZambiaDominica Dominica
+Georgia GeorgiaKuwait Kuwait
+United Arab 
+EmiratesUnited Arab 
+EmiratesNorway Norway
+Singapore Singapore
+South Korea South KoreaLiechtenstein Liechtenstein
+Switzerland SwitzerlandSweden Sweden
+*This graph was adapted from IETA’s Article 6 Tracker and does not include 
+cooperation under Japan’s JCM, which can be seen here.Figure 8: Examples of Article 6.2 bilateral agreements and Article 6 trades as of May 2025
+ARTICLE 6 TRADES ARTICLE 6.2 BILATERAL AGREEMENTS

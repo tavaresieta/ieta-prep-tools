@@ -1,0 +1,806 @@
+DOCUMENTO: CM-TNC-Article-6-Explainer
+PARTE 2 de 3
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+16its own NDC. ( See: Article 6 Supply ). Buyer countries and 
+investors, in turn, must manage risks that sellers may fail to 
+apply corresponding adjustments, or restrict ITMO exports 
+due to NDC achievement concerns. As a result, buyer coun-
+tries are diversifying their deals across multiple countries. 
+Buyer countries such as Switzerland had already started to 
+develop Article 6.2 pilots in 2020, even before the Article 6 
+rules were agreed upon at COP26. In 2022, Ghana became 
+the first country to issue an official authorization letter  
+for the export of ITMOs of a climate-smart rice project to 
+Switzerland, 2 years after the agreement between Ghana and 
+Switzerland was signed in 2020. In addition, for countries 
+developing a new pipeline of projects, it may take years until 
+these can generate carbon credits. 
+Is Article 6.4 operational? 
+The Paris Agreement Crediting Mechanism – PACM (Article 
+6.4) is not yet fully operational - but it is getting closer. The 
+initial supply of Article 6.4 units is expected to come in the 
+first half of 2025 from transitioned CDM projects. However, 
+a pipeline of new projects might have to wait until 2026, 
+once updated methodologies are approved and the registry 
+is operational.46 The Supervisory Body will start to consider 
+and approve the first methodologies that will be eligible under 
+Article 6.4, following the approval of the standards on meth-
+odologies, removals, additionality , baselines and leakage. 
+While the rules that are being approved might seem highly 
+technical, their consequences are far-reaching: Further work 
+on standards and tools will determine what is eligible under 
+Article 6.4 and shape the scope and feasibility of carbon 
+markets investments in various sectors. These decisions will 
+also influence the market far beyond Article 6.4, setting ex -
+pectation for what counts as "high-integrity" in the voluntary 
+carbon markets and compliance markets. (See: Article 6 and 
+the VCM). Here’s a summary of where key elements stand 
+and what needs to happen next: 47
+ALREADY OPERATIONAL
+• Projects transitioning from the CDM: CDM projects are 
+allowed to transition to Article 6.4 and continue to use their original CDM methodologies until December 2025.48  
+This makes these projects the first to potentially gen-
+erate Article 6.4 units, as they do not need to wait until 
+new methodologies are approved by the Supervisory 
+Body. In February of 2025, a cookstove project in Myan-
+mar became the first CDM project to officially transition 
+into Article 6.4.49
+• Safeguards and grievance mechanisms: Safeguards and 
+grievance mechanisms ensure the social and environmen-
+tal integrity of projects, including equitable benefit-sharing 
+with local communities and Indigenous peoples, and 
+provide a platform for stakeholders affected by projects 
+to voice concerns. The Sustainable Development Tool  
+(SD Tool) was adopted in October 2024, representing a 
+key milestone for the operationalization of Article 6.4. It 
+is the first mandatory safeguards assessment under the 
+UNFCCC and it applies to all Article 6.4 projects, including 
+transitioning CDM projects. Additionally, the Supervisory 
+Body has adopted grievance procedures, waiving fees for 
+those wanting to make complaints.50
+NOT YET FULLY OPERATIONAL
+• Approval of new methodologies: As of May 2025, 
+no new methodologies have yet been approved under 
+Article 6.4. This is a major roadblock: without approved 
+methodologies, new projects cannot be registered. The 
+first wave of methodologies will be adapted from the 
+CDM, including grid-connected electricity generation 
+from renewable sources, thermal energy production waste 
+management, and clean cooking. See the full list here. 
+The first Article 6.4 methodologies will be considered 
+by the Supervisory Body in August 2025.51 In the future, 
+non-CDM methodologies, including from independent 
+crediting standards, could also be submitted for approval.
+• Approval of new projects: Without approved method-
+ologies, new projects cannot be registered. However, 
+there are already procedures partially in place to guide 
+the design and implementation of new Article 6.4 
+projects, including the Article 6.4 activity standard 
+for projects and the Article 6.4 activity standard for 
+programmes of activities (PoAs).
+
+--- PÁGINA 17 ---
+
+17• Additional Standards and Tools: In addition to the 
+standards on removals and methodologies endorsed 
+at COP29, the Supervisory Body has continued to 
+develop key elements. As of May 2025, it has adopted 
+standards on additionality , leakage and setting base-
+lines and will continue to work on key issues such as 
+addressing non-permanence and large-scale crediting 
+programs, which is expected to include specific pro-
+visions on jurisdictional REDD+. A list of all products 
+related to methodologies can be found here. 
+• Mechanism Registry: The Mechanism Registry is the 
+official record for all Article 6.4 activities — including issuance, transfer, and cancellations. As of May 2025, 
+this registry is not yet fully functional. An interin ver -
+sion was launched in February 2025 to allow limited 
+transactions, but it lacks key features, such as distin-
+guishing between different types of units (like MCUs 
+and ITMOs). Full registry functionality is essential for 
+scaling up the market. At COP29, countries decided 
+that the Article 6.4 registry (Mechanism Registry) 
+could connect with the Article 6.2 international registry 
+and that countries and entities (companies, project 
+developers, investors, etc.) can open holding accounts 
+to receive and manage A6.4 Mitigation Contributions.52
+Figure 9: Operationalization of the Paris Agreement Crediting Mechanism – PACM (Article 6.4) 
+November
+2024
+COP 29November
+2025
+COP 30February-May
+2025
+Supervisory 
+Body2026
+Fully 
+operational
+CMA endorses 
+standards on 
+removals and 
+methodologies.Adoption of additional 
+standards on additionality , 
+baselines, and leakage.
+Interim registry.
+Transition of 1st CDM 
+projects.SBM will report 
+on PACM’s 
+progress.
+Countries may 
+offer additional 
+guidance.Methodologies 
+approved.
+Mechanism 
+registry fully 
+operational.
+Article 6.4
+
+--- PÁGINA 18 ---
+
+18Who will buy ITMOs? 
+Demand for ITMOs is emerging, even as the market 
+remains in its early stages (See: When will trading 
+scale up?). While there is still uncertainty around fu-
+ture volumes, announcements from buyer countries and 
+CORSIA projections start to offer a picture of how the 
+market is taking shape. Figure 10 provides a conservative 
+estimate of potential Article 6 demand, based on what 
+we know today:• Government-to-government trades under Article 6.2 
+are still in early stages, with only a handful of countries 
+such as Switzerland, Singapore, Sweden, Norway, South 
+Korea and Japan actively pursuing bilateral deals. (See: 
+Figure 8). Country buyers represent a relatively small 
+share of overall demand, around 32%. This includes 
+both direct purchases from countries (e.g., Sweden and 
+Norway) and demand from companies that may buy 
+ITMOs to meet regulatory requirements or to reduce 
+tax liabilities – such as firms covered by Singapore’s Article 6 Demand: Who will buy ITMOs? 
+Airlines (Corsia)
+466 MtCO2eDemand from CORSIA
+466MtCO2eDemand from buyer countries
+219 MtCO2e
+Japan
+100 MtCO2e
+South Korea
+37.5 MtCO2eSingapore
+25.1 MtCO2e
+Sweden
+20 MtCO2e
+Switzerland
+20.3 MtCO2eNorway
+16.1 MtCO2eDemand for ITMOs until 2030
+685 MtCO2e
+* Estimates from all buyer countries and CORSIA are detailed in endnote 53
+** Countries like Liechtenstein, Kuwait, and the United Arab Emirates (UAE) have announced interest in purchasing ITMOs, 
+but tangible demand numbers were either not announced or a relatively small, therefore, they were not included in Figure 10Figure 10: Cumulative demand for ITMOs until 2030 from airlines and buyer countries53
+Source: Demand estimates by South Pole AG, and adapted by TNC
+
+--- PÁGINA 19 ---
+
+19
+Carbon Tax. Countries like Liechtenstein, Kuwait, 
+and the UAE have announced interest in purchasing 
+ITMOs, but tangible demand numbers were either 
+not announced or a relatively small, therefore, they 
+were not included in Figure 10. Some other countries, 
+such as New Zealand, are negotiating bilateral deals 
+and keeping the door open for Article 6, but have 
+not yet announced potential demand. Demand from 
+governments could increase in the coming years as 
+more countries are considering the use of international 
+credits to help meet 2030 or 2040 targets. For exam-
+ple, France and Germany have signaled support for the 
+use of international carbon credits as part of the 2040 
+climate goals. Because these are high emitters, it could 
+significantly increase demand for ITMOs. In addition, 
+the conclusion of Article 6 negotiations at COP29 and 
+the future full operationalization of the Paris Agree-
+ment Crediting Mechanism – PACM (Article 6.4) may 
+also encourage broader participation (See: When will 
+Article 6 trading scale up?).
+• The bulk of current demand comes from airlines partic-
+ipating in CORSIA, the international aviation offsetting scheme, which is expected to drive around 68%  of to-
+tal Article 6 demand in the near term (See: Figure 10).  
+Since CORSIA requires credits with a corresponding 
+adjustment, airlines are expected to purchase ITMOs 
+under Article 6.2 or 6.4, aligned with methodologies 
+formally eligible under CORSIA. There have already 
+been several Article 6.2 transactions between airlines 
+and the Government of Guyana for purposes of COR -
+SIA, including one cancellation in February 2025.54
+• Beyond governments and airlines, there are early 
+signs that private companies are starting to look to 
+Article 6 units for trading, or making voluntary claims  
+backed by corresponding adjustments. 55 While there 
+is currently no robust data on how demand from cor -
+porations will evolve, and it is therefore not reflected 
+in Figure 10, a 2024 survey from IETA found that 69% 
+of the 105 companies that were interviewed intend 
+to buy ITMOs over the next five years.56 The full 
+operationalization of the Paris Agreement Crediting 
+Mechanism - PACM (Article 6.4) will likely increase 
+demand for ITMOs and MCUs from the private sector. 
+(See: Is A6.4 operational?)
+
+--- PÁGINA 20 ---
+
+20Examples of buyer countries’ Article 6 strategies:
+ Switzerland: Switzerland’s NDC 3.0 com-
+mitted to a 65% emissions reduction target 
+by 203557 and to continue to use Article 6, 
+which is consistent with the country’s 17 existing inter -
+national carbon agreements.58 Unlike some countries 
+that provide authorization at the first ITMO transfer, the 
+Swiss Government is not directly involved in commercial 
+transactions with private buyers but simply authorizes 
+the programs to give the private sector investment se-
+curity. Buyer companies are fossil motor fuel importers 
+from the transport sector, who fulfill their obligations 
+under the Swiss CO2 Law through the Klik Foundation.59 
+Projects to date have mostly focused on solar, clean 
+cookstoves, waste management, biogas, and energy 
+efficiency/fuel conversion.
+Switzerland’s announced demand: 
+20.3 MtCO2e (2025-2030)
+ Japan: Japan’s NDC 3.0 committed to 
+a 60% emissions reduction target by 
+2035.60 Japan has pursued a long-stand-
+ing bilateral approach to international carbon markets, 
+well before Article 6 rules were finalized through its Joint 
+Crediting Mechanism (JCM), which now aligns with Ar -
+ticle 6.2.61 What is unique about Japan’s approach is the 
+idea of getting authorization of ITMOs from seller coun-
+tries in exchange for investment. Japan’s companies make 
+an equity investment and then agree with seller country 
+that a portion of the results will be correspondingly ad-
+justed as the investors’ share, relative to their investment. 
+Japan has signed agreements with 29 countries,62 includ-
+ing Vietnam, Indonesia, Kenya, and Bangladesh. 
+Japan’s announced demand: 100MtCO2e by 2030 
+and approximately 200 MtCO2e by 204063 Norway: Norway plans to leverage Arti-
+cle 6 to become climate neutral by 2030,64 
+meaning the government will ensure that 
+remaining emissions are offset by emissions reductions 
+in other countries.65 The government focuses on trans-
+acting emission reductions from policies, as opposed 
+to project-level activities, and in the lead up to COP29 
+announced $740 million USD will be committed to sup-
+port developing and emerging economies to transition to 
+low-carbon societies under Article 6. Norway has signed 
+bilateral cooperation agreements with Morocco, Senegal 
+and Indonesia. Baselines to measure the mitigation of 
+energy sector policies implemented in partner countries 
+are being developed.66
+Norway’s estimated demand:  
+16.1Mt CO2e up to 2030.67
+ Sweden: Sweden falls under the EU’s NDC, 
+which will not use ITMOs to meet 2030 
+targets. As per the country’s latest BTR, 
+Sweden will only use ITMOs beyond the EU NDC and 
+towards its domestic targets or voluntary offsetting.68 
+Sweden has signed bilateral agreements with Ghana, 
+Nepal, Zambia and the Dominican Republic,69 cooperating 
+with both public and private stakeholders. It also signed 
+a MOU with Switzerland on industrial carbon removals, 
+with the engagement of the private sector. 
+Sweden’s estimated demand: 20 MtCO2e70
+
+--- PÁGINA 21 ---
+
+21
+ Singapore: Singapore’s approach 
+combines sovereign demand – direct pur -
+chases from the Singapore government 
+– and private sector compliance. Similar to Switzerland’s 
+approach, companies are directly involved in purchasing 
+and using Article 6 credits to comply with the country’s 
+Carbon Tax to offset up to 5% of their taxable emissions 
+from 2024 onwards.71 Singapore is second only to Japan 
+in the number of international agreements signed under 
+Article 6 (See: Figure 8). The country has also developed a 
+framework with Verra and Gold Standard with streamlined 
+procedures to help countries use independent crediting 
+standards to implement Article 6.2 deals.72
+Singapore’s announced demand: 
+25.1 MtCO2 eq 2021-203073
+ South Korea: The government of South 
+Korea has bilateral agreements with 
+over 10 countries.74 The country uses 
+official development assistance (ODA) to help partner 
+countries build the institutional and technical capacity 
+needed to participate in cooperative approaches. These 
+ODA grants or concessional loans are not tied to specific 
+mitigation activities and do not result in ITMO transfers. 
+Through a separate mechanism, Korean government 
+agencies run competitive calls for “potential Article 6 
+projects” that engage the Korean private sector. They fund 
+pre-feasibility and full feasibility studies and—if results 
+are promising—may offer up-front capital support. This 
+support is conditional on public funds being matched at 
+least 1:1 by Korean private investment.75
+South Korea’s announced demand: 37.5 Mt Co2e76
+
+--- PÁGINA 22 ---
+
+22
+Article 6 Supply: Who will sell ITMOs? 
+Who will sell ITMOs?
+The supply side of Article 6.2 is gradually expanding with 
+several countries actively entering into bilateral deals 
+under Article 6.2, developing regulatory frameworks to 
+participate in Article 6 and building a pipeline of projects 
+to generate ITMOs (See: Figure 11). Countries such as 
+Ghana, Kenya , Paraguay , Indonesia, Zambia, and many 
+others have already put in place domestic Article 6 strat -
+egies, getting closer to becoming active suppliers. 
+What risks should seller countries 
+consider when trading under Article 6?
+Article 6 offers seller countries an opportunity to attract 
+international finance through carbon markets. However, 
+it also carries risks, particularly the risk of overselling. To  
+explain: under the Kyoto Protocol, developing countries 
+had no binding targets for decarbonization and could 
+sell carbon credits internationally without affecting their national accounting. Because in the Kyoto Protocol only the 
+buyer (developed countries) had mitigation targets, double 
+counting was not an issue. Under the Paris Agreement, ev -
+ery country has committed to reducing emissions through 
+NDCs. Now, if a country sells an ITMO internationally, 
+it needs to apply a corresponding adjustment to avoid 
+double counting. This creates a new challenge for seller 
+countries: trading too many ITMOs – especially from low-
+cost mitigation - could leave a seller country only with more 
+expensive options to meet its NDC. Furthermore, ITMOs 
+require over-achievement of the seller’s NDC, to ensure 
+the aggregate level of emissions is not increased by the 
+transaction. Therefore, seller countries have been careful-
+ly considering which types of mitigation activities, what 
+quantities and at what price they are willing to authorize. 
+Within this, they might also choose to limit eligible credits 
+to specific sectors, years, or technology types. Brazil, for 
+example, recently adopted legislation creating a domestic 
+market, explicitly stating that authorization of ITMOs is 
+subject to limits in order to ensure NDC achievement.Figure 11: Examples of seller country developing Article 6 domestic frameworks
+Bilateral 
+agreements
+1 or 0
+2
+3 or more
+
+--- PÁGINA 23 ---
+
+23To manage this risk while still benefiting from climate 
+finance, seller countries are introducing different 
+strategies through domestic legislation and policy. Key 
+trends include: 
+• High-Hanging Fruit Approach: Under this approach, 
+countries authorize ITMOs only from mitigation activ -
+ities that are too expensive or difficult to implement 
+domestically. Cheaper activities (the “low-hanging 
+fruit”) are reserved for domestic implementation to 
+help the seller country meet its own NDC at a lower 
+cost. This approach often involves restricting Article 6 
+trades to sectors or activities linked to conditional  
+NDC targets (See: Figure 12).77 For example, Ghana  
+created a whitelist of eligible sectors covered by its 
+conditional target and reflected in its National GHG 
+Inventory. Zambia uses Marginal Abatement Cost 
+Curves (MACCs) to identify low-cost mitigation 
+options for domestic implementation. This approach 
+tends to strengthen the case for additionality but pos-
+es practical challenges, particularly where countries 
+lack clear data on the cost of mitigation options or have not clearly distinguished between conditional 
+and unconditional elements of their NDCs.
+• Corresponding Adjustment Fees: Some countries are 
+introducing fees or levies to apply a corresponding 
+adjustment. Ghana, for example, charges a $5 flat 
+fee per ITMO to raise ambition beyond the NDC 
+and cover administrative costs. Kenya ’s regulation 
+included two types of fees: an administrative fee of 
+1% of expected credits and a 0-25% tax on revenue 
+from projects. Tanzania  has proposed a levy of 8% on 
+a project’s sold credits and 1% on a project’s expected 
+credits. While a corresponding adjustment fee alone 
+might not prevent the risk of overselling, it helps to 
+raise domestic revenue and compensate for some of 
+the loss of mitigation activities needed to meet NDCs. 
+But this approach may also come with trade-offs if 
+not designed according to specific national circum -
+stances: applying a flat fee across all activities can 
+undermine the financial viability of higher-cost (and 
+often more additional) mitigation efforts, potentially 
+discouraging investment in the “high-hanging fruits” 
+that Article 6 is meant to unlock.78
+Article 6 fees and levies
+When designing Article 6 strategies, countries have often developed different types of fees. Here’s a summary: 
+• Corresponding Adjustment fees: designed to compensate for some of the loss of mitigation activities 
+needed to meet the seller country NDC
+• Administrative fees: designed to cover administrative costs of participating in Article 6, such as 
+running an Article 6 focal point office and meeting reporting requirements. 
+• Fees to fund adaptation and OMGE: Although these are not required for Article 6.2, they are “encour -
+aged on a voluntary basis” (See: OMGE and SOP )
+• Benefit Sharing (e.g: with local communities): As countries are defining strategies to avoid the risk 
+of overselling, a broader consideration is how the benefits from exporting ITMOs are shared among 
+different stakeholders, such as states, provinces, municipalities, project developers and the communi-
+ties that participate in the activity or are impacted by it.Terminology Box 3
+
+--- PÁGINA 24 ---
+
+24
+• Limits on quantities, buffer pools and benefit-shar -
+ing: Some countries are also setting caps on ITMO 
+exports, implementing buffer pools, or developing 
+benefit-sharing arrangements to avoid the risk of 
+overselling. These limits can take various forms, such 
+as limiting crediting periods (e.g., only authorizing 
+ITMOs from the first 10 years of a project) or ben-efit-sharing rules that may cap the share of credits 
+that can be authorized (e.g., only 10% of credits from 
+a given project) to ensure domestic retention. Ghana 
+has specified that all activities must reserve 1% of 
+mitigation outcomes for domestic use, while Indone-
+sia provides a range of between 10-20% for mitigation 
+activities that are included in the NDC. Marginal cost/tonne CO2e High LowEfficient LightingHybrid 
+VehiclesIndustrial Process 
+ImprovementsWind 
+EnergyClean 
+CookstovesReforestationElectric Buses
+Cheaper mitigation activities - reserved for domestic 
+implemetation to meet the seller country's NDCOften these are linked with 
+unconditional NDC targetsMore expensive mitigation activities 
+- available to Article 6Figure 12: Example of marginal abatement cost curve (MACC) to illustrate how countries can reduce 
+the risk of overselling
+Source: Adapted from Bloomberg New Energy, 2010
+
+--- PÁGINA 25 ---
+
+25Is nature included in Article 6? 
+What about REDD+?
+Article 6.2
+Is nature included in Article 6.2? 
+Yes. Natural Climate Solutions (NCS) include protecting, 
+restoring and managing natural ecosystems such as 
+forests, mangroves, croplands, grasslands, and peatlands 
+– all of which fall under the Intergovernmental Panel on 
+Climate Change (IPCC) definitions of emissions reductions 
+or removals. ITMOs include both emission reductions and 
+removals, regardless of the sector where they come from 
+and there are no limitations on the types of units that can 
+be traded. 79 As a result, nature activities that lead to ei-
+ther emission reductions and/or removals can be eligible, 
+as long as Article 6 guidance is met, such as the inclusion of 
+a corresponding adjustment and reporting requirements.80 
+It will be up to countries to decide if they want to include 
+nature activities as part of their Article 6 agreements. Given 
+their high mitigation potential and relatively low cost, nature 
+activities could represent a significant share of the Article 6 
+market. Several countries — including Japan, South Korea, 
+Singapore, Guyana, and Ghana — have already expressed 
+intent to include nature in their cooperative approaches.81 Article 6.4
+Is nature included in Article 6.4? 
+Yes, as long as relevant methodologies are approved 
+by the Article 6.4 Supervisory Body. Under Article 6.4, 
+there are no limitations on the sectors or activities for 
+which methodologies can be submitted or approved. 
+Therefore, emission reductions and removals from all 
+sectors (including nature) could generate Article 6.4 
+units. As of May 2025, no methodologies have been 
+approved, though the Supervisory Body will start with 
+CDM methodologies, which include afforestation and re-
+forestation. (See: Is A6.4 operational?) Nature can play 
+a particularly important role, not only for its mitigation 
+benefits but also for its ability to enhance adaptation 
+and resilience, as they can provide additional environ-
+mental and social benefits. The Supervisory Body has 
+already adopted important rules around methodologies, 
+removals, additionality , baselines and leakage. Future 
+decisions and further guidance around these issues will 
+significantly shape the scope of nature activities allowed 
+in Article 6.4.
+Financial supportArticle 6.2 units (ITMOs)
+Seller countryBuyer country 
+/ entity
+Financial 
+supportSeller country / 
+project developerBuyer country 
+/ entityUNFCCC
+Yes, natural climate solutions, including REDD+ activities, are included in Article 6. As is the case for all sectors, the land 
+sector is not explicitly referred to in the text, however, nature activities could be eligible for Article 6 trades, provided 
+the programs fulfill the Article 6 guidance. (See: Terminology Box 5)
+The standard on removals, endorsed at COP29, applies not only to carbon removal activities, but also to emission reduction 
+activities that carry a risk of reversal — a key provision that directly affects nature-based activities and has gone largely unnoticed.Figure 13: Article 6.2 Figure 14: Article 6.4
+
+--- PÁGINA 26 ---
+
+26Terminology Box 4
+Nesting
+Under Article 6.4, “nesting” refers to the alignment of relevant aspects of project-level REDD+ activities within 
+an existing higher programme, such as national or subnational REDD+ framework.99 For example, ensuring 
+alignment with monitoring systems, safeguards, baselines, etc. It may vary significantly country-by-country - in 
+some cases, it might just be an acknowledgment that project-based activities are subtracted from national 
+results to avoid double-counting, while complying with the national or subnational REDD+ program.Is REDD+ included in Article 6.2? 
+Yes. REDD+ includes five activities: reducing emissions 
+from deforestation, reducing emissions from forest 
+degradation, conservation of forest carbon stocks, sus-
+tainable management of forests, and enhancement of 
+forest carbon stock. All of these activities fall under the 
+definition of emission reductions or removals (See: Fig-
+ure 14), and therefore, are within the scope of an ITMO.82 
+As is the case for all sectors, seller countries will need to 
+demonstrate how their REDD+ programs fulfill Article 6 
+requirements, in additional to the Warsaw Framework. 
+Recently, there have been dozens of Article 6.2 trans-
+actions of REDD+ results between Guyana and airlines 
+for CORSIA purposes, under the ART/TREES standard, 
+including one cancellation in February 2025.83 (See:  
+Unilateral authorization)Is REDD+ included in Article 6.4? 
+REDD+ activities could be eligible under Article 6.4, 
+should the Supervisory Body approves REDD+ related 
+methodologies. In 2024, the Supervisory Body introduced 
+additional conditions for project level REDD+ activities 
+to be eligible under Article 6.4, (See: Figure 15) limiting 
+eligibility of REDD+ activities to countries that already 
+have REDD+ requirements in place.84 This is the first 
+time that there is a direct reference to REDD+ in the 
+text, confirming that REDD+ activities could be credited 
+under Article 6.4. These measures aim to ensure better 
+coordination, environmental integrity and avoid double 
+counting, while still allowing REDD+ to benefit from much 
+needed finance under Article 6.4.85 These rules apply 
+only to project-level activities. Specific requirements 
+for “large scale crediting programs”, which may include 
+jurisdictional REDD+, will be developed in 2026.86 
+Article 6.4 rules for REDD+
+There are two:100
+1. “REDD+ activities” (project-level) will only be eligible un-
+der Article 6.4 if the seller country has implemented all 
+four REDD+ requirements of the Warsaw Framework: 
+a national REDD+ strategy or action plan, a safeguards 
+system, a national monitoring system, and an assessed 
+forest reference emission level (FREL).101
+2. In addition, the “REDD+ activity” needs to be included 
+in the four elements of the national REDD+ strate-
+gy.102 (See: Figure 15)If the seller country does not have a REDD+ strategy sub-
+mitted to the UNFCCC, or the activity is not included in the 
+REDD+ strategy, the seller country’s “REDD+ focal point” (not 
+the Article 6 focal point) needs to submit a letter indicating 
+when the activity will be included in all 4 elements mentioned 
+above. This inclusion needs to happen no later than the veri-
+fication phase.103 In practice, to fulfill this condition, countries 
+will need to align project-level activities with national REDD+ 
+frameworks. Therefore, this creates a de fato requirement 
+that REDD+ activities “nest” with national REDD+ programs 
+through “upscale”.104 (See: Terminology Box 4).
+
+--- PÁGINA 27 ---
+
+27Terminology Box 5
+Natural Climate Solutions (NCS) & REDD+
+Both “natural-climate solutions” and “REDD+” are approaches that aim to mitigate climate change and promote 
+sustainable land use practices.105 While NCS is a broader concept that includes a range of actions to protect, 
+restore and manage a variety of ecosystems such as forests, mangroves, croplands, grasslands, and peatlands, 
+REDD+  is a specific UNFCCC framework aimed at financially compensating countries and jurisdictions for 
+reducing emissions from deforestation. To benefit for REDD+ finance, countries have to follow all four REDD+ 
+requirements of the Warsaw Framework: a national REDD+ strategy or action plan, a safeguards system, a 
+national monitoring system, and an assessed forest reference emission level (FREL).106
+But wasn’t REDD+ excluded from the Article 6 text? 
+No. At COP26, specific text on REDD+ was proposed 
+to allow the recognition of pre-2021 REDD+ results to 
+be automatically included under Article 6.2. ITMOs, by 
+definition, are generated in 2021 or later. Therefore, this 
+text was rejected to ensure that Article 6.2 has consistent 
+rules across all sectors (including land use). As mentioned 
+before, the Article 6.2 text does not explicitly mention any 
+sectors, and the exclusion of specific text on REDD+ did 
+not change the fact that all REDD+ activities fall under 
+the concepts of emission reductions and removals being 
+eligible for Article 6 trades. In addition, the Article 6.4 
+Supervisory Body has created specific conditions for 
+REDD+, which confirms its potential future eligibility.87 
+(See: Is REDD+ included in Article 6.4?)
+What about Article 6.8? 
+Although Article 6.8 is less defined than Articles 6.2 and 
+6.4, nature-based activities and REDD+ programs meet 
+the Article 6.8 requirements. Article 6.8 could serve as 
+testing grounds for nature activities that could eventually 
+become market-based approaches but are not yet ready 
+for markets: for example, most historical payments for 
+REDD+ came from non-market bilateral deals and multi-
+lateral funds, such as the World Bank. These non-market 
+payments helped countries to improve their REDD+ programs and now many REDD+ countries can apply 
+for market-based programs like Lowering Emissions by 
+Accelerating Forest Finance (LEAF).88 Article 6.8 could 
+also facilitate financial flows for non-market approaches 
+that may never transition into a market, due to a limited 
+volume of results, but may offer higher co-benefits and 
+strong equity components.
+What is the relationship between REDD+ 
+(Article 5.2)89 and Article 6 of the Paris Agreement? 
+Article 5.2 of the Paris Agreement encourages countries 
+to implement and support REDD+ policies. This recog-
+nition builds on several years of UNFCCC negotiations 
+which resulted in the Warsaw Framework for REDD+ 
+and the Cancun safeguards, with rules for developing 
+countries to be financially compensated for reducing 
+deforestation and forest degradation, through public and 
+private sources. While Article 5.2 of the Paris Agreement 
+provides methodological guidance for results-based fi-
+nance, it is not a financial mechanism in itself. On the 
+other hand, Article 6 could be one of the sources of 
+finance for REDD+ and a way to enhance ambition in 
+forest targets. The Supervisory Body has provided crucial 
+clarification on the relationship between Article 5.2 and 
+Article 6, establishing nesting requirements for the eligi-
+bility of REDD+ in Article 6.4.90 (See: Is REDD+ included 
+in Article 6.4?) 
+
+--- PÁGINA 28 ---
+
+28To access finance for REDD+ via Article 6,  forest 
+countries need to, first , meet all the Warsaw Framework 
+minimum requirements: Develop a national REDD+ action 
+plan, a forest monitoring system (MRV), comply with 
+REDD+ safeguards, have an assessed Forest Reference 
+Emission Level (FREL). The coordination between subna -
+tional jurisdictions and national governments in this phase 
+is important to ensure policy alignment. 
+As a second step, countries might need to engage in 
+additional activities to access market payments for 
+REDD+. Article 6.2 offers a more flexible approach, 
+allowing the seller country and buyer to define specific 
+requirements. They could, for example, choose to use 
+independent carbon standards, such as ART/TREES or 
+Verra’s Jurisdictional and Nested REDD+ Framework (JNR), which require buffer pools for leakage and rever -
+sals, and third-party verification processes, all of which 
+are not required by the Warsaw Framework.91 Under 
+Article 6.4, specific standards are still under development, 
+but eligible methodologies must also meet requirements 
+that go beyond the Warsaw. 
+As a third step, countries developing REDD+ programs 
+will need to demonstrate how their REDD+ activities com -
+ply with Article 6 rules. For example, generating results 
+after 2021, providing authorizations for the application 
+of corresponding adjustments and complying with Arti -
+cle 6 rules on registries, tracking, reporting, addressing 
+inconsistencies, etc. Ultimately, it is up to the countries 
+to decide whether to include REDD+ in the scope of 
+their Article 6 strategies. Since an ITMO requires a 
+Figure 15: The five activities of REDD+
+Emission reductions Removals
+Reducing 
+emissions from 
+deforestationConservation 
+of forest 
+carbon stocks*Reducing 
+emissions from 
+forest degradationSustainable 
+management  
+of forests*Enhancement of forest 
+carbon stocks (afforestation, 
+reforestation)1 2 3 4 5
+* The Warsaw Framework does not define “conservation of forest carbon stocks” or “Sustainable management of Forests”. Countries have interpreted these categories 
+differently: in official submissions to the UNFCCC, they have reported both emission reductions and removals from these activities. See the examples of Chile 2016 
+and 2023 and Malaysia. We have included dotted gray lines to reflect this ambiguity. For REDD+ activities to be eligible for Article 6, they have to fall under the 
+categories of emission reductions or removals. Emissions avoidance is not eligible for crediting under Article 6 (See: What is emissions avoidance?). 
+
+
+--- PÁGINA 29 ---
+
+29corresponding adjustment, exporting ITMOs reduces a 
+country’s available emissions reductions for meeting its 
+own NDC and, therefore, carries risks of overselling and 
+potentially undermining national climate commitments. 
+On the other hand, because ITMOs carry a corresponding 
+adjustment, they might reach higher market prices.92 
+What is “emission avoidance”  
+and how is it related to nature? 
+Emissions avoidance activities are not eligible under Ar -
+ticle 6, at least until 2028.93,94 This decision has sparked 
+confusion about the concept of emissions avoidance and 
+whether this undefined term could potentially include 
+natural climate solutions. A key reason for this confusion 
+is that the term emission avoidance has never been offi-
+cially defined by the UNFCCC nor the IPCC, and it is not 
+even referenced within the IPCC’s definition of mitigation 
+of climate change.95 A second source of confusion comes 
+from voluntary carbon market jargon,  where carbon 
+credits are either categorized as “emissions removals” 
+or “reductions/ avoidance”, often used interchangeably, 
+despite important distinctions.96
+In the context of Article 6:
+• Emission reductions are additional and would not 
+have happened without human intervention. For 
+example, when deforestation occurs, emissions from 
+land use are released into the atmosphere. If a govern -
+ment implements REDD+ policies that successfully 
+reduce deforestation rates (measured against a his-
+torical baseline, for example), this constitutes an 
+emission reduction, not avoidance. • Emission avoidance: In contrast, “emissions avoid-
+ance” are not necessarily additional and not measured 
+against a historic baseline. For example, emissions 
+avoidance has been used informally in the context of 
+UNFCCC negotiations to reference a proposal from 
+the Government of Ecuador from 2012 regarding com -
+pensation for its Yasuní initiative to keep oil reserves 
+in the ground .97 In this context, emission avoidance 
+refers to policies and measures that explicitly forgo 
+the opportunity to develop fossil fuel resources. For 
+instance, avoiding drilling new oil reserves that have 
+not yet been exploited, and are not at risk of exploita-
+tion in the future.
+The CDM has also characterized methodologies under 
+emissions avoidance defining it as “various activities 
+where the release of GHG emissions to the atmosphere 
+is reduced or avoided, for example, avoidance of an-
+aerobic decay of biomass and reduction of fertilizer 
+use”.98 These also refer to activities where a mitigation 
+intervention would reduce the rate of existing emis-
+sions, which ultimately would fall under the definition 
+of emission reductions.
+Because of this confusion, many have assumed that all 
+natural climate solutions are classified as emissions 
+avoidance and are therefore excluded under Article 6 
+— but this is incorrect. In fact, natural-climate solutions 
+include protecting, restoring and managing natural eco-
+systems – all of which fall under the IPCC definitions of 
+emissions reductions or removals. As a result, nature 
+activities that lead to either emission reductions (e.g. 
+reduced deforestation) and/or removals (e.g. reforesta-
+tion) can be eligible under Article 6.2 and Article 6.4, 
+provided they meet Article 6 requirements.
+
+--- PÁGINA 30 ---
+
+30How does Article 6 impact the VCM? 
+The Paris Agreement does not have the mandate to regu-
+late the voluntary carbon market. However, the rules and 
+practices emerging from Article 6 are slowly reshaping the 
+broader environment in which the voluntary carbon mar -
+kets operate (See: Figure 5 ). Although the Article 6 market 
+is in its early stages, and it is expected that voluntary 
+transactions will continue to exist in parallel to Article 6 
+cooperation, some changes have already been happening.
+• Seller country requirements: Ultimately, it will be up 
+to the seller country to determine if Article 6 rules will 
+apply to voluntary credits. When countries regulate 
+Article 6 domestically, they often also introduce 
+broader rules that affect all carbon projects (includ -
+ing those intended for the VCM). Some countries 
+have required voluntary project developers to have 
+government registration, approval, authorization, or 
+non-objection/notification at various project develop-
+ment stages. Governments have regulated the scope 
+of activities that can be implemented under a volun-How does Article 6 impact the Voluntary 
+Carbon Markets?
+tary program or set minimum requirements for social 
+and environmental safeguards and benefit-sharing. For 
+example, Kenya  requires at least 25% of the benefits 
+from a project to be allocated to local communities. In 
+some cases, countries are going further. The Bahamas, 
+for example, requires a corresponding adjustment for 
+all voluntary credits sold internationally, though most 
+countries have not gone in this direction.
+• Market requirements: Even if some countries do not 
+regulate the voluntary carbon markets, initiatives like 
+the Integrity Council for the Voluntary Carbon Market 
+(IC-VCM) and the Voluntary Carbon Markets Integ -
+rity Initiative (VCMI) could drive the market towards 
+Article 6 alignment. For example, both initiatives have 
+considered whether a corresponding adjustment would 
+be required for all voluntary credits and as of May 
+2025, neither the IC-VCM nor the VCMI have gone 
+in this direction. These market initiatives are shaping 
+how companies and Governments view “high-quality” 
+offsets. For example, countries, like France, the United 
+Kingdom and Paraguay , announced alignment with 
+IC-VCM principles in their domestic carbon policies.Figure 16: Direct and indirect influences of Article 6 in the VCM
+Market 
+requirementsVoluntary standard 
+requirements 
+Voluntary Carbon MarketSeller country 
+requirements Article 6 
+requirements
+VCM

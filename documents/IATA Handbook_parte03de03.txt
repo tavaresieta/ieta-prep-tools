@@ -1,0 +1,510 @@
+DOCUMENTO: IATA Handbook
+PARTE 3 de 3
+Páginas 31 a 38
+======================================================================
+
+
+--- PÁGINA 31 ---
+
+ 
+    
+31 CORSIA  Handbook  Calculation of an operator’s 
+individual component  
+The individual component is effectively the difference 
+betw een an operator’s CO 2 emissions in a given 
+compliance year and its baseline emissions for that 
+year56 (calculated as 85% of the annual CO 2 of the 
+operator  in 2019, within CORSIA scope considering 
+the participating states for that year) .  
+For example, if the CO 2 emitted by an operator on 
+state pairs  subject to offsetting requirements in 2030 
+is 1.2 million tonnes of CO 2 and the operator’s  
+baseline emissions for the same state pairs  are 
+800,000 tonnes of CO 2, the operator’s individual 
+component  would be 400,000 tonnes of CO 2 for 
+2030:  
+1,200,000 – 800,000 = 400,000 tonnes of CO 2 Calculation of an operator’s offsetting requirements  
+Once an operator’s sectoral and individual 
+components are known, they should be multiplied by 
+the applicable weightings.  
+In compliance years where the approach is 100% 
+sectoral, an operator’s offsetting requirement will be 
+its sectoral component. In compliance years where 
+offsetting requirements are a combination of the individual and sectoral components (from 2033 to 
+2035) , the components should be multiplied by the 
+respective weightings.  
+For example,  in 2033, when the weighting is 15% 
+individual and 8 5% sectoral, an operator’s offsetting 
+requirements will be:  
+0.15 × individual component  + 0.85 × sectoral  
+component  = CO
+2 to offset  in 2033  
+The table below provides illustrative values:
+ 
+     
+Illustration of calculation of offsetting 
+requirements for an operator  Baseline for a 
+given year   2025  2030  2035  
+Total emissions  tCO 2, in 
+thousands   650  710  790  
+Total emissions from 
+state- pairs subject to 
+offsetting 
+requirements in:  2025  tCO 2, in 
+thousands  380  400    
+2030  tCO 2, in 
+thousands  430   500   
+2035  tCO 2, in 
+thousands  430    550  
+Sector’s growth factor   N/A  20%  30%  40%  
+Sectoral component  tCO 2, in 
+thousands  N/A  400 x 20% =  
+80 500 x 30% =  
+150  550 x 40% =  
+220  
+Individual component  tCO 2, in 
+thousands  N/A  Not applicable  Not applicable  550 -430 = 120  
+Offsetting requirements  tCO 2, in 
+thousands  N/A  100% x 80 =  
+80 100% x 150 =  
+150  85% x 220 + 
+15% x 120 =  
+205  
+  
+ 
+56 Annex 16, vol. IV, Part II, 3.2.4.  
+
+--- PÁGINA 32 ---
+
+ 
+    
+32 CORSIA  Handbook  Offsetting requirements  
+Compliance cycle  
+While the reporting of emissions will take place on an 
+annual basis, offsetting requirements will be 
+aggregated by 3 -year compliance cycles. For every 
+compliance cycle, operators will need to offset and 
+cancel a quantity of eligible emissions units corresponding to their offsetting requirements.  
+Administrating authorities will notify operators of their 
+final offsetting requirements for each year  by 30 
+November of the following year .
+57 For example, by 30 
+November 2027, the states shall calculate and inform operators  that are attributed to them  of their 
+offsetting requirements for 2026.  
+The offsetting requirements of an operator will be 
+determined by its administrating authority. The final 
+offsetting requirements will however benefit from a reduction if an operator has used CORSIA eligible 
+fuels that meet the applicable sustainability criteria. 
+When an emissions unit is canceled , it is taken out of 
+circulation and becomes unavailable for any other 
+uses. It is only if an emissions unit is canceled  for the 
+purpose of compliance with CORSIA that it can be 
+used to comply with offsetting requirements.  The deadline to complete the cancellation of the 
+required number of units will be 31 January, following 
+the administrating authority's notification of the final 
+offsetting requirements. However, if the administrating authority were to notify the final 
+offsetting requirements later than 30 November, the 
+operator would  have 60 days to complete the 
+cancellation. Naturally, operators do not have to wait 
+until they are notified of their final offsetting 
+requirements to purchase and cancel emissions units 
+and may do so before.
+58 
+Information on the emissions units canceled will need 
+to be compiled in an “emissions unit cancellation report” and submitted to the administrating authority  
+after verification.  
+In the CORSIA Central Registry, ICAO will publish the 
+following information , aggregated at the state and 
+global level
+59: 
+• Total final offsetting requirements over each compliance period;  
+• Total quantity of emissions units canceled  
+over the compliance period; and 
+• Consolidated information on the canceled  
+emissions units (eligible emissions unit program, unit type, host country, 
+methodology, and program -designated  
+registry name).  
+Compliance cycle  Notification of final 
+offsetting requirem ents  Cancellation of 
+emissions units  Submission of verified 
+emissions unit 
+cancellation report  
+2021 -2023  By 30 November 2024  By 31 January 2025*  By 30 April 2025  
+2024 -2026  By 30 November 2027  By 31 January 2028*  By 30 April 2028  
+2027 -2029  By 30 November 2030  By 31 January 2031*  By 30 April 2031  
+2030 -2032  By 30 November 2033  By 31 January 2034*  By 30 April 2034  
+2033 -2035  By 30 November 2036  By 31 January 2037*  By 30 April 2037  
+* or, if the notification of final offsetting requirements occurs after 30 November, 60 days after the notification of the final 
+offsetting requirements.  
+ 
+57 Annex 16, vol. IV, Appendix 1.  
+58 Annex 16, vol. IV, Appendix 1.  
+59 Annex 16, vol. IV, Appendix 5.  
+
+--- PÁGINA 33 ---
+
+ 
+   
+ 
+33 CORSIA  Handbook  New entrants  
+A “new entrant” is an operator that commences 
+operating international flights f alling within the scope 
+of CORSIA on or after  1 January  2019 and  whose 
+operations are not in whole or in part a continuation of operations previously performed by another operator.  
+To be considered a “new entrant ,” the operations 
+must not be, even partially, a continuation of the 
+operations of another operator. For example, if an 
+airline creates a new AOC for its regional flights and 
+splits its network between the parent company and 
+the new AOC, the new AOC would not be considered 
+as a new entrant. Similarly, if an airline operating 
+domestic flights only takes over the international 
+flights of another airline it has merged with, this would 
+likely not be a situation of a “new entrant .” 
+New entrants are exempt from offsetting 
+requirements for three years from th e year their total 
+annual emissions within CORSIA’s scope exceed  
+10,000 tonnes .
+60 The 3 -year “grace” period includes 
+the year during which they exceed this ceiling .61 For 
+example, if an operator produces more than 10,000 
+tonnes within CO RSIA’s scope in 2024, it will be 
+exempt from offsetting requirements in 2024, 2025 , 
+and 2026. It will be subject to offsetting requirements 
+for its 2027 emissions onwards.  
+As a caveat, at  any time during the “grace period ,” if 
+the operator’s total annual CO2 emissions exceed  
+0.1% of the total CO 2 emissions from international 
+flights in 2019 , the operator will be subject to 
+offsetting requirements from the following calendar  
+year.  
+CORSIA eligible fuels 
+The emis sions reductions that an operator can claim 
+from CORSIA -eligible  fuels will be proportional to the 
+life cycle emissions benefits of the fuels used, 
+compared to a reference value for fossi l fuels62 (for 
+Jet-A/A1, Jet -B, TS- 1, or No. 3 Jet fuel , 89 gCO 2e/MJ ; 
+for AvGas, 95 gCO 2e/MJ ). 
+ 
+60 Annex 16, vol. IV, Part II, 2.1.1.  
+61 Annex 16, vol. IV, Part II, 3.1.2.  
+62 Annex 16, vol. IV, Part II, 3.3.  For example, if an operator used 1,000 tonnes of 
+sustainable aviation fuels with a life cycle emissions 
+value of 20 gCO 2e/MJ, the corresponding emissions 
+reduction would be:  
+Emissions reduction = 3.16*1000*(1- 20/89)  
+where 3.16 (kg CO 2/kg fuel) is the emissions factor for 
+jet fuel and 89 (gCO 2e/MJ), the default life cycle 
+emissions value for conventional aviation fuel.  
+ICAO will publish default life cycle values for some 
+CORSIA eligible fuels . An op erator may, however, 
+decide to use the actual life cycle emissions if a fuel 
+producer can demonstrate lower lifecycle emissions 
+than the default value or if a fuel producer is using a 
+pathway that does not have a default value. In order 
+to do so, the opera tor will select an approved 
+Sustainability Certification Scheme (SCS) from a list 
+that will be included in an ICAO document entitled 
+“CORSIA Approved Sustainability Certification 
+Schemes.” The SCS will ensure that the methodology 
+applied is approved for CO RSIA. While ICAO will 
+approve SCS, ICAO will not certify the CORSIA eligible 
+fuels.  
+The emissions reductions will be deducted from the 
+operator’s total offsetting requirements at the end of each 3 -year compliance period. The deduction can, 
+however, only be  claimed for the compliance period 
+during which the CORSIA -eligible  fuel was blended .
+63 
+  
+63 Annex 16, vol. IV, Part II, 2.3.3.4.  
+
+--- PÁGINA 34 ---
+
+ 
+   
+ 
+34 CORSIA  Handbook  Eligible  emissions units  
+To meet their offsetting requirements, operators will 
+have to purchase and cancel a quantity of “CORSIA 
+eligible emissions units” correspondi ng to their final 
+offsetting requirements. The ICAO Council will 
+determine which emissions units are eligible for use 
+under CORSIA.64 
+The Council’s decision will be informed by a 
+recommendation from the Technical Advisory Body  
+and by eligibility criteria approved by the Council. The 
+list of eligible emission units is available on the ICAO 
+website in an ICAO document  entitled “CORSIA 
+Eligible Emissions Units.” 
+Assembly Resolution A39 -3 stipulates that emissions 
+units generated from mechanisms established under 
+the UNFCCC and the Paris Agreement shall be eligible 
+for use in CORSIA, provided that they align with decisions by the ICAO Council.  This was further 
+supported in Assembly Resolution  A41- 22. 
+In addition to emissions units from the compliance 
+market, there are several offset standards that  could 
+offer high -quality offsets for international aviation and 
+could be considered for CORSIA, including voluntary offs et standards and REDD+.  
+Several standards were developed to provide companies and individuals wishing to offset their 
+emissions on a voluntary basis the certainty that the offsets that they purchase are environmentally 
+effective. Provided these standards m eet ICAO’s 
+criteria, they could make high -quality offsets available 
+to aviation, often with co -benefits for biodiversity, 
+employment, health,  and more.  
+Examples of offset certified under voluntary standards include those from wind energy, landfill 
+methane,  smaller community -focused energy 
+efficiency,  and clean cookstove  projects.  
+Operators can purchase any eligible emissions unit 
+and can , therefore, choose to privilege emissions 
+units from projects hosted in their home state, in 
+states they operate to,  or in developing countries as 
+long as those units are held as CORSIA eligible.  
+ 
+ 
+64 Annex 16, vol. IV, Part II, 4.2.  Emissions Units Criteria  
+The Emissions Units Eligibility Criteria guarantee that 
+eligible emissions units deliver the desired CO 2 
+reductions. The criteria are based on principles 
+commonly applied under existing trading 
+mechanisms and certification schemes.  
+Additionality, permanence,  and 
+leakage  
+A key requirement is that the CO 2 reduction or 
+removal used as an offset be ‘additional’ to business-
+as-usual activity. Additionality addresses the 
+question: “would the activity have occurred, holding 
+all else constant, were the activity not implemented as 
+an offset project?” Or, in simpl er terms , “would the 
+project have happened anyway?”  
+Offsets must also represent a permanent reduction of 
+emissions that cannot be reversed. Similarly, an activity that generates offsets should not result in 
+unintended increases in emissions elsewhere.  
+Baseline and quantification  
+A baseline must be determined to quantify the 
+emission reduction benefits from an offsetting 
+project . The baseline corresponds to what would 
+have happened if the project had not been implemented. The baseline being a hypothetical 
+scenario, it is important that it be realistic and 
+credible. The emissions reductions calculated against the baseline should be quantified using 
+accurate measurements, valid protocols, and be 
+externally audited.  
+No double -counting and 
+traceability  
+Generally speaking, double counting occurs when an emissions reduction is counted more than once towards attaining climate change mit igation.  
+One type of double counting is double use. Double 
+use occurs if the same emissions unit is used twice by 
+the same operator to attain different mitigation 
+requirements or pledges.  
+
+--- PÁGINA 35 ---
+
+ 
+   
+ 
+35 CORSIA  Handbook  In contrast , to double use, double selling (same 
+emissions unit is  used by two entities) and double 
+issuance (more than one unit is issued for the same 
+emission reduction) are within the control of 
+emissions unit programs. Double claiming would 
+occur if a country that  hosts emissions unit programs 
+were to count the reduc tions associated with units 
+used for CORSIA towards its own mitigation pledges.  
+Emissions Units Programs will need to demonstrate 
+that they have procedures in place to ensure 
+identification and tracking of units. They will also need 
+to provide information on how they address risks of double -counting and demonstrate that host 
+countries of emissions reduction activities do not include the respective reductions in their national 
+greenhouse gas accounting. On the other hand, the 
+host country needs to conduct the corresponding 
+adjustment  to deduct the emissions units claimed by 
+aircraft operators for CORSIA compliance purposes 
+from its national repository. The Verification Body will 
+need to ensure that the operator hasn’t used the units 
+canceled  for CORSIA to off set any other emissions.  
+Environmental and social risks  
+Emissions unit  programs will also need to have in 
+place safeguards to address environmental and 
+social risks and disclose how the sustainability criteria 
+are satisfied.  
+ Purchasing emissions units 
+Operators can purchase emissions units through different ways, including from:  
+• Project developers: an operator could 
+purchase emissions units directly from the 
+person or organization coordinating a carbon offset project;  
+• Brokers: as emissions units are int angible 
+commodities traded in a market exchange, one common way to purchase emissions 
+units is through a market trader or broker. 
+Brokers will locate emissions units that 
+respond to the operators’ quantitative and 
+qualitative requirements and introduce the  
+buyer to the seller(s).  
+• Aggregators: aggregators will develop a carbon offset portfolio for their clients from a 
+variety of projects.  
+• Retailer/wholesale: some organizations sell 
+carbon offsets to the public in small or large 
+quantities.  
+As tradeable commodities, the price of emissions 
+units can vary significantly depending on the 
+characteristics of the emissions units, notably the type of project, the standard under which it is 
+certified, and market dynamics. 
+ 
+
+--- PÁGINA 36 ---
+
+ 
+   
+ 
+36 CORSIA  Handbook  Cancelling emissions 
+units  
+In order to meet their offsetting requirements, it is 
+essential  that operators “cancel” the required 
+quantity of emissions units. When an emissions unit is 
+canceled , it is taken out of circulation an d becomes 
+unavailable for any other uses. It is only if an 
+emissions unit is canceled  for the purpose of 
+compliance with CORSIA that it can be used to 
+comply with offsetting requirements.  
+The cancellation of an emissions unit will be reflected 
+in a registr y. Registries are databases which allow to 
+keep track of emissions units and related 
+transactions. Registries are notably important to 
+minimize the risk of double- counting.  
+Operators will have to request that the registry in 
+which its emissions units are canceled publishes 
+detailed information on the units canceled . The 
+information should include the quantity, serial 
+numbers, the date of cancellation, the program, the 
+unit type, the host country, the methodology, the 
+demonstration of unit date eligibility,  and the name of 
+the operator in whose name the units were 
+canceled.65 Emissions unit cancellation 
+report  
+The information on the emissions units canceled by 
+an operator will need to be compiled in an emissions 
+unit cancellation report  for submission to the 
+administrating authority after verification.66 
+Operators will have until 30 April following the 
+notification of their  final offsetting requirements to 
+submit the verified report.67 
+The emissions unit cancellation report will need to 
+include information on the operator, the compliance 
+period years reported, the total final offsetting 
+requirements, and the total quantity of emissions 
+units canceled . Detailed information for each batch of 
+emissions units canceled  will also have to be 
+provided: serial numbers; date of cancellation; eligible emissions unit program; unit type, host country, methodology, demonstration of unit date eligibility; 
+registry name; identifier for the registry account to 
+which the bat ch was cancelled; the name of the 
+operator in whose name the units were cancelled; 
+identifier for the registry account from which the cancellation was initiated.
+68
+ 
+65 Annex 16, vol. IV, Part II, 4.2.2.  
+66 Annex 16, vol. IV, Part II, 4.3.  67 Annex 16, vol. IV, Appendix 1.  
+68 Annex 16, vol. IV, Appendix 5.  
+
+--- PÁGINA 37 ---
+
+ 
+    
+37 CORSIA  Handbook  Verification of Units 
+Like  the annual emissions reports, the emissions unit 
+cancellation report will have to be verified by an 
+independent verification body.69  
+The objective of the verification will be to ensure that the operator has accurately reported cancellations of 
+eligible emissions units and that the number of emissions units canceled  is sufficient to meet the 
+operator’s final offsetting requirements. The verification will also aim to ensure that the emissions units have not been used to offset any other 
+emissions.  
+The verification body engaged for the emissions unit 
+cancellation report may be the same as for the emissions report,  but the scope of its accreditation 
+shall specifically include the verification of emissions unit cancellation reports. This requires the verification body to demonstrate knowledge of 
+greenhouse gas information, data management systems, controls, and  basic knowledge of 
+greenhouse gas markets and emissions unit  program  
+registries.  
+Verification requirements  
+Like  the emissions report, the verifi cation body will 
+need to provide “reasonable assurance” that the claimed volume of eligible emissions unit 
+cancellations is accurate and sufficient to meet the 
+operator’s offsetting requirements for the given  
+compliance period.
+70  
+In accordance with Annex 16, volume IV, the objectives of 
+the verification of an emissions  unit cancellation report 
+are:  
+• The operator has accurately reported 
+cancellations of its eligible emissions units ; 
+• The number of canceled  eligible emissions units 
+is sufficient for meeting the operator’s total final offsetting requirements; 
+• The operator can demonstrate the sole right of 
+use to the canceled  eligible emissions units; and  
+• The eligible emissions units canceled  have not 
+been used  to offset any other emissions.
+71 
+ 
+69 Annex 16, vol. IV, Part I I, 4.4.  
+70 Annex 16, vol. IV, Appendix 6, 3. 2. An important difference between the verification of the emissions report and the emissions unit 
+cancellation report is the materiality threshold. Such a “tolerance margin” is not allowed for the verification of the emissions unit cancellation report, and the 
+verifier must verify that each reported canceled  
+emissions unit is included in the report. This implies 
+that the verifier should not use sampling
+72 and that it 
+needs to verify that none of the units have been used 
+by th e operator to offset any other emissions.  
+Verification activities  
+The steps in the verification process for the 
+emissions unit cancellation report are the same as for the emissions report. The verifier will need to conduct 
+a strategic analysis and a risk analysis  to understand 
+the scope and complexity of the verification as well as inherent and control risks. The strategic and risk 
+analyses will inform the verification plan and guide the 
+verification activities.  
+The verification body will need to review and confirm 
+that cancellations have been made in the name of the 
+aeroplane operator, that the emissions units are 
+eligible for CORSIA, and  that they have been canceled 
+in a program registry in accordance with CORSIA’s 
+requirements. The review will be based  on the 
+information published in the relevant program 
+registry, the list of CORSIA -eligible emissions units to 
+be published by ICAO, and the emissions unit 
+cancellation report.  
+The verification body will also confirm that the 
+number of canceled eligible emissions units is 
+sufficient and ensure that the operator has the sole 
+right of use to the canceled  eligible emissions units. 
+The sole right of use can, for example,  be 
+demonstrated by the operator with  contractual 
+evidence of acquisition/transfer of the units,  
+contractual evidence of instructions to a third party to 
+cancel the units on behalf of the operator, the terms  
+and conditions of the program  registry where the 
+units have been canceled , and the information 
+published by the program registry.  
+The verifier will also seek to ensure that the units have 
+not been used by the operator to offset any other 
+emissions. This i ncludes  the use of the units under 
+other regulatory schemes  (domestic or international) , 
+as well as  any voluntary schemes. The operator will 
+71 Annex 16, vol. IV, Appendix 6, 3. 3. 
+72 Annex 16, vol. IV, Appendix 6, 3. 9.2. 
+
+--- PÁGINA 38 ---
+
+ 
+   
+ 
+38 CORSIA  Handbook  need to inform the verifier about any schemes it has 
+participated or is participating in. The verification 
+body wil l review information regarding the scheme to 
+determine whether the eligible emissions units may  
+also be used under the other program(s) and, if so, 
+review cancellation information under the other 
+schemes. The verifier should also check the 
+operator’s inter nal control and risk management 
+procedures put in place to mitigate the risk of double 
+use. Voluntary schemes may include  programs under 
+which the operator offsets  their own emissions and 
+also carbon offset ting  programs  made available to 
+customers . In addition to relevant registries, the 
+verifier will review public reporting materials, such as 
+CSR reports or submissions made under reporting 
+initiatives.  

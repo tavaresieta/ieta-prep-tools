@@ -1,0 +1,456 @@
+DOCUMENTO: Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)
+PARTE 7 de 7
+Páginas 91 a 100
+======================================================================
+
+
+--- PÁGINA 91 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers82
+As a complementary resource, please consider the Forest Carbon Partnership Facility (FCPF) Glossary of T erms (April 
+2020), which can be accessed here.
+Annex I Countries:  A term used under UNFCCC; it includes the industrialized countries that were members of 
+OECD (the Organisation for Economic Co-operation and Development) in 1992, plus countries with economies in 
+transition (the EIT Parties), including the Russian Federation, the Baltic States, and several Central and Eastern 
+European States.
+Article 6 Transactions:  The transfer of ERs in the form of  International Transferable Mitigation Outcomes (ITMOs) 
+under Article 6.2 (collaborative approaches) or Article 6.4 (mechanism to support sustainable development) of the 
+Paris Agreement. 
+Article 6 Projects : Projects that serve to pilot Article 6.2 of the Paris Agreement, and that require a corresponding 
+adjustment (CA) in order to be allocated to projects from national performance. These are pilots in anticipation 
+of meeting the requirements of Article 6. Examples include pilot projects promoted by Japan in Cambodia and 
+Switzerland in Peru. 
+Benefits:  Monetary and/or nonmonetary support received for participation in forest carbon projects, or a 
+jurisdictional ER program. 
+Benefit sharing:  Refers specifically to the arrangement by which a government institution allocates, administers, 
+and channels benefits funded by payments for emission reductions to national actors.  
+Carbon credit:  An ER that has been created according to the rules of a private or public carbon standard and is 
+issued, tradable, and traceable, in a GHG registry. 
+Carbon finance:  A subcategory of result-based finance (RBF) that involves the issuance of tradable carbon credits.
+Carbon rights: The rights of communities and individuals to forest-related ERs. When used in the context of 
+REDD+, carbon rights are mostly understood as the right to benefit from ERs or to participate in a REDD+ benefit-
+sharing system.
+Carbon unit: Carbon credits, emissions allowances, or any other unit linked to GHG markets that is issued, 
+tradable, and traceable in a GHG registry.
+Compliance carbon market  : A regulated market that by law holds entities accountable for their GHG emissions. 
+The regulatory regime that covers the compliance market can be set up at the national, regional, or international 
+levels.
+Corresponding adjustment (CA):  An accounting adjustment made to reflect the use of ITMOs toward an NDC under 
+Article 4 of the Paris Agreement or other international system, such as ICAO’s CORSIA. 
+Crediting: The accounting of ERs against a forest reference emission level  (FREL), or project baseline.
+Data management system (DMS:) A system that systematically records and monitors project, program, and 
+transaction information to ensure transparency and consistency. 
+APPENDIX A: GLOSSARY
+
+--- PÁGINA 92 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers83
+Deforestation:  The conversion of forest land to other land uses.
+Domestic compliance market: GHG emissions trading systems established in the national context with the goal of 
+reducing GHG emissions.
+Double counting:  Under the Paris Agreement, this refers to the accounting of a GHG emission reduction or removal 
+toward more than one nationally determined contribution (NDC).
+Emission reduction (ER) program: A program under which a government is seeking to claim GHG ERs at a 
+jurisdictional scale, and access financial rewards for such a program. ER programs—for example under the FCPF 
+Carbon Fund, ART TREES, and VCS JNR—have a set of requirements that must be met in order to be considered 
+as a jurisdictional program. 
+Environmental integrity: A carbon market-based mechanism has environmental integrity if the transfer of credits 
+through that mechanism leads to the same, or lower , aggregated global emissions. Integrity is ensured through 
+accounting that avoids double-counting (that is, using the same unit twice to offset emissions), as well as 
+through the quality of the ER baseline or reference level estimates, additionality, permanence, uncertainty, and 
+leakage.
+Greenhouse gas (GHG) emission reductions and removals (ERs) refers to a tonne of greenhouse gas expressed in 
+CO2e measured against a reference level or baseline that has been avoided (emission reduction) or sequestered 
+(removal), often defined with reference to a carbon standard. In this report, we focus on forest-related ERs in 
+relation to avoided deforestation (AD) and REDD+.
+Forest degradation : Reduction in the capacity of a forest to produce ecosystem services such as carbon storage 
+as a result of anthropogenic activities.
+Forest reference emission level (FREL):  A benchmark for emissions from deforestation and forest degradation 
+(REDD only).
+Incentives:  Government-set, market-based incentives to reduce GHG emissions and implement REDD+ activities.
+International transferred mitigation outcome (ITMO): Emissions reductions and removals through a cooperative 
+approach under Article 6.2 of the Paris Agreement, which involves the international transfer of mitigation 
+outcomes authorized for use toward an NDC; or mitigation outcomes authorized by a participating party for use 
+under an international system other than for achievement of its NDC, such as ICAO’s CORSIA.
+Jurisdictional: A governance level that covers an administrative area for which public authorities can take 
+decisions (for example, the national or federal level, subnational states, regions, counties or departments, 
+municipalities, and/or communities).
+Nesting:  The coordinated and harmonized implementation of REDD+ programs and activities at multiple 
+accounting scales and governance levels within a country.
+Nationally determined contribution (NDC) : The pledge made by a party to the Paris Agreement, communicated to 
+the UNFCCC Secretariat, to take climate action.   
+REDD+ The international policy framework that provides incentives for reduced emissions from deforestation 
+and forest degradation, and promotes the role of conservation, the sustainable management of  forests, and 
+enhancement of  forest carbon stocks in developing countries (REDD+).
+Program  or REDD+ program: Policies and activities that generate forest-related ERs. 
+Project or REDD+ project: A forest carbon project-level activity that is accredited, or that is seeking accreditation 
+under a carbon accounting standard. 
+Results-based finance (RBF) : Payments for results (mostly in the form of ERs), which may or may not involve the 
+issuance of tradable carbon credits.
+
+--- PÁGINA 93 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers84
+Right and title to ERs:  Rights defined on the basis of a contract (for example, the FCPF ERPA) or a law (for 
+example, local emission-trading legislation) that assigns a transferable right to an ER. 
+Safeguards: Measures to prevent and mitigate harm to people and the environment, and to increase benefits for 
+them in the context of REDD+ activities. 
+Subnational: A region within a country that has its own system of governance, such as a province, state, or 
+municipality.
+Transaction registry:  An online database that issues, records, transfers, and tracks the carbon units that are 
+exchanged within carbon finance market mechanisms.
+Voluntary carbon market:  Transactions in ERs and carbon credits that are not generated or acquired with the 
+intention of surrendering them into a regulated carbon market. 
+
+--- PÁGINA 94 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers85
+This appendix shows decision makers  how to use the accompanying Decision Support T ool (DST) for nesting 
+REDD+ initiatives at various scales.  
+The Decision Support T ool (DST) that accompanies this manual is intended to assist countries in identifying gaps 
+that may exist in the implementation of their REDD model or nesting system.94 Identification of these gaps may 
+serve as the basis for a roadmap with concrete actions to take toward definition of the country’s nested system.
+Two categories of countries are expected to use this tool:
+·	 Countries with no prior experience with REDD+ nesting initiatives. The information presented in this 
+manual can be used to identify various approaches to the nesting of REDD+ initiatives, specific to the 
+country’s context ; and to identify gaps that will need to be overcome in designing the system.
+·	 Countries with experience in implementing REDD+ nesting initiatives could use the manual to review 
+their progress, with a view toward identifying gaps or strengthening design elements in order to scale 
+up implementation.
+The DST guides users through the following steps:
+Step 1: Helps the user understand broadly which nesting model is most desirable for a given country, and 
+whether a centralized, decentralized, or nested model is best. This is achieved through six simple questions that 
+help to identify the country’s objectives vis-à-vis nesting. 
+Step 2: Based on the answers to the questions in Step 1, the country selects the model that it wishes to evaluate. 
+They then evaluate their level of progress toward, or completion of a set of actions conducive to the development 
+of all the important elements to consider for a nesting system.
+The tool is based in MS Excel, and has been organized under five different tabs. 
+All users will have to use the tabs named “Readme” and “Questions. ” The answers to the Questions tab will serve 
+to identify the nesting model that is most appropriate for a given country. T o achieve this, the user needs to 
+provide an answer to each of the six questions presented. Once all of the questions have been answered, based on 
+the responses received, the DST will provide a recommendation on the most appropriate nesting model. 
+The remaining tabs, (“Jurisdictional ER program, ” “Centralized Nested, ” Decentralized Nested, ” and “Project 
+Crediting Only”) describe the elements of each REDD+ implementation model, as well as which actions are 
+needed in order to implement the relevant model. The elements cover all of the issues necessary to establish the 
+recommended nested system (MRV, carbon rights, benefit sharing, consultations, safeguards, and institutional 
+elements), as well as registry and regulatory issues. As users check the boxes of the tasks that have been 
+completed, the progress made toward the various elements is automatically updated in a dashboard at the top 
+of the tab, providing graphic information about the country’s degree of development toward a desired REDD+ 
+implementation model. 
+94 The DST may be accessed here: http:/ /documents 1.worldbank.org/curated/en/ 548791631769281867 /Decision-Support-T ool.xlsx”
+APPENDIX B: 
+INSTRUCTIONS 
+FOR THE DECISION 
+SUPPORT TOOL
+
+--- PÁGINA 95 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers86
+Readme T ab
+The main purpose of the Readme tab is to provide information that will help the user complete the DST. This tab 
+has a blue button labeled “Start the tool. ” Clicking this button will initiate the completion of Step 1. The “Start the 
+tool button” has been highlighted with a red circle in Figure 21 .
+Figure 21. Detail of the “Readme” T ab 
+ Readme Tab  
+The main purpose of the Readme tab is to provide information that will help the user complete the DST. 
+This tab has a blue button labeled “Start the tool .” Clicking this button will  initiate the completion of Step 1. 
+The “Start the tool button” has been highlighted with a red circle in Figure 21. 
+Figure 21. Detail of the "Readme" Tab  
+   
+Questions Tab  
+The “Questions” tab aims to guide the user in selecting the most appropriate nesting model according to 
+vario us national circumstances. To do so, the DST displays in its recommendation box the most suitable 
+of the four nesting models. The recommendation appears as a message colored in red. ( Figure 22). 
+ 
+Figure 22 Recommendation Box, "Questions" Tab   
+  
+To enable the DST to provide a recommendation, the user needs to answer six questions. Only one 
+answer per question can be selected, and all six questions must be answered. To select an answer, the 
+box situated to the right of each possible answer needs to  be ticked. ( Figure 23.) 
+ 
+ Figure 23. Answer Check Boxes  under "Questions" Tab  
+ 
+ 
+ 
+Step 1: Select your model
+Please respond to the following questions by marking only one box , reflecting what is closest  to your situation:
+Questions Manual Answer I Select Answer II Select
+#1: Who should benefit from REDD+ 
+finance?Section 1.2The government who will implement the key 
+actions to slow, halt and reverse deforestationBoth the government and local actors, but the 
+government is best fit to distribute payments 
+and other benefits to local actors
+Back to 
+Start
+Questions T ab
+The “Questions” tab aims to guide the user in selecting the most appropriate nesting model according to various 
+national circumstances. T o do so, the DST displays in its recommendation box the most suitable of the four 
+nesting models. The recommendation appears as a message colored in red. ( Figure 22 ).
+Figure 22 Recommendation Box, «Questions» T ab  
+ Readme Tab  
+The main purpose of the Readme tab is to provide information that will help the user complete the DST. 
+This tab has a blue button labeled “Start the tool .” Clicking this button will  initiate the completion of Step 1. 
+The “Start the tool button” has been highlighted with a red circle in Figure 21. 
+Figure 21. Detail of the "Readme" Tab  
+   
+Questions Tab  
+The “Questions” tab aims to guide the user in selecting the most appropriate nesting model according to 
+vario us national circumstances. To do so, the DST displays in its recommendation box the most suitable 
+of the four nesting models. The recommendation appears as a message colored in red. ( Figure 22). 
+ 
+Figure 22 Recommendation Box, "Questions" Tab   
+  
+To enable the DST to provide a recommendation, the user needs to answer six questions. Only one 
+answer per question can be selected, and all six questions must be answered. To select an answer, the 
+box situated to the right of each possible answer needs to  be ticked. ( Figure 23.) 
+ 
+ Figure 23. Answer Check Boxes  under "Questions" Tab  
+ 
+ 
+ 
+Step 1: Select your model
+Please respond to the following questions by marking only one box , reflecting what is closest  to your situation:
+Questions Manual Answer I Select Answer II Select
+#1: Who should benefit from REDD+ 
+finance?Section 1.2The government who will implement the key 
+actions to slow, halt and reverse deforestationBoth the government and local actors, but the 
+government is best fit to distribute payments 
+and other benefits to local actors
+Back to 
+Start
+T o enable the DST to provide a recommendation, the user needs to answer six questions. Only one answer per 
+question can be selected, and all six questions must be answered. T o select an answer, the box situated to the 
+right of each possible answer needs to be ticked. ( Figure 23 .)
+Figure 23. Answer Check Boxes under “Questions” T ab 
+ Readme Tab  
+The main purpose of the Readme tab is to provide information that will help the user complete the DST. 
+This tab has a blue button labeled “Start the tool .” Clicking this button will  initiate the completion of Step 1. 
+The “Start the tool button” has been highlighted with a red circle in Figure 21. 
+Figure 21. Detail of the "Readme" Tab  
+   
+Questions Tab  
+The “Questions” tab aims to guide the user in selecting the most appropriate nesting model according to 
+vario us national circumstances. To do so, the DST displays in its recommendation box the most suitable 
+of the four nesting models. The recommendation appears as a message colored in red. ( Figure 22). 
+ 
+Figure 22 Recommendation Box, "Questions" Tab   
+  
+To enable the DST to provide a recommendation, the user needs to answer six questions. Only one 
+answer per question can be selected, and all six questions must be answered. To select an answer, the 
+box situated to the right of each possible answer needs to  be ticked. ( Figure 23.) 
+ 
+ Figure 23. Answer Check Boxes  under "Questions" Tab  
+ 
+ 
+ Step 1: Select your model
+Please respond to the following questions by marking only one box , reflecting what is closest  to your situation:
+Questions Manual Answer I Select Answer II Select
+#1: Who should benefit from REDD+ 
+finance?Section 1.2The government who will implement the key 
+actions to slow, halt and reverse deforestationBoth the government and local actors, but the 
+government is best fit to distribute payments 
+and other benefits to local actors
+Back to 
+Start
+
+
+--- PÁGINA 96 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers87
+If more than one answer is ticked for the same question, the user receives an error message, as shown in Figure 24 .
+Figure 24. Error Message, Recommendation Box, «Questions» T ab 
+As can be seen above, Step 1 can be completed once the user has provided only one answer to each of the six 
+questions. At this stage, the DST suggests the most appropriate model for the combination of circumstances 
+reflected in the answers. By clicking the blue buttons that are highlighted in a red circle in Figure 25 , the user can 
+proceed to Step 2 under the selected nesting model. If the user needs to go back to the “Readme” tab, he or she 
+can press the button “Back to Start” situated on the top left corner of the screen: this button is highlighted in a 
+purple circle in Figure 25 . 
+Figure 25. Example of DST Screen When Step 1 Is Completed.  
+  
+If more than one answer is ticked for the same question, the user receives an error message , as shown in 
+Figure 24. 
+ 
+Figure 24. Error Message, Recommendation Box, "Questions" Tab   
+ 
+    
+As can be seen above,  Step 1 can be completed once the user has provided only one answer to each  of 
+the six questions. At this stage, the DST suggests the most appropriate model for the combination of 
+circumstances reflected in the answers. By clicking the blue buttons that are highlighted in a red circle in 
+Figure 25, the user can proceed to Step 2 under the selected nesting model. If the user needs to go back 
+to the “Readme” tab, he or she can press the button “Back to Start” situated on the t op left corner of the 
+screen : this button is highlighted in a purple circle in Figure 25.  
+ 
+Figure 25. Example of DST Screen Whe n Step 1 Is Completed.   
+ 
+  
+ 
+T abs for “Jurisdictional ER program,” “Centralized Nested,” Decentralized Nested” and “Project Crediting Only.”
+After completing Step 1, the user will complete Step 2 for each of the tabs dedicated to one of the four specific 
+nesting models, (hereinafter referred to as the model tabs). 
+The REDD+ implementation model tabs present a schematic representation of the nesting model selected, 
+as seen in the red circles in Figure 26 . In this representation, the main features of the selected models are 
+summarized. On the top right part of the screen, the bar graph presents information on the progress achieved 
+toward implementation of the selected model, which is highlighted in a yellow circle. The progress graph  
+  
+If more than one answer is ticked for the same question, the user receives an error message , as shown in 
+Figure 24. 
+ 
+Figure 24. Error Message, Recommendation Box, "Questions" Tab   
+ 
+    
+As can be seen above,  Step 1 can be completed once the user has provided only one answer to each  of 
+the six questions. At this stage, the DST suggests the most appropriate model for the combination of 
+circumstances reflected in the answers. By clicking the blue buttons that are highlighted in a red circle in 
+Figure 25, the user can proceed to Step 2 under the selected nesting model. If the user needs to go back 
+to the “Readme” tab, he or she can press the button “Back to Start” situated on the t op left corner of the 
+screen : this button is highlighted in a purple circle in Figure 25.  
+ 
+Figure 25. Example of DST Screen Whe n Step 1 Is Completed.   
+ 
+  
+ 
+
+
+--- PÁGINA 97 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers88
+gets automatically updated as the user advances toward the completion of Step 2. The user can consult the 
+instructions to progress toward Step 2 on the top side of the screen, which is highlighted by a green circle. The 
+user can go back to the Readme tab by clicking on the blue button, highlighted in purple. 
+Figure 26. Information Dashboard of Nesting Model T abs 
+ Tabs for “Jurisdictional ER program,” “Centralized Nested,” Decentralized 
+Nested” and “Project Crediting Only.” 
+After completing Step 1, the user will complete Step 2 for each of the tabs dedicated to one of the four 
+specific nesting models, (hereinafter referred to as the model tabs).  
+ 
+The REDD+ implementation model tabs present a schematic representation of the n esting model 
+selected, as seen in the red circle s in Figure 26. In this representation, the main features of the selected 
+models are summarized. On the top right part of the screen, the bar graph presents information on the 
+progress achieved toward implementation of the selected model, which is highlighted in a yellow  circle. 
+The progress graph gets automatically updated as the user advances toward the completion of Step 2. 
+The user can consult the instructions to progress toward Step 2 on the top side of the screen, which is 
+highlighted by a green circle. The user can  go back to the Readme tab by clicking on the blue button, 
+highlighted in purple.  
+ 
+Figure 26. Information Dashboard of Nesting Model Tabs  
+    
+ 
+ 
+ 
+ 
+To complet e Step 2, the user considers whether the country has successfully  concluded the tasks 
+associated with the elements that are considered relevant for the establishment of a particular nesting 
+system (MRV, forestry regimes, carbon rights, benefit sharing, consultations, safeguards, institutional 
+elements, and registry and regulatory issues). As shown in Figure 27, each element is reflected in a 
+separate section, with tasks to be completed, relevant elements and considerations, and the chapter of 
+the nesting guidance in which the issue is discussed.  
+ 
+Figure 27. Components and Distribution of the Nesting Elemen t 
+ 
+ 
+To reflect the successful completion of a task, the user can tick the boxes located under the checklist 
+column that can be found in each of the nesting elements , as shown in the red highlighted circles in 
+Figure 28. The progress achieved by the country toward each nesting subject can be consulted in the 
+horizontal graph at the bottom of each nesting subject section , highlighted in green circles in Figure 28. 
+ 
+Figure 28. Location of Checkboxes and Subject Progress Bars in Nesting Mode l Tabs  
+T o complete Step 2, the user considers whether the country has successfully concluded the tasks associated 
+with the elements that are considered relevant for the establishment of a particular nesting system (MRV, 
+forestry regimes, carbon rights, benefit sharing, consultations, safeguards, institutional elements, and registry 
+and regulatory issues). As shown in Figure 27 , each element is reflected in a separate section, with tasks to be 
+completed, relevant elements and considerations, and the chapter of the nesting guidance in which the issue is 
+discussed. 
+Figure 27. Components and Distribution of the Nesting Element 
+ Tabs for “Jurisdictional ER program,” “Centralized Nested,” Decentralized 
+Nested” and “Project Crediting Only.” 
+After completing Step 1, the user will complete Step 2 for each of the tabs dedicated to one of the four 
+specific nesting models, (hereinafter referred to as the model tabs).  
+ 
+The REDD+ implementation model tabs present a schematic representation of the n esting model 
+selected, as seen in the red circle s in Figure 26. In this representation, the main features of the selected 
+models are summarized. On the top right part of the screen, the bar graph presents information on the 
+progress achieved toward implementation of the selected model, which is highlighted in a yellow  circle. 
+The progress graph gets automatically updated as the user advances toward the completion of Step 2. 
+The user can consult the instructions to progress toward Step 2 on the top side of the screen, which is 
+highlighted by a green circle. The user can  go back to the Readme tab by clicking on the blue button, 
+highlighted in purple.  
+ 
+Figure 26. Information Dashboard of Nesting Model Tabs  
+    
+ 
+ 
+ 
+ 
+To complet e Step 2, the user considers whether the country has successfully  concluded the tasks 
+associated with the elements that are considered relevant for the establishment of a particular nesting 
+system (MRV, forestry regimes, carbon rights, benefit sharing, consultations, safeguards, institutional 
+elements, and registry and regulatory issues). As shown in Figure 27, each element is reflected in a 
+separate section, with tasks to be completed, relevant elements and considerations, and the chapter of 
+the nesting guidance in which the issue is discussed.  
+ 
+Figure 27. Components and Distribution of the Nesting Elemen t 
+ 
+ 
+To reflect the successful completion of a task, the user can tick the boxes located under the checklist 
+column that can be found in each of the nesting elements , as shown in the red highlighted circles in 
+Figure 28. The progress achieved by the country toward each nesting subject can be consulted in the 
+horizontal graph at the bottom of each nesting subject section , highlighted in green circles in Figure 28. 
+ 
+Figure 28. Location of Checkboxes and Subject Progress Bars in Nesting Mode l Tabs  
+T o reflect the successful completion of a task, the user can tick the boxes located under the checklist column that 
+can be found in each of the nesting elements, as shown in the red highlighted circles in Figure 28 . The progress 
+achieved by the country toward each nesting subject can be consulted in the horizontal graph at the bottom of 
+each nesting subject section, highlighted in green circles in Figure 28 .
+Figure 28. Location of Checkboxes and Subject Progress Bars in Nesting Model T abs 
+     
+ 
+ 
+To allow the user to efficiently manage the resources considered necessary for the completion of Step 2, 
+the DST provides a timeline that describes the usual starting points and duration of tasks associated with 
+each subject. This timeline is   informative only in a very general sense; it does not take into account the 
+particularities and national circumstances of any of the users. A graphic description of the timeline is 
+provided in Figure 29.  
+ 
+Figure 29. Example of Timeline for a Nesting Subject  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 98 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers89
+T o allow the user to efficiently manage the resources considered necessary for the completion of Step 2, the DST 
+provides a timeline that describes the usual starting points and duration of tasks associated with each subject. 
+This timeline is  informative only in a very general sense; it does not take into account the particularities and 
+national circumstances of any of the users. A graphic description of the timeline is provided in Figure 29 . 
+Figure 29. Example of Timeline for a Nesting Subject 
+     
+ 
+ 
+To allow the user to efficiently manage the resources considered necessary for the completion of Step 2, 
+the DST provides a timeline that describes the usual starting points and duration of tasks associated with 
+each subject. This timeline is   informative only in a very general sense; it does not take into account the 
+particularities and national circumstances of any of the users. A graphic description of the timeline is 
+provided in Figure 29.  
+ 
+Figure 29. Example of Timeline for a Nesting Subject  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 99 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers90
+
+
+--- PÁGINA 100 ---
+
+www.forestcarbonpartnership.org

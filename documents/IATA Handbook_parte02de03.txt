@@ -1,0 +1,1016 @@
+DOCUMENTO: IATA Handbook
+PARTE 2 de 3
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+ 
+   
+ 
+16 CORSIA  Handbook  Method A 
+Method A is based on the following measurements:  
+1. the fuel quantity in tanks after the completion 
+of the fuel uplift for the flight under consideration;  
+2. the fuel quantity in tanks after the completion of the fuel uplif t for the subsequent flight; and  
+3. the fuel uplift for the subsequent flight.  
+It must be underlined that the fuel quantity in tanks 
+after the completion of the fuel uplift is a different 
+measurement from the f uel in tanks at block -off. 
+However, (only) in ca ses where no uplift takes place 
+for a flight, the amount of fuel contained in the tanks at block -off should be used as an alternative to the 
+fuel contained in the tanks after the uplift is complete.  
+Similarly, in cases where a flight is followed by an 
+activity other than a flight, such as maintenance, the 
+operator may substitute the measurement of fuel in 
+tanks after the uplift for the subsequent  flight with the 
+amount of fuel remaining in tanks at the start of the subsequent activity or fuel in tanks at b lock- on. 
+It is important to note that method A relies on data from the subsequent flight, which may be a domestic 
+flight. Therefore, to prevent data gaps, it is 
+recommended that operators using method A 
+systematically collect all fuel measurements used in 
+method A for all flights (domestic and international) 
+operated by aircraft that  are used in international 
+operations.  
+Finally, if an operator performs one or more flights for 
+another operator on an ad hoc basis, such as a short -
+term  wet lease, then the nec essary data should be 
+acquired from the third party. If this information is not available, the monitoring of fuel consumption shall be 
+done in accordance with the block -off / block -on 
+method.  
+Method B  
+Method B is based on the following measurements:  
+1. the fuel quantity in tanks at block -on at the 
+end of the preceding flight;  
+2. the fuel quantity in tanks at block -on at the 
+end of the flight under consideration; and  3. the fuel uplift for the flight under 
+consideration.  
+Similar to method A, the application of method B relies 
+on data from another flight, which may be a domestic 
+flight. Therefore, to prevent data gaps, it is 
+recommended that operators using method B 
+systematically collect fuel quantity at block -on for all 
+flights (domestic and international) oper ated by 
+aircraft that  are used in international operations.  
+In cases where a flight is preceded by an activity other 
+than a flight, such as maintenance, the operator may 
+substitute the quantity of fuel at block -on at the end 
+of the preceding flight with the amount of fuel 
+remaining in aeroplane tanks at the end of the 
+previous activity.  
+Finally, if an operator performs one or more flights for 
+another operator on an ad hoc basis, such as a short -
+term  wet lease,  then the necessary data should be 
+acquired from  the third party. If this information is not 
+available,  the monitoring of fuel consumption shall be 
+done in accordance with the block -off / block -on 
+method described below.  
+Block -off / block -on 
+Block- off / block -on is based on the following 
+measurements:  
+1. the fuel quantity in tanks at block -off at the 
+start of the flight under consideration; and  
+2. the fuel quantity in tanks at block -on at the 
+end of the flight is under consideration.  
+Commonly, block -off is understood as a point in time 
+between the last door cl osed and the first engine on, 
+and block -on as a point in time between the last 
+engine off and the first door open.  
+In its emissions monitoring plan, the operator need s 
+to define the precise point of time at which the 
+measurements are made. If an operator u ses a 
+definition of block -off or block -on that  is not within 
+the common time windows defined above, such deviation may be approved by the administrating 
+authority if it is in accordance with the operator’s 
+existing practices.  
+
+--- PÁGINA 17 ---
+
+ 
+   
+ 
+17 CORSIA  Handbook  Fuel uplift  
+Fuel uplift is based on:  
+1. the fuel uplift before each flight.  
+Adjustments will be required to allocate fuel 
+consumption between different flights when one or 
+more flights are not preceded by a fuel uplift, for 
+example,  in the case of fuel tankeri ng. In such cases, 
+the allocation must be proportional  to the block hours 
+of the different flights covered by the same uplift.  
+Fuel allocation with b lock hours  
+Fuel allocation with b lock- hours applies the average 
+fuel burn ratio by aeroplane type to the block hours of 
+each flight. For each aeroplane type used by the 
+operator for international flights, i t requires the 
+collection of : 
+1. total fuel uplifts ; and  
+2. total block hours .  
+The aver age fuel burn ratio is calculated by dividing 
+the sum of fuel uplifts by the total block hours. The 
+operator will need to calculate the average fuel burn 
+ratio for each aeroplane type at the end of each reporting year. The average fuel burn ratios will not  be 
+calculated using historical  data and will only be valid 
+for the reporting year in question. For example, to determine the average fuel burn ratios for 2022, an 
+operator will use the fuel uplift and block hours data collected in 2022.  
+If the operator ca n clearly distinguish between fuel 
+uplifts for international flights and fuel uplifts for 
+domestic flights, the average fuel burn ratio shall be 
+calculated based on fuel uplifts and block hours for 
+international flights only.   
+ 
+     
+ 
+18 For jet kerosene: emissions factor = 528.114 (g/mol) / 167.311 (g/mol) = 
+3.1565 (rounded up to 2 decimal places = 3.1 6) Fuel density  
+In instances where fuel measurements are in volume, 
+the operator shall use actual and/or standard density  
+in accordance with the procedures it already has in 
+place for operational and safety purposes. This may 
+include a combination of standard and actual dens ity, 
+for example , where the operator’s procedures require 
+actual density for weight -critical flights  and standard 
+density for other flights. Nevertheless, in all cases 
+where standard density is applied, the value used 
+must be 0.8 kilograms  per liter .  
+Operators are required to detail the procedures used 
+to determine fuel density in the emissions monitoring 
+plan. They should provide references to the relevant documentation, such as operational manuals.  
+Emission factor  
+Once the quantity of fuel used has been identified, the 
+CO 2 emissions are calculated using an emission 
+factor of 3.16 kilograms of CO 2 per kilogram of Jet -
+A/A1. The same emission factor should be applied to fuels equivalent to Jet -A and Jet -A1, such as TS -1 
+and No 3  Jet fuel .  
+The emission factor for Jet -B and AvGas is 3.10 
+kilograms of CO
+2 per kilogram of fuel.  
+The emission factors used under CORSIA are based 
+on the average molecular weight of the fuels and their 
+combustion product, rounded up to 2 decimal 
+places .18   
+
+--- PÁGINA 18 ---
+
+ 
+   
+ 
+18 CORSIA  Handbook  Data management  
+As the monitoring and reporting of emissions rel ies 
+on the collection and handling of large sets of data, a 
+key aspect of MRV is the procedures an operator has 
+in place to manage data.  
+In their emissions monitoring plans, operators must 
+provide information on the roles, responsibilities,  and 
+procedures for data management. They need to describe each step in the management of data, 
+including sources of data, systems used to store and process data, as well as the controls in place to 
+ensure the quality of data processing and integrity of 
+the data itself.  
+Operators also need to assess the risks associated 
+with the management of data and the measures they 
+implement to mitigate those risks. The risks may be 
+associated with potential deficie ncies in the systems 
+used to collect data, but they may also be related to 
+the storage of records.  
+Operators must have in place a plan for record 
+keeping. It is required  that operator s keep relevant 
+records to demonstrate  compliance with the 
+requirements of CORSIA for a period of 10 years.
+19 
+ 
+   
+ 
+  
+ 
+ 
+ 
+19 Annex 16, vol. IV, Part II, 1.4.1.  Material changes 
+An operator is  required to resubmit its emissions 
+monitoring plan if there are any significant changes to 
+the information it contains (“material changes”).20  
+Material changes include changes that would affect 
+the status or eligibility of the aeroplane operator for 
+an o ption under the emissions monitoring 
+requirements or that would otherwise affect the 
+decision by the state to which the aeroplane operator 
+is attributed with regard to whether the aeroplane operator’s approach to monitoring conforms with the 
+requirements o f Annex 16, vol. IV.  
+Changes to the information that affects the 
+administration or identification of an operator (for 
+example , the ICAO Designator), changes that affect 
+the eligibility to use simplified monitoring, changes to methodologies to monitor fuel use or determine fuel 
+density, and changes to data management processes 
+are examples of material changes.  
+In contrast, for example, changes in ownership structure that do not affect the accountable entity or 
+changes to the conta ct information, list of 
+aeroplanes , or state pairs  provided in the emissions 
+monitoring plan are not material and do not require the submission and approval of an amended 
+emissions monitoring plan. Such changes should , 
+however,  be notified to the administr ating authority in 
+the annual Emissions Report.
+20 Annex 16, vol. IV, Part II, 2.2.2.3.  
+
+--- PÁGINA 19 ---
+
+ 
+   
+ 
+19 CORSIA  Handbook  Reporting  
+After each reporting year's end, operators must  
+compile the fuel and emissions data collected in an 
+annual emissions report. Annual reports may also 
+include information on CORSIA -eligible fuels if t hey 
+intend to claim emissions reductions from the use of CORSIA -eligible  fuels.  
+The emissions reports need to be verified by a verification body prior to their submission to the administrating authority.  
+The deadline for the following emissions reports will 
+be 30 April (for example, 30 April 2022 for the 2021 
+emissions report).
+21 
+CO 2 emissions 
+Data requirements 
+Operators must report the consolidated CO2 
+emissions data collected during a given reporting 
+year to their administrating authority in their 
+emissions reports.  
+By default, emissions data need to be reported by state -pair, but a n administrating authority can 
+request that the data be reported to them by aerodrome -pair.
+22 
+Inbound and outbound flights must be treated as distinct pairs (for example, flights that depart from A 
+and land in B are to be reported separately from 
+flights t hat depart in B and land in A).  
+Information that  has to  be included in the emissions 
+report includes operator identification, information on 
+the reporting cycle, reference to the most recently approved emissions monitoring plan, fleet and fuel 
+information, and data gaps.
+23 
+In cases where several operators repo rt jointly, the 
+emissions data relating to each subsidiary has to be 
+provided as appendices to the main emissions report.  
+Data gaps  
+Data gaps occur when an operator is missing data 
+relevant to the determination of the fuel use of a flight 
+in accordance with the approved fuel monitoring 
+method. Gaps in emissions -related data can occur 
+due to various reasons, including irregular operations, 
+data feed issues,  or critical system failures.  
+In cases where the operator can use a secondary data 
+source to determine fuel use in accordance with the approved fuel monitoring method, this would not 
+constitute a data gap. For example, if an operator typically uses  ACARS data and, due to a problem, is 
+missing data for a flight, it may be able to source 
+actual fuel data from fuel invoices or technical logs 
+(the secondary sources).  
+If no primary or secondary data is available and the 
+approved fuel monitoring methodology cannot be 
+applied, then a data gap occurs , and the operator will 
+have to use the CERT to fill the data gap.  
+It should be noted that data gaps may not affect more than 5% of  all international flights in the 2019 -2020 
+period , and more than 5% of international flights 
+subj ect to offsetting requirements in 2021 -2035. The 
+5% thresholds are assessed based on the number of 
+flights, not in relation to fuel use or CO
+2 emissions. If 
+these thresholds are exceeded, the operator is  
+required to take remedial action in consultation wit h 
+its administrating authority.24
+ 
+  
+ 
+21 Annex 16, vol. IV, Appendix 1.  
+22 Annex 16, vol. IV, Part II, 2.3.1.2.  23 Ann ex 16, vol. IV, Appendix 5.   
+24 Annex 16, vol. IV, Part II, 2.5.1.1.  
+
+--- PÁGINA 20 ---
+
+ 
+   
+ 
+20 CORSIA  Handbook  CORSIA eligible fuels  
+Operators are entitled to claim emissions reductions 
+from fuels that  meet defined sustainability criteria and 
+are certified by an approved certification scheme. 
+These “CORSIA eligible fuels”  (CEF) include 
+“sustainable aviation fuels ,” which are renewable or 
+waste -derived fuels, as well as “lower carbon aviation 
+fuels,”  which are fossil -based fuels.25 
+To meet CORSIA’s sustainability criteria, a specific CORSIA eligible fuel needs to achieve net greenhouse gas emission reductions of at least 10% compared to 
+conventional jet fuel on a life cycle basis. 
+Furthermore, a CORSIA -eligible  fuel must not be 
+made from biomass obtained from land with high 
+carbon stock.
+26 Additional sustainability criteria 
+applicable for CORSIA Sustainable Aviation Fuel and 
+CORSIA lower carbon aviation fu el by a certified fuel 
+producer on or after 1 Janua ry 2024 were adopted by 
+the ICAO Council . 27 
+The accounting of CORSIA -eligible  fuels is based on 
+purchasing and blending records, excluding fuels 
+sold to a third party or claimed under other 
+greenhouse gas emissions schemes. CORSIA eligible fuels used on domestic flights may be claimed under 
+CORSIA, provided they are not claimed under any 
+other greenhouse gas emissions schemes.
+28  
+According to purchasing and blending records, 
+claims of emissions reductions by an operator from 
+using CEFs are based on the mass of CEFs.  
+ 
+  
+ 
+ 
+ 
+  
+ 
+25 Annex 16, vol. IV, Part I I, Chapter 1.  
+26 Annex 16, vol. IV, Part II, 2.2.4.  
+27 ICAO Document CORSIA Sustainab ility Criteria for CORSIA Eligible Fuels 
+(November 2022)  CORSIA -eligible  fuels should be reported during the 
+same complianc e period as when the blending 
+occurs. It is recommended that operators make 
+CORSIA -eligible  fuel claims on an annual basis, but 
+operators may decide when to make a claim within a 
+given compliance period .29 For example, if a batch of 
+CORSIA eligible fuel is  blended in 202 4, it is 
+recommended that the batch be included in the 202 4 
+emissions report. Nevertheless, the operator may 
+instead decide to report it with its 202 5 or 2026  
+emissions. However, in all cases, the associated 
+emissions reductions can only be claimed in relation 
+to offsetting requirements for the 202 4-2026  
+compliance cycle.  
+In addition to detailed information on the CORSIA 
+eligible fuels claimed, operators need to provide a list 
+of all other greenhouse gas schemes that they 
+participate in. Only schemes where emission 
+reductions from CORSIA eligible fuels may be claimed 
+need to be included in that list. They also need to 
+include a declaration that they have not ma de claims 
+for the same batches of CORSIA eligible fuel under 
+any other schemes.30 
+The emissions reductions that an operator can claim from CORSIA -eligible  fuels are proportional to the life 
+cycle emissions benefits of the fuels used, compared 
+to a baseline life cycle emissions value of 89 
+gCO
+2e/MJ for jet fuel. Life cycle emissions include 
+emissions from the full supply chain of production 
+and use (“core LCA”) and em issions from induced 
+land -use change (“ILUC”). The emissions reductions 
+will be deducted from the operator’s total offsetting requirements at the end of each 3 -year compliance 
+period.
+31 
+28 Annex 16, vol. IV, Part II, 2.2.4, note 1.  
+29 Annex 16, vol.  IV, Part II, 2.3.3.4  
+30 Annex 16, vol. IV, Part II, 2.3.3.  
+31 Annex 16, vol. IV, Part II, 3. 4. 
+
+--- PÁGINA 21 ---
+
+ 
+   
+ 
+21 CORSIA  Handbook  Publication  of data  
+Requirements  
+Some of  the data reported to states will be disclosed 
+to the public, after aggregation. The information that  
+ICAO will publish  includes:  
+• the annual CO 2 emissions on each state- pair, 
+aggregated for all operators.  
+It will also include, for each operator:  
+• the total annual CO 2 emissions;  
+• the total annual CO 2 emissions for state -pairs 
+subject to offsetting requirements; and  
+• the total annual CO 2 emissions for  state -pairs 
+not subject to offsetting requirements.  
+The information will be made available through the 
+CORSIA Central Registry  (CCR) . 
+Where an operator is concerned that the publication 
+of its data, including after aggregation, could result in 
+the disclo sure of commercially sensitive information, 
+it can submit a written and justified request to its 
+national authority that the related data be treated as 
+confidential and not be disclosed to the public32.  
+Commercially sensitive information  
+Fuel is the most important cost item for commercial 
+operators. Therefore, CO 2 emissions data, which is 
+derived directly from fuel use, provides a very good 
+indication of an operator’s main cost item, even if the 
+price paid for its fuel remains undisclosed.  
+Airline competit ion on some routes is fierce,  with 
+operators competing to keep and gain market share. 
+In such an environment, having the lowest fuel 
+consumption – or even a relatively low level –  is a key 
+advantage to sustain the competition. As a corollary, 
+intelligence on a competitor’s fuel use on a specific 
+route can be used to inform pricing and other 
+commercial strategies, aiming to reduce a 
+competitor's market shares .  
+ 
+ 
+ 
+32 Annex 16, vol. IV, Part II, 2.3.1.6 and 2.3.1.6.  Therefore, annual CO 2 emissions of an operator on a 
+state -pair are considered commercially sensitive if 
+they are determined based on actual fuel use.  
+This is why Annex 16, Volume IV only foresees the 
+disclosure of aggregated data. However, it also 
+identifies several  situations  where aggregated data 
+may enable the determination of commercially 
+sensitive state- pair information.  
+• An operator operates very few international 
+state -pairs (for example , Operator A in the 
+table below)  
+• An operator operates very few state- pairs 
+subject to  offsetting requirements or very 
+few state -pairs not subject to offsetting 
+requirements (for example,  Operator B in the 
+table below)  
+• An operator operates a state- pair that no or 
+very few other operators fly (for example , 
+Operator C in the table below) .33 
+It is important to note that commercially sensitive 
+data will not automatically be treated as confidential. 
+The operators concerned will need to submit a written 
+and justified request to their national authority that 
+the related data be treated as confidential and not be 
+disclosed to the public. If the national authority 
+approves the operator’s request, it should ensure that 
+the data is identified as confidential when it reports 
+the data to ICAO to prevent its publication by ICAO. 
+When evaluating whether the level of aggregation 
+would be sufficient to prevent the disclosure of 
+commercially sensitive data, potential corporate 
+relationships between operators should be 
+considered . 
+ 
+ 
+ 
+ 
+  
+ 
+33 Annex 16, vol. IV, Part II, 2.3.1.6 and  2.3.1.7.  
+
+--- PÁGINA 22 ---
+
+ 
+22 An Airline Handbook on CORSIA   
+Operator  State -pairs 
+operated  Data published  
+Total CO 2 CO 2 for all flights 
+subject to 
+offsetting 
+requirements  CO 2 for all flights 
+not subject to 
+offsetting 
+requirements  
+A A <-> B A <-> B A <-> B n/a 
+B A <-> B 
+A <-> C 
+A <-> D 
+A <-> E A <-> B 
+A <-> C 
+A <-> D 
+A <-> E A <-> B 
+A <-> C 
+A <-> D 
+ A <->E 
+C A <-> B 
+A <-> C 
+A <-> D 
+A <-> E 
+A <-> F A <-> B 
+A <-> C 
+A <-> D 
+A <-> E 
+A <-> F A <-> B 
+A <-> C 
+A <-> D 
+ A <-> E 
+A <-> F 
+In this example, all  three  operators are administered by State A. There are no other operators 
+administered by State A.  
+All state -pairs are subject to offsetting requirements, except A< - >E and A <- > F.  
+Operator C is the only operator flying between State A and State F.  
+  
+
+--- PÁGINA 23 ---
+
+ 
+   
+ 
+23 CORSIA  Handbook  Verification 
+An external and independent body must verify annual 
+emissions reports before being submitted to the 
+administrating  authority. This also applies to 
+emissions reports of operators who  are eligible to use 
+the CERT for simplified monitoring.34 
+Verification requirements also apply to the reports that operators need to submit on the emissions units 
+canceled  to meet offsetti ng requirements. The 
+verification of the emissions units cancellation report 
+(EUCR)  is covered separately in the next chapter.  
+Internal pre- verification  
+While it is not a mandatory requirement, it is 
+recommende d that operators prepare for the third -
+party v erification process by selecting an internal 
+auditor to review the draft emissions report to check the data, processes,  and resulting output. This will 
+allow the operator to identify potential irregularities 
+and take corrective actions before  third -party 
+involvement.  
+The internal auditor will, for example, check if the 
+responsibilities assigned to various staff have been 
+completed, how data compares to previous years, whether it is complete,  and if measurements have 
+been taken in accordance with the agreed procedures.  
+ 
+Before engaging a verification body, the operator is 
+recommended to confirm the verification body’s 
+accreditation status , which can be found in ICAO’s 
+document titled  “CORSIA Central Registry (CCR): 
+Information and Data for Transparency .” 
+Furthermore, the type  of engagement between the 
+operator and the verification body shall be 
+verification. The “agreed -upon procedure” 
+engagement type is not applicable to CORSIA .
+35 
+ 
+ 
+34 Annex 16, vol. IV, Part II, 2.4.  35 Annex 16, vol. IV, Appendix 6, 3.1.  
+
+--- PÁGINA 24 ---
+
+ 
+    
+24 CORSIA  Handbook  Third -party verification  
+Scope  
+The verification of the emissions report shall cover an 
+operator’s CO 2 emissions from international flights 
+and any CORSIA -eligible fuel claims during the 
+reporting period in question.36  
+The CO 2 emissions within the scope of the verification 
+all fall within the scope of CORSIA’s monitoring and 
+reporting requirements, irrespective of whether they are subject to offsetting requirements.  
+This implies that while the verifier need s to ensure 
+that all international flights subject to monitoring requirements have been included, the emissions from 
+domestic flights, state flights, humanitarian flights, firefighting flights, or flights with aeroplanes with an 
+MTOM below 5,700 kg are not to be verified.  
+Objective  
+The verification body must check if the emissions 
+reported are accurate and supported by sufficient 
+evidence.  
+One of the main tasks of the verification body is to 
+ensure that the monitoring  of CO 2 emissions has 
+been undertaken in accordance with the emissions 
+monitoring plan. The verification body will, for example, check if the fuel use was calculated in line 
+with the selected methodology, if fuel density was determined in accordance with the procedures 
+detailed in the emissions monitoring plan, etc.  
+The verification body must  also check that the stated 
+amount of CORSIA -eligible  fuels is accurate and that 
+the claimed batches have not been claimed under any 
+other voluntary or mandatory schemes in which the 
+operator has participated .  
+If the report's accuracy is satisfactory, the verification body issues a written declaration confi rming that the 
+CO
+2 emissions statement  is within the defined level of 
+assurance and materiality. In cases where the verification body may find misstatements and other 
+ 
+36 Annex 16, vol. IV, Appendix 6, 3. 4.  
+37 Annex 16, vol. IV, Appendix 6, 33.  irregularities in the emissions report, the operator need s to take corrective actions.  
+In accordance with Annex 16, volume IV, the 
+objectives of the verification of an emissions report 
+are37: 
+• The emissions statement  is materially fair and an 
+accurate representation of emissions and is supported by sufficient and appropriate evidence;  
+• Emission s have been monitored, quantified , and 
+reported over the period of the emissions report 
+in accordance with the applicable standards and 
+the approved emissions monitoring plan;  
+• The correct method of flight attribution has been applied ; 
+• The stated amount of emissions reductions from 
+the use of CORSIA -eligible  fuels is materially fair 
+and an accurate representation of emissions reductions over the reporting period and is supported by sufficient and appropriate internal 
+and external evidence;  
+• The claimed batches of CORSIA -eligible  fuels 
+have not been claimed under any other schemes it has participated in;  
+• Emissions reductions associated with the use of CORSIA -eligible fuels have been monitored, 
+quantified,  and reported over the period of the 
+emissions report in accordance with the applicable standards .
+38 
+38 Annex 16, vol. IV, Appendix 6, 3.2.  
+
+--- PÁGINA 25 ---
+
+ 
+   
+ 
+25 CORSIA  Handbook  Requirements  
+Level of assurance 
+The objective of the verification process is to allow 
+the verifier to i ssue a verification opinion  on whether 
+the emissions report is without material discrepancy.  
+An absolute level of assurance is neither attainable 
+nor required for CORSIA. For CORSIA, a “reasonable 
+level of assurance”39 is required, which means the 
+verifier must be able to conclude that the emissions 
+report is materially correct and a fair representation 
+of the operator’s emissions and information and that 
+the emissions report is prepared in accordance with 
+the applicable regulatory requirements.40  
+The level of assurance required influences  the 
+approach taken by the verifier. For example, to attain 
+a reasonable level of assurance, the verifier need s to 
+test the CO 2 data and information in the report. It isn’t  
+sufficient for the verifier to simply conclude that there is no evidence of material errors or inconsistencies 
+with regulatory requirements.  
+Materiality  
+The concept of materiality is used to identify 
+information that, if omitted or misstated, would 
+significantly misrepresent the operator’s emissions 
+assertion.  
+A margin of uncertainty in the emissions report is 
+tolerated (“materiality threshold”), but it may not 
+exceed 2% of total emissions for operators with 
+annual CO 2 emissions greater than 500,000 tonnes 
+from international flights . The materiality threshold for 
+operators with annual CO 2 emissions from 
+international flights equal to or less than 500,000 
+tonnes is 5% .41  
+The materiality threshold is assessed based on the 
+discrepancy between (total) emissions declared by the operator and the verification body’s estimation of 
+the total amount of emissions. Overstatements and 
+understatements in the operator’s emissions report 
+are allowed to balance out.  
+ 
+39 Annex 16, vol. IV, Appendix 6, 3. and ISO 14064- 3:2019 section 5. 1.3 
+40 Annex 16, vol. IV, Appendix 6, 3. 2. 
+41 Annex 16, vol. IV, Appendix 6, 3. 5. However, m ateriality is not only assessed 
+quantitatively , but also on a qualitative basis. Non -
+conformities or misstatements that may not lead to 
+the materiality threshold being exceeded could 
+influence the verification body’s conclusions. This 
+may be the case of sy stematic underestimations of 
+emissions or an operator not applying the procedures 
+approved in its emissions monitoring plan.   
+Verification process  
+Verification plan  
+The verification  body shall prepare a verification plan 
+describing the responsibilities and activities for each 
+variable that may potentially impact  the reported 
+emissi ons.42 
+The verification plan shall be elaborated based on a 
+strategic analysis of the scope and complexi ty of the 
+operator’s activities. The scope43 and complexity 
+depend on variables such as the type and size of 
+operations, whether the operators have parent 
+companies, whether the administrating authority has 
+imposed specific conditions, etc.  
+On the basis of  the strategic analysis, the verification 
+body identif ies and quanti fies risks  inherent to the 
+activity (for example, errors in the data collection 
+process) and risk s that control activities (such as data 
+validation processes) would not detect errors and discrepancies. The verification body must also assess the risk that discrepancies may not be 
+detected in the verification process.  The risk analysis 
+is informed not o nly by the complexity of the 
+operator’s activities but also by the maturity and 
+robustness of the control and data flow activities the operator implements.  
+42 Annex 16, vol. IV, Appendix 6, 3. 8. 
+43 Annex 16, vol. IV, Appendix 6, 3.4.  
+
+--- PÁGINA 26 ---
+
+ 
+   
+ 
+26 CORSIA  Handbook  Verification activities  
+During the verification process , the verificat ion body 
+review s the operator’s information systems and 
+controls to ensure that the control activities that  were 
+identified in the emissions monitoring plan are 
+effectively implemented. This includes the 
+procedures to track changes in the fleet and ensure 
+the completeness of all flights, the procedures to 
+determine which flights are exempt from monitoring 
+or offsetting requirements, and the p rocesses to 
+validate data and identify erroneous values. If data 
+flow activities are outsourced, the verification bod y 
+will assess if controls are in place to ensure the quality 
+of the outsourced activities.  
+The verification activities naturally also include an 
+assessment of the emissions data. The assessment 
+should include evidence -gathering to compare the 
+data used to prepare the report with primary and 
+secondary data sources, such as flight plans, flight 
+logs,  and fuel invoices.44 Data sources also include 
+external reference data such as ATC data and invoices, fleet databases,  or timetables.  
+The verif ication body should , however,  not only rely 
+on sampling but also  apply analytical procedures to 
+check full datasets. Such checks can be based on 
+indicators such as the average fuel burn of flights or 
+maximum tank capacity  to identify data that  may be 
+erron eous.  
+The verification body also need s to ensure that the 
+operator has complied with the requirements of Annex 16, volume IV (as implemented in the 
+operator’s state) and the approved emissions 
+monitoring plan. The verification body must , among 
+other s, check that the fuel use monitoring methods 
+have been implemented correctly  and, for example, 
+that the appropriate measurement  points have been 
+used.
+45 
+If the operator includes a claim for CORSIA eligible fuels, the verification body need s to confirm that the 
+sustainability documentation is reliable and from an approved Sustainability Certification Scheme. The 
+verification process should also ensure that the 
+reported batch volumes, mass, and life cycle 
+emissions align with the supporting do cumentation 
+and that the CORSIA -eligible fuels have not been sold 
+to a third party or claimed under another scheme. The 
+ 
+44 Annex 16, vol. IV, Appendix 6, 3. 9. 
+45 Annex 16, vol. IV, Appendix 6, 3. 6. purchase agreements, delivery documentation, sustainability certificate, and  declarations made by 
+the operator in other schemes allow to  cross -check 
+the information.
+46  
+During its activities, the verification team  should 
+conduct  site visits to interview staff and check the 
+practical application of the procedures , if the risk 
+assessment and evidence- gathering plan requires 
+such a visit to reduce the verification risk.    
+Verification report  
+The verification team shall submit a copy of the verification report to the operator  and,  upo n their 
+authorization, forward a copy of the report , together 
+with the emissions report, the emissions unit can cellation report, or both, to the administrating 
+authority of the respective state. The verification 
+team shall choose between two verification opinion 
+statements: “verified as satisfactory” or “verified as 
+unsatisfactory .” If the  verification body finds any 
+misstatements (erroneous or missing data) or non-
+conformities ( incorrect application of requirements), 
+it will contact the operator to identify potential 
+corrective actions.  The information the operator 
+provides  to correct  misstatements and non -
+conformi ties should be verifiable.  If no corrective 
+action can be taken, the misstatements and non -
+conformities are included in the verification report 
+and considered  in the materiality assessment.  
+If the verification body is satisfied that the emissions report contains no misstatements or non -
+conformities , the emissions report is  “verified as 
+satisfactory .”  
+If the emissions report contains misstatements or 
+non -conformities, the verification body may still 
+conclude that the report is satisfactory if the 
+misstatements or non -conformities are not material. 
+In such a case, the verification opinion  is that the 
+emissions report is “verified as satisfactory with 
+comments.” 
+If the emissions report contains material 
+misstatements or non- conformities, it is  “verifi ed as 
+non -satisfactory .” 
+46 Annex 16, vol. IV, Appendix 6, 3.4.2.  
+
+--- PÁGINA 27 ---
+
+ 
+    
+27 CORSIA  Handbook  Verification body  
+A key principle of the verification process is that it 
+should be undertaken by a body that is independent 
+of the activity being verified  and free from bias and 
+conflict of interest.  
+To minimize impartiality , if the leader of the 
+verification team undertakes six annual verifications 
+for CORSIA or any other greenhouse gas verification 
+for one operator, then the leader of the verification team shall take a break of three consecutive year s 
+from providing verification services to that same 
+operator.
+47 
+Furthermore, operators can only engage verification 
+bodies accredited by a National Accreditation Body (NAB) to ISO 14065:2020 and additional CORSIA -
+specific requirements. An operator may enga ge a 
+verification body accredited by a national 
+accreditation body from another state.
+48 
+In addition to the ISO standards, the verification body has to satisfy several  personnel and team 
+competency requirements. The verification team 
+must , for example, dem onstrate knowledge of 
+general technical processes in the field of civil aviation, aviation fuels , and related processes, fuel 
+use monitoring and measurement devices and 
+procedures, data management systems and controls, etc.  
+Engaging a verifier  
+The operator  should exercise due diligence to ensure  
+the verification body is accredited for CORSIA49 and 
+has the required personnel competency and expertise.  
+When the operator engages a verifier, it should 
+ensure that the contractual basis specifies the 
+conditions f or the verification.  
+ 
+ 
+ 
+ 
+47 Annex 16, vol. IV, Appendix 6, 2.2.   
+48 Annex 16, vol. IV, Part II, 2.4.2.  Annex 16, volume IV, provides that the following should be 
+specified in the contract: 
+• Scope of verification, verification objectives, level 
+of assurance, materiality threshold , and relevant 
+verification standards  – ISO/IEC 17 029, ISO 
+14065; ISO 14064 -3; Annex 16, vol. IV; the 
+Environment Technical Manual  (Doc 9501) , vol. IV  
+– Procedures for demonstrating compliance with 
+the Carbon Offsetting and Reduction Scheme for 
+International Aviation (CORSIA) ; 
+• Flexibility to change time allocation if this proves 
+necessary because of findings during the 
+verification;  
+• Requirement of the aeroplane operator to accept 
+the audit as a potential witness audit by national 
+accreditation body’s assessors, potentially accom panied  by peer review assessors or other 
+observers; 
+• Requirement of the aeroplane operator to authorize the release of the emissions report, the 
+emission unit cancellation report, where 
+applicable, and the verification report by the verification body to the  state;  
+• Requirements of the verification body to communicate any suspected intentional misstatement or noncompliance by the operator 
+to the State as soon as practicable (ISO 14064 -
+3:2019 section 5.4.3) ; and  
+• Liability coverage.
+50 
+To perform verification ac tivities, the operator need s 
+to provide access to all relevant documents and data 
+sources to the verification body. The operator and the 
+verification body should identify the data sources and 
+access needs before the verification exercise. Given 
+the confidential nature of the information the 
+verification body has access to, the operator and the 
+verification body should include appropriate confidentiality clauses in their contract.  
+In addition, the operator and the verifier may wish to 
+include clauses on fees, dispute settlement, and force 
+majeure situations.   
+49 The latest list of verification bodies accredited in States can be found in 
+ICAO CORSIA Central Registry (CCR)  
+50 Annex 16, vol. IV, Appendix 6, 2. 9.  
+
+--- PÁGINA 28 ---
+
+ 
+   
+ 
+28 CORSIA  Handbook  State review  
+The administrating authority perform s an order of 
+magnitude check of the verified emissions reports 
+submitted by operators.51 
+The administrating authority does not need to review 
+the emissions reports in detail but should perform 
+checks to ensure that the information in the report is 
+plausible and complete.  
+The administrating authority should, for example, 
+check if the information on the operator and its fleet 
+is accurate. It should ma ke sure that the proper 
+template has been used for the emissions report, that 
+the emissions report was verified and by a verification 
+body accredited for CORSIA, that the approved fuel 
+monitoring method was used , that the reported CO 2 
+emissions and number of flights are roughly plausible , 
+etc.  
+The administrating authority may , for example,  
+estimate the typical fuel consumption for a flight using the CERT and compare it with the data reported 
+by the operator. The order of magnitude review will 
+also ensure that the data has been aggregated at the 
+right level and that state pairs  have appropriately  
+been classified as subject or not subject to offsetting 
+requirements. The administrating authority will also 
+consider whether any data gaps existed during the 
+report ing year and whether potential comments from 
+the verification body have been considered . 
+  
+ 
+51 Annex 16, vol. IV, 2.4.1. 6. 
+
+--- PÁGINA 29 ---
+
+ 
+   
+ 
+29 CORSIA  Handbook  Offsetting  
+Phased implementation  
+In order to address the concerns of developing states 
+and to take into ac count the special circumstances 
+and respective capabilities of states, CORSIA will be 
+implemented in phases.  
+The phased implementation, however, only relates to 
+offsetting requirements. All operators that  emit more 
+than 10,000 tCO 2 per year on international flights 
+have to monitor and report emissions for all 
+international flights since 1 January 2019, including 
+flights to and from exempted states.52 
+Pilot phase  (2021-2023) 
+and first phase  (2024-
+2026)  
+From 2021 until 2026, offsetting requirements will 
+only apply to international flight s between states that 
+volunteer to participate in the pilot and/or the first 
+phases (states A, E, and D in this ex ample).53  
+Any operator flying between volunteering states ( ⬌ 
+blue lines) will be subject to offsetting requirements, even if the operator is based in a state that  has not 
+volunteered.  All other international flights to and from 
+states that have not volunteered ( B, F, and C) will be 
+exempt from offsetting requirements (
+⬌ grey lines) .  
+ 
+52 Annex 16, volume IV, Part II, 2.1.1.  
+53 Annex 16, volume IV, Part II, 3.1.3.  
+54 Annex 16, volume IV, Part II, 3.1.3. T he Second phase applies to all flights 
+between States that have an individual share of international aviation 
+activities in RTKs in 2018 above 0.5 percent  of total RTKs or whose However, the CO 2 emissions from all international 
+flights, including flights exempt from offsetting requirements, will have to be monitored, reported , 
+and verified  annua lly.
+ 
+Second phase  (2027-
+2035)  
+From 2027, offsetting requirements will apply to all 
+international flights (including those that did not 
+volunteer to be part of the first phases: B  and F), 
+except  flights to or from states that meet one of the 
+two following criteria ( C): 
+• Least Developed Countries, Small I sland 
+Developing States, and Landlocked 
+Developing Countries; or 
+• States that represent a small share of 
+international aviation activities (in RTKs ): 
+these include t he States that account for less 
+than 0.5% of total RTKs from international aviation in 2018.
+54 
+Voluntary participation  
+Exempted states can decide to join the scheme at the beginning of any year. The only requirement is to  
+communicate their decision to ICAO according to the 
+timeline detailed in  Annex 16, volume IV, Appendix 1 .  
+States who decide to participate in CORSIA on a voluntary basis may discontinue their voluntary 
+participation in the scheme from 1 January of any 
+cumulative share in the list of States from the highest to the lowest amount 
+of RTKs reaches 90 percent  of total RTKs, except LDCs, SIDS and LL DCs 
+unless they volunteer to participate in this phase. The RTK taken into 
+account will be the aggregated RTK from international flights by all 
+operators registered in the State in question.  
+
+
+--- PÁGINA 30 ---
+
+ 
+    
+30 CORSIA  Handbook  given year, provided they inform ICAO no later than 30 
+June of the preceding year.  
+Calculation of offsetting 
+requirements  
+Principles  
+The calculation of offsetting requirements will evolve 
+from a “sectoral” approach to a combination of a 
+“sectoral” componen t and an “individual” component.  
+The sectoral component is based on the total CO 2 
+emissions of each operator. Each operator will have to offset a given percentage of its CO
+2 emissions 
+from flights subject to offsetting requirements. This 
+percentage, the sector’s “growth factor,” will be 
+identical for all operators and determined based on the aggregated emissions from all operators. It will be calculated by dividing the total increase in CO
+2 
+emissions over a baseline  for the given year,  by the 
+total CO 2 emissions on state- pairs subject to 
+offsetting requirements in the given year.  
+In contrast, the individual component is based solely 
+on the increase in CO 2 emissions of each operator.  
+All CO 2 emissions from flights exempt from CORSIA 
+or not subject to offse tting requirements, as a result 
+of the phased implementation or technical 
+exemptions, are excluded from the calculation of offsetting requirements.  
+The weighting between the sectoral and individual components will evolve over time as follows  
+(according to A41 -22): 
+ PILOT 
+PHASE  FIRST 
+PHASE  SECOND PHASE  
+ 2021 -
+2023  2024 -
+2026  2027 -
+2029  2030 -
+2032  2033 -
+2035  
+SECTORAL  100%  100%  100%  100%  85%  
+INDIVIDUAL  0% 0% 0% 0% 15%  
+  
+ 
+55 Annex 16, vol. IV, Part II, 3.2.  Calculation of an operator’s 
+sectoral component  
+The sectoral component is obtained by multiplying 
+the operator’s total CO 2 emissions covered by 
+CORSIA  (Chapter 3 emissions)  with  the “sector’s 
+growth factor”  (SGF), both  for the year of 
+consideration .  
+The sector’s growth factor is obtained by dividing the aggregated increase in total CO
+2 emissions above the 
+baseline from all operators  for the given year  by the 
+total CO 2 emissions from international civil aviation in 
+the given year. Only the emissions from state- pairs 
+subject to offsetting requirements are considered in 
+determining the sector’s growth factor.55 
+For example, if the total CO 2 emitted (by all operators) 
+on state -pairs subject to offsetting requirements  
+(Chapter 3 emissions)  in 2030 is 750 million tonnes of 
+CO 2 and the baseline for 2030 (85% of 2019 
+emissions on the same state -pairs as those 
+applicable in 2030)  are 500 million tonnes of CO 2, the 
+sector’s growth factor in 2030 would be:  
+(750– 500) ÷ 750 = 33.3%  
+If an individual operator emits 150,000 tonnes of CO 2 
+in 2030, the sectoral component  of its offsetting 
+requirements would , therefore, be: 
+150,000 × 33.3% = 50,000 tonnes of CO 2 

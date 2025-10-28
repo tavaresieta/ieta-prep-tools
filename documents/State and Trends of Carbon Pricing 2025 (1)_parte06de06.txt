@@ -1,0 +1,789 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 6 de 6
+Páginas 76 a 87
+======================================================================
+
+
+--- PÁGINA 76 ---
+
+State and Trends of Carbon Pricing 202576
+Term category Term Definitions
+Coverage threshold Some initiatives set a threshold above which entities must, or can, join a compliance carbon pricing instruments. There are many 
+different ways of expressing these thresholds—many use an emissions threshold (e.g., installations with emissions above 25,000 
+tCO2e).
+Point of regulation Point source The point source is where the GHGs are physically released into the atmosphere (e.g., at the installation combusting fuel). 
+Regulation at the point source is where the compliance obligation is imposed on the entities that release the covered emissions into 
+the atmosphere.
+Upstream The compliance obligation is imposed at a point in the supply chain before the point source of emissions entering the atmosphere. 
+For example, in relation to emissions from fuel combustion, upstream coverage could be at the point at which the fuel is first 
+commercialized by extractors, refiners, or importers, or at point of sale to the final consumer.
+Downstream Obligations apply at a point in the supply chain after the point source of emissions. This could include entities being liable for the 
+emissions associated with the electricity they use. These entities are downstream from the point source of emissions (which would 
+occur at a power station). 
+Credit project 
+categories 
+under crediting 
+mechanismsAgriculture Reducing emissions from any activities in the agricultural sector.
+Carbon Capture and 
+Storage/Carbon 
+Capture and UtilizationRemovals achieved through carbon capture and storage or carbon capture and utilization.
+Energy efficiency/fuel 
+switchingAvoiding emissions from the participant’s energy use through either reducing the amount of energy the participant consumes or 
+switching to a less emissions-intensive energy source.
+Forestry and land use Increasing the volume of emissions removed from the atmosphere or avoiding emissions being released through changes to 
+terrestrial sinks.
+Fugitive emissions Avoiding the release (intentional or unintentional) of GHGs during the extraction, processing, transformation, and delivery of fossil 
+fuels to the point of final use.
+Chemical process/ 
+industrial 
+manufacturingAvoiding emissions produced by industrial facilities including manufacturing, metal production, fertilizer production. Includes 
+emissions from fuel used for energy in these facilities as well as emissions from industrial processes.
+Renewable energy Emissions avoided by integrating renewable energy into the energy supply in the place of fossil fuel power.
+Transport Reduction of emissions resulting from fuels burned for energy in the service of moving people or goods (e.g., road, rail), including for 
+aviation.
+
+--- PÁGINA 77 ---
+
+State and Trends of Carbon Pricing 202577
+Term category Term Definitions
+Issuance type Original issuance Issuances of credits that reflect the first time a credit has been issued for a specific emission reduction/removal activity. Original 
+issuances do not rely on any previous issuances from other crediting mechanisms.
+Non-original issuance Issuances of credits that are connected to previous issuances from another crediting mechanism. Non-original issuances can either 
+be issued via “direct” or “adjusted” conversions. Direct conversions are issuances that are converted 1-1 from another crediting 
+mechanism. Adjusted conversions are issuances that are converted from another crediting mechanism but in accordance with own 
+standards (issuances volumes might be changed).
+Overlap Overlap can occur as a record of eligible credits as a result of the conversion of a credit from one program to another—meaning the 
+original credit representing the specific emission reduction has been cancelled or retired in the original mechanism’s registry in 
+order for the subsequent credit to be issued.
+Country income 
+groupThe World Bank classifies economies for analytical purposes into four income groups: low, lower-middle, upper-middle, and high 
+income. For this purpose it uses gross national income per capita data in USD, converted from local currency using the World Bank 
+Atlas method, which is applied to smooth exchange rate fluctuations. More information on country classification can be found on 
+the Knowledge Base, available on the World Bank website: https:/ /datahelpdesk.worldbank.org/knowledgebase/articles/906519.
+
+--- PÁGINA 78 ---
+
+State and Trends of Carbon Pricing 202578
+ANNEX D
+Methodologies and Sources
+1. Sources and timelines: The State and Trends of Carbon Pricing 2025 report 
+draws on a range of sources, including official reporting (i.e., government 
+budget documents), related legislation that underpins the carbon pricing 
+initiative, statements from governments and public authorities, and 
+information provided by jurisdictions. Data and updates in the report 
+represent the situation as of April 1, 2025, unless stated otherwise.
+2. Emissions: For countries, (GHG) emissions data for the most recent year 
+(2023), as well as GHG emissions data from previous years, is sourced 
+from the EDGAR (Emissions Database for Global Atmospheric Research) 
+Community GHG Database (2024),113 where available, to promote consistency 
+across jurisdictions. The EDGAR dataset aggregates emissions data for 
+certain countries, including France and Monaco; Serbia and Montenegro; 
+Spain and Andorra; and Switzerland and Liechtenstein. In these cases, 
+the GHG emissions estimate for each country was determined based on 
+the relative emissions of each country in the most recent GHG emissions 
+inventory reported to the United Nations Framework Convention on Climate 
+Change or also with respective emissions of the PRIMAP-hist national 
+historical emissions time series (v2.6.1).114 For subnational jurisdictions, GHG 
+emissions data is based on the following:
+ ⸰GHG emissions values for Canadian provinces and territories are taken 
+from Canada’s latest national inventory.115 
+ ⸰GHG emissions values for US states are based on official subnational GHG 
+inventory reports of each of the respective states, available from the 
+US Environmental Protection Agency Greenhouse Gas Inventory Data 
+Explorer.116  ⸰GHG emissions values for Mexican states are based on official state GHG 
+inventory data, where available. To ensure a complete time series, known 
+annual emission values from official state-level GHG inventories are 
+extrapolated based on the correlation of each state’s GHG emissions with 
+national GHG emissions data (as sourced through EDGAR). In the absence 
+of specific GHG emissions inventory data for Zacatecas, state emissions 
+were estimated based on the relationship between Zacatecas' and the 
+national GDP across all years. 
+ ⸰GHG emissions values for China subnational jurisdictions are based on 
+the Carbon Emissions Accounts and Datasets (https:/ /www.ceads.net/
+data/province/). This data was supplemented with additional information 
+provided by ICAP.
+Values are presented in gigatons of carbon dioxide equivalent emissions 
+aggregated using Global Warming Potential values from Intergovernmental 
+Panel on Climate Change (IPCC) AR5 (GWP-100 AR5). Consistent with decision 
+6/CP.27, parties transitioned to the AR5 GWP values in their national inventory 
+reports by December 31, 2024.
+3. Coverage: The proportion of global GHG emissions covered by a direct 
+carbon price is calculated based on direct carbon pricing instruments that 
+are “implemented.” The estimate of emissions coverage for each carbon 
+pricing instrument is based wherever possible on official government sources 
+and considers the scope (sectors, fuels, and/or gases) of policies but does 
+not necessarily factor in all exemptions and/or free allocations. A bottom-
+up approach is used to calculate emissions coverage by economic sector 
+based on data provided by governments on the point of coverage (upstream 
+or point source), overlaps with other policies, and coverage thresholds (the 
+
+--- PÁGINA 79 ---
+
+State and Trends of Carbon Pricing 202579
+level of emissions/fuel use/power generation above which the carbon price 
+applies). Each jurisdiction’s total GHG emissions from national greenhouse 
+gas inventory sectors IPCC (2006 Guidelines117) is mapped to a set of 24 
+detailed economic sectors (Table 2), while also removing GHG emissions that 
+are specifically excluded from or not covered by the carbon pricing policy and 
+adjusting for coverage thresholds. The bottom-up estimates are reconciled 
+with the economy-wide coverage data provided by governments and 
+overlap between instruments (where applicable) is removed to avoid double 
+counting. The results reflect the expansion of the Chinese National ETS to 
+cover cement, steel, and aluminum and the removal of the Canadian Federal 
+Fuel Charge and subsequent removals of carbon prices at the province or 
+territory level.
+4. Price: Carbon prices from carbon taxes and ETSs are nominal prices and are 
+generally based on the exchange-traded or auction prices on April 1, 2025, 
+or the most recent available. Additional price information is further clarified 
+here:
+ ⸰As of the time of writing, no information on the value of allowances in the 
+Mexico ETS is available. 
+ ⸰Massachusetts ETS price data is equal to the auction clearing price for 
+2023 units from the auction held on March 19, 2025.
+ ⸰California and Québec cap-and-trade price data is based on the clearing 
+price of the most recent auction, held on February 26, 2025. 
+ ⸰Regional Greenhouse Gas Initiative price data is the weighted average 
+of the allowance transfer transaction prices on April 1, 2025. Prices are 
+converted from USD per short ton carbon dioxide equivalent (CO2e) to USD 
+per metric ton CO2e.
+ ⸰UK ETS price data is the UK Allowance Daily Futures Price on April 1, 2025.
+ ⸰New Zealand ETS price is the spot price on April 2, 2025.
+ ⸰Beijing Pilot ETS price is the average transaction price on March 27, 2025.Carbon prices are converted from nominal to real (2025 USD) by adjusting the 
+observed value to the base year (2025) by way of a two-step process: (1) local 
+currencies are converted into USD using the market exchange rate as of April 
+1 in the observed year (using the International Monetary Fund (IMF) exchange 
+rates); (2) the USD historical values are then adjusted to a base year of 2025 
+using the average consumer price index for the United States from the IMF 
+World Economic Outlook Database.118
+5. Average carbon prices: Covered emissions-weighted average carbon prices 
+are determined by multiplying each instrument’s carbon price in real terms 
+(based on average market prices or price levels submitted to the World Bank) 
+in each year by the volume of emissions covered in the jurisdiction by that 
+instrument, divided by the total emissions covered by the carbon pricing 
+instrument in a given year. Global emissions-weighted average carbon prices 
+are calculated through a similar process as covered emissions weighted 
+average (i.e., the carbon price is multiplied by the volume of covered 
+emissions). However, for the global emissions-weighted average, the result is 
+divided by global GHG emissions in that year (rather than covered emissions 
+in that year). Global GHG emissions are based on data from EDGAR's GHG 
+2024 dataset. For 2025, global GHG emissions are based on 2024 levels. For 
+carbon taxes with multiple tax rates applied to different fuels or emissions 
+sources, a weighted average carbon price is estimated based on the 
+proportion of each fuel’s contribution to the jurisdiction’s GHG emissions. 
+The share of consumption by fuel and use category (e.g., power, industry, 
+transport, residential, or services) was calculated using country-level data 
+from the International Energy Agency (IEA) Fuel Combustion database. 
+Carbon tax rates for each fuel under each carbon tax were determined by 
+converting fuel tax rates provided by each government in fuel quantities 
+(e.g., volume or weight) into prices per tCO2e. Norway and Poland include 
+multiple rates but apply a single rate to the majority of emissions. For these 
+carbon taxes the most common carbon tax rate is used. Both metrics for 
+emissions-weighted average carbon prices are shown in real terms (2025 USD ). 
+
+--- PÁGINA 80 ---
+
+State and Trends of Carbon Pricing 202580
+TABLE 2
+Mapping of economic sectors and IPCC 2006 Guidelines for National Greenhouse Gas Inventories emissions codes
+Detailed list of economic subsectors IPCC 2006 Inventory code(s) Aggregated list of economic sectors
+1. Electricity and heat combustion 1.A.1.a Power 
+2. Manufacturing combustion 1.A.2 apportioned between 2. manufacturing combustion, 3. metal production 
+combustion, 4. mining combustion and 6. construction combustion using IEA 
+Energy End-Uses and Efficiencies databaseIndustry
+3. Metal production combustion Industry
+4. Mining (excluding fuels) combustion Mining and extractives 
+5. Fuel extraction and production combustion 1.A.1.b, 1.A.1.c, 5B Mining and extractives 
+6. Construction combustion see entry for 2. manufacturing combustion Industry
+7. Domestic aviation combustion 1.A.3.a Aviation 
+8. Road transport combustion 1.A.3.b noRES Transport
+9. Domestic shipping combustion 1.A.3.d Maritime
+10. Pipeline combustion 1.A.3.e Transport
+11. Rail combustion 1.A.3.c Transport
+12. Residential combustion
+1.A.4 apportioned using IEA Energy End-Uses and Efficiencies database Buildings
+13. Services combustion Buildings
+14. Agriculture, forestry and fishing combustion Agriculture, forestry, and fishing fuel use 
+15. Other combustion 1.A.5 Transport
+16. Manufacturing non-combustion 2.A.1, 2.A.2, 2.A.3, 2.A.4, 2.B, 2.D, 2.E, 2.F, 2.G Industry
+17. Metal production non-combustion 2.C Industry
+18. Fuel extraction and production non-combustion 1.B.1, 1.B.2 Mining and extractives
+19. Agricultural emissions non-combustion Section 3 and 5 A Agricultural emissions
+20. Waste and wastewater non-combustion Section 4 Waste
+21. Forestry and land use non-combustion 3B and 3D* Land Use, Land-Use Change
+22. International aviation combustion 1A3ai Aviation
+23. International shipping combustion 1A3di Maritime
+24. Other extra-territorial emissions N/A** Not included
+Note: *Forestry and land use non-combustion emissions were not included in the EDGAR data or global totals at this 
+stage. The only carbon pricing instrument covering forestry and land use at this time is the New Zealand ETS.** Other extra-territorial emissions were not included in the EDGAR data or global totals at this stage. These 
+emissions will be tracked in future as jurisdictions start broadening the scope of their carbon pricing instruments to 
+cover these emissions.
+
+--- PÁGINA 81 ---
+
+State and Trends of Carbon Pricing 202581
+6. Revenue: Revenue is for the period January 1, 2024, to December 31, 2024. 
+Adjustments are made for jurisdictions with fiscal years that do not align with 
+a calendar year. For countries with fiscal year running from April to March 
+(e.g., the UK), three-quarters of the revenue from the current budget (2024–
+2025) and one quarter of the previous budget (2023–2024) are summed to 
+estimate the 2024 revenue. For countries with fiscal year running from July 
+to June (e.g., Australia), half of the revenue from the current budget (2024–
+2025) and half of the previous budget (2023–2024) are summed to estimate 
+the 2024 revenue. Where 2024 revenue was not available before the report 
+was finalized, official revenue forecasts for 2024 in previous years’ official 
+budget documents were used, or revenue is estimated based on revenue 
+collected in 2023 (for which there have been no policy changes). Revenue 
+values are converted from nominal to real (2024 USD) by way of a two-step 
+process: (1) observed revenue values in local currencies are converted to USD 
+using the market exchange rates as of April 1 in the observed year (using the 
+IMF exchange rates); (2) the USD historical revenue values are then adjusted 
+to a base year of using the GDP deflator index for the US from the IMF World 
+Economic Outlook Database.119
+7. Exchange rate conversions: Price and revenue data are converted from 
+national currency to USD using the IMF exchange rates.120 Where exchange 
+rates from national currency to USD are not available from the IMF, rates 
+from the respective countries’ central banks are used.8. Crediting data: Carbon credit issuance, project registrations, and retirement 
+data by project category are for the period January 1, 2024, to December 
+31, 2024. Data from independent and international crediting mechanisms 
+is sourced from the applicable publicly available registries. Data from 
+governmental crediting mechanisms were provided by governments for 
+the following crediting mechanisms: Alberta Emission Offset Program, 
+Australia Carbon Credit Unit Scheme, Beijing Certified Emission Reduction 
+Mechanism, British Columbia Offset Program, California Compliance Offset 
+Program, Colombia Crediting Mechanism, Guangdong Pu Hui Offset Crediting 
+Mechanism, J-Credit Scheme, Joint Crediting Mechanism, Kazakhstan 
+Crediting Mechanism, Quebec Offset Crediting Mechanism, Republic of 
+Korea Offset Crediting Mechanism, Spain FES-CO2 Program, South Africa 
+Crediting Mechanism, Switzerland CO2 Attestations Crediting Mechanism, 
+crediting mechanism in Taiwan, China, Tokyo Cap-and-Trade Program 
+and Washington Crediting Mechanism. Price data for exchange-traded 
+transactions is provided by Platts S&P Global Commodity Insights covering 
+the period from June 2021 to April 2025. It reflects the most competitively 
+priced underlying contracts that meet the specifications of the carbon credit 
+price assessments. Over-the-counter price data is provided by Ecosystem 
+Marketplace and is based on confidentially disclosed price and transaction 
+volume information. It represents volume-weighted average prices for 
+carbon credits traded in voluntary carbon markets, current as of February 26, 
+2025.
+
+--- PÁGINA 82 ---
+
+State and Trends of Carbon Pricing 202582
+Endnotes
+1  World Bank, “Global Economic Prospects, June 2025,” June 10, 2025 
+https:/ /www.worldbank.org/en/publication/global-economic-prospects. 
+2  International Monetary Fund (IMF), Fiscal Monitor: Fiscal Policy under 
+Uncertainty, 2025, April 2025 https:/ /www.imf.org/en/Publications/FM/
+Issues/2025/04/23/fiscal-monitor-April-2025. 
+3  Mook Bangalore et al., 2017, Unbreakable: Building the Resilience 
+of the Poor in the Face of Natural Disasters, Climate Change and 
+Development, https:/ /hdl.handle.net/10986/25335 . 
+4  N. Dunz and S. Power, "Climate-Related Risks for Ministries of Finance: 
+An Overview," Coalition of Finance Ministers for Climate Action, May 25, 
+2021, https:/ /www.financeministersforclimate.org/news/coalition-pub-
+lishes-new-report-climate-related-risks-ministries-finance-overview . 
+5  Christian Schoder, “Regime-Dependent Environmental Tax Multipliers: 
+Evidence from 75 Countries,” Journal of Environmental Economics and 
+Policy 12, no. 2 (April 3, 2023): 124–67, https:/ /doi.org/10.1080/216065
+44.2022.2089238 . D. Dussaux, “The Joint Effects of Energy Prices and 
+Carbon Taxes on Environmental and Economic Performance: Evidence 
+from the French Manufacturing Sector,” Organisation for Economic 
+Co-operation and Development (OECD) Environment Working Paper No. 
+154, February 4, 2020, https:/ /doi.org/10.1787/b84b1b7d-en. Gilbert E. 
+Metcalf and James H. Stock, “Measuring the Macroeconomic Impact 
+of Carbon Taxes,” AEA Papers and Proceedings 110 (May 2020): 101–6, 
+https:/ /doi.org/10.1257/pandp.20201081. Giovanni Marin and Francesco 
+Vona, “Climate Policies and Skill-Biased Employment Dynamics: 
+Evidence from EU Countries,” Journal of Environmental Economics and 
+Management 98 (November 1, 2019): 102253, https:/ /doi.org/10.1016/j.
+jeem.2019.102253.
+6  Government of Israel Prime Minister’s Office, “Decision 1261: Pricing 
+Local Pollutant and Greenhouse Gas Emissions and Repealing a 
+Government Decision,” January 14, 2024, https:/ /www.gov.il/he/pages/
+dec1261-2024.
+7      Jonathan Colmer et al., 2024, “Does Pricing Carbon Mitigate Climate 
+Change? Firm-level Evidence from the European Union Emissions 
+Trading System,” Review of Economic Studies 92, no. 3 (May 2025): 
+1625-60, https:/ /doi.org/10.1093/restud/rdae055 .
+8     Gustav Martinsson et al., 2024, “The Effect of Carbon Pricing on Firm 
+Emissions: Evidence from the Swedish CO2 Tax,” The Review of Financial Studies 37, no. 6 (June 2024): 1848–86, https:/ /doi.org/10.1093/rfs/
+hhad097 .
+9     Niklas Döbbeling-Hildebrandt et al., 2024, “Systematic Review and 
+Meta-analysis of Ex-post Evaluations on the Effectiveness of Carbon 
+Pricing,” Nature Communications 15, no. 1 (May 2024): 4147, https:/ /doi.
+org/10.1038/s41467-024-48512-w .
+10   F. D’Arcangelo et al., 2022, “Estimating the CO2 Emission and Revenue 
+Effects of Carbon Pricing: New Evidence from a Large Cross-Country 
+Dataset,” OECD Economics Department Working Paper No. 1732, 
+November 2022, https:/ /doi.org/10.1787/39aa16d4-en.
+11    Partnership for Market Readiness, “Beyond Mitigation: Quantifying the 
+Development Benefits of Carbon Pricing,” 2021, https:/ /hdl.handle.
+net/10986/35624.
+12   World Bank, “Global Landscape of Fuel Subsidies and Price Controls,” 
+April 2025, https:/ /documents.worldbank.org/pt/publication/docu-
+ments-reports/documentdetail/099022825121518098. 
+13   Partnership for Market Readiness, “Beyond Mitigation: Quantifying the 
+Development Benefits of Carbon Pricing,” 2021, https:/ /hdl.handle.
+net/10986/35624 .
+14   Amar Bhattacharya et al., “Raising Ambition and Accelerating Delivery 
+of Climate Finance,” November 14, 2024, Grantham Research Institute 
+on Climate Change and the Environment, London School of Economics 
+and Political Science, https:/ /www.lse.ac.uk/granthaminstitute/publi-
+cation/raising-ambition-and-accelerating-delivery-of-climate-finance/.
+15   Morgan Stanley Capital International, “Investment Trends and Outcomes 
+in the Global Carbon-Credit Market,” November 14, 2024, https:/ /
+www.msci.com/www/research-report/investment-trends-and-
+outcomes/05113551284.
+16  Colorado Department of Public Health and Environment, “Greenhouse 
+Gas Credit Trading in Colorado,” accessed February 20, 2025, https:/ /
+cdphe.colorado.gov/greenhouse-gas-credit-trading-in-colorado .
+17    International Carbon Action Partnership (ICAP), “Oregon Reinstates 
+Emissions Trading Program,|” December 4, 2024, https:/ /icapcarbonac-
+tion.com/en/news/oregon-reinstates-emissions-trading-program.
+18   Government of Israel Prime Minister’s Office, “Decision 1261: Pricing 
+Local Pollutant and Greenhouse Gas Emissions and Repealing a Government Decision,” January 14, 2024, https:/ /www.gov.il/he/pages/
+dec1261-2024 .
+19   Taipei Times, “Ministry Releases Carbon Fee Regulations,” 
+August 30, 2025, https:/ /www.taipeitimes.com/News/taiwan/
+archives/2024/08/30/2003823006.
+20   Government of Saskatchewan, “Saskatchewan Is the First Province in 
+Canada to Be Carbon Tax Free,” March 27, 2025, https:/ /www.saskatch-
+ewan.ca/government/news-and-media/2025/march/27/saskatche-
+wan-is-the-first-province-in-canada-to-be-carbon-tax-free.
+21   World Bank, “Balancing Act: Political Economy and the Pursuit of 
+Ambitious Carbon Pricing in Developing Countries” (Washington, 
+DC: World Bank, 2024), https:/ /hdl.handle.net/10986/42093. 
+Stéphane Hallegatte et al., “Within Reach: Navigating the Political 
+Economy of Decarbonization. Climate Change and Development 
+Series” (Washington, DC: World Bank, 2023), http:/ /hdl.handle.
+net/10986/40601. World Bank, “Reality Check—Lessons from 25 
+Policies Advancing a Low-Carbon Future” (Washington, DC: World 
+Bank Group, 2023), http:/ /documents.worldbank.org/curated/
+en/099101623115027221.
+22   Government of British Colombia, “B.C. Eliminates Carbon Tax,” March 31, 
+2025, https:/ /news.gov.bc.ca/releases/2025FIN0014-000280 .
+23   Grand National Assembly of Türkiye, “Türkiye’s First Climate Law 
+Proposal Was Submitted to the Presidency of the Grand National 
+Assembly of Türkiye,” February 20, 2025, http:/ /www.tbmm.gov.tr/
+Haber/Detay?Id=77e291f5-6b4a-4bb6-b157-0195286c4403.
+24   Bureau of Energy Efficiency, India, “Detailed Procedure for Compliance 
+Mechanism under CCTS,” July 2024, https:/ /beeindia.gov.in/sites/
+default/files/Detailed%20Procedure%20for%20Compliance%20Proce-
+dure%20under%20CCTS.pdf .
+25   Republic of the Philippines House of Representatives, “Committee 
+Report No 1383,” January 30, 2025, https:/ /docs.congress.hrep.
+online/legisdocs/first_19/CR01383.pdf . Secretary General of the 
+Treasury Ministry of Finance Malaysia, “Malaysia Budget Speech 
+2025”, 18 October, 2024. Available: https:/ /belanjawan.mof.gov.my/
+pdf/belanjawan2025/ucapan/ub25-en.pdf . “Thai Cabinet Approves 
+Collection of Carbon Tax,” January 21, 2025, https:/ /www.reuters.
+com/sustainability/thai-cabinet-approves-collection-carbon-
+tax-2025-01-21/.
+
+--- PÁGINA 83 ---
+
+State and Trends of Carbon Pricing 202583
+26   ICAP, “India Adopts Regulations for Planned Compliance Carbon 
+Market,” September 2, 2024, https:/ /icapcarbonaction.com/en/news/
+india-adopts-regulations-planned-compliance-carbon-market.
+27   India Ministry of Power, “Turning Climate Commitments into Action: 
+India’s Carbon Offset Plan Hits the Ground,” March 28, 2025, https:/ /
+www.pib.gov.in/PressReleasePage.aspx?PRID=2116421.
+28   UK Government, “Introduction of a UK Carbon Border Adjustment 
+Mechanism from January 2027: Government Response to the Policy 
+Design Consultation,” October 30, 2024, https:/ /assets.publishing.
+service.gov.uk/media/679cb194a9ee53687470a2fa/Introduction_
+of_a_UK_Carbon_Border_Adjustment_Mechanism_from_
+January_2027_-_Government_response_to_the_policy_design_
+consultation.pdf .
+29   Reuben Francis, Daniel Hoenig, and Holly Rooper, “Getting Ahead of the 
+Curve: Primer on Border Carbon Adjustment Policy Proposals,” March 
+2023, https:/ /clcouncil.org/reports/BCA_Policy_Proposals.pdf . Aaron 
+Cosbey and Ieva Baršauskaitė, “Border Carbon Adjustments: Pivotal 
+Design Choices for Policy-Makers,” 2023, https:/ /www.iisd.org/publica-
+tions/brief/border-carbon-adjustments-policy-makers.
+30   Zhang Xiongfeng, “The Industry Is Looking forward to the Proposed 
+Version of CBAM Peng Qiming: The Inter-ministerial Meeting Will Set 
+Carbon Declarations,” October 14, 2024, https:/ /www.cna.com.tw/news/
+ahel/202410140041.aspx..
+31  Department of Climate Change and Environment Thailand, “The Climate 
+Change Bill B.E.,” November 2024, https:/ /law.go.th/listeningDetail?sur -
+vey_id=NDU5OURHQV9MQVdfRlJPTlRFTkQ=.
+32   Ministry of Energy Chile, “Proposed Draft Sectoral Plan for Adaptation 
+and Mitigation of Climate Change in the Energy Sector,” July 26, 2024, 
+https:/ /energia.gob.cl/sites/default/files/documentos/202407_ante-
+proyecto_psma_energia.pdf .
+33   World Trade Organization (WTO), Working Together for Better Climate 
+Action: Carbon Pricing, Policy Spillovers, and Global Climate 
+Goals (Geneva: WTO, 2024), https:/ /www.wto-ilibrary.org/content/
+books/9789287071781. 
+34   World Bank, State and Trends of Carbon Pricing 2024 (Washington, DC: 
+World Bank, 2024), http:/ /hdl.handle.net/10986/41544 . 
+35   Government of Israel Prime Minister’s Office, “Decision 1261: Pricing 
+Local Pollutant and Greenhouse Gas Emissions and Repealing a 
+Government Decision,” January 14, 2024, https:/ /www.gov.il/he/pages/
+dec1261-2024 .36   Sankita Jayanandan, “Carbon Tax Crucial for Fair Competition amid EU 
+Carbon Tariff, Says Deputy Minister,” The Edge Malaysia, October 24, 
+2024, https:/ /theedgemalaysia.com/node/731414.
+37   Ivy Yin, “Vietnam Expedites Domestic Carbon Market Development to 
+Tackle CBAM, Article 6,” Platts, S&P Global Commodity Insights, May 24, 
+2024, https:/ /www.spglobal.com/commodity-insights/en/news-re-
+search/latest-news/energy-transition/052424-vietnam-expedites-do-
+mestic-carbon-market-development-to-tackle-cbam-article-6.
+38   Anika Patel, “Explainer: China’s Carbon Market to Cover Steel, Aluminium 
+and Cement in 2024,” Carbon Brief, September 23, 2024, https:/ /www.
+carbonbrief.org/explainer-chinas-carbon-market-to-cover-steel-al-
+uminium-and-cement-in-2024/. Li Deshangyu and Lei Ye, “The 
+First Round of Expansion of the National Carbon Market,” 21 Century 
+Business Herald, September 11, 2024, https:/ /www.21jingji.com/arti-
+cle/20240911/herald/09e7a2dec15946d9a728288179d8647e.html. 
+39   Intergovernmental Panel on Climate Change (IPCC) Working Group III, 
+“Sixth Assessment Report of the Intergovernmental Panel on Climate 
+Change Climate Change 2022: Mitigation of Climate Change – Technical 
+Summary,” 2022, https:/ /www.ipcc.ch/report/ar6/wg3/downloads/re-
+port/IPCC_AR6_WGIII_TechnicalSummary.pdf .
+40  World Bank; International Energy Agency (IEA); ICAP, “Carbon Pricing in 
+the Power Sector: Role and Design for Transitioning toward Net-Zero 
+Carbon Development” (World Bank; IEA; ICAP), n.d.), https:/ /openknowl-
+edge.worldbank.org/entities/publication/00e80b55-d845-43b9-af80-
+f230f4a1ec83.
+41   OECD, Pricing Greenhouse Gas Emissions 2024: Gearing Up to Bring 
+Emissions Down, OECD Series on Carbon Pricing and Energy Taxation 
+(Paris: OECD Publishing, 2024), https:/ /doi.org/10.1787/b44c74e6-en.
+42   Denmark Ministry of Foreign Affairs, “Denmark is the First Country in 
+the World to Introduce Carbon Tax on Livestock Farming,” July 5, 2024, 
+https:/ /investindk.com/insights/denmark-is-the-first-country-in-the-
+world-to-introduce-carbon-tax-on-livestock-farming.
+43   IEA, “Defining the Role – Implementing Effective Emissions Trading 
+Systems – Analysis” (Paris: IEA, 2020), https:/ /www.iea.org/reports/
+implementing-effective-emissions-trading-systems/defining-the-role.
+44   Ken Cheng et al., “Regulating Carbon Emission Under Rate-
+Based Carbon Emission Trading Scheme Through Benchmark 
+Emission Intensity and Carbon Price,” SSRN, https:/ /ssrn.com/
+abstract=4659552 or http:/ /dx.doi.org/10.2139/ssrn.4659552. Valerie 
+Karplus, “China’s CO2 Emissions Trading System: History, Status, and 
+Outlook,” Harvard Kennedy School Belfer Center, June 2021, https:/ /www.belfercenter.org/publication/chinas-co2-emissions-trading-
+system-history-status-and-outlook.
+45   Nishtha Singh et al., “Demystifying Carbon Emission Trading System 
+through Simulation Workshops in India,” Council on Energy, Environment 
+and Water, September 2023, https:/ /www.ceew.in/sites/default/files/
+demystifying-carbon-emission-trading-system-india.pdf .
+46   World Bank, Emissions Trading in Practics: A Handbook on Design and 
+Implementation, 2nd ed. (Washington, DC: World Bank, 2021), https:/ /
+hdl.handle.net/10986/35413.
+47   Joseph Pryor et al., “Carbon Pricing around the World,” in Data 
+for a Greener World: A Guide for Practitioners and Policymakers 
+(Washington, DC: IMF, 2023), https:/ /www.elibrary.imf.org/display/
+book/9798400217296/CH005.xml. 
+48   WTO, Working Together for Better Climate Action: Carbon Pricing, Policy 
+Spillovers, and Global Climate Goals, The Report of the Joint Task Force 
+on Climate Action, Carbon Pricing, and Policy Spillovers (Geneva: WTO, 
+2024), https:/ /www.wto-ilibrary.org/content/books/9789287071781. 
+49   High-Level Commission on Carbon Prices, “Report of the High-Lev -
+el Commission on Carbon Prices,” May 29, 2017, https:/ /portal-cdn.
+scnat.ch/asset/a2ff737d-4c3c-513e-88ef-b175926bb2d7/Carbon-
+Pricing_Final_May29.pdf?b=d136ed68-2dbd-5c6b-8c9d-46b415f -
+b05cc&v=b282adaa-2a44-5c48-b17b-1765f9d46c1e_0&s=ZNqZaE -
+WrhE8O_v1w6n-YLJDYUUU0tDDJuDxi3qYAj8qIornd_WV3058p-
+mvxoCjwCxu2AnkNzDXskLmR9u2u8gmX7ZVMUnwdgH69l8EvkW -
+JRpzylwEQr9sR3ilouqexJuwcnNG4Uy0utUVXiIN52aSEbQ0Gm7eopJI -
+HQY2f96zD0 .
+50   P. R. Shukla et al., “Index in IPCC, 2022: Climate Change 2022: 
+Mitigation of Climate Change. Contribution of Working Group III to the 
+Sixth Assessment Report of the Intergovernmental Panel on Climate 
+Change” (Geneva: IPCC, 2022).
+51   Network for Greening the Financial System (NGFS), “NGFS Long-term 
+Scenarios for Central Banks and Supervisors, November 2024, https:/ /
+www.ngfs.net/system/files/import/ngfs/medias/documents/ngfs_
+scenarios_main_presentation.pdf . 
+52   Paolo Agnolucci et al., “Measuring Total Carbon Pricing,” The World 
+Bank Research Observer 39, no. 2 (August 2024): 227-58, https:/ /doi.
+org/10.1093/wbro/lkad009 . A. Campmas et al., “PFR Fundamentals: 
+Total Carbon Price 2.0,” Working Paper (forthcoming).
+53   OECD, “Pricing Greenhouse Gas Emissions 2024," November 14, 2024, 
+https:/ /www.oecd.org/en/publications/pricing-greenhouse-gas-emis -
+sions-2024_b44c74e6-en.html.
+
+--- PÁGINA 84 ---
+
+State and Trends of Carbon Pricing 202584
+54   Government of Colombia, “The Ministry of Finance Presented the 
+Comprehensive Plan for the Management of Climate Change and 
+Biodiversity of the Finance Sector (PIGCCSH+B),” April 11, 2024, https:/ /
+www.minhacienda.gov.co/w/el-minhacienda-presento-el-plan-
+integral-de-gestion-de-cambio-climatico-y-biodiversidad-del-sector-
+hacienda-pigccsh-b-. 
+55   Central Bank of Ecuador, “New Price Scheme for Gasoline and 
+Compensation for Vulnerable Groups: A Necessary Step towards 
+Environmental, Fiscal and Social Improvement,” June 18, 2024, https:/ /
+www.bce.fin.ec/boletines-de-prensa-archivo/nuevo-esquema-de-
+precios-para-las-gasolinas-y-compensacion-a-grupos-vulnerables-
+un-paso-necesario-hacia-la-mejora-medioambiental-fiscal-y-social. 
+56   World Bank, Taxing and Subsidizing Energy in Latin America and the 
+Caribbean: Insights from a Total Carbon Price Approach (Washington, 
+DC: World Bank Group, 2025), http:/ /documents.worldbank.org/curated/
+en/099050525162018549 . 
+57   Amar Bhattacharya et al., “Raising Ambition and Accelerating Delivery of 
+Climate Finance,” Grantham Research Institute on Climate Change and 
+the Environment, London School of Economics and Political Science, 
+November 14, 2024, https:/ /www.lse.ac.uk/granthaminstitute/publica-
+tion/raising-ambition-and-accelerating-delivery-of-climate-finance/.
+58   IEA, “Tracking the Impact of Government Support – Fossil Fuel 
+Subsidies” (IEA, 2023), https:/ /www.iea.org/topics/fossil-fuel-subsidies.
+59   California Air Resources Board (CARB), Annual Report – Cap and Trade 
+Auction Proceeds (El Monte, CA: CARB, 2024), https:/ /ww2.arb.ca.gov/
+sites/default/files/auction-proceeds/cci_annual_report_2024.pdf . 
+60   Andrei Marcu et al., 2024 State of the EU ETS Report, European 
+Roundtable on Climate Change and Sustainable Transition, May 14, 
+2024, https:/ /ercst.org/2024-state-of-the-eu-ets-report/.
+61    Schoder, “Regime-Dependent Environmental Tax Multipliers.” Dussaux, 
+“The Joint Effects of Energy Prices and Carbon Taxes on Environmental 
+and Economic Performance.” Metcalf and Stock, “Measuring the Mac-
+roeconomic Impact of Carbon Taxes.” Marin and Vona, “Climate Policies 
+and Skill-Biased Employment Dynamics.”
+62   European Commission, “Social Climate Fund,” accessed February 13, 
+2025, https:/ /climate.ec.europa.eu/eu-action/eu-emissions-trading-
+system-eu-ets/social-climate-fund_en.
+63   “Establishes the Brazilian Greenhouse Gas Emissions Trading System 
+(SBCE); and amends Laws No. 12,187, of December 29, 2009, 12,651, of 
+May 25, 2012 (Forest Code), 6,385, of December 7, 1976 (Securities and 
+Exchange Commission Law), and 6,015, of December 31, 1973 (Public Records Law).,” Pub. L. No. Law No. 15,042, of December 11, 2024 
+(2024), https:/ /www.in.gov.br/en/web/dou/-/lei-n-15.042-de-11-de-
+dezembro-de-2024-601124199 .
+64  Environment and Climate Change Canada, “Latest Canada Carbon 
+Rebate Delivering Financial Boost for Canadians,” January 14, 
+2025, https:/ /www.canada.ca/en/environment-climate-change/
+news/2025/01/latest-canada-carbon-rebate-delivering-financial-
+boost-for-canadians.html.
+65   I4CE, “Forgone Revenue Estimates” (forthcoming). 
+66   Dongzhe Zhang and L. Alan Winters, “The Revenue Potential of Phasing 
+Out the Free Allowances Received by UK CBAM Sectors,” Centre for 
+Inclusive Trade Policy, April 12, 2024, https:/ /citp.ac.uk/publications/
+the-revenue-potential-of-phasing-out-the-free-allowances-received-
+by-uk-cbam-sectors. 
+67   CARB, “Preparing for the Full Compliance Period Compliance Obligation 
+for the Fourth Compliance Period,” October 8, 2024, https:/ /ww2.arb.
+ca.gov/sites/default/files/2024-10/nc-citss_compliance_2021-2023_
+full.pdf . Government of Quebec, “The Carbon Market. Compliance,” 
+2025, https:/ /www.environnement.gouv.qc.ca/changements/carbone/
+Couverture-en.htm.
+68   Abatable, “Decoding the VCM in 2024 and Beyond,” February 11, 
+2025, https:/ /abatable.com/reports/voluntary-carbon-market-over -
+view-2024/.
+69   Climate Focus, “Voluntary Carbon Market 2024 Review” (Washington, 
+DC: Climate Focus, January 2025), https:/ /climatefocus.com/publica-
+tions/vcm-review-2024/.
+70   For a more detailed assessment of engineered carbon removals, refer to 
+cdr.fyi at: https:/ /www.cdr.fyi/blog/2024-year-in-review.
+71    National Treasury Republic of South Africa, “2025 Budget Review,” 
+March 12, 2025, https:/ /www.treasury.gov.za/documents/National%20
+Budget/2025Mar/.
+72   National Climate Change Secretariat Singapore, “Carbon Tax,” March 
+19, 2025, https:/ /www.nccs.gov.sg/singapores-climate-action/mitiga-
+tion-efforts/carbontax/.
+73   ICAP, “Korea Emissions Trading Scheme,” December 5, 2022, https:/ /
+icapcarbonaction.com/en/ets/korea-emissions-trading-scheme.
+74   European Commission, “Commission Launches Public Consultation on 
+the EU Emissions Trading System and the Market Stability Reserve.” 
+European Scientific Advisory Board on Climate Change, “New Report Outlines Recommendations to Scale Up Carbon Dioxide Removals 
+while Addressing Opportunities and Risks,” February 20, 2025, https:/ /
+climate-advisory-board.europa.eu/news/new-report-from-the-eus-cli-
+mate-advisory-board-outlines-recommendations-to-scale-up-car -
+bon-dioxide-removals-while-addressing-opportunities-and-risks. 
+Department for Energy Security and Net Zero, “Integrating Greenhouse 
+Gas Removals in the UK Emissions Trading Scheme,” GOV.UK, May 23, 
+2024, https:/ /www.gov.uk/government/consultations/integrating-
+greenhouse-gas-removals-in-the-uk-emissions-trading-scheme.
+European Commission, Commission launches public consultation on EU 
+emissions trading system and market stability reserve. https:/ /climate.
+ec.europa.eu/news-your-voice/news/commission-launches-pub-
+lic-consultation-eu-emissions-trading-system-and-market-stabili-
+ty-reserve-2025-04-15_en. 
+75   International Civil Aviation Organization (ICAO), “CORSIA Eligible 
+Emissions Units,” October 2024.
+76   ICAO, “Interim Assessments in Support of the 2025 CORSIA Periodic 
+Review,” 2025, https:/ /www.icao.int/environmental-protection/CORSIA/
+Documents/CAEP_Inputs%20to%202025%20CORSIA%20periodic%20
+review%20(C234).pdf .
+77   “Directive (EU) 2023/958 of the European Parliament and of the Council 
+of 10 May 2023 Amending Directive 2003/87/EC as Regards Aviation’s 
+Contribution to the Union’s Economy-Wide Emission Reduction Target 
+and the Appropriate Implementation of a Global Market-Based Mea-
+sure,” 130 OJ L § (2023), http:/ /data.europa.eu/eli/dir/2023/958/oj/
+eng. UK Department for Transport, “Implementing the Carbon Offsetting 
+and Reduction Scheme for International Aviation (CORSIA),” December 
+2024, https:/ /assets.publishing.service.gov.uk/media/67b4b82fb56d-
+8b0856c2fe89/dft-implementing-corsia-consultation.pdf. Transport 
+Canada, “Carbon Offsetting and Reduction Scheme for International 
+Aviation (CORSIA),” AART, May 5, 2023, https:/ /tc.canada.ca/en/avia-
+tion/carbon-offsetting-reduction-scheme-international-aviation-corsia 
+Agência Nacional de Avição Civil, “Resolução No 743, de 15 de Maio de 
+2024,” May 21, 2024, https:/ /www.anac.gov.br/assuntos/legislacao/legi-
+slacao-1/resolucoes/2024/resolucao-743.
+78   Science Based Targets Initiative, “Developing the Corporate Net-Zero 
+Standard - Science Based Targets,” 2025, https:/ /sciencebasedtargets.
+org/developing-the-net-zero-standard.
+79   Voluntary Carbon Markets Integrity Initiative (VCMI), “VCMI Scope 3 
+Claim,” 2025, https:/ /vcmintegrity.org/scope-3-claim/.
+80   International Organization for Standardization, “Creation of International 
+Standard on Net Zero Gets Underway,” June 27, 2024, https:/ /www.iso.
+org/contents/news/2024/06/netzero-standard-underway.html.
+
+--- PÁGINA 85 ---
+
+State and Trends of Carbon Pricing 202585
+81   European Commission, “New EU Rules to Empower Consumers for the 
+Green Transition Enter into Force,” March 27, 2024, https:/ /energy.ec.eu-
+ropa.eu/news/new-eu-rules-empower-consumers-green-transition-
+enter-force-2024-03-27_en. European Commission, “Green Claims,” 
+March 31, 2025, https:/ /environment.ec.europa.eu/topics/circular-econ-
+omy/green-claims_en. UK Department for Energy Security & Net Zero, 
+“Principles for Voluntary Carbon and Nature Market Integrity,” GOV.UK, 
+November 15, 2024, https:/ /www.gov.uk/government/publications/
+voluntary-carbon-and-nature-market-integrity-uk-government-princi-
+ples/principles-for-voluntary-carbon-and-nature-market-integrity .
+82   CFC, “CFC Launches Groundbreaking Carbon Delivery Insurance 
+Policy,” March 19, 2024, https:/ /www.cfc.com/en-us/knowledge/
+news/2024/03/cfc-launches-groundbreaking-carbon-delivery-insur -
+ance-policy/.
+83   Kita Earth, “Tokio Marine Kiln Partners with Kita to Provide Political Risk 
+Cover for Developers of Carbon Credit Projects,” July 15, 2024, https:/ /
+www.kita.earth/blog/tokio-marine-kiln-partners-with-kita-politi-
+cal-risk-cover-developers-carbon-credit-projects.
+84   Howden, “Howden Launches Carbon Credit Warranty & Indemnity 
+Insurance,” June 21, 2024, https:/ /www.howdengroup.com/uk-en/
+news-insights/howden-launches-first-its-kind-warranty-indemni-
+ty-policy-sale-mere-plantations-carbon-credits.
+85   Gallagher Re, “Insuring the Transition: Safeguarding Carbon Credits,” 
+November 15, 2024, https:/ /www.ajg.com/gallagherre/news-and-in-
+sights/insuring-the-transitions-safeguarding-carbon-credits/.
+86   MIGA, “MIGA Fuels Clean Cooking Innovation in Kenya | World Bank 
+Group Guarantees,” March 17, 2025, https:/ /www.miga.org/press-re-
+lease/miga-fuels-clean-cooking-innovation-kenya.
+87   Ivy Yin, “China Completes First Issuance of Domestic Voluntary Carbon 
+Credit CCERs,” S&P Global Commodity Insights, June 3, 2025, https:/ /
+www.spglobal.com/commodity-insights/en/news-research/latest-
+news/energy-transition/030625-china-completes-first-issuance-of-
+domestic-voluntary-carbon-credit-ccers.
+88   PIB Delhi, “Turning Climate Commitments into Action: India’s Carbon 
+Offset Plan Hits the Ground,” March 28, 2025, https:/ /www.pib.gov.in/
+PressReleasePage.aspx?PRID=2116421.
+89   “Ministerio Del Medio Ambiente Reconoce a Los Programas de 
+Certificación Externos ‘Cercarbono’ y ‘Biocarbon Standard’, as Sus 
+Entitdades Verificadoras, y Valida de Oficio Sus Metodologías, de 
+Conformidad Con Lo Dispuesto En El Decreto Supremo No 4, de 
+2023, Del Ministerio Del Medio Ambiente, Que Aprueba Reglamento 
+de Proyectos de Reducción de Emisiones de Contaminantes Para Compensar Emisiones Gravadas Conforme a Los Dispuesto En El 
+Artículo 8o de La Ley No 20.780,” 2024, https:/ /www.diariooficial.interior.
+gob.cl/publicaciones/2024/12/18/44027/01/2586496.pdf .
+90   Financial Regulatory Authority, “Financial Regulatory Authority (FRA) 
+Launches Egypt’s First Voluntary Carbon Market with the participants 
+of the relevant private, public and parliamentarians,” August 11, 2024, 
+https:/ /fra.gov.eg/en/fra_news/financial-regulatory-authority-fra-
+launches-egypts-first-voluntary-carbon-market-with-the-the-
+participants-of-the-relevant-private-public-and-parliamentarians/. 
+91   Zambia LII, “The Green Economy and Climate Change Bill,” November 
+1, 2024, https:/ /zambialii.org/akn/zm/doc/bill/2024-11-01/the-green-
+economy-and-climate-change-bill-no-18-of-2024/eng@2024-11-01. 
+The Environmental Management (Amendment) Act. 2024, Decreto N° 
+3369/2025, que reglamenta la Ley N° 7190/2023 de los Créditos de 
+Carbono, 2025, https:/ /decretos.presidencia.gov.py/api/norma/down-
+load/67b4980836ed821d050478ef . Decree Decision No. 232/QD-TTg, 
+January 24, 2025, https:/ /thuvienphapluat.vn/van-ban/Tai-nguyen-
+Moi-truong/Quyet-dinh-232-QD-TTg-2025-phe-duyet-De-an-phat-
+trien-thi-truong-cac-bon-tai-Viet-Nam-641620.aspx. 
+92   Climate Action Data Trust, “CAD Trust Integrates Kingdom of Bhutan as 
+First National Registry: Climate Action Data Trust,” December 4, 2023, 
+https:/ /climateactiondata.org/cad-trust-integrates-kingdom-of-bhu-
+tan-as-first-national-registry/.
+93   Climate Focus, “The Voluntary Carbon Market Dashboard,” 2025, https:/ /
+climatefocus.com/initiatives/voluntary-carbon-market-dashboard/. 
+94   Annelise Gill-Wiehl, Daniel M. Kammen, and Barbara K. Haya, “Pervasive 
+Over-Crediting from Cookstove Offset Methodologies,” Nature Sus -
+tainability 7, no. 2 (February 2024): 191–202, https:/ /doi.org/10.1038/
+s41893-023-01259-6.
+95   Climate Focus, “Voluntary Carbon Market: 2024 Review," January 2025, 
+https:/ /climatefocus.com/wp-content/uploads/2025/01/VCM-Dash-
+board_2024-Review.pdf .
+96   Climate Focus, “Voluntary Carbon Market: 2024 Review." January 2025, 
+https:/ /climatefocus.com/wp-content/uploads/2025/01/VCM-Dash-
+board_2024-Review.pdf .
+97   Integrity Council for the Voluntary Carbon Markets, “Integrity Council 
+Approves Three REDD+ Methodologies,” November 15, 2024, https:/ /
+icvcm.org/integrity-council-approves-three-redd-methodologies/.
+98   UK Department for Energy Security & Net Zero, “Principles for Voluntary 
+Carbon and Nature Market Integrity.” https:/ /www.gov.uk/government/
+publications/voluntary-carbon-and-nature-market-integrity-uk-gov -ernment-principles/principles-for-voluntary-carbon-and-nature-mar -
+ket-integrity .
+99   United Nations Framework Convention on Climate Change (UNFCCC), 
+Article 6.4 Supervisory Body, “Standard: Application of the Require-
+ments of Chapter V.B (Methodologies) for the Development and As -
+sessment of Article 6.4 Mechanism Methodologies (v.01.1),” February 26, 
+2025, https:/ /unfccc.int/documents/641251.
+100 UNFCCC Article 6.4 Supervisory Body, “Standard: Requirements for 
+Activities Involving Removals under the Article 6.4 Mechanism (v.01.0) 
+(SBM014),” October 9, 2024, https:/ /unfccc.int/documents/641231.
+101 UNFCCC, “Meeting Report: Methodological Expert Panel First Meeting,” 
+2024, https:/ /unfccc.int/sites/default/files/resource/A6.4-MEP001.pdf.
+102 UNFCCC, “Meeting Report: Methodological Expert Panel First Meeting.”
+103 United Nations Environment Programme (UNEP) Copenhagen Climate 
+Centre, Article 6 Pipeline,” https:/ /unepccc.org/article-6-pipeline/. 
+104 UNEP Copenhagen Climate Centre, “Article 6 Pipeline.”
+105 UNEP Copenhagen Climate Centre, “Article 6 Pipeline.”
+106  S&P Global, “Specifications Guide Carbon Markets,” December 2024, 
+https:/ /www.spglobal.com/commodityinsights/PlattsContent/_as -
+sets/_files/en/our-methodology/methodology-specifications/meth-
+od_carbon_credits.pdf .
+107  S&P Global, “Specifications Guide Carbon Markets.” 
+108  Abatable, “Decoding the VCM in 2024 and Beyond.”
+109 Sylvera, “The State of Carbon Credits 2024,” January 13, 2025, https:/ /
+www.sylvera.com/resources/state-of-carbon-credits-2024-report. 
+BeZero, “2024: Carbon Credit Markets in Review,” April 1, 2025, https:/ /
+bezerocarbon.com/insights/2024-carbon-credit-markets-in-review .
+110 KliK Foundation, email confirmation, April 3, 2025.
+111  Ivy Yin, Rong wei Neo, and Eric Yep, “Singapore Article 6 Carbon Credit 
+Tender Attracts $19-$41/mtCO2e Price Offers,” S&P Global Commodity 
+Insights, February 25, 2025, https:/ /www.spglobal.com/commodity-in-
+sights/en/news-research/latest-news/energy-transition/022525-sin-
+gapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-of -
+fers.
+112  International Air Transport Association,, “IATA Follows Successful 
+Guyana CORSIA EEU Procurement Event with Second Event in Q1,” 
+
+--- PÁGINA 86 ---
+
+State and Trends of Carbon Pricing 202586
+January 22, 2025, https:/ /www.iata.org/en/pressroom/2025-releas -
+es/2025-01-22-01/.
+113 EDGAR (Emissions Database for Global Atmospheric Research) 
+Community GHG Database, a collaboration between the European 
+Commission, Joint Research Centre, IEA, and comprising IEA-EDGAR 
+CO2, EDGAR CH4, EDGAR N2O, EDGAR F-GASES version 2024 European 
+Commission, JRC (Datasets), 2024, https:/ /edgar.jrc.ec.europa.eu/
+dataset_ghg2024 . 
+114  Johannes Gütschow, Daniel Busch, and Mika Pflüger, “The PRIMAP-hist 
+National Historical Emissions Time Series (1750-2023) v2.6.1. ,” Earth 
+System Science Data 8: 571-603, https:/ /doi.org/10.5281/zeno-
+do.15016289 .
+115  Environment and Climate Change Canada, National Inventory Report 
+1990–2021 (Victoria, Canada: Environment and Climate Change Canada, 
+2023), https:/ /publications.gc.ca/collections/collection_2023/eccc/
+En81-4-2021-1-eng.pdf . 
+116  United States Environmental Protection Agency (EPA), Methodology 
+Report: Inventory of US Greenhouse Gas Emissions and Sinks by State: 
+1990–2022 (Washington, DC: EPA, 2024), https:/ /www.epa.gov/gh-
+gemissions/methodology-report-inventory-us-greenhouse-gas-emis -
+sions-and-sinks-state-1990-2022. 
+117  H. S. Eggleston et al., 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories (Geneva: IPCC, 2006), https:/ /www.ipcc-nggip.iges.
+or.jp/public/2006gl/. 
+118  IMF, “World Economic Outlook Database,” April 2024, https:/ /www.imf.
+org/en/Publications/WEO/weo-database/2024/April. 
+119  EDGAR 2024 GHG Dataset, accessed April 8, 2025, https:/ /edgar.jrc.
+ec.europa.eu/dataset_ghg2024.
+120  IMF, “Exchange Rate Archives by Month,” 2025,  https:/ /www.imf.org/
+external/np/fin/data/param_rms_mth.aspx.
+
+--- PÁGINA 87 ---
+
+WORLDBANK.ORG

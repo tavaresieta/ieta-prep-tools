@@ -1,0 +1,1049 @@
+DOCUMENTO: Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)
+PARTE 2 de 3
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+State of the Voluntary Carbon Market 2025    11
+Figure 6. Cumulative VCM Issuances and Retirements by Project Category, 2002-2024
+Note: This figure includes data on credit issuances and retirements from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global 
+Carbon Council, Gold Standard, Plan Vivo, and VCS registries.020040060080010001200
+05001,0001,5002,000
+050100150300
+200250
+0204060801001200100200300400700
+500600800900
+050100150200250300
+Volume (MtCO2e)Volume (MtCO2e)Household / Community Devices
+0345678
+2
+1
+Volume (MtCO2e)
+Issuances RetirementsWaste DisposalVolume (MtCO2e)Transportation
+Volume (MtCO2e)Forestry & Land UseVolume (MtCO2e)Energy Eﬃciency / Fuel Switching
+Volume (MtCO2e)Chemical Processes / Industrial ManufacturingVolume (MtCO2e)
+2023
+2024202220212020201920182017201620152014201320122011201020092008200720062005Agriculture
+Renewable Energy05101520253035404550
+Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances Retirements
+2023
+2024202220212020201920182017201620152014201320122011201020092008200720062005
+2023
+2024202220212020201920182017201620152014201320122011201020092008
+2023
+2024202220212020201920182017201620152014201320122011201020092008200720062005
+2023
+20242022202120202019201820172016201520142013201220112010200920082007
+2023
+2024202220212020201920182017201620152014201320122011201020092008200720062004
+20052023
+20242022202120202019201820172016201520142013201220112010200920082007
+2023
+20242022202120202019201820172016201520142013201220112010200920082007
+
+--- PÁGINA 17 ---
+
+12                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Table 2.  Volume of Credit Retirements (MtCO2e) by Category, 2020-2024
+Project Category 2020 2021 2022 2023 2024
+Agriculture 0.2 0.7 1.1 1.8 2.8
+Chemical Processes/  
+Industrial Manufacturing8.4 7.0 10.5 15.4 9.6
+Energy Efficiency/Fuel Switching 3.1 7.4 12.3 5.7 2.8
+Forestry & Land Use 39.0 67.6 56.8 67.4 67.8
+Household/Community Devices 7.5 11.5 14.1 16.0 27.5
+Renewable Energy 48.7 92.7 104.4 79.9 67.0
+Transportation 0.06 0.3 0.03 0.03 0.03
+Waste Disposal 4.5 5.5 4.2 3.2 4.0
+Total 111.6 192.6 203.4 189.4 181.5
+Note: This table includes data on credit issuances and retirements from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global 
+Carbon Council, Gold Standard, Plan Vivo, and VCS registries.
+
+--- PÁGINA 18 ---
+
+State of the Voluntary Carbon Market 2025    13
+Project Category and Type
+ ●Forestry and Land Use transaction volume 
+fell less than one percent, and the market 
+share of transactions from this category 
+continues to grow.
+ ●The volume of Waste Disposal credits traded 
+increased by more than 3X, driven by buyer 
+demand for Landfill Gas credits following 
+CCP approval in mid-2024.
+ ●The only category with increased prices was 
+Agriculture, which saw an 18 percent increase 
+in average price driven by increased prices 
+across all major clusters, including Livestock 
+Methane, Sustainable Agricultural Land 
+Management, and Soil Carbon.
+ ●VCM market structure reflects sustained 
+buyer appetite for credits that sell at average 
+or above average prices, as well as residual 
+demand for the large supply of older credits 
+trading below average price.
+Table 3. VCM Transaction Volumes, Values, and Prices by Project Category, 2023-2024
+Note: EM cannot report an average price for Transportation credits in 2023 because of the confidentiality of individual EM  
+Respondent data.2023 2024 Percent Change
+CATEGORYVolume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume Value Price
+Forestry and Land Use 37.1 $372.3M 10.04 37.0 $342.5M 9.27 0% -8% -8%
+Renewable Energy 29.0 $113.5M 3.92 22.3 $59.5M 2.67 -23% -48% -32%
+Chemical Processes / 
+Industrial Manufacturing12.2 $50.2M 4.10 5.7 $20.8M 3.66 -53% -58% -11%
+Household / Community 
+Devices10.2 $78.3M 7.71 5.1 $37.4M 7.30 -50% -52% -5%
+Waste Disposal 1.5 $10.9M 7.46 4.8 $32.0M 6.72 226% 193% -10%
+Agriculture 4.7 $30.7M 6.51 0.6 $4.7M 7.66 -87% -85% 18%
+Energy Efficiency / Fuel 
+Switching9.4 $34.4M 3.65 0.6 $1.9M 3.05 -93% -95% -16%
+Transportation - - - 0.2 $0.6M 3.24 - - -Volume, Value, and Price by Project 
+Attributes
+As was the case over the last two years of VCM 
+activity, different project categories continued 
+to have differing trajectories over the course of 
+2024, which was also highlighted in the last two 
+State of the VCM reports. Most categories saw 
+a decline in transaction volume and total value; 
+however, the volume of credit transactions for 
+the Waste Disposal category more than tripled 
+from 2023, and the total value of this market 
+segment grew nearly as much, becoming the 
+fifth-largest category by volume and the fourth-
+most valuable in 2024 (Table 3). This growth 
+is due to increased demand for credits from 
+ICVCM’s CCP-approved Landfill Gas projects, 
+which is an early example of how decisions made 
+by VCM integrity initiatives can impact market 
+demand for a specific credit type.
+Other categories of carbon projects saw a decline 
+in transaction volume. The Renewable Energy 
+category, which contributed the largest share 
+of transactions as recently as 2020, continued 
+to contract, with volumes falling by 23 percent 
+and average price declining by 31 percent. The 
+only type of Renewable Energy project that saw Section Insights
+
+--- PÁGINA 19 ---
+
+14                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+prices increase in 2024 was the Biogas cluster, 
+which includes Landfill Gas to Energy projects 
+that may be eligible for CCP approval. The volume 
+of credits traded in the Chemical Processes/
+Industrial Manufacturing and Household/
+Community Devices categories both fell by 
+half from 2023 to 2024 (Table 3). In the case of 
+Household/Community Devices, a large volume of 
+credits traded in 2023 came from a single project 
+developer issuing Cookstove Distribution credits 
+which ceased operations in the first half of 2024. 
+This illustrates how consolidation within VCM 
+sectors can influence annual transaction volume.
+Agriculture was the only category of credits 
+that saw an increase in average price in 2024, 
+which was driven by price increases across most 
+clusters. Despite this, the transaction volume for 
+credits from this category fell by 87 percent.
+A category that contracted in both volume and 
+value was Energy Efficiency/Fuel Switching, where 
+reported transaction volume fell by 93 percent 
+from 2023. These credits are becoming more 
+niche and liquidity is decreasing as credit buyers 
+demand more evidence of project additionality.
+The volume of credits traded from Forestry and 
+Land Use projects remained more or less the 
+same at 37 MtCO2e, while the average price fell 
+8 percent from 2023, leaving prices sustained 
+above $9/tCO2e. Within this category, credits from 
+REDD+ projects continued to lose market share 
+and value, with transaction volume declining Table 4. VCM Transaction Volumes, Values, and Prices by Forestry and Land Use Project Types, 2023-2024
+2023 2024 Percent Change
+Project ClusterVolume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume Value Price
+REDD+ 28.2 $222.3M $7.87 13.6 $82.1M $6.03 -52% -63% -23%
+Improved Forest 
+Management 
+(IFM)2.6 $41.9M $16.2 8.8$132.3M $14.97 242% 216% -8%
+Afforestation-
+Reforestation 
+and Revegetation 
+(ARR)4.8 $82.4M $17.15 3.8 $77.7M $20.44 -21% -6% 19%
+Agroforestry 0.7 $8.1M $11.58 0.6 $8.3M $14.11 -17% 1% 22%
+Blue Carbon 0.4 $3.2M $8.33 0.2 $5.2M $29.72 -54% 64% 257%
+by half and the average price for REDD+ credits 
+falling by 23 percent. IFM credits were a sign 
+of growth within the Forestry and Land Use 
+category, with more than three times as many 
+transactions reported in 2024 than in 2023. Credits 
+from nature-based projects providing removal 
+credits also grew in value within the category, 
+with the average price of ARR, Agroforestry, and 
+Blue Carbon credits increasing by 19 percent, 22 
+percent, and 257 percent, respectively (Table 3).
+Taking a broad view of the supply and demand 
+for credits available in the VCM in 2024, it 
+is clear that there are multiple segments of 
+projects that continue to grow and can drive 
+overall market value in the future, even as 
+some legacy credit types continue to fall by the 
+wayside. About half the volume of credits sold 
+in the VCM traded below the average price of 
+$6.37/tCO2e in 2024, mainly from less additional 
+Renewable Energy methodologies and older 
+Forestry and Land Use projects. The next 
+quartile of demand was met by credits trading 
+at around the current average price, including 
+REDD+ credits, Sustainable Agricultural Land 
+Management, and Waste Gas Recovery, the 
+cluster encompassing Landfill Gas projects. 
+The remaining quartile of transaction volume 
+was from project clusters that traded above 
+the market price, on average. Most of this 
+volume came from IFM, ARR, clean cooking 
+and water purification Household/Community 
+Devices projects, and Renewable Energy Biogas 
+
+--- PÁGINA 20 ---
+
+State of the Voluntary Carbon Market 2025    15
+Details of Project Categories
+Projects in the Agriculture category focus on 
+reducing emissions from agricultural activities 
+in farmland and pasture. This economic sector 
+is responsible for over one-tenth of global 
+greenhouse gas emissions annually. Project 
+types addressing agricultural emissions include 
+livestock methane mitigation projects, such as 
+farm-scale biodigesters for generating energy 
+from manure, and sustainable land management 
+projects on farmland and grasslands, which 
+reduce emissions from agricultural activities 
+and can store carbon from the atmosphere in Figure 7 . VCM Credit Cost Curve, 2024 Transactions
+0$20
+$5$10$15$170
+$165
+$160
+0 10 20 30 40 50 60 70 80 90 100Price (USD/tCO/uni2082e)
+Cumulative Percentage of VCM Transactions
+Agriculture Chemical Proc. / Industrial Mfg. Energy Eﬃciency / Fuel Switching
+Forestry and Land Use Household / Community Devices Renewable Energy
+Transportation Waste Disposal 2024 Average PriceBiochar Production
+Agroforestry
+IFMARR
+REDD+Unspeciﬁed Forestry
+Clean Water
+BiogasClean CookstovesCommunity Energy Eﬃciency
+Waste Gas Recovery
+CompostingUnspeciﬁed Energy
+SolarWind HydropowerFugitive EmissionsSustainable Ag Land Mgmt.
+Note: Average cluster prices are indicated. Individual credit prices vary within a cluster depending on many factors, including 
+discounts for large transactions and price differentials for project quality. Only includes clusters with transaction data sourced 
+from at least three Respondents, in keeping with EM’s confidentiality policy.
+projects. The most expensive credit type was 
+engineered removal credits like the Biochar 
+Production, which had an average price of over 
+$165/tCO2e but made up less than one percent 
+of the transactions reported to EM in 2024 
+(Figure 7). 
+As expectations of quality continue to ratchet up 
+in voluntary and compliance carbon markets, 
+it is likely that the project types making up 
+this top 25 percent of credits indicate the 
+multiple directions that the VCM was pulled 
+in 2024: high quality Forestry and Land Use 
+and Household/Community Devices projects 
+that can drive reductions and removals at high 
+scale in the present moment, as well as cutting-
+edge methodologies that are establishing a 
+nascent market for engineered carbon removals. 
+Ultimately, the wide price range in the VCM 
+in 2024 demonstrates the spectrum of choice 
+buyers have in the market, governed by their 
+individual needs and value judgments.AGRICUL TURE
+2024 EM Data Represent:  
+19 projects    8 types   8 standards   8 countries
+
+--- PÁGINA 21 ---
+
+16                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+the form of soil carbon. Average prices in this 
+category increased from 2023, driven by credits 
+from several project types, including livestock 
+methane projects (the most widely traded 
+credit type), avoided grassland conversion, and 
+soil carbon. While credits from VCS were once 
+again the most widely traded credits from this 
+category, the share of total transaction volume 
+for VCS fell to 42 percent, with Gold Standard the 
+second-most traded standard for this category. 
+The most common region of origin for Agriculture 
+credits in 2024 was Asia, making up 38 percent 
+of transaction volume, followed by Africa with 21 
+percent of volume traded.
+The Chemical Processes/Industrial Manufacturing 
+category remained the third-largest category in 
+terms of transaction volume in 2024, although 
+the Household/Community Devices and Waste 
+Disposal categories had a greater total value. 
+These projects reduce greenhouse gases 
+emitted in industrial settings, whether those 
+emissions come through direct production 
+or utilization as chemical reagents. Common 
+project types include nitrous oxide destruction, 
+hydrofluorocarbon reclamation, fugitive 
+emissions capture and destruction, and other 
+ozone depleting gas destruction projects. Direct 
+air capture (DAC) and other engineered removals 
+methodologies are included in this category, 
+as well. The approval of fugitive emissions and 
+ozone depleting substances (ODS) under ICVCM’s 
+CCPs increased transaction volume for these 
+clusters, but ultimately category volume was 
+down year-over-year due to reduced transactions 
+of nitrous oxide destruction credits, the largest 
+project cluster in the category. The plurality of 
+credits traded in 2024 came from the American 
+Carbon Registry (ACR), representing 46 percent of 
+transaction volume, followed by VCS at 16 percent 
+of volume. North America was the main source 
+of credits traded, with 44 percent of volume 
+originating from North American projects, 
+followed by 5 percent from Asia. 
+Energy Efficiency/Fuel Switching projects address1 
+greenhouse gas emissions at the source of 
+demand, either by increasing the efficient use 
+of power and heat in industrial and residential 
+settings or by changing fossil fuels used in power 
+generation to fuels like biomass and natural gas 
+that have less global warming impact. Transaction 
+volumes in 2024 were down across all project 
+clusters, including industrial energy efficiency, 
+utility grid efficiency, and fuel switching. In 2024, 
+58 percent of Energy Efficiency transaction 
+volume reported to EM originated from Asia, and 
+96 percent of credits were from VCS projects.  
+ 
+Market share for the Forestry and Land Use 
+category continues to grow, with transaction 
+volume declining less than one percent from 
+2023 to 2024. Credits from REDD+ projects 
+remain the most-traded credit type, at 37 
+percent of total category volume, despite 
+declining volume for this project type in 2024. 
+However, the volume of credits traded from IFM 
+projects more than tripled in the last year, with 
+much of the supply sourced from North America. 
+Meanwhile, ARR credit volume declined 21 
+percent with price increasing 19 percent. Projects 
+located in Latin America and the Caribbean 
+contributed 27 percent of transaction volume 
+in the last year, followed by North America (22 
+percent), Africa (nine percent), and Asia (eight 
+percent). The largest standard, in terms of credit 
+1 2024 data include more project types and countries than 
+the number of projects reported because not all Respon -
+dents provided project ID information for every transaction 
+reported.CHEMICAL PROCESSES/
+INDUSTRIAL MANUFACTURING
+2024 EM Data Represent:  
+14 projects    14 types   5 standards   7 countriesENERGY EFFICIENCY/  
+FUEL SWITCHING
+2024 EM Data Represent:  
+5 projects     8 types   5 standards   15 countries1
+FORESTRY AND LAND USE
+2024 EM Data Represent:  
+151 projects     20 types    15 standards    36 countries
+
+--- PÁGINA 22 ---
+
+State of the Voluntary Carbon Market 2025    17
+transaction volume, was VCS, at 57 percent of 
+Forestry and Land Use volume, followed by ACR 
+with 20 percent, and Plan Vivo with 3 percent of 
+reported volume. This category remains relevant 
+across the VCM value spectrum, with the largest 
+transaction volume and market value in 2024, as 
+well as the greatest number of projects, project 
+types, standards, and countries represented in 
+reported transaction data.
+The Household/Community Devices category 
+focuses on energy demand at the level of 
+individual households and communities, often in 
+rural locations with limited infrastructure. Project 
+types in this category can include efficient 
+cookstove distribution, water purification 
+device distribution, community biogas and 
+biodigester infrastructure, and community-
+scale renewable energy and energy efficiency 
+projects. Household/Community Devices credits 
+from Gold Standard were the most widely traded 
+in 2024, at 71 percent of transaction volume, 
+followed by eight percent of volume from VCS. 
+Africa was the biggest source of Household/
+Community Devices credits traded last year, at 
+43 percent of credits, followed by Asia, where 20 
+percent of credits traded originated.
+Credits traded from the Renewable Energy 
+category had the second highest transaction 
+volume and second greatest total market value, 
+after Forestry and Land Use, as well as the second 
+most projects represented in EM data. Leading 
+project clusters in this category included wind, 
+hydropower, solar, biomass, and biogas. While 
+average transaction prices in this category continued to fall in 2024, the average price for 
+biogas credits rose, which may relate to ICVCM’s 
+approval of landfill gas to energy projects under 
+the CCPs. Latin America and the Caribbean was 
+the origin for 21 percent of credits traded in 2024, 
+just above Asia at 19 percent. The continued 
+decline in Asian Renewable Energy market value, 
+especially for credits from CDM projects, drove 
+declines in both Renewable Energy and the Asia 
+region as a whole. The most prevalent standard for 
+Renewable Energy credits was VCS, at 48 percent 
+of transaction volume, followed by CDM, which still 
+accounts for 26 percent of transaction volume in 
+this category, and Gold Standard, which was the 
+issuer of 20 percent of credits traded.
+The Transportation category is typically the 
+smallest category in terms of transaction volume 
+because so few Transportation projects have been 
+registered. These projects focus on increasing 
+the efficiency of transportation by developing 
+new mass transit and supporting electric vehicle 
+adoption and human-powered transport. In 
+2024, the greatest volume of transactions for 
+Transportation credits was from projects that 
+focus on increasing the efficiency of shipping 
+fleets. All reported sales of Transportation credits 
+were from North American projects, with 82 
+percent of these transactions for Canadian 
+Standards Association credits.
+Waste Disposal was the only category with 
+increased transaction volume and market value in 
+2024, with volume more than tripling from 2023. 
+However, average credit prices fell by ten percent, 
+driven by a decline in the market value of credits 
+from recycling projects. Landfill gas destruction 
+credits were the main driver of growth in this HOUSEHOLD/  
+COMMUNITY DEVICES
+2024 EM Data Represent:  
+61 projects     8 types    3 standards    28 countries
+RENEWABLE ENERGY
+2024 EM Data Represent:   
+113 projects    19 types    8 standards    23 countriesTRANSPORTATION
+2024 EM Data Represent:  
+3 project      4 types     3 standards     1 country
+WASTE DISPOSAL
+2023 EM data consist of:  
+12 projects     7 types     9 standards     11 countries
+
+--- PÁGINA 23 ---
+
+18                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+category after ICVCM approved ACR, Climate 
+Action Reserve (CAR), Gold Standard, and VCS 
+landfill gas credits under their CCP assessment 
+framework in July 2024, with transaction volume 
+for this project type increasing 149 percent from 
+2023. Composting credits also saw notable 
+growth in demand in 2024, with transaction 
+volume increasing to over 7 times the volume 
+traded in 2023. The majority of credits traded (55 
+percent) were from projects in North America, 
+with the largest standards by transaction volume 
+being CAR (42 percent) and VCS (30 percent).
+Project Standard
+ ●The decline in average credit price across 
+the total market is driven by two standards: 
+VCS (price decreased 33 percent) and CDM 
+(price decreased 49 percent).
+ ●VCS maintained the largest market share 
+in 2024, once again making up about 50 
+percent of the total market, while ACR 
+became the second largest standard by 
+volume traded.
+ ●The average price of ACR credits doubled in 
+2024, while the total value of credits traded 
+from projects registered by CAR grew by 
+23 per cent, both driven by sales of CCP-
+approved Land  fill Gas and Ozone Depleting 
+Substances credits.
+Credits sourced from projects registered by 
+different standards saw notable differences in 
+transaction volume and price trajectories in 
+2024. The market share of the largest standard, 
+VCS, remained steady at about 50 percent of 
+the total VCM, though the average price of VCS 
+credits fell by 33 percent. Average prices also fell 
+for credits from projects developed under the 
+UN’s CDM, driving a 54 percent decline in total 
+value despite transaction volume decreasing 
+only 10 percent (Table 5). While the CDM is a 
+last-generation standard for credits developed 
+under the Kyoto Protocol, credit transactions 
+have continued while some projects are pending 
+approval for transition to the Paris Agreement 
+Credit Mechanism (PACM), the new standard for 
+credits developed under Article 6.4 of the Paris 
+Agreement (see Box 3).For all other credit issuing standards, average 
+credit price increased from 2023 to 2024. The 
+volume of credits from ACR traded held steady 
+in 2024, declining only 5 percent from the year 
+before. This relatively low decrease in transaction 
+volume while average credit price doubled from 
+2023 led ACR to become the second-largest 
+standard in terms of both transaction volume and 
+total value. The approval of ACR Landfill Gas and 
+ODS credits under ICVCM’s CCPs was one factor 
+in this standard’s growing market share. The total 
+value of credits traded from projects registered by 
+CAR grew by 23 percent, which was also influenced 
+by the approval of Landfill Gas and ODS projects 
+from CAR under the CCP label (Table 5).
+Project Location
+ ●Falling market value in 2024 was largely 
+driven by the decline in both the volume 
+and average price of credits from projects in 
+Asia, especially Renewable Energy credits, 
+which are considered lower quality.
+ ●North American credit prices increased 
+by 59 percent, driven by demand for CCP-
+approved credits and expensive IFM credits.
+Examining the relative volume and value of 
+credit transactions by the region where the 
+credit originated provides a more in-depth 
+look at how the supply and demand for VCM 
+credits shifted in 2024. The total reported 
+value of transactions for credits originating 
+from projects in Asia fell by 57 percent, driven 
+by a 20 percent decline in price (Table 6). This 
+regional downturn was driven by declining 
+prices for Asian carbon credits from almost all 
+categories, especially Renewable Energy. The 
+only exceptions were the Forestry and Land Use 
+category, where prices remained more or less 
+unchanged, and the Household/Community 
+Devices Category, where average credit prices 
+increased in 2024.
+Other regions saw similar declines in reported 
+transaction volume, but increasing average 
+credit prices partially or fully offset the decline 
+in market value. In Latin America and the 
+Caribbean, the largest region of origin for credits Section Insights
+Section Insights
+
+--- PÁGINA 24 ---
+
+State of the Voluntary Carbon Market 2025    19
+Table 5. VCM Transaction Volumes, Values, and Prices by Project Standard, 2023-2024
+Note: EM cannot report an average price for credits from Canadian Standards Association projects in 2023 because of the  
+confidentiality of individual EM respondent data.2023 2024 Percent Change
+StandardVolume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume Value Price
+VCS 56.6 $394.1M $6.96 41.9 $194.8M $4.65 -26% -51% -33%
+ACR 10.8 $61.7M $5.74 10.3 $121.4M $11.82 -5% 97% 106%
+Gold Standard 16.3 $103.9M $6.37 9.8 $69.5M $7.10 -40% -33% 11%
+CDM 6.9 $18.0M $2.63 6.2 $8.3M $1.35 -10% -54% -49%
+CAR 3.4 $26.5M $7.80 3.1 $32.5M $10.60 -10% 23% 36%
+Plan Vivo 1.6 $18.8M $11.51 1$12.8M $13.14 -40% -32% 14%
+UK Woodland 
+Carbon Code0.3 $10.5M $30.25 0.3 $9.5M $34.18 -20% -9% 13%
+Canadian 
+Standards 
+Association- - - 0.3 $1.7M $6.62 - - -
+Cercarbono 0.6 $2.4M $4.17 0.2 $0.9M $4.25 -64% -63% 2%traded in 2024, volume fell 37 percent but prices 
+rose 17 percent. This was driven by increasing 
+prices for Household/Community Devices 
+credits. In Africa, volumes similarly fell 48 percent 
+while average price increased 26 percent. This 
+was driven by increasing prices for Forestry 
+and Land Use credits from this region, while 
+Household/Community Devices credits had little 
+price change year-over-year.Regions in the Global North saw increases in 
+reported market value from 2024 transaction 
+data collected by EM. In North America, a 59 
+percent increase in average credit price was 
+due to an increase in the transaction volume 
+of relatively expensive Forestry and Land Use 
+and Waste Disposal credits, which grew by 600 
+and 500 percent from 2023, respectively. At the 
+same time, the volume of Energy Efficiency/Fuel 
+Table 6. VCM Transaction Volumes, Values, and Prices by Project Region, 2023-2024
+ Note: EM cannot report an average price for credits from Oceania in 2024 because of the confidentiality of individual EM  
+ respondent data.2023 2024 Percent Change
+RegionVolume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume Value Price
+Latin America 
+and Caribbean23.2 $129.0M $5.56 14.6 $95.1M $6.52 -37% -26% 17%
+North America 20.8 $150.5M $7.24 13.6 $157.1M $11.52 -34% 4% 59%
+Asia 17.1 $123.2M $7.19 9.2 $53.1M $5.74 -46% -57% -20%
+Africa 13.8 $82.5M $5.98 7.2 $54.5M $7.53 -48% -34% 26%
+Europe 0.5 $13.3M $27.17 0.7 $19.0M $29.19 33% 43% 7%
+Oceania 0.06 $1.8M $32.17 - - - - - -
+
+--- PÁGINA 25 ---
+
+20                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Switching credits traded fell by over 99 percent, 
+but average price more than doubled, which 
+indicates a shift away from lower quality Energy 
+Efficiency credits in North America.
+Europe was the only region to see reported 
+transaction volume grow, by 33 percent. 
+However, as Europe is one of the smallest 
+regions in terms of credit origination, the 43 
+percent increase in European market value was 
+equivalent to the 4 percent increase in North American market value (Table 6). The growth in 
+reported market value for these regions does not 
+make up for declining values from Asia, Africa, 
+and Latin America. The increased average price 
+of credits from European projects was related 
+to a growing volume of reported transactions 
+with expensive Forestry and Land Use credits 
+and several extremely expensive transactions 
+of Biochar Production projects in the Waste 
+Disposal category, which was the most expensive 
+type of credit in 2024.
+Historically, voluntary and compliance carbon markets were thought of as separate, but it is now 
+more accurate to recognize the interdependence and interoperability of the VCM and compliance 
+markets. The majority of carbon credits are generated by voluntary project developers, while both 
+compliance demand and voluntary demand from companies, institutions, and individuals have 
+represented parallel tracks for credits to flow to end users. An increasing number of compliance 
+carbon markets, whether emissions trading schemes (ETS) or carbon tax systems, now allow the use 
+of some credits from voluntary standards to offset regulated emissions. 
+The major distinction between the VCM and compliance markets is the intended use of carbon credits. 
+In the VCM, use of credits for offsetting is the main alternative to decarbonization for end users, while 
+in compliance markets, regulated parties can either trade emissions allowances with other compliance 
+participants or pay a tax on emissions exceeding set allowances. In both cases, market regulators and 
+end users make choices about which credits to transact, with embedded value judgments about which 
+credits represent the greatest assurance and highest overall quality of emissions reductions or removals.
+The Voluntary Carbon Market
+The VCM is the sum total of all carbon credits originating from voluntary carbon standards and 
+being used by a group of voluntary credit buyers composed of companies, institutions, and 
+individuals who wish to offset some or all of their annual emissions. Many carbon credits are sold 
+to intermediaries and aggregators who sell voluntarily generated credits to both voluntary and 
+compliance buyers. Because intermediaries sell to both types of buyers, price action, supply, and 
+demand in the VCM can affect compliance markets through this linkage, and vice versa.
+End users in the VCM can choose one of two approaches to buying and using carbon credits for 
+emissions offsetting. They may choose to follow the guidance of a framework, like the Science 
+Based Targets Initiative (SBTi) Net-zero Standard or the Voluntary Carbon Market Integrity Initiative’s 
+(VCMI) Claims Code of Practice, or they may decide to buy and retire carbon credits in any quantity 
+and from any project type to meet specific objectives. Credit buyers who retire credits outside of or 
+in addition to one of these frameworks make their own judgments about what types of credits fit 
+their objectives for impact through the VCM and about the best philosophy for high impact credit 
+purchases. They may choose to invest in certain project types for their non-carbon co-benefits, 
+or they may seek out the lowest prices on high quality carbon credits to maximize the impact of 
+their capital on greenhouse gas emissions. However, these buyers must be prepared to define 
+and explain their decisions to invest in credits to stakeholders, customers, and sometimes media, 
+without the benefit of an outside framework to explain their rationale.
+Compliance Markets and Carbon Credits
+In most compliance carbon markets, the main objective of the market is to incentivize businesses 
+to decarbonize using trading of emissions allowances (in ETS) or taxing excess emissions, while 
+project-based carbon credits are meant to be a minor feature. (continued)Box 2. Voluntary and Compliance Carbon Markets
+
+--- PÁGINA 26 ---
+
+State of the Voluntary Carbon Market 2025    21
+One exception to this trend is the nascent market for international carbon credit trading being 
+operationalized under Article 6 of the Paris Agreement (see Box 3, p 27). The objective of Article 
+6, including the 6.2 and 6.4 market mechanisms, is for high-emitting countries to meet their 
+Nationally Determined Contributions (NDCs) goals, negotiated under the Paris Agreement. This 
+will be achieved by purchasing credits from projects in countries which are on track to keep their 
+emissions below their NDCs or have a surplus supply of credits beyond their countries need.
+Compliance markets in individual jurisdictions and industries are beginning to embrace 
+interoperability with the VCM, indicating acceptance of the common framework of emissions 
+reductions and removals underlying both types of carbon market. While some compliance markets 
+have internal projects that generate carbon credits only to be used within the compliance system, 
+the vast majority of credits traded are sourced from voluntary project developers using a standard 
+like ACR, Gold Standard, or VCS. These standards have no specific compliance demand in mind 
+when establishing a project.
+The decision to accept voluntary credits into a compliance scheme is therefore a complex value 
+judgment that requires making decisions about which type of credits to incentivize end users 
+to engage with, and in what quantity. Compliance markets may limit the amount of covered 
+emissions that can be offset using carbon credits, as in California and Washington state. Another 
+lever that compliance markets use to control the use of voluntary credits is to limit the variety of 
+voluntary project types that are eligible for compliance offsetting. No matter the approach taken, 
+policymakers should be confident in their ability to explain how the use of voluntary credits helps 
+achieve decarbonization goals.Box 2. Voluntary and Compliance Carbon Markets (Continued)
+
+--- PÁGINA 27 ---
+
+22                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Reductions, Removals, Nature-based, 
+and Engineered Credits
+ ●Buyers showed a strong preference for 
+removal credits, increasing the average 
+price of these credits in 2024 and pushing 
+the premium for removals over reductions 
+up to 381 percent.
+ ●Because the vast majority of removal 
+credits available today are from ARR 
+projects, this demand for removals has 
+prevented larger declines in the value of 
+the Forestry and Land Use category.
+One of the key trends in the VCM in 2024 
+was buyers’ continued demand for credits 
+that represent removals of carbon dioxide 
+from the atmosphere, rather than reductions 
+of greenhouse gas emissions, which were 
+perceived as lower quality credits. While both 
+reductions and removals are essential for 
+slowing global warming, only removals can 
+compensate for “residual emissions” from hard-
+to-decarbonize industries, like steelmaking. 
+These removal credits will be critical to achieving 
+global net-zero emissions. 
+Despite full net-zero emissions being decades 
+away from feasibility, there are some buyers 
+who are specifically seeking removal credits. In 
+particular, large tech companies have emerged as 
+a leading source of demand for removals, as data 
+center operations are a rapidly growing source 
+of greenhouse gas emissions and large tech 
+companies have taken a more stringent approach 
+to what they consider quality credits. In many 
+cases, buyers of removal credits have placed the 
+durability of storage for the drawn down carbon 
+at the forefront of their strategy, demanding 
+100- or 1,000-year durability timelines to establish “permanent” carbon removal. This has led some 
+buyers to dismiss nature-based removal types, 
+such as ARR, even though properly planned 
+nature-based removals can have greater than 100 
+years of durability and technological removals are 
+not without reversal risks of their own.
+Although there is a clear demand signal for 
+removal credits, growth in supply has lagged, 
+creating higher prices for credits from this 
+market segment. The average price of a removal 
+credit increased by 13 percent in 2024. As a result, 
+the average price premium for removals over 
+reductions grew to 381 percent in 2024, up from 
+245 percent in 2023 (Table 7). The market share 
+of removals grew, but remained small in absolute 
+terms, with five percent of total transaction 
+volume coming from removal credits in 2024, 
+compared to four percent in 2023.
+Removal credits can be sourced from projects that 
+create removals only, including nature-based ARR 
+and Agroforestry projects, as well as technological 
+removals, like direct air capture (DAC), biochar 
+production, and novel technologies such as 
+biomass sequestration and marine carbon capture. 
+Removals can also come from nature-based 
+projects, which produce credits representing 
+both reductions (from land use changes that 
+decrease greenhouse gas emissions) and removals 
+(from increased carbon stored in biomass and 
+soil carbon pools). Project types producing these 
+credits include some ARR, IFM, and REDD+ 
+projects, Blue Carbon projects including Mangrove 
+Restoration, and Agriculture projects that increase 
+soil carbon stocks. The average price of credits 
+representing both reductions and removals also 
+increased in 2024, with prices 15 percent higher 
+than the year before (Table 7).
+Although there are many new technological 
+removal methodologies on the near horizon, 
+ARR remains the largest source of pure removals, 
+representing 99 percent of transaction volume 
+for these credits over the last year. ARR not Buyer Preferences and Proxies for 
+Quality
+Section Insights
+
+--- PÁGINA 28 ---
+
+State of the Voluntary Carbon Market 2025    23
+only accounts for the largest volume of removal 
+credits, but these credits are also on average 
+ten times less expensive than credits from novel 
+engineered project types.  
+Demand for removals was a major theme in both 
+our quantitative and qualitative findings, with 
+24 percent of Respondents who completed our 
+sentiment survey mentioning buyer demand for 
+removals in their responses (see EM Respondent 
+Sentiments on the VCM in 2024, p 29). The 
+expressed preference for removals served to 
+bolster sales of nature-based credits (defined 
+as all credits from projects in the Forestry and 
+Land Use and Agriculture categories) over the 
+last year. The volume and total market value 
+of the nature-based segment of the VCM fell 
+proportionally less than the larger volume of 
+engineered credits; as a result, nature-based 
+credits made up 45 percent of total transaction 
+volume in 2024, up from 37 percent a year earlier.
+Co-benefit Certifications
+ ●Many of the objectives of co-benefit 
+certification programs are becoming 
+embedded in the structure of the VCM, 
+including strong local environmental and 
+social benefits.
+ ●The advent of ICVCM’s CCPs has decreased 
+the urgent need for separate co-benefit 
+certifications. Only one Respondent from 
+EM’s market sentiment survey mentioned 
+co-benefits in their response, while 35 
+percent mentioned ICVCM and CCPs.Over the past several years, we have noted 
+a preference among VCM credit buyers for 
+credits generated from projects that provide 
+environmental and social co-benefits beyond 
+mere carbon reductions and/or removals. In the 
+past, these projects were largely distinguished by 
+participation in additional co-benefit certification 
+programs, which were either organized by 
+credit-issuing standards (e.g., Verra’s Climate, 
+Community, and Biodiversity (CCB) and SD VISta 
+labels) or through independent bodies (e.g., Social 
+Carbon). However, the scope of these programs 
+has always been limited – CCB only applies to 
+Forestry and Land Use project types and covers 
+slightly less than half of the total volume issued 
+in that category to date, and Social Carbon has 
+transitioned to an impact-focused credit issuing 
+standard rather than an independent label.
+Project certification indicating alignment with 
+one or more UN Sustainable Development Goals 
+(SDGs) is another possible way to indicate social 
+and/or environmental co-benefits. This is typically 
+data applied at the registry level by standards, and 
+some standards may require a minimum number 
+of certified SDGs before accepting a project for 
+registration. However, as of 2024, EM has only 
+been able to directly source information on SDG 
+certification status for ACR, CAR, Gold Standard, 
+and Plan Vivo, and from six VCS projects, meaning 
+that our ability to determine project co-benefits 
+from SDG certifications remains incomplete. In 
+2024, the premium for credits with at least one 
+SDG certification grew to 71 percent, compared to  
+29 percent the year before.
+Many of the objectives of co-benefit certifications 
+are becoming embedded in the structure of 
+the VCM. The relatively high prices and stable 
+transaction and retirement volumes for Forestry Table 7 . Volume, Value, Price for Reduction vs. Removal Credits
+2023 2024
+Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)
+Removals 4.9 $84 .0M 17.28 4.2 $82.2M 19.50 
+Reductions 58.6 $271.5M 4.64 38.8 $157.5M 4.05 
+Both 35.4 $297.3M 8.40 22.8 $221.7M 9.73 
+Section Insights
+
+--- PÁGINA 29 ---
+
+24                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+and Land Use credits reflect not only demand 
+for these credits, but also additional premiums 
+on projects that restore and conserve natural 
+landscapes and provide habitat for biodiversity and 
+other crucial ecosystem services. The growth of the 
+Household/Community Devices category through 
+2023 (and the continued growth in retirements of 
+these credits) can be explained through demand 
+for credits from projects that directly benefit the 
+local communities where they are located. 
+The shift away from distinct co-benefit 
+certifications is evident in responses to our 
+qualitative sentiment survey (see EM Respondent 
+Sentiments on the VCM in 2024, p 29). No 
+Respondents mentioned SDG certification, 
+and only one Respondent mentioned 
+CCB certification in their response to the 
+unstructured questions in our survey, compared 
+to 36 percent who mentioned ICVCM and CCP 
+approval. Therefore, it appears that while buyer 
+preference and demand for projects that include 
+environmental and social co-benefits remains 
+strong, the market has not coalesced around a 
+way to determine or track these benefits.
+Credit Vintage
+ ●The recency premium for credits with a 
+vintage from the last five years grew to 217 
+percent in 2024, a large increase from 2023.
+ ●Buyers increasingly prefer to align the 
+vintage of credits used for offsetting with 
+the years of emissions being offset, and 
+seeking newer credits also avoids outdated 
+methodologies.
+Credit buyers continue to demonstrate a 
+strong preference for credits from a vintage 
+within five years of the date of sale. In fact, the 
+average price of credits that were generated in 
+the last five years grew 17 percent in 2024, in 
+contrast to the price of older credits, which fell 
+by an average of 43 percent. The premium for 
+credits generated in the last five years, already 
+at 53 percent in 2023, grew to an incredible 217 
+percent last year, with buyers paying over three 
+times as much for more recent credits (Table 8).Although there has been no strong guidance 
+from market integrity groups such as ICVCM or 
+the Voluntary Carbon Market Integrity Initiative 
+(VCMI) regarding credit vintage, there are several 
+reasons that buyers might prefer to source 
+credits with a vintage within the last five years. 
+As a practical matter, buyers often prefer to 
+purchase credits from the current calendar year 
+to offset greenhouse gas emissions in the same 
+year; however, due to the MRV cycles for many 
+project types, large volumes of credits are not 
+issued until one or two years after their vintage 
+date. End users of credits may also hold credits 
+for the future instead of retiring in the current 
+year, and if they choose this strategy, they may 
+wish to compensate for the later retirement date 
+by buying the most recent credits available on 
+the market.
+Another factor that may increasingly contribute 
+to the premium for credits from more recent 
+vintages is the continuing improvement of 
+project methodologies and the evolution 
+of quality standards as the VCM matures, 
+particularly the expanding scope of ICVCM’s 
+CCP assessments on project types and specific 
+methodologies. By establishing an acceptable 
+version of a project methodology, such as CAR’s 
+US Landfill Protocol in the Landfill Gas type, 
+ICVCM creates a cutoff date for credit vintage, 
+as credits issued under earlier versions of these 
+methodologies will not be given CCP-approved 
+status. In some cases, credit issuing standards 
+are creating new, consolidated methodologies 
+for project types like REDD+ and ARR, and older 
+methodologies are not under assessment by 
+ICVCM.
+Table 8. Vintage and Recency Premium
+YearOlder  
+than 5 years  
+(USD)More recent 
+than 5 years  
+(USD)Recency 
+premium
+2020 2.41 3.53 47%
+2021 3.69 5.09 38%
+2022 5.56 8.59 55%
+2023 5.17 7.91 53%
+2024 2.94 9.31 217%Section Insights
+
+--- PÁGINA 30 ---
+
+State of the Voluntary Carbon Market 2025    25
+CORSIA and Compliance Markets
+ ●CORSIA, one of the first compliance 
+carbon schemes to include a pathway 
+for carbon credit supply from voluntary 
+carbon standards, entered into its first 
+compliance phase in 2024, with credits 
+from a new set of standards and project 
+types approved for use as offsets.
+ ●CORSIA eligibility is still an important 
+driver of demand for some credit types 
+but from the perspectives of market 
+participants, integrity initiatives, such 
+as ICVCM’s Core Carbon Principles, are 
+becoming a more relevant indicator of 
+credit quality for most credit buyers.
+Beginning in 2021, the International Civil Aviation 
+Organization’s (ICAO) Carbon Offsetting and 
+Reduction Scheme for International Aviation 
+(CORSIA) program was viewed as an important 
+indicator for carbon credit quality requirements 
+in compliance markets. CORSIA requires airlines 
+flying routes between participating jurisdictions 
+to decarbonize their operations either using 
+sustainable and lower carbon fuels, or through 
+the use of carbon credits to offset emissions. 
+CORSIA set forth a phased implementation that 
+began with a pilot phase from 2021 through 
+the end of 2023, followed by the first full 
+implementation phase from 2024 through 2026, 
+and concluding with a second phase from 2027 
+through 2035. In each phase, ICAO has adjusted 
+its definitions of acceptable credits, including 
+reducing the number of credit-issuing standards 
+accepted during the first phase from the pilot 
+phase. Therefore, it is not possible to directly 
+compare supply and demand for CORSIA-
+approved credits between 2023 and 2024, as a 
+different set of rules was in place before 2024.
+CORSIA remains an important source of demand 
+for some classes of credits, but it is no longer 
+the only compliance carbon market accepting 
+credits that originate from the VCM (see Box 2). 
+Several emissions trading and carbon tax systems 
+now accept credits generated domestically or 
+internationally, and each of these carbon pricing mechanisms has its own set of rules governing 
+the use of voluntarily developed carbon credits. 
+The de facto role of quality arbiter that CORSIA 
+once played is now being taken over by initiatives 
+like ICVCM and by independent carbon project 
+ratings agencies. This shift was reflected in 
+Respondents’ qualitative reflections captured 
+in our sentiment survey (see EM Respondent 
+Sentiments on the VCM in 2024 , p 29); only seven 
+percent of Respondents mentioned CORSIA in 
+their responses to the open-ended questions 
+on our survey, compared to 36 percent who 
+mentioned ICVCM and/or CCPs, 19 percent who 
+mentioned ratings agencies, and 13 percent who 
+mentioned compliance carbon markets.
+ICVCM Core Carbon Principles
+ ●ICVCM approved five project types for CCP 
+eligibility in 2024, but only three types of 
+credits (Landfill Gas, Fugitive Emissions, 
+and ODS) were widely available to buyers.
+ ●The average price of Landfill Gas credits 
+increased by 35 percent from the first half 
+of the year to the second half of the year 
+with 3.1M credits traded, which is a 149 
+percent increase in volume from 2023.
+ ●While approval of REDD+ and ARR 
+methodologies is a promising sign for 
+demand in the Forestry and Land Use 
+category, the main methodologies for 
+these project types did not register any 
+projects as of 2024.
+One of the most impactful developments in 
+the VCM in 2024 was the continued roll-out 
+of ICVCM’s Core Carbon Principles (CCPs), a 
+framework for voluntary carbon credit integrity 
+that focuses on program governance, verified 
+emissions impact, and contributions to 
+sustainable development. Over the course of 
+the year, ICVCM approved six standards as CCP-
+eligible, meaning any credits issued by these 
+standards that meet CCP requirements for the 
+relevant carbon credit category will automatically 
+be CCP-approved. ICVCM also made progress 
+in assessing the eligibility of methodologies for 
+some carbon credit categories, which allowed the Section Insights
+Section Insights

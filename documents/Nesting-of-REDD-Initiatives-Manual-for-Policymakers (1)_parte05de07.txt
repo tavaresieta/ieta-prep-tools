@@ -1,0 +1,1110 @@
+DOCUMENTO: Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)
+PARTE 5 de 7
+Páginas 61 a 75
+======================================================================
+
+
+--- PÁGINA 61 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers52
+6.1 General Considerations
+In the context of REDD+, benefit sharing refers to the 
+sharing of benefits that accrue from results-based 
+and carbon finance from programs and projects. 
+Governments and private entities that benefit from 
+results-based finance (RBF), or that sell emission 
+reductions (ERs) allocate a portion of the proceeds 
+from these transactions to private and community 
+actors. Such benefits can be either monetary or 
+nonmonetary, and governments can distribute them 
+as part of their defined benefit sharing arrangements. 
+In addition, they can allocate the right to monetize 
+ERs. The Forest Carbon Partnership Facility (FCPF) has 
+published a guidance for countries on how to develop 
+fair and effective benefit sharing arrangements,56 and 
+has collected good practices in benefit sharing.57   
+When engaging in REDD+ implementation, 
+policymakers have to decide where and how 
+communities and individuals will benefit from the 
+monetary and/or nonmonetary incentives of REDD+.   
+Effective allocation of incentives is essential in order 
+to create an effective REDD+ system and to achieve 
+sustainable results. Carbon rights are important 
+considerations when designing a benefit-sharing 
+system. However, benefit-sharing arrangements 
+can calibrate carbon rights – and the related legal 
+constructs -- such as land or tree ownership, 
+customary or ancestral rights, and the ability to 
+relate to ecosystem services against notions of equity 
+and fairness in the discussion of carbon rights and 
+the ensuing benefit-sharing decisions. Stakeholder 
+consultations and participatory decisions are essential 
+in creating a stable benefit-sharing system. 
+Countries should consider developing a benefit-
+sharing framework that can apply to all REDD+ 
+projects and programs, and enable them to develop 
+specific benefit-sharing arrangements. Many 
+countries are operating multiple REDD+ programs 
+—such as the FCPF Carbon Fund and the Green 
+Climate Fund (GCF)—as well as various bilateral 
+donor-supported programs and voluntary market 
+projects. They may want to consider applying one 
+consistent approach rather than making ad hoc  
+decisions regarding benefit sharing in response 
+to each source of financing. Having different, and 
+sometimes conflicting, policy decisions with respect 
+to the interpretation of carbon rights, and allocating 
+benefits and risks differently, can create confusion. 
+56  https:/ /www.forestcarbonpartnership.org/bio-carbon/en/bd-bs-mechanism.html  Note: These are currently being used for benefit sharing of first payments from the FCPF Carbon Fund, so 
+they still need to be tested.
+57 https:/ /openknowledge.worldbank.org/handle/10986/32765 )Furthermore, countries that are experimenting with 
+different benefit-sharing arrangements at the project 
+and program levels will find it challenging to scale 
+them up to the national level if they are not supported 
+by consistent policy and benefit-sharing principles. 
+Incentives and Benefit-Sharing Frameworks
+Governments might want to consider whether, and if 
+so how, to link rewards and incentives (benefits) to 
+ER performance. When elaborating a benefit-sharing 
+framework, governments have to balance the need 
+to finance national policies with creating local-level 
+incentives for private investors and communities. 
+They are faced with the challenge of evaluating where, 
+how, and by whom deforestation can be reduced. 
+This implies making decisions about how to reward 
+those who are actively contributing to it. Generating 
+ERs requires participatory consultations with the 
+stakeholders who are eligible for benefit sharing. 
+Considerations of, for example, the historic and 
+cultural aspects of Indigenous communities may also 
+be needed. A government might also decide to use 
+REDD+ benefits to contribute to harmonized regional 
+development, by guaranteeing minimum percentages 
+of benefits to regions. For these reasons, participatory 
+consultations are essential in the decision making 
+and design of a benefit-sharing framework. They 
+help to create stakeholder support and ownership 
+for the REDD+ initiatives, clarify roles, and provide 
+an understanding of the types of monetary and 
+nonmonetary incentives to be shared with the 
+beneficiaries.
+There are multiple ways to structure benefit sharing. 
+The distribution of monetary and nonmonetary 
+benefits by the government is the most common way 
+to distribute benefits in the context of jurisdictional 
+REDD+. Nested REDD+ offers the additional option of 
+providing direct incentives through the authorization 
+and integration of project-level carbon finance into 
+a REDD+ system. Governments will also have to put 
+into place the institutional and policy frameworks 
+that are required to implement the benefit-sharing 
+instruments and to disburse payments. Some 
+countries may already have such policies and 
+institutional frameworks in place; for example, there 
+may be a functioning national payment-for-ecosystem 
+(PES) services system that could be used for the 
+implementation of REDD+ benefit sharing.6. BENEFIT SHARING
+
+--- PÁGINA 62 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers53
+Governments may decide to establish incentives to 
+protect forests in the form of either ex ante  finance 
+or ex post  rewards.58 In the case of ex ante  finance, 
+they can provide upfront financing to actors in order 
+to change behavior and contribute to ERs, with the 
+expectation that REDD+ results-based finance (RBF) 
+will retroactively compensate the government for 
+such expenses, and/or enable an increase in ambition 
+over time. In the case of ex post  finance, a system 
+is set up to provide incentives linked to REDD+ 
+performance. In this case, there are additional options 
+with regard to how closely such rewards are linked 
+to greenhouse gas (GHG) performance metrics, and 
+whether nested projects are paid per generated ERs 
+achieved, or they receive an allocation of ERs based on 
+the GHG performance at the national or subnational 
+level. Countries could also combine ex ante  finance 
+to support national actors in the initial stages of 
+implementing REDD+ RBF, with ex post  rewards in 
+subsequent phases of REDD+ RBF implementation.
+A government benefit-sharing framework should 
+also consider rewarding the stewards of forests 
+and ecosystems, such as Indigenous peoples and 
+local communities.  A country can decide to assign 
+ER benefits to certain categories of actors, for 
+example Indigenous peoples or local communities, 
+independently of their contribution to forest 
+conservation, for reasons of equity or poverty 
+reduction. Such is the case in the Democratic Republic 
+of Congo (DRC), where there are fixed percentages of 
+benefits allocated to Indigenous communities under 
+the benefit-sharing plan adopted in the context of 
+the FCPF ER program. Indigenous peoples that hold 
+ancestral rights over the land and have a long history 
+as stewards of forests have often had a history of 
+being marginalized. REDD+ benefit sharing offers an 
+opportunity to reward them for their role as guardians 
+of the forests. Governments will also have to invest 
+in conservation efforts to avoid future deforestation 
+frontiers. In such cases—where considerations 
+beyond GHG performance are considered—nested 
+forest carbon projects may receive fewer benefits 
+(whether in terms of ERs or funding) than they could 
+potentially secure if they were to market all their ERs 
+independently. 
+There is a continuum regarding how closely, or 
+directly, incentives are tied to the generation of 
+ERs. For example, in the case of ex ante  finance, the 
+link is weak, since the incentives are provided before 
+GHG performance is known. In the case of ex pos t 
+rewards, the link is obviously stronger if rewards are 
+58  For more detail, and a discussion of ex-ante vs. ex-post rewards, see D. Lee et al. 2018. Approaches to REDD+ Nesting Lessons Learned from Country Experiences. The World Bank. https:/ /
+openknowledge.worldbank.org/handle/10986/29720closely tied to GHG performance metrics. Similarly, 
+an ER allocation approach in which actors or projects 
+and programs at the smaller scales receive only a 
+portion of the higher-scale reward will be weaker 
+than an approach in which projects and programs can 
+generate ERs, and thus receive carbon finance directly, 
+without being limited by the higher-scale jurisdictional 
+performance.  
+Benefit sharing also applies to REDD+ projects 
+in which project benefits or ERs are required to 
+be shared with local actors. Carbon standards 
+require projects to share benefits with local actors. 
+Governments may supplement this guidance by 
+defining benefit-sharing criteria for REDD+ projects. 
+6.2 Application to Nesting Approaches
+When a government sees forest carbon projects 
+as critical to achieving their ERs, projects should 
+be rewarded commensurate with their GHG 
+contribution ; that is, in proportion to how much 
+they have reduced emissions from deforestation. 
+Depending on their experience with PES services and 
+existing institutions, this can usually be achieved 
+more easily under either a centralized or decentralized 
+nesting system. Where governments have programs 
+and institutions in place that can assign benefits, 
+centralized systems may offer an efficient and 
+effective solution. Where institutions are absent or 
+weak, authorizing projects in decentralized systems 
+provides an alternative to government programs. The 
+direct allocation of benefits based on ERs may not be 
+economically and institutionally feasible for smaller 
+projects. In situations where the measurement of GHG 
+performance is too cumbersome under centralized 
+systems, proxies such as trees planted or hectares 
+conserved can be used to assess performance.
+The allocation of incentives for projects under 
+any nested system does not  preclude having 
+other benefit-sharing arrangements with various 
+stakeholders, including Indigenous peoples and local 
+communities, municipalities, or other local actors . 
+Project-based benefit sharing describes only one 
+element of a REDD+ benefit-sharing framework.
+Jurisdictional ER Program (only), with Benefit 
+Sharing
+In the centralized approach, benefit sharing is 
+managed and/or regulated by the government. 
+Therefore, the efficacy of the distribution of benefits 
+falls on the government and its ability to maintain 
+
+--- PÁGINA 63 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers54
+the benefit-sharing arrangements. The government 
+monetizes ERs and uses the resulting proceeds to 
+finance its REDD+ program, thus initially exercising 
+full control over REDD+ finance. This usually 
+includes allocating benefits to the communities, 
+private actors, etc. who are implementing REDD+ 
+activities on the ground, and covering government 
+expenses such as operational costs. Under the fully 
+centralized approach, government-led benefit-sharing 
+arrangements may foresee the allocation of incentives 
+based on project-level monitoring of indicators 
+related to performance. Nongovernmental means 
+(for example, NGOs, or the private sector) may also 
+be used to channel benefits to local actors. However, 
+they may use ex post payments to create domestic 
+incentives linked to environmental performance 
+through payments for ecosystem services, or other 
+metrics. 
+Centralized Nested Approach
+The centralized nested approach also relies on the 
+government to manage benefit sharing. In this model, 
+the government rewards projects with monetary, 
+nonmonetary, or carbon benefits based on their GHG 
+performance.  Private entities can develop projects, but 
+they are unable to autonomously monetize ERs unless 
+the government allows them to do so. This model is 
+dependent on the government’s ability to effectively 
+implement benefit-sharing arrangements, whether it 
+is managing and distributing financing, or ERs. 
+Governments that choose a centralized nested 
+system should define a method for allocating the 
+distribution of ERs as part of the benefit-sharing 
+framework. They  could focus on particular regions, 
+encourage particular stakeholders to participate, or 
+emphasize the protection of important ecosystems 
+(for water, biodiversity, or other reasons). In doing so, 
+they should avoid the creation of perverse incentives; 
+for example, rewarding areas where emissions have 
+happened in the past, and undermining those areas 
+where the forest has been conserved or sustainably 
+managed. As previously noted, it is important to 
+involve relevant stakeholders in the decision-making 
+process, and to promote equity and fairness in the 
+allocation approach. 
+The allocation system will determine the level of 
+incentive for achieving GHG performance . The 
+allocation of benefits will follow an agreed-upon “ER 
+allocation method, ” as discussed in Section 4.4. This 
+method may include a full reward for private efforts, 
+or it may require projects to support government programs in return for a share of the ERs. Systems 
+where projects depend on the government to generate 
+ERs carry a high burden of risk for projects, and are 
+thus likely to be of limited appeal for private investors 
+or project developers. 
+If the centralized nested approach is distributing 
+financing, one important decision is how the 
+government will channel such benefits to projects.  
+This could be done via government-controlled funds, 
+dedicated funds, or direct payments from supporters 
+of national REDD+ programs to nested projects. The 
+use of dedicated funds could help to remove the risk 
+of default in payments. Similarly, the use of tested 
+institutions could avoid delays in payments that might 
+affect the financial viability of REDD+ projects.
+Decentralized Nested Approach
+The decentralized nested approach does not require 
+the inclusion of projects as part of a government-
+run benefit-sharing arrangement, since projects can 
+directly monetize ERs.  Under this model, government 
+agencies—for example, park authorities, communities, 
+NGOs, and private-sector entities—can all develop 
+and participate in carbon projects, either alone or in 
+cooperation with each other. The decisions regarding 
+benefit sharing in the context of these projects is done 
+in accordance with carbon standards, and project 
+agreements. Governments may require reports on 
+project performance, and may consolidate their 
+measurement, reporting, and verification (MRV) and 
+accounting systems, but REDD+ projects are not 
+dependent on the government to pass on the benefits 
+to them. Projects can independently take decisions 
+on when, how, and for what price to market ERs. 
+The government would not be able to sell the ERs 
+generated by projects, and would have to deduct 
+the project ERs from the national accounting when 
+seeking carbon or results-based finance. 
+Under a decentralized benefit-sharing system, 
+incentives for projects are delinked from the 
+performance of government programs . Governments 
+are uniquely placed to generate ERs over the long term 
+through policy and governance reforms, while projects 
+are well placed to support specific conservation 
+efforts; for example, to provide support for measures 
+targeting deforestation hotspots. Some governments 
+may require projects to contribute a share of their ERs, 
+or their proceeds, to government-led programs or local 
+communities as part of the project’s benefit-sharing 
+strategy, but projects retain the right to participate 
+directly in private carbon markets. This model creates 
+
+--- PÁGINA 64 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers55
+a strong link between project GHG performance and 
+rewards, and is more attractive to private carbon 
+investors. 
+Project Crediting (only), No Jurisdictional ER Program
+Under this model, the government does not generate 
+or directly receive rewards for ERs; consequently, 
+there is no need for a benefit-sharing framework 
+at the national level . Projects generate credits 
+and can monetize them; they also put into place benefit-sharing arrangements in accordance with 
+the requirements of national regulation or carbon 
+standards. The government may seek to align the 
+MRV systems of projects with national reporting, 
+and it can provide guidance to projects on how to 
+share carbon benefits; however, the benefits flow only 
+from the project to local actors—for example, from 
+a project operator or developer to local communities 
+or landowners. This approach provides incentives for 
+projects; where government action is required, it must 
+occur in the absence of carbon finance. 
+T able 14 Implications of Benefit Sharing for Each of the Four Models
+Government control over how 
+benefits are sharedCarbon incentives for local 
+nonstate actors (communities, 
+individuals, local public agencies)Relevant nesting 
+model 
+Very strong, since the government is the 
+body monetizing and managing the funds 
+received from ERsIncentives are not based on the actual ERs 
+generated (they can be based on proxies to 
+performance) and are received through benefit-
+sharing arrangements.Jurisdictional ER program 
+(only), with benefit sharing
+Strong, since government manages the 
+allocation of ERsIncentives are  based on ERs generated by 
+projects. Rewards (payments and ERs) hinge on 
+overall performance of the national program.Centralized  Nested
+Moderate, as projects can directly 
+monetize ERs and share them with local 
+actorsIncentives are based on ERs generated and 
+monetized directly by projects. Projects have 
+their own benefit-sharing arrangements. They 
+might have to comply with national guidance 
+on benefit sharing in order to protect local 
+communities and Indigenous peoples. Decentralized  Nested
+Moderate, since government does not 
+directly receive benefits from ERs (but is 
+enabling its political constituents to do so)ERs are generated and monetized directly by 
+projects, and projects have their own benefit-
+sharing arrangements. They might have to 
+comply with national guidance on benefit 
+sharing in order to protect local communities 
+and Indigenous peoples. Project- Crediting (only), 
+no jurisdictional ER 
+program
+
+--- PÁGINA 65 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers56
+7.1 General Considerations
+The Cancun (COP-16) Conference adopted safeguard 
+guidelines for REDD+ . T o address the concerns and 
+risks that REDD+ implementation could generate, 
+and to further promote the multiple benefits of 
+REDD+, in 2010 UNFCCC’s parties agreed to seven 
+social and environmental safeguards for REDD+. 
+These safeguards address the risks associated with 
+implementing REDD+, and aim to enhance its positive 
+impacts by promoting and supporting the following 
+safeguards:59 
+i. Actions complement, or are consistent with, 
+the objectives of national forest programs 
+and relevant international conventions and 
+agreements;
+ii. There are transparent and effective national 
+forest governance structures, taking into 
+account national legislation and sovereignty; 
+iii. Respect for the knowledge and rights of 
+indigenous peoples and members of local 
+communities is demonstrated by taking into 
+account relevant international obligations, 
+national circumstances and laws, and noting 
+that the United Nations General Assembly has 
+adopted the United Nations Declaration on the 
+Rights of Indigenous Peoples; 
+iv. The full and effective participation of relevant 
+stakeholders, in particular indigenous peoples 
+and local communities, is included in the actions 
+referred to in paragraphs 70 and 72 of this [COP 
+16] decision; 
+v. Actions are consistent with the conservation of 
+natural forests and biological diversity, ensuring 
+that the actions referred to in paragraph 70 of 
+this decision are not used for the conversion 
+of natural forests, but are instead used to 
+incentivize the FCCC/CP/2010/7/Add.1 27 
+protection and conservation of natural forests 
+and their ecosystem services, and to enhance 
+other social and environmental benefits;
+vi. Actions to address the risks of reversals are 
+taken; 
+vii. Actions to reduce the displacement of emissions 
+are included. ”
+59 Decision 1, UNFCCC COP 16, Appendix 1, Paragraph 2 at  https:/ /unfccc.int/resource/docs/2010/cop16/eng/07a01.pdf   
+60  Decision 2/CP.17 Paragraph 63 and 64.
+61 61 Decision 12/CP.19 at   https:/ /unfccc.int/resource/docs/2013/cop19/eng/10a01.pdf#page=33
+62  Safeguards Country Resources Hub - UN-REDD Programme Collaborative Online Workspace  
+63  Decision 2/CP 17 states that SIS should be implemented “taking into account national circumstances and respective capabilities, ... recognising national sovereignty and legislation, and 
+relevant international obligations and agreements   ... ” .... ” .
+64  https:/ /www.forestcarbonpartnership.org/requirements-and-templates#temp-read5At COP-17, held in Durban in 2011, the parties to 
+UNFCCC agreed that the relevant safeguard provisions 
+adopted at COP-16 would be applicable regardless 
+of the source or type of financing.60 The Warsaw 
+Framework for REDD+ complements the Cancun 
+safeguards with requirements that countries need 
+to provide a summary of information on safeguard 
+implementation via their national communications, or 
+communication channels agreed to by the Conference 
+of the Parties, or, on a voluntary basis, via the web 
+platform on the UNFCCC website.61
+Safeguards are implemented in keeping with national 
+laws and policies. Over the last few years, many 
+countries have made progress in the implementation 
+of safeguards and safeguard information systems 
+(SIS).62 UNFCCC does not offer any methodological 
+guidance on how to implement the Cancun safeguards 
+and put into place an SIS. Countries are free to 
+choose how they will interpret the safeguards in the 
+context of their own legal systems, as well as how 
+they will implement them, and operationalize the SIS.63  
+However, countries should consider carefully from 
+which entities, if any, they would seek ER payments, 
+and ensure that they develop safeguard systems that 
+would be satisfactory to the entities. For example, if 
+a country intends to become involved in REDD+ under 
+either the Forest Carbon Partnership Facility (FCPF) or 
+the UN-REDD program, it should follow the safeguards 
+guidance contained in the Readiness Preparation 
+Proposal (R-PP).64
+Although countries have some flexibility in how they 
+choose to implement international requirements on 
+safeguards, development of a safeguards framework 
+for an ER project or program would typically involve 
+the following steps:
+1. Assessment of key social and environmental risks 
+and potential impacts  (both positive and negative) 
+of REDD+ strategy options; likely implementation 
+arrangements; and stakeholders. Such assessment 
+during consultations with stakeholders and 
+preparation of the REDD+ strategy would be 
+extremely valuable during the preparation of the 
+REDD+ strategy itself, and the climate finance 
+plans. The completed assessment should be 
+publicly disclosed.7 . SAFEGUARDS 
+
+--- PÁGINA 66 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers57
+2. Based on the risks and impacts identified in the 
+assessment, key stakeholders develop a program/
+project-specific framework. The Environmental 
+and Social Management Framework (ESMF), or 
+a similar safeguards risk management plan can 
+be used to set forth a relevant policy and legal 
+framework for the management of safeguards 
+issues; the risk avoidance, minimization, and 
+mitigation measures that will be implemented; 
+measures to enhance positive social and 
+environmental impacts; definition of institutional 
+roles and responsibilities; monitoring 
+arrangements; budget required and source(s) 
+of funding; a feedback and grievance redress 
+mechanism  (FGRM); and the plan for ongoing 
+stakeholder consultations. 
+3. Monitor safeguards implementation, including 
+taking into account feedback from the FGRM. 
+National environmental and social safeguards are 
+applicable to all REDD+ activities.  Consequently, in 
+a nesting context, where implementation is occurring 
+at multiple scales, this means that safeguard policies 
+should apply to national programs as well as to nested 
+REDD+ projects. How a government chooses to ensure 
+that safeguards are applied and enforced may differ 
+depending on the type of nested system chosen. But 
+as part of the national legal framework, national 
+REDD+ safeguards must be fulfilled by any REDD+ 
+project or activity. 
+Most governments have defined criteria and 
+requirements that translate the UNFCCC Cancun 
+safeguards65 to fit their national programs. If 
+a country wishes to align safeguard application 
+at multiple levels of REDD+ implementation, this 
+may require interpreting and adjusting safeguard 
+requirements according to the national regulatory 
+framework so that they can apply to site-
+scale or project-level activities (see Box 8). The 
+operationalizing of safeguards is not easy, though. The 
+national institutions that are in charge of the SIS face 
+the challenge of collecting different types of safeguard 
+information from the various institutions and 
+actors involved. Therefore the SIS should be able to 
+consolidate information from national and subnational 
+entities, as well as projects. 
+65  Decision 1.CP16, Appendix I. Check also: https:/ /www.unredd.net/knowledge/redd-plus-technical-issues/safeguards.html
+66  REDD SES, IUCN. 2015. Considerations for Countries on Using Information from Nested Projects for REDD+ Safeguards Information Systems .T o facilitate REDD+ safeguards compliance, countries 
+should clarify who is involved—project developer, 
+landowner, etc.—and how the nested projects 
+will implement safeguards and report on their 
+compliance . They also have to regulate the periodicity, 
+the content of the information, safeguard indicators, 
+and the authority to which the information needs 
+to be provided, as specified in the ESMF or a similar 
+national document. Safeguard compliance templates 
+can streamline and facilitate this reporting. The 
+information provided by nested projects helps the 
+country demonstrate how its social and environmental 
+safeguards are being addressed and respected through 
+the REDD+ safeguards information they report on 
+under SIS. When projects are integrated into national 
+REDD+ national programs such as the FCPF Carbon 
+Fund, satisfactory safeguards compliance in line with 
+the World Bank’s policies and standards is required in 
+order to receive payments. Other facilities and donors 
+might also have specific safeguard standards that 
+need to be fulfilled by beneficiary governments, and 
+the projects integrated into the national programs.
+The private sector may also impose safeguard 
+requirements on carbon projects, or credits—
+for example, some require climate, community, 
+biodiversity (CCB) certification. In such cases, 
+projects may already be compliant with national 
+requirements. Countries could accept certification 
+under such standards as proof of fulfillment of 
+the national safeguards. Where projects are CCB-
+certified, the information provided and audits 
+undertaken under the standard can inform the 
+SIS. Site-specific information allows for effective 
+identification, management, and monitoring of social 
+and environmental risks and benefits.66 Project-level 
+REDD+ information will have to be integrated into the 
+SIS, which provides publicly available information on 
+how safeguards are being addressed across all types 
+of REDD+ implementation activities. The national 
+FGRM will also have to be able to record and address 
+project-level complaints. 
+
+--- PÁGINA 67 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers58
+Few countries offer specifications concerning the 
+fulfillment of safeguard requirements by projects 
+in their REDD+ legislation, although many of them 
+have adopted national frameworks such as ESMF 
+and FGRM to accommodate the requirements of the 
+multinational initiatives in which they participate.67 
+Several examples are provided here to illustrate 
+the range of requirements currently considered by 
+countries, in addition to the requirements of the 
+REDD+ initiatives they are part of:
+·	 The  Democratic Republic of Congo (DRC) 
+simply specifies that in the preparation and 
+implementation of the REDD+ investment, the 
+project developer is required to comply with 
+socioenvironmental safeguards in accordance 
+with the regulations in force.68 
+·	 Madagascar  intends to use differentiated 
+indicators to gather safeguards information at 
+the national, subnational, and local levels.69 Its 
+recent Advanced Benefit Sharing Plan stipulates 
+that safeguards instruments will be applicable to 
+any REDD+ activity that receives carbon benefits.70 
+A future decree will detail the specific safeguard 
+requirements concerning any REDD+ activity 
+implemented in Madagascar. 
+·	 In Mozambique, the national REDD+ regulation 
+merely mentions that REDD+ projects and 
+programs need to respect environmental and 
+social safeguards.71 However, the country has 
+elaborated its ESMF in the context of their REDD+ 
+Strategy.72
+·	 Guatemala has analyzed the compliance of 
+existing REDD+ initiatives registered under 
+voluntary carbon standards with World Bank 
+FCPF requirements and Cancun safeguard 
+requirements.73 Yet there are no general guidelines 
+on how REDD+ initiatives should fulfill national 
+safeguards; however,  the country has already 
+elaborated its ESMF. 
+67  For a list of countries participating in the FCPF Carbon Fund that have already advanced ESMF see, http/ /:www.forestcarbonpartnership.org/safeguards. 
+68  Art. 24, 9 mai 2018. – Arrêté ministériel n° 047/CAB/MIN/EDD/AAN/MML/05/2018  fixant la procédure
+d’homologation des investissements REDD+ en République démocratique du Congo (J.O.RDC., 1er juillet
+2018, n° 13, col. 58).
+69  Yasin Mahadi Salah et al. “Jurisdictional Approaches to REDD+ in Africa: Emerging Lessons. ” Yasin Mahadi Salah, UN-REDD Program, March 2019.
+70  Advanced Benefit Sharing Plan: The Atiala-Atsinanana Emission Reduction Program. January 2020.
+71  Art. 18 of Decreto n.º 23/2018, Regulamento para Programas e Projectos Inerentes à Redução de Emissões por Desmatamento e Degradação Florestal Conservação e Aumento de Reservas 
+de Carbono (REDD+).
+72  http:/ /documents1.worldbank.org/curated/es/970171484819513642/pdf/SFG2885-EA-P160033-Box402875B-PUBLIC-disclosed-1-18-17.pdf
+73  Guatemala National Program for the Reduction and Removal of Emissions, November 2019.
+74  Reducing emissions from San Martin and Ucayali in the Peruvian Amazon, Peru, June 2019.
+75  Resolution No. 1447, August 1, 2018. Ministry of the Environment and Sustainable Development, Colombia·	 In Peru, an analysis of the ESMFs of ongoing 
+projects and the ER program framework will be 
+carried out in order to identify gaps that need to 
+be filled.74 
+·	 Colombia submitted the first summary of 
+information on safeguards to UNFCCC in 
+2017. This submission sheds some light on 
+the requirements applied to the activities 
+that seek to be nested. Under Colombian 
+nesting legislation, REDD+ projects must 
+report information regarding compliance 
+with environmental and social safeguards in 
+the national ER registry, especially regarding 
+project participants; conditions of ownership 
+and land tenure in the area of intervention; 
+consent of the owners, possessors, or occupants 
+of the properties in which the initiative will 
+be implemented; and compatibility with land 
+management and planning instruments.75
+·	 Mexico provides a good example of coordination 
+between national and federal states in the 
+development and implementation of safeguards. 
+The country submitted its first summary of 
+information on the implementation of the Cancun 
+safeguards to UNFCCC in 2017. Safeguards are 
+implemented and monitored jointly at the federal 
+and state levels. Most of the Mexican states 
+have developed legislation in relevant areas such 
+as forest governance, financial and distribution 
+benefit mechanisms, Indigenous peoples’ rights, 
+and development stakeholders’ participation in 
+decision-making. Mexican federal states are also 
+in charge of preparing state safeguard plans that 
+will be linked to the national SIS. Box 8 Examples of How Countries Define Safeguard Requirements for a Nested System
+
+--- PÁGINA 68 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers59
+7.2 Application to Nesting Approaches
+Jurisdictional ER Program (only), with Benefit 
+Sharing
+Under this model, the country defines national 
+safeguards but does not need to formulate specific 
+safeguards for integrated private projects. The 
+government is responsible for implementing and 
+enforcing nationally defined safeguards, as well 
+as ensuring that safeguards are followed by all 
+subnational and local-scale actors that have access 
+to REDD+ benefits. While this approach limits the 
+adoption of safeguards to a set of national REDD+ 
+implementation standards, their implementation can 
+be more challenging, since the government is fully 
+responsible for adherence to the safeguards across the 
+entire country.
+Project-Crediting (only), No Jurisdictional 
+Program 
+Under this model, the government needs to formulate 
+its own safeguard requirements for private and 
+community-led projects . The government can 
+distinguish between different safeguard requirements 
+depending on the type of project, the involvement 
+of various stakeholders (for example, Indigenous 
+communities), and the location of the project 
+76  World Bank. Environmental and Social Framework. 2017. (for example, within a biodiversity hotspot). The 
+government can define reporting requirements and 
+specific templates for safeguard compliance, with 
+practical indicators that can be easily measured and 
+reported, and can require proof of compliance. Where 
+private projects are certified under a private standard, 
+the auditors of such projects should be required 
+to check for compliance with national safeguards. 
+However, such private certification would not remove 
+the obligation of the government to also check for 
+compliance with national safeguards and/or to enforce 
+the national safeguard system.
+The government may also recognize existing 
+safeguard systems as fulfilling all national 
+requirements . It could, for example, recognize 
+certain approved safeguard-related certifications 
+(for example, CCB), or multilateral operational rules 
+(for example, World Bank safeguards76) as meeting 
+the requirements of national safeguards systems. 
+Subnational jurisdictions may also develop their 
+own safeguards policy to complement the national 
+framework, as is the case in Mexico. 
+Centralized Nested and Decentralized Nested Models 
+The centralized and decentralized nested models  must 
+regulate and apply both jurisdictional and project 
+safeguard requirements, as described in Section 7.1.
+
+
+--- PÁGINA 69 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers60
+8.1 General Considerations
+Different models of REDD+ implementation carry 
+different risks. Nesting  is generally considered 
+a strategy for reducing risks. By integrating 
+projects into larger accounting and implementation 
+frameworks, they can be better aligned with public 
+policies; and by harmonizing measurement, reporting, 
+and verification (MRV) and baselines, the risk of 
+emission reduction (ER) inflation and/or undetected 
+leakage (displacement) is greatly reduced, provided 
+that the national systems are conservative and well 
+managed. However, the linking of projects and national 
+programs creates its own set of risks. These risks 
+include:
+·	 ER performance: If the government and private 
+projects and programs perform well, they will 
+all receive the full reward for their actions, 
+regardless of whether nesting happens via the 
+benefit sharing, centralized, decentralized , or 
+a mere project-crediting model. However, there 
+are risks that can arise in nested systems, for 
+example:
+o Underperformance risk. This can occur if 
+one party (whether the government or a 
+project) has poor REDD+ performance, while 
+the other performs well. The situation where 
+one party “underperforms” is closely related 
+to the challenges of managing leakage and 
+permanence in nested systems, including 
+decisions on who is responsible (and liable) for 
+them.
+o Nationally Determined Contribution (NDC) 
+compliance risk . Where the transfer of 
+ER results is linked to a corresponding 
+adjustment, this may affect a country’s ability 
+to achieve its NDC. If the country is required to 
+subtract the ER claims by projects or programs 
+within its borders—for example, if projects and 
+programs are allowed to sell their credits with 
+a corresponding adjustment, the government 
+will need to take this transfer into account in 
+their efforts to meet their NDCs.
+·	 Financial risks:  Another type of risk is that of 
+payment default ; this risk is not unique to nesting, 
+but there can be potentially compounded payment 
+risks to parties in a nested/linked system. For 
+example, if a buyer fails to honor its agreements 
+with a government, this could impact projects 
+linked to the government benefit-sharing system. And if projects generate fewer ERs than they 
+previously predicted, it may reduce the funding 
+that governments can access. 
+·	 Legal/regulatory risk:  Private actors may claim 
+damages from the government, for example, 
+by initiating legal action if their rights to 
+commercialize ERs are impinged on due to the 
+implementation of nesting. Existing projects 
+may lose (or reduce) their right to monetize GHG 
+performance once regulated in a jurisdictional-
+only or centralized nested system. Risks for 
+projects also arise if the government does not 
+follow through on decisions and agreements 
+made within the nested system, particularly 
+regarding the sharing of benefits, whether they are 
+monetary, nonmonetary, or carbon benefits.
+·	 Political risk:  Nesting can either reduce or 
+compound the risk of social conflict and political 
+support for the government REDD+ strategy. 
+Where nested systems empower local actors, 
+nesting can increase the real and perceived 
+fairness of REDD+ implementation. Where local 
+actors do not participate in national programs, 
+this may compromise national ER systems. 
+·	 Environmental integrity risk. Nesting can address 
+the risk of ER inflation and double counting, 
+mitigating the risk to environmental integrity. 
+Centralized approaches  assign more powers to the 
+government, and allow public actors to control the 
+process of generating, and in some cases monetizing, 
+ERs. However, these models may have higher 
+legal risks for the government, particularly if the 
+establishment of a centralized system impinges on the 
+rights of constituents to benefit from forest carbon 
+performance. There are also greater risks to projects 
+in a centralized system, since the benefits are tied to 
+national GHG performance.  
+Decentralized systems , where actors operate more 
+independently from each other, tend to have lower 
+risks of conflict and default . However, if the drivers of 
+deforestation in a country can only be tackled largely 
+through changes to government policies, a system 
+focused on project-scale activities may not achieve as 
+many ERs overall, and the country’s achievement of its 
+NDC may consequently suffer.
+A government should carefully consider the risks of 
+the model it has chosen, and define strategies for 
+managing them . For example, in a centralized system, 
+where national ER performance risk is particularly 8. RISK MANAGEMENT
+
+--- PÁGINA 70 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers61
+relevant for projects, governments can guarantee 
+certain payments to affected communities, even in 
+cases where it falls short in accessing international 
+finance. Political risks can be managed by employing a 
+participatory approach, and empowering communities in the context of REDD+ activities and projects. It 
+is particularly important that attention be paid to 
+the integration of existing projects into national ER 
+programs.
+Box 9 Integrating Early-Action Projects in a REDD+ Program
+In order to integrate existing projects into a national ER program, a process may be needed to transition project 
+and/or subnational activities from their “stand-alone” status to the nested system . In many cases, REDD+ 
+projects have already been operating prior to the formulation of a jurisdictional program.  When a country sets 
+up a nested system, those projects will be affected. A well-implemented national ER program may improve the 
+situation of projects, since they are then embedded in a comprehensive suite of mitigation measures, which helps 
+them to gain credibility and possibly access to additional funding. However, the financials of early-action projects 
+can also suffer from nesting. For example, nesting can change a project’s baseline, thus changing its ability to 
+access finance (see Section 4 on MRV). If a project loses income through nesting, it may petition the government 
+or even claim legal damages, depending on national laws. In addition, local and Indigenous communities involved 
+in early-action projects can suffer from discontinued funding if the integration of projects into the nesting 
+system affects the assumptions about benefit distribution that these communities considered when initially 
+accepting participation in the project. These “early action risks”  can result in protest or complaints by private 
+developers and participating communities, which can make the implementation of REDD+ difficult. Integrating 
+existing projects into such a system may be achieved over a fixed period through agreements among projects, 
+and with the national government, on how to regulate such a transition.  
+In the next section we explain in more depth how different models result in a different set of risks.  We also try to 
+clarify where the risk lands (whether on the government, or on projects), and offer potential mitigation measures 
+for each risk.
+
+
+--- PÁGINA 71 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers62
+8.2 Application to Nesting Approaches
+Jurisdictional ER Program (only), with Benefit 
+Sharing
+Under this model, the government carries full 
+responsibility for REDD+ performance, and is also 
+solely responsible for generating and monetizing 
+ERs.  As such, it carries the ER performance risk 
+as well as the default risk if a partner fails to pay 
+for ERs that have been achieved. Considering that 
+currently most contractual partners are multilateral 
+organizations such as the World Bank, or donor 
+countries such as Norway and Germany, which have 
+high credit ratings, such default risk is limited. Since 
+the government does not recognize project crediting, 
+the ER underperformance of projects and programs, 
+or NDC compliance risk due to transactions by 
+projects, does not pose concerns for the government. 
+However, an additional risk relates to the capacity 
+of national institutions to channel the payments 
+received to local actors . This risk does not relate 
+to the absence of finance, but to the efficiency of 
+procedures by which national institutions transfer 
+funds to such actors.In a jurisdictional-only approach, a country might 
+carry the risk that national stakeholders may 
+claim a legal right or take legal action if they are 
+not authorized to engage in projects and/or be 
+considered in the country’s REDD+ benefit-sharing 
+arrangements.  This risk depends on the rights that 
+local stakeholders are entitled to under the national 
+legal system, based on land and forest resource 
+ownership, or the right to manage and benefit from 
+forest lands. There is also the risk that existing 
+early-action projects may claim damages if they are 
+not integrated into a government REDD+ system. 
+Depending on the credit rating of a REDD+ country, 
+local actors may worry that the government will not 
+honor an agreement to pass on nonmarket results-
+based finance (RBF), or carbon finance received for 
+national GHG performance. Since such agreements 
+are often executed between international donors and 
+the host country bilaterally, it is essential that the 
+country has a functioning and accessible feedback and 
+grievance redress mechanism (FGRM). This is helpful 
+in making RBF partners aware of potential problems, 
+which may also lead to a default provision under the 
+agreement between the government and the donor: for 
+example, in the case of FCPF Carbon Fund ERPAs. 
+
+
+--- PÁGINA 72 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers63
+T able 15 Risks Inherent in the Jurisdictional-Only Approach
+Type of risk National 
+RiskProject* 
+RiskSpecific Risks and Mitigation Measures
+ER performance
+√REDD+ performance depends on effective implementation of government 
+policies and measures. Effective implementation rewards local activities 
+through benefit sharing, but may take time if institutions are weak and 
+policies nascent. Leakage is captured in national accounting, and the 
+government program is responsible for the permanence of the ERs. There is 
+no NDC compliance risk.
+Financial risk
+√Payment and default risk are fully assumed by the government, and can 
+be mitigated by promoting various streams of finance to support a REDD+ 
+strategy beyond carbon finance.
+√Local actors who are implementing the activities may face a risk that the 
+government  will fail to channel benefits to them under a benefit-sharing 
+mechanism. Such risk can be mitigated by developing accountability 
+mechanisms implemented by the institutions in charge of disbursing 
+benefits and implementing the REDD+ strategy. An FGRM is also an 
+essential risk-mitigating measure.
+Legal and 
+regulatory risks
+√Early-action projects may face risks if the government decides to close off 
+options for such projects to operate. T o manage this risk, the government 
+may assume responsibility for and compensate project proponents, while 
+also taking over the responsibilities toward communities. 
+√Where private actors have the right to independently develop REDD+ 
+projects and commercialize ERs, the government must take measures to 
+compensate those actors for the loss of such rights based on laws or rules 
+that apply when the government takes (that is, expropriates) such rights.
+Political risk
+√ √There is a risk of social unrest if the benefit sharing is considered unfair, or 
+is not implemented; the legal, social, and political rights of actors should 
+be included in the development and implementation of benefit-sharing 
+arrangements to mitigate such risks.
+Environmental 
+integrity risk
+√The risk of double counting is reduced, since only the national ER program 
+is claiming ERs. Risk of environmental integrity could occur if the 
+methods overestimate the ERs; this risk can be reduced by using accurate 
+methodologies.
+*In this instance, “project” refers to local actors engaged in activities with the expectation of participating in a 
+benefit-sharing program.
+
+
+--- PÁGINA 73 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers64
+Centralized Nested Approach
+Under the centralized nested approach, the 
+government is still responsible for national REDD+ 
+performance, but it relies in part on projects to 
+contribute to it; at the same time, projects depend 
+on overall national performance to receive their 
+monetary, nonmonetary, or carbon benefits.  In other 
+words, the lack of performance by a national program 
+may impact the ability of projects to receive their 
+own “rewards. ” This can have serious implications 
+for the viability of projects, and can also impact the 
+local communities and smallholders who are the 
+ultimate beneficiaries. This exposure to host country 
+performance risk may discourage projects from 
+participating in a centralized nested approach, unless 
+the government accepts liability for such risk on 
+behalf of the projects. However, the government takes 
+a risk if project performance is poor; it may need to impose liabilities on the projects for leakage and other 
+reversals that occur due to their activities.
+Private actors may claim participation in REDD+. 
+As in the jurisdictional-only approach, it is essential 
+that the government consider preexisting rights and 
+legally relevant expectations when it develops its 
+benefit-sharing system and defines the allocation 
+of ERs to projects. The risk is particularly prominent 
+in relation to the integration of early-action 
+projects into the national program, especially in 
+cases where such integration results in monetary 
+losses by private projects . If projects are forced to 
+default under investment treaties, the litigation 
+can extend to international project partners. This 
+risk can be addressed by participatory design of the 
+ER program, and the inclusion of grace periods and 
+“grandfathering” arrangements. 
+
+
+--- PÁGINA 74 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers65
+T able 16 Risks Inherent in the Centralized Nested Approach
+Type of  
+RiskNational  
+RiskProject  
+RiskSpecific Risks and Mitigation Measures
+ER  
+Performance
+√The government depends in part on projects to generate ERs. This makes the 
+government dependent on private performance. If projects fail to perform and 
+the country fails to achieve the planned results, it may not be able to access the 
+full amount of RBF or carbon finance, or it may not achieve its NDC. Mitigation 
+measures include:
+·	Conservatively assessing the contributions that projects will be able to make 
+to national performance, and ensuring that ERs are also generated by public 
+programs.
+·	Withdrawing or suspending “nested” project authorizations and approvals.
+·	Reducing the allocated quotas to nonperforming projects, and reassigning them 
+to performing projects.
+The creation of a buffer fund to compensate for performance failures (whether due 
+to leakage or reversals) is another way to mitigate ER underperformance, but an 
+agreed-upon system would be needed in order to decide on how contributions to the 
+buffer are made, and how any liability for underperformance will be handled.
+√If the government does not perform, projects may not receive their rewards—this 
+has the effect of discouraging private investment into site-based activities. Projects 
+may also face risks if the government changes the overall FREL or ER allocation 
+method under which projects must nest. A government could mitigate this risk by:
+·	Creating a buffer pool of ERs, or  a fund to compensate for performance failures 
+in years of poor performance.
+·	Authorizing projects to market ERs in case of a failure to generate ERs at the 
+national scale—in other words, the option to fall back to the decentralized 
+approach in cases where projects are (still) registered with a voluntary carbon 
+market standard.
+·	Providing a guarantee to projects to purchase a minimum volume of credits 
+at a given price, independently from national performance, and the country 
+accessing RBF or carbon finance.
+·	Some combination of the above.
+Financial  Risk
+√ √Payment and default risks are assumed by the government; however, in the case of 
+a default by the buyer, the government may authorize projects to directly market 
+their ERs.
+√Projects may face a risk that the government will not channel benefits to actors 
+under the benefit-sharing mechanism. Such risk can be mitigated by:
+·	Holding in trust a part or all of the international RBF and carbon finance 
+available for disbursement against project or program performance. 
+·	Agreeing with donors that funds will be transferred directly to nested projects, 
+following preestablished procedures.
+·	As above, a fallback option could be that projects may issue and monetize their 
+ERs directly if there is a government failure. 
+
+--- PÁGINA 75 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers66
+Legal and  
+Regulatory  
+Risks
+√Early-action projects may be at risk when a nested system is implemented. This can 
+be mitigated by:
+·	Engaging with projects to find an acceptable solution for both sides.
+·	Negotiating a “transition” of such projects into the national program. 
+“Grandparenting” agreements should be contractually confirmed between 
+early-action projects and the government, and could include a time limitation 
+for existing projects, and a cut-off date for full integration into the national 
+program. Transition periods are also defined under existing private standards, 
+such as VCS’s JNR.
+√International or domestic private actors may claim damages from the government, 
+especially if the government constrains their ability to monetize ERs, or if it 
+monetizes ERs that belong to private actors. This can be mitigated by:
+·	Continuous consultations with projects, including international partners.
+·	Agreeing on a transition period, and measures that delink the ability of projects 
+to access rewards for GHG performance, at least partly, from national REDD+ 
+performance.
+·	Adopting a clear and transparent nesting policy.
+·	Avoiding claiming ERs where governments do not hold land and management 
+rights. (This is addressed under FCPF, and private standards such as JNR).
+Political  Risk
+√ √Social unrest may occur if benefit sharing or the allocation of ERs, or the way they 
+are  implemented, is considered unfair. This can be mitigated by:
+·	Including existing and future project proponents and local communities in the 
+design of benefit sharing and nesting agreements. 
+·	Ensuring the monitoring, compliance, and impact of benefit-sharing 
+arrangements.
+·	Establishing an FGRM, or facilitating access to the courts.
+Environmental  
+Integrity  Risk
+√The risk of double counting is reduced, since ERs generated by the sum of REDD+ 
+projects cannot exceed those generated at the national level. Risk of environmental 
+integrity could occur if the methods overestimate ERs (but this can be reduced if 
+accurate methodologies are used); or if the method used to allocate ERs to REDD+ 
+projects is not accurate.
+Decentralized Nested Approach
+Under the decentralized nested approach, projects 
+are sheltered from host country performance 
+risks because credits can be marketed even if the 
+country (or jurisdiction) as a whole underperforms . 
+This is why this approach is attractive to the private 
+sector. However, such an approach may come 
+with reputational risks for projects if the country 
+consistently fails to reduce emissions, and leakage 
+risks are high. The decentralized approach does reduce 
+litigation risks for the government, since landowners 
+and communities—those who may claim the rights to 
+forest carbon—are not constrained in their ability to 
+generate, issue, and monetize ERs .  
+This model requires effort and commitment in order 
+to be successfully managed.  Potentially, it can 
+engage the greatest number of streams of finance; for 
+example, the potential of multiple streams of private 
+financing. Government and project proponents can 
+separately manage the market and payment risks, reducing the country’s overall default risk through 
+diversification. This makes this model resilient to 
+the default of one buyer, but also increases the 
+complexities, and requires greater institutional 
+capacities.
+Projects may face risks due to an uncertain 
+regulatory environment, particularly where 
+governments are prone to frequent review, updating, 
+and changing of the rules for REDD+ projects.  Drastic 
+changes in the rules can create instability that can 
+seriously damage or affect a project’s viability. Legal 
+certainty also helps to maintain a stable nesting 
+approach. While governments have legitimate grounds 
+for reviewing and updating the key rules that permit 
+the nesting REDD+ system to evolve and improve 
+based on new information (for example, to update 
+MRV requirements), drastic rule changes that lead 
+to the adoption of different nesting approaches can 
+cause serious damage to the viability of projects and 
+affect their legitimate expectations.

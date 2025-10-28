@@ -1,0 +1,762 @@
+DOCUMENTO: Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)
+PARTE 1 de 7
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+Nesting of REDD+ 
+Initiatives: 
+Manual for Policymakers
+Report No: AUS0002247 
+September 2021
+Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized
+
+--- PÁGINA 2 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersi
+© 2021 The World Bank  
+1818 H Street NW, Washington DC 20433  
+T elephone: 202-473-1000; Internet: www.worldbank.org 
+Some rights reserved.
+This manual has been commissioned by the Forest Carbon Partnership Facility (FCPF)—a multidonor trust 
+fund administered by the World Bank—to assist FCPF countries as well as other countries with the design and 
+implementation of nested REDD+ initiatives. 
+The views and opinions expressed in this publication are those of the authors; they do not necessarily reflect the position 
+of the FCPF or its donors.
+This work is a product of the staff of The World Bank. The findings, interpretations, and conclusions expressed in 
+this work do not necessarily reflect the views of the Executive Directors of The World Bank or the governments they 
+represent. The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, 
+denominations, and other information shown on any map in this work do not imply any judgment on the part of The 
+World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries. 
+Photography
+Shutterstock & Unsplash
+Rights and Permissions
+The material in this work is subject to copyright. Because The World Bank encourages dissemination of its knowledge, 
+this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is 
+given. 
+Attribution
+Please cite the work as follows: “World Bank. 2021 Nesting of REDD+ Initiatives: Manual for Policy Makers. © World Bank.” 
+All queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications, The 
+World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail: pubrights@worldbank.org. 
+Authorship
+This report was prepared by: 
+Climate Focus:  Charlotte Streck, Donna Lee, Javier Cano, Mercedes Fernandez, and Pablo Llopis, with contributions from 
+David Landholm 
+World Bank: Rama Chandra Reddy, Andres Espejo
+
+--- PÁGINA 3 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersii
+Contents
+Acknowledgements  ............................................................................................................................................................................................... vi
+Acronyms  .................................................................................................................................................................................................................. vii
+Executive Summary  ............................................................................................................................................................................................... 1
+Introduction:  How and Why to Use This Manual  ..................................................................................................................................... 7
+PART I: NESTING DESIGN  ................................................................................................................................................................................. 10
+1. Nesting and Its Objectives  ...................................................................................................................................................................... 10
+1.1 Determining the Objectives of Nesting  .................................................................................................................................................... 11
+1.2 General Considerations in Designing a Nested System  ..................................................................................................................... 13
+2. Nesting in the Context of REDD+ Implementation Models  ...................................................................................................... 15
+2.1 Jurisdictional ER Program (Only), With Benefit Sharing  ................................................................................................................... 16
+2.2 Centralized Nested Approach  ..................................................................................................................................................................... 18
+2.3 Decentralized Nested Approach  ................................................................................................................................................................ 19
+2.4 Project Crediting (Only), No Jurisdictional ER Program  .................................................................................................................... 20
+2.5 Key Differences Between the Models  ...................................................................................................................................................... 21
+2.6 The Reality:  Mixed Approaches  ................................................................................................................................................................. 26
+3. Considerations for the Design of Nested Systems  ...................................................................................................................... 26
+3.1 Capacity Constraints  ..................................................................................................................................................................................... 26
+3.2 Landscape of REDD+ Results-Based Finance  ....................................................................................................................................... 28
+3.3 Role of the Private Sector in REDD+ Markets  ....................................................................................................................................... 30
+3.4 The Paris Agreement: Nationally Determined Contributions and Article 6  ................................................................................. 31
+PART II NESTING ELEMENTS  .......................................................................................................................................................................... 33
+4. Carbon Accounting and MRV  ................................................................................................................................................................. 33
+4.1 Aligning Baselines and ER Claims  ............................................................................................................................................................ 33
+4.2 Deciding the Scope of Nesting  ................................................................................................................................................................... 35
+4.3 Aligning the Estimation of GHGs  ............................................................................................................................................................... 37
+4.4 Application of Nesting Approaches  ........................................................................................................................................................... 40
+5. Legal Issues  .................................................................................................................................................................................................... 45
+5.1 General Considerations  ................................................................................................................................................................................ 45
+5.2 Establishing Carbon Rights ......................................................................................................................................................................... 45
+5.3 Application to Nesting Approaches  ........................................................................................................................................................... 49
+
+--- PÁGINA 4 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersiii
+6. Benefit Sharing  ............................................................................................................................................................................................ 52
+6.1 General Considerations  ................................................................................................................................................................................ 52
+6.2 Application to Nesting Approaches  ........................................................................................................................................................... 53
+7. Safeguards  ..................................................................................................................................................................................................... 54
+7.1 General Considerations  ................................................................................................................................................................................ 54
+7.2 Application to Nesting Approaches  ........................................................................................................................................................... 59
+8. Risk Management  ....................................................................................................................................................................................... 60
+8.1 General Considerations  ................................................................................................................................................................................ 60
+8.2 Application to Nesting Approaches  ........................................................................................................................................................... 62
+PART III NESTING IMPLEMENTATION  ........................................................................................................................................................ 69
+9. Consultations on the Adoption of a Nested System  ............................................................................................................................ 69
+9.1 General Considerations  ................................................................................................................................................................................ 69
+9.2 Application to Nesting Approaches  ........................................................................................................................................................... 70
+10. Institutional Requirements for Nesting  ........................................................................................................................................... 71
+11. Regulations and Approvals  ..................................................................................................................................................................... 73
+11.1 General Considerations  ................................................................................................................................................................................ 73
+11.2 Application to Nesting Approaches  ........................................................................................................................................................... 75
+12. Registries  ........................................................................................................................................................................................................ 77
+12.1 General Considerations  ................................................................................................................................................................................ 77
+12.2 Jurisdictional ER Program (Only), with Benefit Sharing .................................................................................................................... 80
+APPENDIX A: GLOSSARY  .................................................................................................................................................................................. 82
+APPENDIX B: INSTRUCTIONS FOR THE DECISION SUPPORT TOOL ........................................................................................... 85
+Readme Tab  ............................................................................................................................................................................................................... 86
+Questions Tab  ........................................................................................................................................................................................................... 86
+Tabs for “Jurisdictional ER program,” “Centralized Nested,” Decentralized Nested” and “Project Crediting Only.”  ................ 87
+
+--- PÁGINA 5 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersiv
+Boxes
+Box 1 What Is REDD+?  .............................................................................................................................................................................................. 7
+Box 2 What Is Nesting?  ......................................................................................................................................................................................... 10
+Box 3 Why Do Countries Want to Develop Nested Systems?  ................................................................................................................... 12
+Box 4 Emerging Types of Nested Systems  ...................................................................................................................................................... 27
+Box 5 Aligning Land Classifications  ................................................................................................................................................................... 37
+Box 6. Creation and Recognition of Carbon Credits  ..................................................................................................................................... 46
+Box 7  Concepts and Definitions in Relation to Carbon Rights  ................................................................................................................. 47
+Box 8 Examples of How Countries Define Safeguard Requirements for a Nested System  ............................................................. 58
+Box 9 Integrating Early-Action Projects in a REDD+ Program  .................................................................................................................. 61
+Box 10: Summary of Approval Requirements  ................................................................................................................................................ 74
+Box 11 What Types of Approval Procedures Are Countries Developing?  ............................................................................................. 74
+Box 12  Considerations When Deciding on a Registry System  ................................................................................................................ 77
+Box 13:  What Types of Registries are Countries Developing?  ................................................................................................................. 79
+Figures  
+Figure 1  Development of REDD+  .......................................................................................................................................................................... 1
+Figure 2. The four general models of REDD+ implementation  .................................................................................................................... 4
+Figure 3. Process Diagram: How to Use this Manual, and the Decision Support Tool  ......................................................................... 9
+Figure 4 Summary of Four Simplified Models  ............................................................................................................................................... 15
+Figure 5 Jurisdictional ER Program (Only), with Benefit Sharing  ........................................................................................................... 16
+Figure 6 Centralized Nested Approach  ............................................................................................................................................................ 18
+Figure 7 Decentralized Nested Approach  ........................................................................................................................................................ 19
+Figure 8. Project Crediting (Only)  ....................................................................................................................................................................... 20
+Figure 9  The Key Difference between the Centralized and Decentralized Nested Models  ............................................................ 21
+Figure 10. Hybrid Scenario A  ............................................................................................................................................................................... 24
+Figure 11. Hybrid Scenario B  ............................................................................................................................................................................... 24
+Figure 12  Hybrid Scenario C  .............................................................................................................................................................................. 25
+Figure 13  Verified Carbon Unit (VCU) Issuances from 2010 to 2019  ..................................................................................................... 30
+Figure 14  Decision-Making Process for a Jurisdictional ER Program (only), with a Benefit-Sharing Approach  .................... 40
+Figure 15  Centralized Nested Approach  ......................................................................................................................................................... 41
+Figure 16  Decision-Making Process for a Centralized Nested Approach  ............................................................................................. 41
+
+--- PÁGINA 6 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersv
+Figure 17    Representation of the Decentralized Nested Approach  ....................................................................................................... 42
+Figure 18 Decision-Making Process for a Decentralized Nested Approach  ......................................................................................... 43
+Figure 19  Representation of Project Crediting (only) No Jurisdictional ER Program  ..................................................................... 43
+Figure 20  Decision-Making Process for a Project Crediting (only), No Jurisdictional ER Program  ............................................ 44
+Figure 21. Detail of the “Readme” Tab  .............................................................................................................................................................. 86
+Figure 22 Recommendation Box, “Questions” Tab  ........................................................................................................................................ 86
+Figure 23. Answer Check Boxes under “Questions” Tab  ............................................................................................................................. 86
+Figure 24. Error Message, Recommendation Box, “Questions” Tab  ........................................................................................................ 87
+Figure 25. Example of DST Screen When Step 1 Is Completed. ............................................................................................................... 87
+Figure 26. Information Dashboard of Nesting Model Tabs  ........................................................................................................................ 88
+Figure 27. Components and Distribution of the Nesting Element  ........................................................................................................... 88
+Figure 28. Location of Checkboxes and Subject Progress Bars in Nesting Model Tabs  .................................................................. 88
+Figure 29. Example of Timeline for a Nesting Subject  ................................................................................................................................ 89
+T ables
+Table 1. Key Policy Considerations When Designing a Nested System  ................................................................................................. 14
+Table 2. Benefits/Risks of Jurisdictional ER Program (Only), with Benefit Sharing  .......................................................................... 17
+Table 3. Benefits/Risks of the Centralized Nested Approach  .................................................................................................................... 19
+Table 4. Benefits/Risks of the Decentralized Nested Approach  ............................................................................................................... 20
+Table 5. Benefits/Risks of the Project Crediting (Only), No Jurisdictional  ER Program  ................................................................. 21
+Table 6.  Key Differences Among REDD+ Implementation Models  .......................................................................................................... 23
+Table 7  The Landscape of REDD+ Results-Based Finance  ....................................................................................................................... 29
+Table 8. Options for Promoting Alignment in Baseline Setting  ................................................................................................................ 35
+Table 9 Scope of Coverage of Forest-Related Fluxes in GHG Inventories, NDCs, and FRELs  ........................................................ 35
+Table 10  Selecting the Carbon Accounting Scope for Nesting  ................................................................................................................ 36
+Table 11  Options for Aligning Activity Data for Nesting  ............................................................................................................................. 38
+Table 12 Options for Aligning Emission Factors for Nesting  ..................................................................................................................... 39
+Table 13 Significance of Forest Land Tenure, Carbon Rights, and Claims to ERs Under Different Models  ............................... 51
+Table 14 Implications of Benefit Sharing for Each of the Four Models  .................................................................................................. 55
+Table 15 Risks Inherent in the Jurisdictional-Only Approach  ................................................................................................................... 63
+Table 16 Risks Inherent in the Centralized Nested Approach  ................................................................................................................... 65
+Table 17: Risks Inherent in the Decentralized Nested Approach  ............................................................................................................. 67
+Table 18: Risks Inherent in the Project Crediting (Only) Approach  ......................................................................................................... 68
+
+--- PÁGINA 7 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersvi
+Acknowledgements
+This manual has been commissioned by the Forest Carbon Partnership Facility (FCPF)—a multidonor trust fund 
+administered by the World Bank—to assist FCPF countries as well as other countries with the design and implementation of 
+nested REDD+ initiatives. 
+This study has been conducted by an international team of authors. It involved extensive desk review of the literature 
+as well as country strategies, legislation, and planning documents. It also involved more than two dozen interviews with 
+government officials and national and international stakeholders during the scoping and analytical phase of the study. 
+The draft report and proposed manual was presented in a set of five webinars, which together reached more than 100 
+participants. The report also went through extensive peer review and consultations. We are indebted to all those who spent 
+their time sharing their views and helping us to improve it. We considered every single comment we received, and have 
+done our best to reflect the full plurality of views in this final document. Where we failed, the fault is exclusively ours. 
+
+--- PÁGINA 8 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersvii
+Acronyms  
+AAUs  Assigned Amount Units
+AD Avoided Deforestation
+AR Afforestation / Reforestation
+ART TREES  Architecture for REDD Transactions – The REDD+ Environmental Excellence Standard
+BioCF-ISFL  Bio Carbon Fund Initiative for Sustainable Forest Landscapes
+CA Corresponding Adjustment
+CCB Climate, Community and Biodiversity (standard)
+CDM  Clean Development Mechanism
+CIFOR  Center for International Forestry Research
+COP Conference of the Parties to the UNFCCC 
+CORSIA  Carbon Offsetting and Reduction Scheme for International Aviation
+DMS  Data Management System
+DRC Democratic Republic of Congo
+DST Decision Support Tool 
+EF Emission Factor
+EIT Economies in Transition
+ER Emission Reduction
+ERPA  Emission Reduction Payment Agreement
+ESMF  Environmental Social Management Frameworks 
+ESP Environmental and Social Plan
+ETS Emissions Trading System
+FAO Food and Agriculture Organization of the United Nations
+FCPF  Forest Carbon Partnership Facility
+FGRM  Feedback and Grievance Redress Mechanism
+FPIC  Free Prior Informed Consent
+FREL  Forest Reference Emissions Levels
+GCF Green Climate Fund
+GHG  Greenhouse gas
+HFLD  High forest cover, low deforestation 
+ICAO  International Civil Aviation Organization
+
+--- PÁGINA 9 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakersviii
+IFM Improved Forest Management
+ITMO  Internationally transferred mitigation outcome
+IPCC  Intergovernmental Panel on Climate Change
+JCM  Joint Crediting Mechanism
+JI Joint Implementation
+JNR Jurisdictional and Nested REDD+ of the Verified Carbon Standard
+LEAF  Lowering Emissions by Accelerating Forest finance
+MRV  Measurement, Reporting and Verification
+NDC Nationally Determined Contribution 
+NFI National Forest Inventory
+NFMS  National Forest Monitoring System 
+NGO  Non-Governmental Organization
+NZ ETS New Zealand Emission Trading Scheme
+ODA Official Development Assistance
+PA Paris Agreement 
+PES Payments for Ecosystem Services 
+RBF Results-based Finance 
+RED Reducing Emissions from Deforestation 
+REDD + Reducing emissions from deforestation and forest degradation and the role of conservation, sustainable  ...  
+ management of forests and enhancement of forest carbon stocks in developing countries
+REM  REDD Early Movers Program
+RENARE  Registro Nacional de Reducción de Emisiones de GEI
+R-PP  Readiness Preparation Plan
+SIS Safeguards Information System
+UNFCCC  United Nations Framework Convention on Climate Change
+VCS Verified Carbon Standard
+VCU Verified Carbon Unit
+VER Verified Emission Reduction
+
+--- PÁGINA 10 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers1
+Background and Objectives
+Tropical forest countries that seek to reduce 
+deforestation and participate in REDD+ are being 
+challenged to develop policies that conserve forests 
+in the long term; create incentives for local actors 
+to protect forests; and align forest policies with 
+agricultural and rural development and other land-
+use policies. Developing a REDD+ implementation 
+strategy requires consideration of government 
+budgetary resources as well as the various types of 
+international finance that are available to support 
+REDD+. In assessing this landscape of potential 
+funding sources, policymakers can determine which 
+types of finance to access; which financing conditions 
+they can realistically achieve; and within what time 
+frame it can be done, given national circumstances 
+and institutional constraints. Many countries are participating in, or hosting 
+initiatives to reduce deforestation.  Since 2007, 
+when REDD+ was first considered in the negotiations 
+of the United Nations Framework Convention for 
+Climate Change (UNFCCC), several initiatives for 
+implementing REDD+ have been developed. The 
+REDD+ activities advanced under these initiatives 
+have operated at various levels, ranging from the 
+project level, (geographically demarcated areas within 
+which an activity takes place), to subnational and/or 
+country-wide programs (see Figure 1). Many countries 
+already have received, or are seeking, payments 
+for subnational and national REDD+ results. Many 
+of these same countries already host, or intend to 
+host, REDD+ projects, which are usually developed by 
+private actors. EXECUTIVE SUMMARY
+REDD+ emerges in
+UNFCCC negotiations
+Jurisdictional
+results-based paymentsLaunch of
+the FCPFCountries engaging in REDD+ “readiness”First payments under 
+the FCPF Carbon FundFirst GCF 
+results-based 
+paymentParis
+AgreementWarsaw
+Framework
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2007
+Private standards 
+for project creditingFirst REDD+ 
+project 
+veriﬁed
+2013 2014 2015 2016 2017 2018 2019 2012050100REDD+ project issuances, access to ﬁnance risingProjects and jurisdictional performance 
+is not comparable: Nesting becomes a
+priority to implement REDD+ at scale
+ER Issued 
+(tCO2e)Figure 1  Development of REDD+ 
+
+--- PÁGINA 11 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers2
+The existence of REDD+ initiatives on multiple scales 
+within countries, and with access to various sources 
+of financing has recently been a source of challenges 
+for countries . Multiple accounting and reporting 
+frameworks can represent a risk to environmental 
+integrity,1  and it has often been difficult for countries 
+to align them. Moreover, it has been challenging for 
+them to maximize and harmonize their access to 
+various sources of financing in order to achieve their 
+forest and climate change goals. 
+Accounting and reporting emission reductions (ERs) 
+of REDD+ initiatives on multiple scales, and access 
+to multiple sources of financing on different scales 
+requires a systematic approach: this is what nesting 
+is. Nesting refers to aligning REDD+ implementation 
+across different scales as it is reflected in the 
+accounting of greenhouse gas (GHG) emissions and 
+removals; claims to emission reductions (ERs); and 
+the related legal and institutional arrangements. 
+Setting up a nested system facilitates the resolution 
+of GHG accounting issues by making the necessary 
+adjustments to projects and programs, and requiring 
+engagement among various public, private, and 
+community stakeholders. 
+The lack of updated and systematic guidance for 
+designing a nesting system has been identified as a 
+challenge for countries that are piloting large-scale 
+jurisdictional REDD+ ER programs, including through 
+the World Bank’s Forest Carbon Partnership Facility 
+(FCPF) Carbon Fund. Consultations with stakeholders 
+who are implementing REDD+ initiatives through 
+the Carbon Fund have expressed a strong need for 
+guidance on the optimal approaches and procedures 
+for aligning REDD+ initiatives at various geographic 
+scales in order to enhance national ambition, ensure 
+environmental integrity, and avoid double counting of 
+mitigation outcomes.
+This manual has been created to provide guidance for 
+the design and implementation of nested systems . 
+Along with the accompanying Decision Support T ool 
+(DST) described in Appendix B,2 it aims to guide decision 
+makers through a process of planning, identifying, and 
+implementing efficient nested REDD+ systems.  
+A nested REDD+ system is at its core a national 
+policy; therefore, it should be driven by national 
+policy priorities . Before designing a nested system, 
+policymakers should decide why  the country wants 
+to develop such a system, and should have in mind 
+clear objectives, and a clear idea of the planned 
+1 A carbon market-based mechanism has environmental integrity if the transfer of credits through that mechanism leads to the same, or lower, aggregated global emissions. Integrity is ensured 
+through accounting that avoids double-counting (in which the same unit is used twice to offset emissions), as well as through the quality of the ER estimates (for example in regard to the 
+baseline or reference level, additionality, permanence, uncertainty, and leakage).
+2 The DST may be accessed here: http:/ /documents 1.worldbank.org/curated/en/ 548791631769281867 /Decision-Support-T ool.xlsxscope and applicability of the system. Clarity of 
+the government’s approach to integrating its forest 
+and climate-change policy objectives should be an 
+inherent part of designing a nested system. 
+Therefore, the main target audience of this manual 
+is policymakers in developing country governments ; 
+but it may be also useful for public and private REDD+ 
+implementing agencies, and other participants and 
+stakeholders of REDD+ initiatives. 
+The most common issue that comes up with nesting 
+is the integration of REDD+ projects into subnational 
+or national REDD+ programs led by country 
+governments.  Throughout this manual the words 
+national/subnational may be used interchangeably, 
+and they may be generically referred to as 
+“jurisdictional.”
+This manual is structured in three parts: 
+·	 Part I: Nesting Design  provides guidance in 
+defining the objectives of the nesting system, 
+various approaches to REDD+ implementation, 
+and other design considerations. 
+·	 Part II: Nesting Elements  provides specific 
+guidance on carbon accounting, measurement, 
+reporting and verification (MRV), legal issues, 
+benefit sharing, and safeguards. 
+·	 Part III: Nesting Implementation  provides 
+guidance on practical considerations for the 
+implementation of a nesting system, such as 
+institutional arrangements, regulations, and 
+registries. 
+Part I: Nesting Design
+A well-designed nested system reflects the 
+policies, priorities, institutional arrangements, 
+and regulatory framework that is supporting the 
+REDD+ implementation of a country.  The main policy 
+objectives to be considered in designing a nested 
+system are the national forest or climate-change 
+targets, and the means for achieving them, including 
+access to finance. More specifically:
+·	It is important for the government to have clarity 
+concerning its forest and climate-change policy 
+objectives before designing a nested system.
+·	It is also important that governments explore 
+various pathways for achieving their forest and 
+climate change goals; for example, which specific 
+policies and measures it envisages for reducing 
+deforestation.
+
+--- PÁGINA 12 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers3
+·	Policymakers should review the landscape of 
+available finance, including the government’s 
+budgetary resources.
+·	Once a country has determined how climate and 
+carbon finance can support their implementation 
+of REDD+, and which types of financing it wishes 
+to seek, it can consider how to optimize access to 
+such financing.
+·	Countries should also consider how REDD+ 
+implementation will affect their nationally 
+determined contributions (NDCs). Countries 
+that are hosting multiple categories of REDD+ 
+initiatives should decide the extent to which the 
+ERs from forestry activities will contribute to 
+achieving their NDC targets.
+After a government has determined its objectives for 
+a nested system, there are then three fundamental 
+design decisions to consider: 
+·	 The degree of centralization (or decentralization) 
+for REDD+ . A centralized approach  focuses on 
+receiving payments for ERs at the jurisdictional 
+scale; carbon benefits are then distributed 
+among the beneficiaries, whether projects or 
+local actors. A decentralized system  focuses on 
+receiving payments at the project scale, which 
+are then distributed among local actors. The 
+characteristics of centralized vs. decentralized 
+systems are summarized in Figure 2 . 
+·	 Defining the role that nonstate actors (private 
+entities, communities, and nongovernmental 
+entities (NGOs) should play in the 
+implementation of REDD+. Closely related to the 
+first point, the government needs to decide how 
+best to integrate nonstate entities into its REDD+ 
+strategy, since involvement from a wide range of 
+stakeholders will lead to more sustainable and 
+more effective implementation. This decision will 
+be influenced by the rights that nonstate actors 
+are entitled to, and how the government wishes 
+them to be incentivized—for example, through 
+carbon finance that can be directly accessed by 
+local actors.
+·	 Determining the most appropriate types 
+and channels of climate and carbon finance 
+to access . A government may decide that it 
+wishes to encourage voluntary carbon market 
+crediting at the project level, but also make 
+efforts to access nonmarket payments at the 
+jurisdictional level, for example from the Green Climate Fund (GCF). It may also decide to allow 
+crediting at various levels—project, subnational, 
+and/or national—or to limit crediting to only 
+certain levels. Or it may decide that certain 
+REDD+ activities, such as reforestation, are more 
+appropriate for implementation at the project 
+level, while reducing deforestation is tackled more 
+effectively at a jurisdictional level. The decisions 
+about which type of crediting, and at what levels, 
+are fundamental and crucial decisions to be made in 
+designing a nested system. 
+Depending on the objectives defined, 
+governments should design an appropriate REDD+ 
+implementation, or nesting system. Although nesting 
+is sometimes defined in a narrow sense as a system 
+that aligns the accounting and reporting of ERs at 
+different levels, it may also reflect an integrated 
+policy framework that implements REDD+ across 
+various implementation and governance levels. 
+Therefore, throughout this manual, it is important to 
+understand that reference to a nesting system, or a 
+nesting model, may not necessarily imply nesting in 
+the narrow sense. 
+This report presents four general models for REDD+ 
+implementation.  Although the objective of FCPF is to 
+support jurisdictional REDD+ implementation through 
+the nesting of REDD+ initiatives, this manual includes 
+an overview of other implementation approaches that 
+have been observed on the ground in order to enable 
+countries to identify various paths that can be taken. 
+For this reason, we present an overview of REDD+ 
+implementation models and summarize them under 
+four simplified approaches, as highlighted below and 
+explained in Section 2 and summarized in Figure 2 . 
+
+
+--- PÁGINA 13 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers4
+Governments should opt for a system that is 
+the most appropriate for their own national 
+circumstances; often this does not fall neatly into 
+any particular nesting or REDD+ model.  They may 
+also start with one approach and evolve over time 
+to another model. Almost all countries choose to 
+combine their national policies with the empowerment 
+of local actors, but they can choose different ways 
+of doing so. Their choices will depend on the drivers 
+of deforestation, the accessibility of various regions 
+within the country, and the target populations 
+involved. Countries may therefore simultaneously 
+operate several different models, or create their own 
+“mixed” approach  that best meets their national 
+circumstances. This is discussed in Part I, Section 2.6.The human, institutional, and financial capacities 
+of a country are essential considerations when 
+planning the design of a nested system. The 
+centralized and decentralized nesting models require 
+technical sophistication, and strong implementation 
+capacity. This is discussed in Part II, Section 3.1 t). 
+There are also a variety of results-based finance 
+RBF opportunities for REDD+ programs—from 
+nonmarket to market-based mechanisms, and from 
+voluntary to compliance markets. In addition, there 
+is growing interest in how to mobilize private-sector 
+finance for REDD+, as well as increasing interest 
+from companies to engage in nature-based climate 
+solutions, including REDD+. As countries increasingly 
+consider how to access REDD+ RBF, many are also Centralized-nested 
+Key features:
+•  ERs credited up to national scale performance (only)
+•  Projects encouraged and receive rewards based on GHG 
+ performance (linked to national performance)
+•  Government control over ERs and distribution of carbon 
+ beneﬁts via an agreed ‘allocation method’
+Project crediting (only), no jurisdictional ER program
+Key features:
+• ERs credited at project scale (only)
+• Projects are incentivized, may be regulated
+• No result-based ﬁnance (RBF) or sale of carbon credits by the government
+• Government role is regulator, not ER program managerDecentralized-nested
+Key features:
+• ERs credited at national and project scale
+• Projects authorized to generate and market ERs 
+ (delinked from national performance) 
+•  Government generates ERs through public programs and on public landsProjects receive
+rewards based on
+ER allocation approachCrediting at national level
+Crediting at project scaleNested systemsJurisdictional ER program (only) with beneﬁt sharing
+Key features:
+• ERs credited at national scale (only)
+• No forest carbon project crediting
+• Government operates ER program and distributes beneﬁts Crediting at national level
+Crediting at national level
+Crediting at project scaleFigure 2. The four general models of REDD+ implementation
+
+--- PÁGINA 14 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers5
+struggling to understand how these may impact their 
+obligations under the Paris Agreement. These things 
+are discussed in detail in Part I Section 3.4.
+Part II: Nesting  Elements
+Nested REDD+ systems require institutional 
+arrangements that enable the integration of 
+implementation frameworks at multiple scales in 
+order to maintain the system and to manage risks . 
+Nesting is also closely linked to legal issues, benefit 
+sharing, safeguards, and risk management. The 
+elements of nesting are highlighted below discussed in 
+detail in Part II of this manual.
+·	 Countries that engage in nested REDD+ need 
+to develop GHG accounting and reporting 
+systems in order to ensure consistency among 
+the various levels . This includes alignment of the 
+MRV systems at various levels. In addition, data 
+management systems to ensure transparency, 
+consistency, and to avoid double counting, or 
+double sales, of ERs, are essential.  
+·	 Designing a nested REDD+ system requires 
+understanding the rights of communities and 
+individuals to benefit from ecosystem services 
+and ERs. Such rights, often referred to as “carbon 
+rights, ” define who has “ the right to benefit from 
+carbon stored in a forest and/or reduced greenhouse 
+gas emissions from forest loss or degradation. ” 
+Carbon rights  should be distinguished from 
+issued and tradable carbon credits:  the former 
+describes an underlying entitlement to benefit 
+from ERs or REDD+, whereas the latter represents 
+one tonne of emissions reductions (ERs) that 
+are traceable, tradable, and transferable, and 
+are issued with an identifiable serial number 
+in national or international carbon registries. 
+Engaging communities in leading or co-leading 
+REDD+ activities, and recognizing their rights to 
+the land and its natural resources—including the 
+associated carbon—is aligned with the devolution 
+of rights to forest resources in countries. Such 
+empowerment of communities can mean, 
+depending on the legal context of the country, 
+that communities have the right to initiate and 
+participate in initiatives, or that they are duly 
+considered in the benefit sharing arrangements.
+3 Refers specifically to the arrangement by which a government institution allocates, administers, and channels benefits funded by payments for ERs to national actors.
+4 The UNFCCC has agreed on a specific set of safeguards known as the “Cancun safeguards.” More information may be found here https:/ /redd.unfccc.int/fact-sheets/safeguards.html .·	 Governments should consider whether—and if so, 
+how—to link rewards and incentives (monetary, 
+nonmonetary, and carbon benefits) to ER 
+performance. When elaborating a benefit-sharing 
+framework,3 governments should consider how to 
+balance supporting national policies with creating 
+incentives for private investors and communities 
+at the local level. In situations where government 
+programs and institutions can effectively 
+distribute benefits, fully centralized systems could 
+be efficient. Where government institutions are in 
+the process of evolving, supporting programs and 
+projects that can evolve into nested systems over 
+time could be an option. However, there is a wide 
+space in between these two extremes, in which 
+part of the benefit sharing arrangements could 
+be dependent on the government, and other parts 
+externalized to nongovernment actors, including, 
+but not limited to, projects.  
+·	 National environmental and social safeguards 
+are defined and implemented in line with 
+national laws and policies, and the Cancun 
+safeguards,4 and are applicable to all REDD+ 
+activities.  Consequently, in a nesting context in 
+which implementation occurs at multiple scales, 
+the safeguard policies included in a national 
+legal framework should apply to jurisdictional 
+programs as well as to nested REDD+ projects. 
+How a government chooses to ensure that the 
+safeguards are applied and enforced may differ 
+depending on the nested system that is chosen. 
+As part of the national legal framework, national 
+REDD+ safeguards must be fulfilled by any REDD+ 
+project or activity, and countries should clarify 
+who is involved--project developer, landowner, 
+etc.--and how the nested projects will implement 
+safeguards and report on their compliance. 
+·	 Governments should carefully consider the risks 
+of the model they are considering, and define 
+strategies for managing them . For example, in a 
+centralized nested system, where jurisdictional 
+ER performance poses a material risk to projects, 
+governments can guarantee certain payments 
+to affected communities. Selecting a particular 
+model or approach to REDD+ implementation can 
+also cause political risks; they should be managed 
+with participatory approaches that include 
+stakeholder engagement and dialogue. 
+
+--- PÁGINA 15 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers6
+Part III: Nesting Implementation
+Attention should be paid to the integration of 
+existing projects into a nested system. In some 
+countries, REDD+ projects have been operating prior 
+to the formulation jurisdictional REDD+ programs. 
+In such cases, the government should articulate 
+the steps to be followed, using a structured 
+process and dialogue, and a suite of measures to 
+be implemented over a specific period of time, with 
+binding agreements between stakeholders of the 
+projects and the national government on a transition 
+pathway to a nested system.  The details of effective 
+implementation of nesting are highlighted below, and 
+discussed in detail in Part III of the manual.
+·	 Consultations are essential in the process of 
+adopting a nesting strategy and identifying 
+its potential benefits and co-benefits, as well 
+as the potential spillover effects of REDD+ 
+implementation . Consultations help to ensure 
+the integration of local action into national 
+and subnational REDD+ implementation via 
+benefit-sharing or free-standing REDD+ projects. 
+Participatory approaches that result in agreements 
+with local actors are key pillars of nested REDD+ 
+systems.
+·	 In order for nesting to be implemented effectively 
+it is essential to assign clear responsibilities 
+among ministries and public agencies for the 
+operations related to the nesting process.  
+Nested REDD+ policies should be supported by 
+enduring institutional arrangements. Successful 
+implementation of REDD+ requires policy 
+changes and governance reforms in forestry as 
+well as in other sectors—for example, in order 
+to disburse REDD+ payments. However, weak 
+forest governance in most REDD+ countries 
+constitutes one of the main challenges for 
+REDD+ implementation, carbon effectiveness, 
+cost efficiency, and equity.5 What makes things 
+even more complex is that REDD+ is inherently a 
+multilevel endeavor; there is thus a need for policy 
+coherence and coordination across the various 
+levels of governance, as well as the relevant 
+sectors, in order to make it REDD+ work. Nesting 
+adds complexity to policymaking by requiring 
+additional considerations.
+5 The UNFCCC has agreed on a specific set of safeguards known as the “Cancun safeguards.” More information may be found here https:/ /redd.unfccc.int/fact-sheets/safeguards.html.·	 Regulations and approvals facilitate the 
+implementation of any REDD+ system . Clear 
+rules offer REDD+ actors legal certainty. Within 
+the context of the REDD+ regulatory framework, 
+a country’s nesting strategy and benefit sharing 
+arrangements may need to be translated into a 
+legal act. Nested models that officially approve 
+projects must define the requirements that 
+projects and project developers are required to 
+meet in order to be formally recognized by the 
+government. Nesting also requires adoption of 
+the procedures by which projects will be nested 
+in national systems. Procedures may also have 
+to address the conditions under which a project 
+can undertake “corresponding adjustments” if 
+engaging in a transaction under Article 6 of the 
+Paris Agreement.
+·	 Countries that engage in nested REDD+ may 
+need to develop GHG accounting and tracking 
+systems to ensure consistency between national, 
+jurisdictional, and project-level processes and 
+results . These systems should consist, at a 
+minimum, of data management systems that 
+systematically record and monitor information 
+to ensure transparency and consistency. Market-
+based transactions (including REDD+ or other 
+carbon units) typically require use of a transaction 
+registry to allow for the unique identification and 
+tracking of carbon units.  However, governments 
+could rely on existing transaction registries, 
+depending on the circumstances; and in some 
+cases a transaction registry might not be 
+necessary.
+Nested REDD+ systems are expected to play a 
+major role in integrating REDD+ implementation 
+at different levels of governance, and in engaging 
+various sources of finance and stakeholders to 
+sustainably manage forests, and to enhance 
+their role in climate change mitigation . Designing 
+effective nested systems that are suitable to national 
+circumstances, while ensuring the environmental 
+integrity of mitigation outcomes from forests, is an 
+important step in scaling up climate action. This 
+manual provides detailed guidance in how to do just 
+that. 

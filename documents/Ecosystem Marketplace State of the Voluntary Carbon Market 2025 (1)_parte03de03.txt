@@ -1,0 +1,903 @@
+DOCUMENTO: Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)
+PARTE 3 de 3
+Páginas 31 a 45
+======================================================================
+
+
+--- PÁGINA 31 ---
+
+26                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+first CCP-approved credits to begin trading on the 
+market in August 2024.
+Category assessments for CCP approval take 
+place either through an internal assessment 
+process or a multistakeholder working group 
+process, which includes experts from within 
+and outside ICVCM. At the end of July 2024, 
+ICVCM released the first category approvals 
+for Landfill Gas, ODS, and Leak Detection/
+Repair in Gas Systems2 project methodologies, 
+which were assessed by an internal working 
+group. Simultaneously, the determinations 
+from the multistakeholder group reviewing 
+renewable energy were released, rejecting most 
+methodologies that used CDM tools to calculate 
+additionality of new renewable energy projects. 
+In November 2024, the multistakeholder group 
+focusing on REDD+ approved three REDD+ 
+methodologies: two jurisdictional REDD+ 
+methodologies from ART and VCS, and the 
+project-based VM0048 methodology. The last 
+category approvals in 2024 were for ARR projects 
+using the VM0047 methodology, in December. 
+While these approvals were seen as a sign of 
+support for Forestry and Land Use credits in the 
+VCM, very few CCP-approved REDD+ credits 
+and no approved ARR credits are available yet 
+for trading as of the publication of this report. 
+Only two jurisdictional REDD+ programs from 
+ART have issued credits: the Guyana and Costa 
+Rica programs. VM0047 and VM0048, both 
+developed by Verra, the developer of the VCS 
+standard, are new methodologies. Credits will be 
+issued in both of these methodologies from both 
+new projects, as well as projects transitioning 
+from other methodologies. The first VM0047 ARR 
+project was registered in April 2025, and Verra is 
+still collecting and publishing baseline data that 
+will be required for REDD+ projects to transition.
+Of the three project categories with an existing 
+supply of CCP-approved credits on the market, the 
+most liquidity in 2024 was from Landfill Gas, with 
+3.1 million tons traded over the year, a 149 percent 
+increase in volume from the year before. There 
+were 927,000 tons of Fugitive Emissions credits 
+traded, and 135,000 tons of ODS credits traded, an 
+increase in volume for both of these project types 
+as well. Although the record of CCP-approved 
+2 Included in the Fugitive Emissions cluster in EM’s project 
+type taxonomy.credit transactions is brief, approval seems to be 
+clearly affecting the price of Landfill Gas credits, 
+with the average price of CCP-approved credits in 
+this project type increasing by 35 percent from the 
+first half of the year to the second (Figure 8).
+Looking forward to 2025 and beyond, the impact of 
+continued project category approvals or rejections, 
+including the approval of Household Biodigester 
+and Efficient Cookstoves methodologies in 
+February 2025, is sure to significantly reshape the 
+VCM. However, as the lack of available approved 
+ARR and REDD+ credits demonstrates, simply 
+approving a project type is only the first step in 
+delivering supply of CCP-approved credits to the 
+market. As credit-issuing standards update their 
+methodologies to bring them into compliance 
+with the CCPs, there is a lag in validation for 
+projects that wish to switch to these updated 
+methodologies, and that can delay CCP-approved 
+credits from reaching buyers and end users.
+EM Respondents shared that ICVCM approval 
+was one of the issues that was front of mind for 
+them in 2024, with 22 percent of Respondents 
+to our qualitative survey mentioning the CCPs 
+specifically in their unstructured responses, and 
+36 percent mentioning ICVCM more generally. 
+The majority of Respondents had a positive 
+view of the CCPs, with 33 percent saying they 
+would have a strong positive impact and 30 
+percent saying they would have a weak positive 
+impact (see EM Respondent Sentiments on 
+the VCM in 2024, p 29). Respondents noted 
+that the availability of CCP-approved credits 
+on the VCM had an immediate impact, with 
+some Respondents able to sell credit types 
+that were previously less attractive to buyers. 
+However, other Respondents, while cautiously 
+optimistic toward the CCPs, noted that they 
+also introduced additional complexity and, 
+thus, increased projects costs and credit prices. 
+This could ultimately deter risk-averse buyers, 
+especially from project types like IFM that have 
+not yet undergone category assessments. 
+At the moment, it appears that the immediate 
+outcome of ICVCM’s CCPs has been to create 
+a subset of highly assured credits, which are 
+viewed with the greatest confidence in emissions 
+mitigation impact and responsible development. 
+However, ICVCM’s internal and multistakeholder 
+working groups cannot publish category 
+assessment decisions fast enough to satisfy all 
+
+--- PÁGINA 32 ---
+
+State of the Voluntary Carbon Market 2025    27
+market actors while also maintaining integrity 
+and consistency in applying the CCPs across 
+diverse project types. 
+There will always be some carbon projects 
+which lie outside of the CCPs, either because 
+they are developed using a standard that is not 
+included or because the market share of the 
+project type is too small for ICVCM to prepare a 
+category assessment. This includes novel project 
+types, which inherently have small market share 
+because they have not yet scaled up. For the 
+VCM to continue to progress as a mechanism 
+that allows for experimentation in establishing 
+new project types for emissions reductions 
+or removals financed by carbon credits, the 
+assurance and deliberation of ICVCM’s CCPs 
+need to be paired with an equal spirit of impact-
+driven innovation and risk-taking outside of the 
+bounds of existing approved project types.Independent Credit Ratings Agencies
+ ●Independent rating agencies that 
+score the quality of carbon credits have 
+emerged as a service helping inform 
+buyers’ evaluations of carbon project 
+quality. However, inconsistency between 
+different agencies’ methodologies for 
+evaluating projects can cause confusion 
+for buyers and frustration for suppliers.
+Another type of initiative that continues to gain 
+traction for denoting project quality in the VCM 
+is independent, privately-owned carbon credit 
+ratings agencies, including BeZero, Sylvera, MSCI, 
+and Calyx Global. These companies intend to Figure 8. Transaction Volume for CCP-Eligible Carbon Credits Compared to Total VCM, 2020-2024
+Standard not ApprovedProject Type not ApprovedREDD+/ARR - No approved 
+credits as of 2024
+Cookstoves/Biodigesters
+Approved in February 2025Unknown - Project data 
+insuﬃcient No - Rejected/outdated 
+methodologiesYes - CCP-approvedGreenhouse Gas Destruction 
+(Landﬁll Gas, Fugitive 
+Emissions, ODS)
+Nature-based Solutions
+Household/Community Devices
+Not CCP-eligible04080120160200
+0510152025Landﬁll Gas, ODS, and Fugitive Emissions Volumes 
+from CCP-Eligible Standards Volume (MtCO2e)
+Volume (MtCO2e) Volume (MtCO2e)Volumes from All CCP-Eligible 
+Project Types and Standards
+Total Transaction Volume, 
+by CCP Approval Status
+2020 2021 2022 2023 20242020 2021 2022 2023 2024
+0100200300400600
+500
+2020 2021 2022 2023 2024
+Note: The left chart includes transaction volumes for credits from Landfill Gas, ODS, and Fugitive Emissions project types issued 
+by ACR, CAR, Gold Standard, and VCS, the only standards which had issued CCP-eligible credits for these types as of 2024. The top 
+right chart includes the volumes at left and adds reported transactions from Cookstove Distribution, ARR, and REDD+ credits from 
+these standards, as well as the ART Jurisdictional REDD standard. The bottom right chart includes annual transaction volume from 
+all standards and project types, including those which have been rejected or which have not been assessed by ICVCM to date.
+Section Insights
+
+--- PÁGINA 33 ---
+
+28                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+become the equivalent of credit ratings agencies 
+in bond markets, providing neutral analysis of 
+carbon projects to determine their quality and 
+integrity. The ratings analysis and methodologies 
+are variously defined as including adherence 
+to the principle of additionality, proper use of 
+methodological tools for carbon accounting, 
+the permanence of emissions reductions 
+or removals, the degree of operational risk 
+associated, and the presence or absence of social 
+and/or environmental co-benefits. 
+Because credit ratings agencies use opaque 
+methodologies, which they have designed independently from their competitors, they 
+do not produce the same results in all cases. 
+Nineteen percent of Respondents answering our 
+sentiment survey mentioned credit ratings, with 
+many noting the uncertain impact and potential 
+to confuse buyers, while others suggested the 
+growth of ratings indicates a maturing market. 
+It’s important to note that EM’s Respondents 
+represent the supply side of the market, who 
+see ratings as another layer of due diligence for 
+buyers. Meanwhile many buyers view ratings as 
+a useful tool for purchasing decisions, despite 
+some confusion from the inconsistencies of 
+ratings across the different agencies.
+Key Terms
+Article 6 of the Paris Climate Agreement:  A framework for international cooperation in achieving 
+set ambitions around climate action, known as Nationally Determined Contributions (NDCs) , 
+through market and non-market mechanisms.
+Article 6.2: Permits two or more countries to cooperate bilaterally to trade Article 6.2 units directly.
+Article 6.4: Permits countries to trade credits through a central carbon crediting mechanism, 
+the Paris Agreement Crediting Mechanism (PACM), which is a registry of projects approved for 
+international credit trading and is overseen by the UN’s 6.4 Supervisory Body, which will approve 
+methodologies, register projects and maintain the registry. Host countries are permitted to trade 
+credits with not only buyer countries, but other entities as well through PACM.
+2024 was a historic year for implementation of Article 6 of the Paris Climate Agreement. At COP29 
+in November, nine years after the Paris Agreement entered into force, countries finally agreed on 
+core elements of Article 6.4 and approved the rules governing the PACM, which is required for 
+implementation of Article 6.4. In January 2024, Switzerland and Thailand completed the first ever 
+transfer of Article 6.2 carbon credits. Consequently, market participants have high expectations of 
+the impact that Article 6 mechanisms, particularly 6.2 and 6.4, will have on demand and supply in 
+the VCM as they anticipate the operationalization of Article 6 going into 2025.
+In 2024, countries continued to engage bilaterally through agreements or other official statements 
+that demonstrate their intention to trade mitigation outcomes under Article 6.2. Over the past 
+year, there were eight Bilateral Agreements (BAs), nine Memorandums of Understanding (MoUs) 
+and two other types of agreements signed. As of April 2025, there were a total of 96 cooperative 
+agreements (BAs, MoUs, and other types) in place between 59 different countries. The ways in 
+which countries can trade 6.2 credits bilaterally to address their NDCs will vary according to each 
+agreement. Countries must consider not only their own, but the other country’s NDC needs and 
+national carbon strategy, such as carbon taxes, implementation of national carbon registries, etc., 
+when negotiating the terms of the bilateral trade. 
+As of March 2025, PACM, the 6.4 mechanism, approved its first credits, from a cookstove project 
+transitioning from the CDM. These credits were from a renewable energy methodology that was 
+rejected by ICVCM during assessment for CCP eligibility. It is estimated that over one thousand 
+CDM projects have applied for PACM approval.  (continued)Box 3. Current and Future Implementation of Article 6 Mechanisms
+
+--- PÁGINA 34 ---
+
+State of the Voluntary Carbon Market 2025    29
+While the UNFCCC has positioned the PACM as the UN’s high-integrity carbon crediting 
+mechanism, many are concerned about the potential approval of low-quality CDM projects to 
+transition to the new standard. The approval of these outdated credits from older methodologies 
+would flood the market with a supply of low-quality credits and also call into question whether 
+Article 6.4 can be considered an indicator of high-integrity credits.
+While market participants eagerly await the effects of Article 6.2 and 6.4 mechanisms on supply 
+and demand in the VCM, it is not yet clear what effect the operationalization of Article 6 will have 
+on the market. The impact of Article 6.2 on the VCM will be dependent on country strategies for 
+addressing their NDCs and how their 6.2 transactions fit into those strategies for both the host and 
+buyer countries. The impact of Article 6.4 on the VCM will also take time to understand, as PACM 
+is developing slowly as all parties advocate for their own interests in the multilateral process. In 6.4 
+negotiations where the buyer is a company hoping to meet its emissions offsetting needs, only the 
+host country must consider how the trade will impact their NDCs.
+Market participants reflected on the impact of Article 6 policy developments on the VCM in EM’s 
+qualitative sentiment, with 58 percent of Respondents saying Article 6 would have a positive impact 
+on the VCM. Despite this optimism, the survey also reflected uncertainty about how quickly Article 
+6 mechanisms can be operationalized, with 61 percent of Respondents saying that the jurisdictions 
+where they transact credits were not ready to participate in Article 6 carbon markets. These 
+sentiments further reflect the combination of high expectations paired with the reality of the pace 
+of Article 6 implementation.Box 3. Current and Future Implementation of Article 6 Mechanisms  (Continued)
+
+--- PÁGINA 35 ---
+
+30                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+ ●Respondents’ perception of their relative 
+volume and value of carbon credit sales 
+in 2024 was diverse, reflecting divergent 
+trajectories for project types within the VCM.
+ ●In 2024, government policies were 
+perceived as an increasingly important 
+factor in supporting or limiting the 
+VCM. Forty one percent of Respondents 
+identified government policies as 
+important, more than double the 
+proportion from 2023, highlighting their 
+anticipation of the expected impact of the 
+Article 6 implementation on the VCM.
+ ●Respondents anticipate beneficial impacts 
+from ICVCM’s CCPs on the VCM, with 64 
+percent viewing it positively. 
+ ●Respondents view companies’ climate 
+targets as less important in 2024 than 
+in 2023, with some sophisticated credit 
+buyers pursuing offsetting strategies 
+outside of frameworks like SBTi.
+In addition to collecting quantitative data on 
+VCM transaction volume and value in 2024, 
+EM also surveyed EM Respondents to capture 
+qualitative feedback and market sentiments on 
+the VCM in 2024. EM received survey responses 
+from 66 Respondents. These nuanced views and 
+individual narratives illustrate how complex even 
+a single year of market activity can be. 
+Respondents’ individual reports on volume and 
+price movements in 2024 confirm the diverse 
+trajectories for different market segments around 
+the world. For example, while overall market 
+volume reported to EM by Respondents fell from 
+2023 to 2024, more Respondents answering 
+our survey said that their transaction volume 
+had increased (27) than those who said volume 
+decreased (20). In terms of price, the plurality of Respondents (21) said that their average credit 
+sale price in 2024 was about the same as the 
+year before. While reported average prices from 
+transactions declined six percent from 2024, this 
+transaction price decline does not appear to be 
+evenly distributed across all respondents. This 
+demonstrates the wide variety of outcomes across 
+the market, which continues to motivate new 
+entrants that have novel approaches to project 
+development and credit marketing.
+For the second year, we asked Respondents 
+about their perception of the most important 
+external factors affecting their sales of carbon EM Respondent Sentiments on the 
+VCM in 2024
+Figure 9. Respondent Perception of Sales Volume and 
+Credit Price Trajectory, 2023 to 2024Count of Respondent
+Volume Price010203040506070
+Not Sure/OtherDecreased by 20% or moreDecreased by less than 20%About the sameIncreased by less than 20%Increased by 20% or more2314
+1121
+91315 945
+55Section Insights
+
+--- PÁGINA 36 ---
+
+State of the Voluntary Carbon Market 2025    31
+credits. The most frequently identified factor 
+was coverage by media publications, with 
+43 percent of Respondents including this in 
+their response, the same share as in 2023. 
+The second most important external factor 
+affecting the VCM was government policy, 
+which 42 percent of Respondents selected, a 
+major increase from the 17 percent identifying 
+government policy as a key factor last year. 
+Companies’ climate targets receded slightly as 
+a key factor driving VCM developments, with 
+only 36 percent of Respondents selecting this, 
+compared to 48 percent of Respondents in 2023. 
+Another emerging factor in 2024 was credit 
+certifications, with 30 percent of Respondents 
+indicating certifications’ importance in their 
+response, compared to just nine percent of those 
+completing the survey last year.
+The growing emphasis on government 
+policy and credit certification and declining 
+importance of voluntary climate targets was 
+reflected across responses to our survey. We 
+asked Respondents about their perception of 
+the impact of two key market developments in 
+2024: the operationalization of ICVCM’s CCPs 
+and Article 6 of the Paris Agreement (see ICVCM 
+Core Carbon Principles section, p 24, and Box 3, Article 6 of the Paris Agreement, p 27). On the 
+whole, Respondents view both as beneficial 
+to the VCM, with 64 percent saying the CCPs 
+would have a positive impact and 58 percent 
+saying Article 6 would have a positive impact. 
+More Respondents thought Article 6 would have 
+a neutral impact, with 35 percent saying the 
+impact would be neither positive nor negative, 
+compared to 26 percent who indicated the 
+same about the CCPs. 
+Despite the anticipated positive impact of Article 
+6 operationalization, 61 percent of respondents 
+said that the jurisdictions where they transact 
+credits were not ready to participate in Article 
+6 carbon markets. Thus, while anticipation of 
+and support for Article 6 developments is high, 
+market participants question how quickly Article 
+6 mechanisms will be implemented globally and 
+directly impact VCM supply, demand, and growth.
+Respondents also had the opportunity to provide 
+unstructured responses on several questions, 
+including on the subjects of positive and 
+negative factors in the VCM and the impact of 
+ICVCM. These responses provide more context 
+to Respondents’ answers to the other multiple-
+choice questions in the survey. Figure 10. Respondent Perception of the Most Important External Factors Influencing Credit Sales, 2023 vs. 2024Percent of Respondents
+0%10%20%30%40%50%60%
+Media
+publicationsGovernment
+policiesCompanies'
+climate targetsCredit issuances 
+by standardsCertiﬁcations Other2023 2024 2023 2024 2023 2024 2023 2024 2023 2024 2023 202443% 43%
+17%42%48%
+36%
+24%
+9%30%28%
+20%
+
+--- PÁGINA 37 ---
+
+32                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Respondents provided nuanced perspectives 
+on how some of the same initiatives driving 
+optimism in the VCM also create confusion and 
+concern when market actors lack clarity on 
+how to operationalize potentially contradictory 
+recommendations. In particular, Respondents 
+brought up ICVCM and ratings agencies 
+repeatedly (36 percent and 19 percent of 
+responses, respectively), both as potential drivers 
+of demand towards high-quality projects, and as 
+opaque gatekeepers whose findings are difficult 
+to communicate to credit buyers and other VCM 
+stakeholders. 
+Consistent with Respondents’ perception of the 
+most important external factors affecting their 
+credit sales, only 10 percent of Respondents 
+mentioned the Science Based Targets 
+Initiative (SBTi) in the unstructured section of 
+their survey. This appears to be indicative of 
+the growing importance of regulated credit 
+markets flowing into demand from domestic 
+compliance markets and international 
+commitments negotiated through Article 
+6, over the declining influence of voluntary 
+decarbonization frameworks like SBTi.Figure 11. Respondent Perception of ICVCM’s Core 
+Carbon Principles and Article 6 on VCM, and Article 6 
+Readiness
+ICVCM CCPs Article 6
+Strong positive
+Weak positive
+Neither positive 
+or negative
+Weak negative
+Strong negative010203040506070Count of Respondents
+ReadinessExpected impact on VCMLocal jurisdiction 
+Article 6 preparation
+Very ready
+Somewhat 
+ready
+Not ready417 2321
+2022 17
+16
+40
+
+--- PÁGINA 38 ---
+
+State of the Voluntary Carbon Market 2025     33
+The past year of market activity and policy 
+development in the VCM has felt challenging 
+at times for its participants, much like 2022 
+and 2023, which were similar years of market 
+contraction. However, EM’s carbon market 
+research, anchored by actual realized transaction 
+data sourced from project developers, credit 
+aggregators, and intermediaries, reveals more 
+nuanced trends in credit supply and demand. 
+With the decline in transaction volume slowing 
+to a 25 percent annual decrease, compared 
+with the 50 percent of transaction volume lost 
+annually over the course of 2022 and 2023, 
+and with average credit prices sticking above 
+$6/tCO2e during the same period, the VCM of 
+2024 is structurally different from what came 
+before. With multiple interrelated approaches 
+to quality and integrity, VCM actors can make 
+more informed choices around credit supply and 
+demand that reflect their intended values.
+As in the past two years, EM has observed 
+distinct trajectories for credits from different 
+project types and with different attributes. The 
+Forestry and Land Use category has been the 
+largest category by transaction volume since 
+2021, and in 2024 it became the category with 
+the most credits retired annually. The category 
+continues to evolve and place more emphasis 
+on IFM projects and nature-based removals, 
+such as ARR, as a driver of value. As 99 percent 
+of removal credits sold on the market are from 
+nature-based projects, increased buyer demand 
+for removals has supported the market value of 
+Forestry and Land Use credits.
+The much-anticipated operationalization of 
+ICVCM’s Core Carbon Principles in 2024 was 
+limited in practice to three project types, but 
+CCP approval has already led to a 35 percent 
+increase in price for credits from eligible 
+Landfill Gas projects, which drove a 3X increase 
+in transaction volume for the Waste Disposal 
+category compared to 2023. As ICVCM continues to approve project types for eligibility and 
+standards continue to make credits from newer 
+methodologies available on the market, this 
+mark of integrity will drive buyer demand to 
+diverse project types. Registry data shows that 
+retirements are holding a steady pace, and 
+frameworks like the CCPs provide buyers with 
+confidence to continue to invest in carbon 
+credits that meet relatively high levels of 
+integrity.
+Many other important developments in the 
+market during 2024 indicated sustained 
+ambition towards fulfilling the positive potential 
+of the VCM, including the full approval of 
+Article 6 of the Paris Agreement, the beginning 
+of the first compliance phase of the CORSIA 
+international aviation decarbonization scheme, 
+and the continued growth of independent 
+credit ratings agencies. It is clear that the 
+market has been compelled to introduce 
+multiple frameworks for quality and integrity. 
+This is to the benefit of credit buyers, who now 
+have an increased number of options for how 
+to communicate their choices around credit 
+purchases and offsetting strategy.
+In 2024, the VCM functioned effectively in 
+advancing climate mitigation by continuing to 
+drive innovation towards new types of credit-
+generating projects. While 50 percent of the 
+market trades below average price, 25 percent 
+of transactions come from project types that 
+trade above average price, including improved 
+cookstoves projects, IFM, and carbon removal 
+methodologies, such as ARR and engineered 
+removals. The future evolution of the VCM will 
+come from these project types, as well as project 
+types that have yet to gain prominence. As a 
+driver of innovation towards climate action and 
+a key conduit for private finance for a green 
+transition, the VCM continues to advance, and 
+results across different segments of the market 
+in 2024 are beginning to bear fruit.Conclusion
+
+--- PÁGINA 39 ---
+
+34                                                            Meeting the Moment: Renewing Trust in Carbon Finance
+Data and MethodologyAppendices
+ ●3Degrees
+ ●ACCIONA
+ ●Across Forest AS/Across 
+Nature AS
+ ●AGL
+ ●Agrocortex
+ ●Agroempresa Forestal
+ ●Agroinsider
+ ●Akre
+ ●ALLCOT
+ ●Anew Climate
+ ●Appalachian Mountain Club ●Arbor Day
+ ●Beijing Qianyuhui 
+International 
+Environmental 
+Investment Co., Ltd. (QYH)
+ ●BioCarbon Partners
+ ●Biofílica Ambipar 
+Environment
+ ●BIOFIX
+ ●BOCS Foundation
+ ●Bonneville Environmental 
+Foundation
+ ●Bosques Amazonicos ●BRCarbon
+ ●Canopée
+ ●Carbonapp
+ ●Carbone boréal (Université 
+du Québec à Chicoutimi)
+ ●Carbon Expert
+ ●Carbonext
+ ●Carbon Offsets To Alleviate 
+Poverty (COTAP)
+ ●CarbonReset
+ ●CarbonStore - Tillhill
+ ●Carbon TanzaniaMost of the data in this report comes from self-
+reported transaction data from EM Respondents, 
+typically project developers, investors, and 
+intermediaries (i.e., sell-side market participants). 
+Data on project registrations, credit issuances, 
+and credit retirements are sourced from carbon 
+standard registries. In the 2025 State of the VCM 
+Report, EM included data from the American 
+Carbon Registry (ACR), Architecture for REDD+ 
+Transactions (ART), BioCarbon, Climate Action 
+Reserve (CAR), Clean Development Mechanism 
+(CDM), Cercarbono, Global Carbon Council (GCC), 
+Gold Standard, Plan Vivo, and Verified Carbon 
+Standard (VCS) registries.
+Average carbon credit prices are volume-
+weighted, calculated from transactions with 
+reported price and volume (the majority of 
+transactions reported to EM). To calculate the total 
+transaction value, this average price is multiplied 
+by the total volume of transactions (including 
+transactions without an associated price). In other 
+words, the volume-weighted average price for 
+transactions with price is assumed to extend to 
+transactions reported without price.For project registrations, only projects that had 
+been approved by the relevant registry were 
+included, whether or not credits were issued 
+for projects. EM used the provided project 
+registration date where available; for Gold 
+Standard projects, the date of the first credit 
+issuance for a project was used for the date 
+of project registration. Any reserve or buffer 
+volume from registry data on issued credits 
+was removed, where provided data made that 
+possible.
+EM is the world’s largest repository of VCM 
+transaction data, however, the volumes 
+presented throughout this report should not 
+be considered to be a complete representation 
+of market trading activity. EM works actively to 
+engage with all market participants. As reporting 
+to EM is voluntary, and many market actors are 
+not yet reporting to EM, the actual volume of 
+credits transacted in the voluntary market is 
+likely higher than the amounts published here. 
+See a list of EM Respondents from the past two 
+years whose data is represented in this report 
+below.
+EM Respondents, 2023-2024
+
+--- PÁGINA 40 ---
+
+State of the Voluntary Carbon Market 2025     35
+ ●Cawa Tech
+ ●CBL Markets (Xpansiv)
+ ●CIMA
+ ●Clean Air Action 
+Corporation (TIST Program)
+ ●Climate Bridge Ltd.
+ ●ClimeCo
+ ●C-Neutral
+ ●CO2CERO
+ ●CO2Logic
+ ●Conservation International
+ ●Cool Effect
+ ●Cooperativa AMBIO 
+Programa Scolel’te
+ ●C-Quest Capital
+ ●Credible Carbon
+ ●Eco2librium
+ ●ECOEYE
+ ●Econegocios
+ ●Ecopart Assessoria em 
+Negocios Empresariais 
+Ltda. (EQAO)
+ ●Ecosecurities
+ ●Ecosphere+
+ ●EKI-EnergyServices
+ ●El Guásimo
+ ●Emergent Ventures
+ ●ENGIE
+ ●Enviro-Mark Solutions Ltd 
+(trading as Toitū Envirocare)
+ ●Everland
+ ●FairClimateFund (formerly, 
+Hivos Carbon Credits)
+ ●Fondo Accion
+ ●Forest Carbon Ltd (UK)
+ ●FORLIANCE GmbH ●Fundação Carbon Offset 
+Timor (FCOTI)
+ ●Fundación para 
+el Ecodesarrollo 
+y la Conservación 
+(FUNDAECO)
+ ●Future Climate
+ ●Futuro Forestal
+ ●Global Forest Partners
+ ●global-woods 
+international AG
+ ●GoodPlanet
+ ●Gould International
+ ●Greenoxx
+ ●Grupo Ecologico Sierra 
+Gorda
+ ●Highland Carbon
+ ●ID Water
+ ●Infinite Solutions
+ ●Inlandsis Fund
+ ●Integrador de 
+Comunidades Indígenas 
+y Campesinas de Oaxaca 
+AC (ICICO)
+ ●King County, Washington
+ ●Land Carbon Ltd
+ ●Livelihoods Venture
+ ●Louis Dreyfus Company
+ ●MEXICO2
+ ●Microsol
+ ●Mongolian Society for 
+Rangeland Management
+ ●Nature Conservancy 
+Canada
+ ●Nedbank
+ ●Nideport
+ ●Nordic Offset ●OurOffset
+ ●Pachama
+ ●Point Zero International
+ ●PRIMAKLIMA
+ ●Pronatura
+ ●Prosustentia
+ ●Proyecto Mirador
+ ●Quadriz
+ ●Rabobank
+ ●Relief International
+ ●Rubicon Carbon
+ ●Sanko Enerji
+ ●Soluciones Proambientales
+ ●South Pole
+ ●Swiss Climate
+ ●Sylvestris
+ ●Taking Root
+ ●Terra Global Capital
+ ●The Association for Coastal 
+Ecosystem Services (ACES)
+ ●The Climate Trust
+ ●The Future Forest Company
+ ●The Nakau Program
+ ●The Nature Conservancy
+ ●The Voluntary Climate 
+Marketplace
+ ●The Woodland Trust
+ ●Timing Carbon Asset 
+Management Co., Ltd.
+ ●Trees for Life
+ ●TreeStory
+ ●UPM
+ ●VNV
+ ●We Are Neutral
+ ●WeForest
+ ●ZeroMission
+
+--- PÁGINA 41 ---
+
+36                                                            Meeting the Moment: Renewing Trust in Carbon Finance
+Glossary of Terms
+Additionality: Additionality describes the basis for issuing carbon credits for project activities that 
+would not occur without finance from the sale of credits. Carbon credits can only be issued if the 
+reduction or removal of carbon emissions would not otherwise have taken place. For example, a solar 
+energy installation that would be profitable to build without the sale of carbon credits is not considered 
+additional, but a cookstove distribution project that reduces the burden of deforestation is additional, 
+because deforestation would continue at a high rate if the cookstoves were not supplied to local 
+communities. Different project methodologies have specific modules for calculating project additionality.
+Afforestation-Reforestation/Revegetation (ARR): A group of Forestry and Land Use project 
+types that establish new forests or restore deforested/degraded forests through tree planting and 
+revegetation. ARR projects generate nature-based removal credits.
+Article 6 of the Paris Climate Agreement: A framework for international cooperation in achieving set 
+ambitions around climate action, known as Nationally Determined Contributions (NDCs), through 
+market and non-market mechanisms. See Box 3, page xx for details. 
+Article 6.2: Permits two or more countries to cooperate bilaterally to trade Article 6.2 units directly.
+Article 6.4: Permits countries to trade credits through a central carbon crediting mechanism, the 
+Paris Agreement Crediting Mechanism (PACM). Host countries are permitted to trade credits with 
+not only buyer countries, but other entities as well through PACM.
+Blue Carbon: A group of Forestry and Land Use project types that reduce/remove carbon dioxide 
+from marine and coastal environments by restoring, conserving, or managing ecosystems, including 
+wetland, mangrove, and seagrass habitats.
+Co-benefits:  Social or environmental benefits provided by a project in addition to the greenhouse 
+gas emission reductions/removals that generate carbon credits. For example, a project that restores 
+natural ecosystems and has benefits for carbon storage, biodiversity, and local communities. Credit 
+standards can indicate if a project provides certain co-benefits through independent certifications 
+(e.g., Verra’s Climate, Community, and Biodiversity certification for projects that contribute to 
+biodiversity) or by indicating which UN Sustainable Development Goals (SDGs) that the projects 
+contribute towards.
+Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA): A compliance 
+program for offsetting emissions from international aviation, operated by the International Civil 
+Aviation Organization (ICAO). Only certain credits that meet ICAO’s eligibility criteria—specific 
+standards, methodologies, co-benefits, project locations, and vintages—can be used as offsets for 
+CORSIA. CORSIA’s pilot phase ran from 2021 to 2023, and its first implementation phase began in 2024. 
+Carbon Tax:  A carbon tax sets a price on carbon by defining a tax rate on greenhouse gas emissions. 
+It is different from an Emissions Trading Schemes (ETS) in that the emission reduction outcome of a 
+carbon tax is not pre-defined but the carbon price is.
+Credits: The individual units of greenhouse gas emissions reducing/removing activities that are 
+issued by carbon market standards, and then bought, sold, and retired by the various carbon market 
+actors (project developers, intermediaries, end users, etc.). Each credit is denominated as one 
+metric ton of CO2 equivalent (tCO2e) and corresponds to the estimated amount of greenhouse gas 
+emissions that a project removes or reduces from the atmosphere.
+Emissions Trading Schemes (ETS): Often referred to as a cap-and-trade system, ETS cap the total 
+level of greenhouse gas emissions and allow those industries with low emissions to sell their extra 
+allowances to larger emitters. By creating supply and demand for emissions allowances, an ETS 
+
+--- PÁGINA 42 ---
+
+State of the Voluntary Carbon Market 2025     37
+establishes a market price for greenhouse gas emissions. The cap helps ensure that the required 
+emission reductions will take place to keep the emitters within their pre-allocated carbon budget.
+End User/End Buyer: An entity (individual, company, organization, etc.) that purchases carbon 
+credits, either directly from the project developer or from an intermediary, with the intention of 
+retiring the credits to claim as offsets against emissions (see Retirements).
+Engineered Credits: Credits generated by projects that use technological solutions to reduce or 
+remove greenhouse gas emissions. This includes projects in the following categories: Chemical 
+Processes/Industrial Manufacturing, Energy Efficiency/Fuel Switching, Household/Community 
+Devices, Renewable Energy, Transportation, and Waste Disposal.
+Greenhouse Gases (GHGs): Gases that trap heat in the atmosphere and lead to global warming. 
+Carbon dioxide (CO2), methane, and nitrous oxide are the primary greenhouse gases emitted into the 
+atmosphere by human activities contributing to climate change.
+Greenwashing: Misleading characterizations of corporate actions to address environmental issues 
+that make company efforts seem more impactful than they are. Companies claiming emissions 
+offsets using low-quality carbon credits face the risk of being accused of greenwashing.
+Improved Forest Management (IFM): A group of Forestry and Land Use project types that implement 
+forest management activities to increase carbon storage in forests, and/or reduce greenhouse gas 
+emissions from forestry activities. This cluster does not include projects that fall under the REDD+ 
+framework (see REDD+). 
+Issuance: Following a project’s registration, once it begins to generate emissions reductions or 
+removals, a third-party auditor will verify that the methodology applied in the project design is being 
+followed and confirm that the climate impact of the project is in line with expectations, allowing the 
+standard to issue credits to the project developer.
+Methodology: The technical documentation that describes the procedures and requirements for 
+specific types of project activities, including procedures for quantifying the volume of greenhouse gas 
+emissions reduced and/or removed by the project. Some projects will use multiple methodologies 
+to cover different elements within a single project. Standards may develop their own methodology 
+documentation and/or provide a list of methodologies from other standards that they will accept. 
+Nationally Determined Contribution (NDC): NDCs represent efforts by each country to reduce 
+national emissions and achieve set goals around climate ambition. The Paris Agreement requires 
+each Party to prepare, communicate, and maintain NDCs that it intends to achieve.
+Nature-based Credits: Credits generated by projects that achieve greenhouse gas emissions reductions 
+or removals by conserving, restoring, and/or managing natural and agricultural ecosystems. All projects 
+within EM’s Agriculture and Forestry and Land Use categories are considered nature-based credits. 
+Net-zero: An organization is considered to have achieved net-zero emissions when it reduces at least 
+90 percent of initial emissions and compensates for the residual emissions through offsetting with 
+carbon credits. Net-zero is a more stringent standard than the related term “carbon neutral,” which 
+does not require emissions abatement and can be accomplished through emissions offsets alone.
+Paris Agreement Crediting Mechanism (PACM): A registry of projects approved for international 
+credit trading and is overseen by the UN’s 6.4 Supervisory Body, which will approve methodologies, 
+register projects, and maintain the registry.
+Project Category: Category is the broadest classification level that EM uses to group projects by 
+the type of activities involved. EM has eight Project Categories: Agriculture, Chemical Processing/
+
+--- PÁGINA 43 ---
+
+38                                                            Meeting the Moment: Renewing Trust in Carbon Finance
+Industrial Manufacturing, Energy Efficiency and Fuel Switching, Forestry and Land Use, Household/
+Community Devices, Renewable Energy, Transportation, and Waste Disposal. Within each category, 
+EM groups projects into more specific Project Clusters and the most specific Project Types.
+Project Registration: When a credit issuing standard determines that a prospective project meets 
+the necessary criteria established in a published methodology, including third-party validation and 
+assurance, and gives official approval to list the project in that standard’s registry. Once registered, a 
+project can submit requests for credit issuances (see Issuances). 
+REDD+: Reduced Emissions from Deforestation and Degradation in Developing Countries. These 
+Forestry and Land Use projects are developed based on the voluntary REDD+ framework, developed 
+by the UNFCCC to encourage financing of forest conservation and management in lower income 
+countries where forests are at risk of land-use change or reduced carbon storage.
+Reduction Credits: Credits generated by projects from the volume of greenhouse gas emissions that 
+were reduced or avoided through project activities. For example, a project that improves building 
+weatherization and thereby reduces the burden of emissions from heating or air conditioning. 
+Some nature-based carbon projects both reduce and remove (see Removal credits) greenhouse gas 
+emissions, and credits from these projects are considered to include both reduction and removal 
+credits.
+Removal Credits: Credits generated from the volume of greenhouse gas emissions that a project 
+removed from the atmosphere or ocean through the creation of a carbon sink/pool. For example, an 
+afforestation/reforestation project that increases vegetation to sequester carbon.
+Registration: Carbon projects must pass through a series of design validation and auditing steps, 
+including potential public comment periods, before they are approved by standards and given 
+registered status.
+Registry: Can refer either to databases of registered projects and issued and retired credits 
+maintained by standards, or to aggregations of credits meeting certain criteria, such as eligibility for 
+use in a compliance carbon market.
+Retirement: A credit may pass through many hands from the project’s developer, or it may be sold 
+directly to its end user, who will “retire” the credit by requesting the standard to add the specific 
+credit to its registry of retired credits.
+Scope 3 Emissions: Greenhouse gas emissions that are indirectly caused by a company through any 
+activities other than the generation of purchased energy. A major source of Scope 3 emissions is a 
+company’s value chain, which includes emissions from both upstream (e.g., agricultural production) 
+and downstream (e.g., use and disposal of products by consumers) supply chains. For some 
+companies, such as those in consumer goods sectors that rely heavily on agricultural and forestry 
+commodities, the vast majority of their carbon emissions are embedded in their value chains. 
+Standards: The organizations that define the project activities that can produce carbon credits 
+and publish methodologies outlining the calculation of credits generated by a project, as well as 
+approving and tracking project registration and credit issuance and retirement.
+Vintage: The year in which project emissions reductions or removals were determined to have 
+occurred (or estimated to occur in the future). This does not have to match the year that the credits 
+were issued; there can be lags between the actual reductions/removals and the issuance of credits, 
+and some standards issue credits for future estimated reductions/removals.
+
+--- PÁGINA 44 ---
+
+State of the Voluntary Carbon Market 2025  39
+Table S2. Volume of Credit Issuances (MtCO2e) by Category, 2020-2024
+Note: This table includes data on credit issuances from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global Carbon Council, 
+Gold Standard, Plan Vivo, and VCS registries.Project Category 2020 2021 2022 2023 2024
+Agriculture 1.1 4.0 9.0 6.6 3.2
+Chemical Processes/ 
+Industrial Manufacturing18.2 20.3 43.1 23.8 23.8
+Energy Efficiency/Fuel Switching 9.5 14.5 25.1 11.8 7.9
+Forestry & Land Use 75.9 140.0 146.5 124.0 86.7
+Household/Community Devices 18.4 26.4 25.2 56.7 65.9
+Renewable Energy 147.1 209.9 244.7 161.0 117.9
+Transportation 0.2 0.1 0.03 0.4 0.2
+Waste Disposal 8.5 7.9 7.8 5.8 6.0
+Total 278.8 423.1 501.3 390.0 311.5Table S1. Number of Project Registrations by Category, 2020-2024
+Note: This table includes data on project registrations from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global Carbon 
+Council, Gold Standard, Plan Vivo, and VCS registries.Project Category 2020 2021 2022 2023 2024
+Agriculture 23 6 22 27 26
+Chemical Processes/ 
+Industrial Manufacturing23 20 86 56 69
+Energy Efficiency/Fuel Switching 102 1 10 5 2
+Forestry & Land Use 236 89 108 130 114
+Household/Community Devices 127 118 194 329 222
+Renewable Energy 988 111 151 129 158
+Transportation 8 2 37 3 8
+Waste Disposal 30 1 11 15 17
+Total 1537 348 619 694 616Supplementary Tables
+
+--- PÁGINA 45 ---
+
+Pioneering Finance for Conservation
+Learn more about our programs at www.forest-trends.orgPromoting the use of incentives and market-based instruments to protect  
+and sustainably manage watershed servicesWater InitiativePublic-Private Finance Initiative
+Creating mechanisms that increase the amount of public and private capital for  
+practices that reduce emissions from forests, agriculture, and other land usesPromoting development of sound, science-based, and  
+economically sustainable mitigation and no net loss of biodiversity impactsBiodiversity Initiative
+Supporting the transformation toward legal and sustainable markets for  
+timber and agricultural commoditiesForest Policy, Trade, and Finance InitiativeStrengthening local communities’ capacity to secure their rights, manage and  
+conserve their forests, and improve their livelihoodsCommunities InitiativeDemonstrating the value of coastal and marine ecosystem servicesCoastal and Marine Initiative
+A global platform for transparent information on environmental finance and  
+markets, and payments for ecosystem services  Ecosystem Marketplace
+Tracking corporate commitments, implementation policies, and progress  
+on reducing deforestation in commodity supply chainsSupply Change

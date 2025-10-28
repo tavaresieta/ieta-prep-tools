@@ -1,0 +1,1302 @@
+DOCUMENTO: Relatorio_ICC_UK_PACT-1
+PARTE 1 de 4
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+Suporte ao Governo Federal por 
+meio da análise de um framework do 
+mercado de carbono no Brasil
+Produto 1.8 – Relatório completo do Output 1Output 1 - Recomendações para o credenciamento 
+de padrões independentes de certificação de carbono 
+(standards) para aceitação de offsets no Sistema 
+Brasileiro de Comércio de Emissões (SBCE)
+
+
+--- PÁGINA 2 ---
+
+Apresentação
+Agradecimentos
+Lista de acrônicos
+Sumário executivo
+Objetivo do trabalho 
+Metodologia 
+Principais resultados e recomendações 
+correspondente 3
+3
+4
+5
+555
+13
+17
+17
+18
+18
+191. Introdução
+2. Avaliação comparativa da aceitação de  
+compensações nos Sistemas de Comércio 
+de Emissões (ETS) de jurisdições 
+selecionadas
+2.1. Seleção de ETS a serem analisados 
+2.2. California cap-and-trade   
+2.3. Sistema de Comércio de Emissões da    
+           Coreia do Sul 
+2.4. ETS Nacional da China 
+2.5. Análise comparativa do modelo    
+           de aceitação de compensações    
+           nas jurisdições  95. Considerações finais e recomendações
+5.1. Recomendações de requisitos  
+           para que créditos de carbono sejam  
+           convertidos em CRVEs
+5.2. Recomendações para garantia    
+           de integridade
+5.3. Recomendações de apoio a atores  
+           do mercado
+Referências bibliográficasAnexos
+Anexo 1 - Critérios de Qualidade Avaliados  
+                   pela ICROA
+Anexo 2 - Metodologias presentes em  
+                  projetos de carbono no Brasil 
+Anexo 3 - Glossário4.3.1.	 Conservação	florestal	e	 
+																											manejo	florestal
+ 4.3.1.1. REDD+ Jurisdicional
+4.3.2.	 Manejo	florestal	sustentável
+4.3.3.	 Restauração	florestal
+4.3.4. Agropecuária sustentável
+4.3.5. Resíduos e saneamento
+4.3.6. Tecnologias promissoras
+4.3.7. Conclusões sobre os escopos   
+                           prioritários3. Requisitos para garantia de qualidade e  
+cobenefícios em projetos de carbono
+3.1. Princípios de garantia de qualidade  
+           para projetos de carbono
+3.2. Considerações sobre cobenefícios em  
+           projetos de carbono 
+3.3. Análise das principais lições para o  
+           Brasil quanto aos requisitos mínimos     
+           para os projetos de carbono21
+21
+24
+2535 
+36
+36
+37
+38
+40
+ 41
+41
+45
+45
+46
+47
+494. Análise de benchmarking  de padrões 
+independentes de certificação de carbono 
+selecionados
+4.1. Panorama de padrões independentes  
+											de	certificação	de	carbono	utilizados			  
+           no Brasil
+4.1.1. VCS 
+4.1.2 Gold Standard 
+4.1.3 JNR
+4.1.4 Art Trees
+4.2. Análise comparativa dos padrões 
+ 										independentes	de	certificação	 
+           de carbono
+4.2.1. VCS e Gold Standard 
+4.2.2 Programas jurisdicionais 
+4.3. Escopos prioritários e suas  
+           principais metodologias27
+27
+29
+29
+30
+32
+33
+33
+33
+3542
+42
+43
+44Índice
+
+--- PÁGINA 3 ---
+
+Apresentação Anexos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil3
+5. Considerações finais 
+e recomendações AgradecimentosReferências  
+bibliográficasApresentação Agradecimentos
+O UK PACT (United Kingdom Partnering for Accelerated Climate Transitions) é um 
+programa	que	faz	parte	do	compromisso	 do	Reino	Unido	de	combater	as	alterações	
+climáticas e está no âmbito da carteira do International Climate Finance (ICF). O pro -
+grama	é	financiado	pelo	Foreign,	Commonwealth	 and	Development	 Office	(FCDO)	e	
+pelo Department for Energy Security & Net Zero (DESNZ). O UK PACT trabalha com 
+países	parceiros,	apoiando-os	 na	aceleração	 das	suas	transições	para	um	cresci-
+mento limpo. O programa é composto por três componentes principais: The Country 
+Programme,	Skill-Shares	and	Secondments,	e	o	Green	Recovery	Challenge	Fund.	
+Esta	última	componente	 centra-se	em	projetos	que	maximizam	 as	reduções	de	
+emissões	em	países	elegíveis	para	Official	Development	 Assistance	 (ODA)	em	toda	
+a	América	Latina,	África	Subsaariana	 e	Ásia	a	implementar	 e	aumentar	as	suas	
+ambições	de	redução	das	emissões	de	carbono,	em	linha	com	as	suas	Contribui-
+ções	Determinadas	 Nacionalmente	 (NDC)	e	o	objetivo	de	longo	prazo	do	Acordo	de	
+Paris	de	2015	para	limitar	as	alterações	climáticas	perigosas.	Como,	na	sequência	
+da	pandemia	de	COVID-19,	 há	uma	tônica	em	projetos	que	reconstruam	 melhor	e	
+promovam	 um	futuro	mais	verde	e	resiliente,	o	Green	Recovery	Challenge	Fund	está	
+desenvolvendo um portfólio de projetos ousados e inovadores que abordam desa-
+fios	específicos	de	baixo	carbono.	
+Já	no	âmbito	nacional,	a	Secretaria	de	Economia	Verde,	Descarbonização	 e	Bioin-
+dústria	(SEV)	foi	criada	pelo	Decreto	nº	11.427,	de	02	de	março	de	2023,	no	qual	se	
+estabeleceu	 a	estrutura	regimental	 do	Ministério	do	Desenvolvimento,	 Indústria,	Co-
+mércio	e	Serviços	(MDIC).	Ela	tem	como	competência	 propor,	implementar	 e	avaliar	
+políticas	públicas	que	integrem	estratégias	 de	descarbonização	 dos	setores	produti-
+vos; fomentar a bioindústria no país; desenvolver as cadeias produtivas dos biomas 
+e	da	Amazônia	e	que	incentivem	 e	apoiem	o	desenvolvimento	 de	negócios	que	ge-
+rem	impacto	social	e	ambiental.	 Para	tal,	a	SEV	atua	dialogando	 com	organizações	
+públicas	e	privadas	envolvidas	 nos	temas	de	meio	ambiente,	sociedade	e	governan-
+ça para promover o avanço regulatório e garantir condições para que a economia se 
+desenvolva de forma sustentável.Este	relatório	técnico	é	resultado	de	um	intenso	trabalho	de	coleta,	análise	e	inter -
+pretação	de	documentos,	 além	de	diálogos	com	representantes	 de	órgãos	gestores	
+de mercados regulados de carbono de outras jurisdições e de consultas com o setor 
+privado e entidades da sociedade civil envolvidas em projetos de carbono.
+Agradecemos à ICC China e ao Professor Dr. Duan Maosheng da Tsinghua Univer -
+sity;	ao	Mark	Sippola	e	equipe	do	California	Air	Resources	Board;	ao	Chang-hwan	
+Lee e equipe da Divisão de Economia Climática do Ministério do Meio Ambiente e ao 
+Beomwoong	 Park	e	equipe	do	Departamento	 de	Gestão	do	ETS	do	Greenhouse	 Gas	
+Inventory and Research Center of Korea (GIR). Agradecemos também a todos que 
+participaram	 e	contribuíram	 até	agora	com	o	projeto	por	meio	de	workshops,	 ses-
+sões de engajamento e reuniões bilaterais. 
+Agradecemos também ao Governo do Reino Unido e ao programa UK Pact pelo 
+apoio	financeiro.	
+Por	fim,	agradecemos,	 em	especial,	à	equipe	da	Coordenação-Geral	 de	Finanças	
+Verdes	(CGFIN),	Beatriz	Soares	da	Silva,	Paulo	Coelho	Ávila,	Demétrio	Florentino	de	
+Toledo	Filho	e	Gabriel	Damasco	do	Vale,	pela	participação	 ativa	como	revisores	do	
+documento e pelas contribuições importantes para o desenvolvimento do projeto.
+Esperamos que as informações fornecidas possam oferecer subsídios valiosos para 
+formuladores	 de	políticas	e	para	a	sociedade	em	geral,	em	preparação	 para	a	regu-
+lamentação do mercado brasileiro. Ainda,	a	ICC	Brasil,	um	dos	capítulos	nacionais	da	Internacional	 Chamber	of	Com-
+merce	(ICC),	vem	buscando	centralizar	o	setor	privado	na	agenda	do	comércio	inter -
+nacional	e	todo	seu	ecossistema,	 e	ampliar	a	representação	 do	setor	privado	bra-
+sileiro	internacionalmente.	 Adicionalmente,	 a	ICC	Brasil	produz	conhecimento	 por	
+meio de projetos e iniciativas de advocacy,	aproximando	 o	setor	privado	dos	órgãos	
+governamentais.	 Já	a	WayCarbon,	 empresa	global	especializada	 em	soluções	para	
+a transição para uma economia net-zero,	utiliza	conhecimento	 científico	e	de	negó -
+cios,	aliados	à	tecnologia,	 para	apoiar	empresas	e	governos	em	estratégias	 de	mu-
+dança	climática	e	sustentabilidade.	 Juntas,	ICC	Brasil	e	WayCarbon	 foram	parceiras	
+em três edições do estudo Oportunidades para o Brasil em Mercados de Carbono.
+E,	com	a	iminente	criação	de	um	mercado	regulado	de	carbono	no	Brasil,	os	atores	
+citados	acima	se	reuniram	para	compreender	 os	melhores	caminhos	para	a	utiliza-
+ção	de	créditos	de	carbono	como	compensações,	 já	prevista	no	na	Lei	15.042,	de	
+2024,	e	suas	implicações.	 Dessa	forma,	vem	sendo	desenvolvido	 o	projeto	“Suporte	
+ao Governo Federal por meio da análise de um framework do mercado de carbono 
+no	Brasil”,	financiado	pelo	UK	PACT	-	Green	Recovery	Challenge	Fund,	no	qual	a	ICC	
+Brasil e a WayCarbon estão apoiando através do provimento de subsídios técnicos 
+a	SEV	e	o	Governo	Federal	no	desenho	do	mercado	de	carbono	regulado,	especifica-
+mente no que se refere a aceitação e registro de compensações. 
+Assim,	o	objetivo	deste	projeto	é	apoiar	a	estruturação	 de	um	framework	 regulatório	
+do	mercado	nacional	de	carbono	do	Brasil,	fornecendo	 expertise	técnica	e	insumos	
+para as futuras decisões governamentais acerca da implementação do mercado re -
+gulado	que	cubram	pontos	ainda	não	definidos	na	lei	e	apoio	à	capacitação	 e	en-
+gajamento dos atores do Governo Federal sobre a inclusão de créditos de carbono 
+no	SBCE.	Este	produto,	em	específico,	apresenta	o	compilado	de	entregas	parciais	
+que embasa recomendações para o credenciamento de padrões independentes de 
+certificação	 de	carbono	para	aceitação	de	créditos	no	SBCE,	escopos	elegíveis,	me-
+todologias	 a	serem	aceitas,	requisitos	de	qualidade	e	cobenefícios	 em	projetos	de	
+carbono. 
+
+--- PÁGINA 4 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil4
+AnexosReferências  
+bibliográficasLista de acrônimos
+A6.4ER - Article 6.4 Emission Reduction   
+ACR  – American Carbon Registry
+AFOLU –	Agricultura,	Floresta	e	Uso	do	Solo
+ART - Architecture for REDD+ Transactions
+ARR –  Afforestation, Reforestation and Revegetation
+CAR  – Cadastro Ambiental Rural
+CAR  - Climate Action Reserve
+CARB - California Air Resources Board 
+CBAM – Carbon Border Adjustment Mechanism
+CCB  – Climate, Community & Biodiversity 
+CCER - Chinese Certified Emissions Reductions
+CCP - Core Carbon Principles
+CCUS – Carbon Capture, Utilization and Storage 
+CER/VER – Certified  ou Verified Emission Reduction  
+CITSS - Serviço do Sistema de Rastreamento de Instrumentos de Conformidade
+CLPI	–	Consentimento	Livre,	Prévio	e	Informado
+CO2 – Dióxido de carbono 
+COP  – Conference of the Parties
+CORSIA - Carbon Offsetting and Reduction Scheme for International Aviation
+CRVE -	Certificado	de	Redução	ou	Remoção	Verificada	de	Emissões
+CVM - Comissão de Valores Mobiliários
+DEBS - Benefícios Ambientais Diretos ao Estado
+ETS – Emission Trading System 
+EU ETS –  European Union Emission Trading SystemFREL - Forest Reference Emission Levels
+GCC – Global Carbon Council
+GEE – Gases de Efeito Estufa
+GS-VER – Gold Standard for voluntary crediting projects
+HFC-23	–	Trifluorometano
+IC- Implementação Conjunta 
+ICC – Câmara de Comércio Internacional
+ICROA - International Carbon Reduction and Offset Alliance
+ICVCM - Integrity Council for the Voluntary Carbon Market
+IFM –  Improved Forest Management
+IPCC - Intergovernmental Panel on Climate Change
+ITMOs – Internationally transferred mitigation outcomes 
+JNR - Jurisdictional & Nested Redd+
+KCUs - Korean Credit Unit
+K-ETS – Korean Emission Trading System 
+KOC - Korean Offset Credits
+KOP - Korean Offsetting Program 
+LULUCF	-	Uso	da	Terra,	Mudança	no	Uso	da	Terra	e	Silvicultura 	
+MDIC	-	Ministério	do	Desenvolvimento,	Indústria,	Comércio	e	Serviços
+MDL – Mecanismo de Desenvolvimento Limpo
+MRV –	Monitoramento,	Reporte	e	Verificação
+NBS – Nature Based Solutions
+NDC – Nationally Determined Contributions 
+N2O - Óxido NitrosoODS – Objetivos de Desenvolvimento Sustentável
+ONG –	Organização	Não	Governamental
+OVV –	Organismo	de	Verificação	e	Validação
+PIs – Povos Indígenas
+PL – Projeto de Lei 
+PHCER - Tan Pu Hui Certified Emission Reductions 
+PMR – Partnership for Market Readiness 
+RCE	-	Reduções	Certificadas	de	Emissões
+REDD - Reducing Emissions from Deforestation and forest Degradation
+RGGI - Regional Greenhouse Gas Initiative  
+SBCE - Sistema Brasileiro de Comércio de Emissões 
+SD VISta - Sustainable Development Verified Impact Standard
+SEC- Securities and Exchange Commission
+tCO2e - Tonelada de dióxido de carbono equivalente 
+TREES - The REDD+ Environmental Excellence Standard
+UDEF-A - Unplanned Deforestation Allocation
+UNFCCC - United Nations Framework Convention on Climate Change
+UNICEF - United Nations International Children’s Emergency Fund
+VCS  - Verified Carbon Standard 
+
+--- PÁGINA 5 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimosSumário 
+Executivo5. Considerações finais 
+e recomendações
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil5
+AnexosReferências  
+bibliográficas
+Sumário Executivo
+Objetivo do trabalho
+Com	a	iminente	criação	de	um	mercado	regulado	de	carbono	no	Brasil,	faz-se	neces-
+sário compreender os melhores caminhos para o uso de compensações com créditos 
+de	carbono	originados	no	mercado	voluntário,	já	previsto	no	no	então	Projeto	de	Lei.	O	
+objetivo deste projeto é apoiar a estruturação de um  framework  do mercado regulado 
+de	carbono	do	Brasil,	no	que	toca	à	aceitação	de	compensações	 (offsets ) no âmbito 
+do	SBCE.	Nesse	sentido,	o	projeto	fornece	expertise	técnica	e	insumos	para	subsi-
+diar	futuras	decisões	governamentais	 nesse	tema,	visando	regulamentações	 poste -
+riores à sanção. Além da elaboração de estudos relacionados à aceitação de offsets  
+no	Sistema	Brasileiro	de	Comércio	de	Emissões	(SBCE),	o	projeto	ainda	conta	com	
+componente de apoio à capacitação e engajamento dos atores do Governo Federal 
+sobre	a	inclusão	de	créditos	de	carbono	SBCE.	No	presente	produto,	foram	elaboradas	
+recomendações específicas para o SBCE a respeito de diretrizes para aceitação 
+de créditos no SBCE considerando os escopos elegíveis, as metodologias a serem 
+credenciadas e requisitos de integridade e qualidade dos créditos e cobenefícios 
+em projetos de carbono.	 Ressalta-se	 que,	embora	a	Lei	preveja	o	credenciamento	 de	
+metodologias	 para	uso	de	compensações	 no	SBCE,	entende-se	 que,	além	desse	cri-
+tério,	outros	critérios	também	relevantes	foram	analisados	 neste	relatório	e	devem	ser	
+considerados para o uso de compensações. 
+Os resultados desse projeto serão apreciados no âmbito das discussões atualmente 
+em curso na esfera do governo federal sobre a regulamentação do mercado regulado 
+de	carbono	no	Brasil,	com	o	sancionamento	 da	lei	que	institui	o	SBCE.	Tais	discussões	
+ocorrem	no	Grupo	Técnico	de	Natureza	Temporária	 (GTT),	instituído	pela	Resolução	Nº	
+4,	de	14	de	setembro	de	2023,	no	âmbito	do	Comitê	Interministerial	 sobre	Mudança	do	Clima (CIM). O GTT SBCE tem por objetivo elaborar proposta de regulamentação e im-
+plementação	 do	SBCE,	sendo	constituído	 por	representantes	 de	15	Ministérios,	 a	sa-
+ber:	Ministério	do	Meio	Ambiente	e	Mudança	do	Clima	(MMA),	Ministério	da	Fazenda	
+(MF),	Casa	Civil	da	Presidência	 da	República	(CC),	Ministério	da	Agricultura	 e	Pecuária	
+(MAPA),	Ministério	da	Ciência,	Tecnologia	e	Inovação	(MCTI),	Ministério	do	Desenvolvi-
+mento	Agrário	e	Agricultura	 Familiar	(MDA),	Ministério	do	Desenvolvimento,	 Indústria,	
+Comércio	e	Serviços	(MDIC),	Ministério	da	Integração	e	do	Desenvolvimento	 Regional	
+(MIDR),	Ministério	de	Minas	e	Energia	(MME),	Ministério	do	Planejamento	 e	Orçamento	
+(MPO),	Ministério	de	Povos	Indígenas	(MPI),	Ministério	das	Relações	Exteriores	(MRE),	
+Ministério	da	Saúde	(MS),	Ministério	dos	Transportes	 (MT)	e	Secretaria-Geral	 da	Presi-
+dência da República (SGPR). 
+Após	a	sanção	da	lei	que	estabeleceu	o	SBCE,	o	governo	federal	deverá	instituir,	con-
+forme	previsto	na	Lei	nº	15.042	de	11/12/2024,	 o	Órgão	Gestor	do	SBCE,	sendo	uma	
+das suas atribuições a regulamentação dos diversos dispositivos da lei. A Lei nº 15.042 
+de 11/12/2024 também estabelece que a regulamentação do SBCE deverá ser reali-
+zada	em	um	período	de	um	ano,	prorrogável	 por	mais	um	ano,	após	a	aprovação	da	
+lei.
+Metodologia
+Inicialmente,	 avaliou-se	comparativamente	 a	aceitação	de	compensações	 em	mer-
+cados	regulados	de	carbono,	sistemas	de	comércio	de	emissões	(do	inglês,	 Emission 
+Trading Systems 	–	ETS),	de	todo	mundo	de	forma	mais	geral.	Adicionalmente,	 foram	
+analisados	de	forma	mais	específica	os	ETS	da	Califórnia,	Coreia	do	Sul	e	China. 	
+Posteriormente,	 foram	analisados	 os	requisitos	para	garantia	de	qualidade	em	proje -tos	de	carbono	com	base	nos	princípios	de	garantia	de	qualidade	utilizados	por	proje -
+tos de carbono no mercado voluntário. Avaliou-se também a geração de cobenefícios 
+em projetos de carbono e suas implicações para comunidades locais dos projetos. 
+Ainda,	analisou-se	 os	padrões	independentes	 de	certificação	 de	carbono	a	fim	de	co-
+nhecer	sua	estrutura	e	seus	requisitos.	Além	disso,	foram	examinados	 escopos	priori-
+tários para o país e exemplos de metodologias de cada um deles. 
+Por	fim,	desenvolveu-se	 recomendações	 específicas	 sobre	requisitos	para	que	crédi-
+tos	de	carbono	se	tornem	Certificados	 de	Redução	ou	Remoção	Verificada	de	Emis-
+sões	(CRVEs),	unidades	do	SBCE	para	compensação,	 para	a	garantia	de	integridade 	
+dessas unidades de compensação e de apoio a atores do mercado.
+Principais resultados e recomendações  
+correspondentes
+Com	base	nas	experiências	 internacionais,	 identificou-se	 os	seguintes	padrões	nos	
+ETS:	em	sua	maioria,	os	ETS	aceitam	créditos	emitidos	a	partir	do	desenvolvimento 	
+de	projetos	localizados	 em	território	doméstico,	originados	a	partir	da	implementação 	
+de	atividades	específicas	 de	interesse	da	jurisdição	(de	escopos	de	interesse),	que	ve-
+nham	apenas	de	setores	não	regulados	e	de	padrão	de	certificação	 próprio	da	juris-
+dição; apresentam algum limite quantitativo e não possuem requisitos relacionados a 
+aspectos	sociais.	Entendeu-se,	 portanto,	que	tais	pontos	precisariam	 ser	avaliados	no	
+âmbito do SBCE. 
+Assim,	avalia-se	que,	embora	a	Lei	nº	15.042	de	11/12/2024	 não	defina	se	os	créditos	
+aceitos devem ser	 gerados	com	base	no	desenvolvimento	 de	projetos	localizados	 ape-
+
+--- PÁGINA 6 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimosSumário 
+Executivo5. Considerações finais 
+e recomendações
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil6
+AnexosReferências  
+bibliográficasnas	no	país,	entende-se	 que	entre	os	seus	objetivos	está	o	de	estimular	a	mitigação	
+de	emissões	em	âmbito	nacional.	Além	da	experiência	 internacional,	 essa	restrição	se	
+justifica	pelo	alto	potencial	de	geração	de	créditos	brasileiro.	Assim,	sugere-se	que	o 
+SBCE limite claramente que os CRVEs sejam convertidos de créditos que foram 
+gerados a partir do desenvolvimento de projetos localizados no Brasil.
+Quanto à definição de um limite quantitativo para compensações, será necessá-
+rio, primeiramente, avaliar a intenção do governo para a contribuição do SBCE na 
+estratégia climática nacional.	 Se	o	objetivo	do	SBCE	for	incentivar	a	descarbonização 	
+dos	setores	cobertos,	é	importante	 que	haja	um	limite	quantitativo	 para	compensa-
+ções	relativamente	 baixo,	conforme	as	experiências	 internacionais	 (dos	ETS	que	têm	
+limite	quantitativo,	 o	percentual	geralmente	 não	ultrapassa	10%).	Mas,	se	o	propósito	
+for	estimular	a	redução	de	emissões	em	setores	não	regulados,	tais	como	o	setor	de	
+agricultura,	 florestas	e	uso	do	solo	(AFOLU),	que	possui	alta	representatividade	 no	
+inventário	nacional	de	emissões,	então,	o	percentual	de	restrição	para	compensações 	
+no SBCE poderia ser maior. 
+Identificou-se	 que,	na	priorização de escopos elegíveis, deve-se levar em conside -
+ração atividades que não sejam reguladas pelo sistema e as prioridades nacio -
+nais quanto a compromissos estabelecidos pelo governo brasileiro internacionalmen-
+te,	representatividade	 das	emissões	dos	setores	de	origem	dos	projetos,	aos	impactos	
+socioambientais dos projetos e à maturidade das metodologias no país. Este estudo 
+avaliou escopos que são ou tendem a ser relevantes no mercado voluntário e têm alto 
+potencial de geração de créditos de carbono e de cobenefícios socioambientais no 
+Brasil e concluiu que eles devem ser considerados para priorização no SBCE: 
+• Florestamento, Reflorestamento e Revegetação (ARR) com uso de espécies na-
+tivas para a geração de benefícios à biodiversidade e à população;  
+• Redução de Emissões provenientes de Desmatamento e Degradação Florestal  
+(REDD+) e Melhora do manejo florestal (IFM) com a participação das comunida-
+des locais na elaboração do projeto; 
+• do setor agropecuário, 
+• do setor de saneamento e gestão de resíduos. 
+Outros	escopos,	tais	como	energia	e	processos	industriais,	 não	devem ser incluídos pela	perda	de	relevância	no	mercado	voluntário,	por	não	serem	mais	adicionais,	e	por-
+que	grande	parte	de	suas	atividades	deve	ser	regulada	pelo	SBCE,	respectivamente. 	
+Esses	critérios	são	significativos	para	avaliar	a	entrada	de	novos	escopos.
+Para a etapa de seleção das metodologias, citada na Lei nº 15.042 de 11/12/2024, con-
+sidera-se que as metodologias devem estar dentro dos escopos elegíveis e serem 
+específicas, existentes, consolidadas, que considerem diferentes escalas de proje -
+to, aplicáveis à realidade brasileira e mais avançadas em seus escopos quanto a 
+requisitos de qualidade.	 Assim,	uma	seleção	de	metodologias	 deve	ser	feita	por	par-
+te	do	governo	verificando	 todos	esses	aspectos	citados	acima.	Isso	possibilitaria	 um	
+maior controle de qualidade dos créditos no sistema e o incentivo a projetos e escopos 
+específicos	relevantes	para	o	país. 	
+Faz-se	necessário	 avaliar	a	limitação	de	uma	quantidade	 de	metodologias	 aceitas	
+no	SBCE,	considerando	 a	capacidade	 de	gestão	do	sistema,	haja	vista	a	experiência 	
+desfavorável do ETS da China na aceitação de grande quantidade de metodologias 
+no	início	da	operação	de	seu	sistema,	o	que	aumentou	o	custo	operacional	 do	siste -
+ma. Como as metodologias aceitas no SBCE podem basear as unidades de mitigação 
+internacionalmente transferíveis (ITMOs) a serem vendidas pelo país no âmbito dos 
+mecanismos	 do	Artigo	6	do	Acordo	de	Paris,	há	um	trade-off entre potencialmente 
+maximizar	a	venda	dessas	unidades	e	minimizar	o	custo	operacional	 do	sistema.	A	re-
+lação	custo-benefício	 dessas	escolhas	é	dificultada	pela	imprevisibilidade	 do	mercado	
+potencial nos mecanismos do Artigo 6 e o custo operacional marginal de aceitar mais 
+metodologias.
+A lista de metodologias elegíveis poderia passar por ciclos de reavaliação para in-
+clusão de novos escopos e metodologias e de atualizações das já aptas. É notável 
+ressaltar	que,	com	a	definição	das	metodologias	 a	serem	aceitas	no	mecanismo do 
+Artigo 6.4, essas metodologias também deverão passar por um processo de ve -
+rificação por parte do governo brasileiro quanto ao alinhamento às prioridades 
+nacionais para inclusão na lista de metodologias aptas à aceitação pelo SBCE. 
+Há, ainda, metodologias relacionadas a tecnologias promissoras que vêm sendo 
+desenvolvidas e poderiam ser posteriormente incluídas, tais como de hidrogênio 
+verde1, captura e armazenamento de carbono e metano entérico. 	Neste	sentido,	o mercado regulado poderá criar demanda para projetos que tenham menor potencial 
+de	geração	de	créditos	de	carbono,	dando	escala	para	iniciativas	que,	atualmente,	 não	
+conseguem	acessar	o	mercado	voluntário	por	barreiras	de	custo,	tamanho,	entre	outras.
+Considerando	 o	escopo	de	REDD+,	destaca-se	 que,	além	da	avaliação	de	metodolo -
+gias	para	projetos	de	REDD+	privados,	 deve-se considerar a inclusão de programas 
+de REDD+ jurisdicional no SBCE. Esse tipo de programa possui uma abordagem 
+abrangente	 em	termos	de	linhas	de	base,	permite	a	participação	 dos	Estados	e	já	de-
+manda a participação das comunidades locais. Essa integração de diferentes atores 
+proporcionaria transparência ao processo de desenvolvimento de geração do crédito 
+de carbono e poderia garantir cobenefícios efetivos para a população local. No entan-
+to,	destaca-se	 que	ainda	faltam	definições	claras	e	a	efetiva	implementação	 de	um	
+programa jurisdicional no Brasil que sirva de exemplo para compreender as particula-
+ridades no contexto brasileiro e pode ser necessário avaliar um limite à quantidade de 
+créditos REDD+ devido a seu alto volume potencial. 
+Outro aspecto relevante para o credenciamento de metodologias pelo órgão ges-
+tor é a garantia de integridade dos créditos de carbono. Segundo a Lei nº 15.042 de 
+11/12/2024,	 o	SBCE	deve	credenciar	metodologias	 existentes	para	que	projetos	ge-
+rem créditos que venham a se tornar CRVEs. No entanto, embora as metodologias 
+tenham requisitos mínimos, entende-se que o país não deva se apoiar nelas como 
+garantia de integridade dos créditos e, portanto, o framework  para a inclusão de 
+compensações deve trazer outros critérios que reforcem essa garantia. 
+A maioria dos ETS no mundo que permitem a inclusão de créditos de carbono possui 
+padrão	próprio	e	tem,	portanto,	um	maior	controle	da	qualidade	dos	créditos.	Já	a	Ca-
+lifórnia,	que	aceita	créditos	de	padrões	de	certificação,	 adota	como	medidas	de	con-
+trole	de	qualidade	dos	projetos:	o	desenvolvimento	 das	próprias	metodologias,	 valida-
+ção	dos	documentos	 do	projeto,	acreditação	 de	organismos	 de	verificação	e	validação	
+para efetuar auditorias de terceira parte e avaliação interna do órgão gestor quanto 
+ao	atendimento	 à	regulação	e	à	metodologia	 aplicável,	solicitando	 maiores	informa-
+ções caso julgue necessário.
+1.			O	termo	“hidrogênio	 verde”	geralmente	 se	refere	ao	hidrogênio	gerado	a	partir	da	hidrólise	via	fontes	elétricas	de	baixa	emissão	de	gases	de	efeito	estufa,	como	energia	solar,	eólica,	hidráulica	etc.	Entretanto,	 existem	outras	formas	de	pro-
+dução de hidrogênio de baixo carbono que podem ser consideradas conforme o avanço das metodologias para geração de créditos de carbono.
+
+--- PÁGINA 7 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimosSumário 
+Executivo5. Considerações finais 
+e recomendações
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil7
+AnexosReferências  
+bibliográficasAssim,	 recomenda-se que o SBCE tenha, como critérios que assegurem a qualidade 
+dos créditos, as seguintes camadas de verificação: determinar de quais padrões in-
+dependentes de certificação podem ser gerados os créditos aptos à conversão em  
+CRVEs; a acreditação de Organismos de Verificação e Validação (OVV) nas audito -
+rias de terceira parte que fazem parte do processo de geração do crédito dos padrões 
+de certificação; e estabelecer checagens específicas a serem feitas por eles. Essas 
+camadas	de	verificação	devem assegurar o cumprimento das salvaguardas mínimas 
+exigidas pelos padrões independentes de certificação e outros requisitos particulares 
+por meio de checagem documental, acompanhamento de órgãos aplicáveis e divul-
+gação pública. 
+Para a primeira camada de garantia, envolvendo padrões independentes de certi-
+ficação, entende-se que seria importante que o SBCE priorizasse a seleção de pa-
+drões de certificação com processos robustos, maduros e consolidados no Brasil, 
+para análise das metodologias a serem cadastradas como aptas a gerar créditos 
+que possam ser convertidos em CRVEs,	como	a	Califórnia,	uma	vez	que	há	padrões 	
+de	certificação	 que	possuem	processos	de	avaliação	mais	robustos,	com	maior	e	mais	
+longa	participação	 no	mercado	voluntário	no	Brasil,	que	consideram	 contribuições 	
+para	o	desenvolvimento	 sustentável	 e	cobenefícios,	 além	de	possuírem	projetos	nos	
+escopos	e	metodologias	 recomendados.	 No	entanto,	será	necessário	 compreender	 o	
+nível de comprometimento que esses padrões estariam dispostos a ter para integra-
+ção dos registros com o SBCE.   
+Assim,	propõe-se	definir	que,	inicialmente,	 o	VCS	e	o	Gold	Standard,	padrões	indepen-
+dentes	de	certificação	 de	carbono,	se	qualifiquem	 como	aptos	a	terem	metodologias 	
+gerando	créditos	de	projetos	privados	que	entrem	no	SBCE.	Posteriormente,	 pode-se	
+ainda	incluir	novos	padrões	independentes	 de	certificação	 de	carbono,	inclusive	os	
+brasileiros,	 cujos	processos	tenham	sido	validados	pela	International	 Carbon	Reduc-
+tion	and	Offset	Alliance	(ICROA),	considerando	 a	quantidade	 de	créditos	que	estaria	
+apta a entrar no SBCE e o comprometimento para integração de registro e avaliação 
+de	requisitos	específicos .
+Já	para	programas	 jurisdicionais,	 sugere-se	definir	o	ART/Trees	como	apto	para	a	in-
+clusão de programas jurisdicionais no SBCE por sua maior consolidação e ampla ade -
+são,	especialmente	 entre	os	estados	brasileiros.	À	medida	que	o	Jurisdictional	 &	Nes-
+ted	Redd+	(JNR)	amadureça	 e	ganhe	maior	aceitação,	pode	vir	a	ser	uma	alternativa	recomendável,	 complementando	 ou	até	sendo	preferível	ao	ART	TREES	em	termos	de	
+eficiência	e	praticidade.
+Já,	na	segunda	camada	de	garantia,	com	a	acreditação,	 por	parte	do	organismo	de-
+legado	pelo	órgão	gestor	do	SBCE,	de	organismos	 de	verificação	 específicos	 para	au-
+ditorias	de	terceira	parte	dentro	do	processo	dos	padrões	independentes	 de	certifi-
+cação,	entende-se	 que	auditores	acreditados	 seriam	capazes	de	endereçar	aspectos	
+locais	de	forma	mais	eficaz.	Há	aspectos	particulares	 ao	Brasil	que	poderiam	fugir	da	
+avaliação	de	organismos	 internacionais.	 Dessa	forma,	 os verificadores acreditados 
+deverão avaliar uma série de requisitos de qualidade e integridade nos projetos 
+de carbono. 
+Foram considerados requisitos básicos para integridade e qualidade dos créditos, 
+elementos essenciais para que os créditos de carbono existam e se justifiquem. 
+Tais	requisitos,	que	já	são	identificados	 nos	processos	de	avaliação	no	mercado	volun-
+tário ou se tratam de requisitos sociais mais específicos,	 devem	ser	verificados	 a	fim	
+de comprovar a efetiva qualidade e integridade dos créditos. 
+E,	embora	outros	ETS	não	tenham	requisitos	sociais,	eles	devem	ser	avaliados	pelo	
+órgão gestor do SBCE devido à grande parte do potencial brasileiro para geração 
+de	créditos	de	carbono	estar	em	projetos	florestais	cujo	impacto	social	é	relevante.	
+Ainda,	impactos	sociais	negativos	têm	sido	cada	vez	mais	relacionados	 à	qualidade	
+de créditos no mercado voluntário em recentes críticas à credibilidade de projetos de 
+carbono.	Além	disso,	considera-se	 que	a	adoção	de	ações	de	impacto	social	positivo	
+em	projetos	do	tipo	vem	se	tornando	prática	comum	e	muitas	vezes	é	certificada	por	
+selos.	Assim,	essa	avaliação	deve	considerar,	 se	adequados,	 selos	de	cobenefícios	 tais	
+como	o	Climate,	Community	&	Biodiversity	Standards	(CCB). 	
+Com a inclusão da avaliação de requisitos específicos para impactos sociais, em 
+especial em projetos florestais, por parte dos verificadores, o SBCE pode, portan-
+to, ser o mercado regulado pioneiro nesse sentido. Adicionalmente, considera-se 
+que a exposição de informações socioambientais por parte dos projetos de car -
+bono e de indicadores de acompanhamento de impacto em um sistema público de 
+projetos traria transparência, incentivaria a adoção de boas práticas e facilitaria 
+a responsabilização dos desenvolvedores de projeto.Assim,	recomenda-se	 que	o	órgão	gestor	do	SBCE	deve	garantir	por	meio	das	audito -
+rias	de	verificadores	acreditados	requisitos	como:
+• Adicionalidade;
+• Permanência;
+•	Quantificação	robusta	e	linhas	de	base	conservadoras;
+•	Análise	do	risco	de	vazamento;
+• Participação de partes interessadas;
+• Mitigação de impactos socioambientais negativos; e
+• Salvaguardas mínimas gerais para as populações impactadas. 
+Em	especial,	para	projetos	de	REDD+,	considerar	ainda,	como	requisito para a qua-
+lidade	dos	créditos,	ações	que	gerem	cobenefícios	 socioambientais,	 já	que	há	uma	
+expectativa	 de	que	projetos	REDD+	de	qualidade	não	apenas	minimizem	 impactos	
+negativos,	mas	também	gerem	impactos	positivos.   
+Como terceira camada de garantia, caso sejam usadas metodologias existentes,  
+recomenda-se ainda avaliação de requisitos legais em documentos de auditorias 
+de validação e verificação de projetos cujos créditos possam ser convertidos em 
+CRVEs.	Considera-se	 que,	caso	os	OVVs	identifiquem	 algum	ponto	crítico	ou	inconsis-
+tência	nos	projetos	por	meio	do	processo	de	checagem	dos	documentos,	 seria	possível	
+assegurar um maior controle dos requisitos de qualidade e integridade por parte do 
+governo.	E,	ainda	que	padrões	de	certificação	 permitam	verificar	tais	requisitos	em	
+seus	processos,	em	especial,	a	adequação	 legal	e	o	respeito	aos	direitos	de	proprieda-
+de	devem	ser	verificados	com	olhar	particular	à	legislação	e	realidade	brasileiras.
+Além da verificação de requisitos, é recomendado que, periodicamente e por  
+amostragem, sejam feitas avaliações extras in loco , dos projetos que originem 
+CRVEs e de seus documentos, de forma mais completa, para maior controle da 
+eficácia do sistema.	 Esse	tipo	de	verificação	 poderia	captar	algum	ponto	crítico	ou	
+inconsistência	 em	outras	camadas	de	verificação	 e	assegurar	maior	robustez	no	con-
+trole de qualidade e integridade dos CRVEs. 
+É	relevante,	no	entanto,	ressaltar	que	serão	necessários	 esforços	internos	ao	SBCE,	
+em	alguma	medida,	de	gestão	para	garantir	os	requisitos	mínimos	e	a	integridade	 do	
+sistema como um todo. O volume de trabalho atrelado a isso será investigado em pro -
+duto posterior deste projeto. 
+
+--- PÁGINA 8 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimosSumário 
+Executivo5. Considerações finais 
+e recomendações
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil8
+AnexosReferências  
+bibliográficasComo as salvaguardas mínimas para população e ambiente impactados devem ser 
+aplicáveis	a	todos	os	projetos	desenvolvidos,	 sugere-se	ainda	que	o órgão gestor 
+do SBCE desenvolva documentos guia para proponentes de projetos que permi-
+tam direcionamento e inclusão dos agentes impactados inspirado no documento 
+de Princípios e Requisitos de Salvaguarda do Gold Standard . É importante garantir 
+que as informações e documentações sejam compreensíveis às populações locais dos 
+projetos. 
+No	caso	de	comunidades	 que	falam	outras	línguas,	sugere-se	ainda	fazer	versões	
+traduzidas	desses	documentos,	 a	exemplo	do	que	é	feito	no	Canadá.	E,	como	a	exis-
+tência	de	salvaguardas	 não	é	suficiente	para	assegurar	seu	cumprimento,	 além	das	
+camadas	de	verificação	 recomendadas,	 nos	casos	de	projetos	que	impactem	comuni-
+dades,	 recomenda-se que órgãos governamentais representativos acompanhem 
+os projetos e assegurem o envolvimento correto e a garantia dos direitos das co -
+munidades locais,	 entre	eles,	o	direito	de	escolha	de	uma	instituição	representativa 	
+da	comunidade	 e	de	uma	assistência	 jurídica	independente,	 custeada	pelo	projeto	ou	
+pelos proponentes do projeto.
+ 
+
+
+--- PÁGINA 9 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil9
+AnexosReferências  
+bibliográficas
+1. Introdução
+Um SISTEMA DE COMÉRCIO DE EMISSÕES2	(ETS,	na	sigla	em	inglês)	consiste	em	
+um	mercado	regulado	de	carbono	com	a	definição	de	limites	máximos	de	emissão	
+de	gases	de	efeito	estufa	(teto	ou	cap)	para	um	conjunto	de	fontes	localizadas	 em	
+um	determinado	 país	ou	região	durante	um	determinado	 horizonte	de	tempo	(deno -
+minado período de compromisso). Este limite máximo de emissões ( cap) é dividido 
+entre as fontes emissoras com obrigações de redução de emissões sob o ETS por 
+meio	da	concessão	de	cotas	de	emissões	(por	doação	ou	leilão	do	governo),	que	re-
+presentam	 o	direito	de	emitir	uma	determinada	 quantidade	 de	GEE,	normalmente,	 1	
+tonelada de dióxido de carbono equivalente (tCO2e). 
+As	empresas	que	não	conseguirem,	 por	meio	de	reduções	de	emissão	na	própria	
+planta,	ficar	dentro	dos	limites	de	emissões	dado	pelas	cotas	alocadas	devem	com-
+prar cotas de emissão daqueles que emitiram menos do que o total de cotas que lhes 
+foram concedidas. Dessa transferência de cotas entre os agentes regulados surge o 
+comércio de emissões ( trade),	no	qual	o	preço	de	equilíbrio	das	cotas	é	definido.
+Agentes não sujeitos ao limite máximo de emissões também podem participar do 
+mercado	regulado	de	forma	voluntária,	 por	meio	da	implementação	 de	projetos	de	
+reduções	e/ou	remoções	de	emissões	no	chamado	MERCADO	 VOLUNTÁRIO	 DE	
+CARBONO	 (VCM,	na	sigla	em	inglês).	A	implementação	 de	projetos	no	VCM	gera	
+um outro tipo de ativo denominado de CRÉDITOS DE CARBONO. Tais créditos são 
+gerados	com	base	em	uma	sistemática	 de	mensuração,	 relato	e	verificação	 de	emis-
+sões	e	remoções	(MRV)	diferente	daquela	utilizada	para	a	alocação	das	cotas	aos	
+agentes regulados. 
+A	geração	de	créditos	de	carbono	pressupõe	a	criação	de	uma	LINHA	DE	BASE	pre-
+viamente	definida,	que	estima	o	nível	de	emissões	ou	remoções	que	ocorreriam	 sem	a	implementação	 do	projeto.	Com	o	projeto	implementado,	 emissões	abaixo	da	linha	
+de	base	(ou	remoções	acima	da	linha	de	base)	geram	os	créditos	de	carbono,	que	
+podem ser vendidos aos agentes regulados sob o ETS. 
+Apesar	dos	créditos	refletirem	um	conceito	distinto	em	relação	às	cotas	de	emissões	
+num	mercado	regulado,	ambos	ativos	têm	a	mesma	unidade	de	medida	(tCO2e). Isso 
+permite	que	os	créditos	possam	ser	utilizados	em	um	sistema	regulado	caso	o	arran-
+jo	do	ETS	aceite	o	uso	de	compensações	 (do	inglês,	 offsets ) com créditos de carbono. 
+Quando	aceitas,	as	compensações	 configuram	 um	mecanismo	 de	flexibilidade	 que	
+pode colaborar para o atendimento das metas dos seus entes regulados. 
+Há vantagens e desvantagens no uso de compensações em ETS. Além das com-
+pensações	 com	créditos	de	carbono	poderem	aumentar	a	flexibilidade	 para	atingir	
+as	metas	climáticas,	também	podem	reduzir	os	custos	de	conformidade	 ao	fornecer	
+opções adicionais de custo de abatimento potencialmente mais baixo para as em-
+presas	e	incentivar	atividades	de	mitigação	de	outros	setores	e/ou	regiões.	Mas,	con-
+siderando	que	os	créditos	costumam	 ser	mais	baratos	que	as	cotas,	seu	uso	pode	
+ser	excessivo	caso	não	seja	limitado,	levando	a	um	excedente	de	cotas.	Consequen-
+temente,	haverá	queda	no	preço	das	cotas,	prejudicando	 a	relação	custo-benefício	
+do	sistema	no	longo	prazo,	conforme	a	experiência	 inicial	do	ETS	da	União	Europeia	
+(EU	ETS),	que	atualmente	 não	aceita	mais	compensações.	 Identifica-se,	 assim,	que	
+a dependência de compensações pode desincentivar a mitigação e os investimentos 
+em	baixo	carbono	nos	setores	regulados,	que	tenderão	a	ficar	presos	a	tecnologias	
+de	alto	carbono,	postergando	 ações	efetivas	e	tornando	mais	caras	as	reduções	de	
+emissões	futuras	(World	Bank,	2024).		Então,	para	maximizar	 as	oportunidades	 e	minimizar	os	riscos,	infere-se	que	seria	
+oportuno	para	os	participantes	 de	um	ETS	que,	se	as	compensações	 forem	inicial-
+mente	aceitas,	o	sejam	dentro	de	um	limite	que	não	comprometa	 o	funcionamento	
+do	mercado	regulado.	Com	o	amadurecimento	 do	sistema,	considerando	 uma	imple -
+mentação	gradual,	pode	haver	uma	reavaliação	 sobre	a	eventual	dependência	 de	
+compensações. 
+Nos	ETS	que,	atualmente,	 aceitam	compensações,	 existem	requisitos	específicos	
+quantitativos	 (que,	em	geral,	não	passam	de	10%)	e	qualitativos	 que	limitam	seu	
+uso	(ICC	Brasil	&	WayCarbon,	 2023).	Considera-se	 como	requisitos	qualitativos	 as	
+diversas características particulares que projetos de carbono podem ter tais como 
+ESCOPO	(por	exemplo,	restauração	 florestal	ou	eficiência	energética),	 localização	 e	
+existência	ou	não	de	cobenefícios	 da	implementação	 do	projeto,	que	vão	além	da	
+redução	ou	da	remoção	de	emissões	de	carbono.	Tais	características	 influenciam	
+diretamente as preferências da demanda.
+Um crédito de carbono é emitido por meio de um PADRÃO DE CERTIFICAÇÃO DE 
+CARBONO.	 Ainda	que	tenham	o	mesmo	propósito,	normalmente,	 padrões	de	certifi-
+cação	são	chamados	de	diferentes	formas,	como	Programas,	 Protocolos	ou	Padrões	
+de	Compensação	 de	Conformidade.	 Para	fins	dessa	pesquisa,	serão	todos	chama-
+dos	de	padrões	de	certificação	 de	carbono	neste	relatório.	Cada	padrão,	especifica-
+mente: 
+(i)	define	as	METODOLOGIAS	 credenciadas,	 próprias	ou	não,	que	podem	abranger 
+diversos	escopos,	que	têm	REQUISITOS	 DE	ELEGIBILIDADE	 para	aceitação	dos	pro-
+jetos e determinações de como os proponentes de projeto deverão calcular a linha 
+de	base,	analisar	a	ADICIONALIDADE	 e	estruturar	o	MRV	das	atividades	que	redu-
+2.			As	palavras	grafadas	em	VERSALETE	 indicam	que	o	conceito	consta	em	glossário	que	constitui	material	suplementar	 dessa	pesquisa.	A	partir	dessa	seção	as	palavras	serão	grafadas	em	versalete	apenas	na	primeira	vez	em	que	apare -
+cerem no texto visando destacar que o conceito consta no glossário do Anexo 3.
+
+--- PÁGINA 10 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil10
+AnexosReferências  
+bibliográficaszem	ou	removem	carbono	para	que	o	projeto	esteja	apto	à	geração	do	crédito	de	
+carbono; 
+(ii) estrutura regras para a garantia da INTEGRIDADE e da QUALIDADE dos créditos 
+de carbono gerados em cada projeto;
+(iii) tem um registro próprio de projetos e de créditos gerados. 
+Basicamente,	 existem	três	tipos	de	padrões	de	certificação	 de	carbono,	dependendo	
+dos	objetivos	do	padrão	e	da	entidade	que	o	desenvolve	 e	gerencia,	são	eles:	(i)	por	
+uma	jurisdição	nacional	ou	estadual	(como	os	padrões	da	Coréia	do	Sul	e	da	China,	
+por exemplo); (ii) por organismos multilaterais (tais como o Mecanismo de Desen-
+volvimento	 Limpo	do	Protocolo	de	Quito	ou,	mais	recentemente,	 o	mecanismo	 de	
+mercado	do	art.	6.4	do	Acordo	de	Paris);	ou,	ainda,	como	padrões	independentes	
+de	certificação	 de	carbono,	desenvolvidos	 e	gerenciados	 por	agentes	privados	e/ou	
+sem	fim	lucrativos,	tais	como	os	padrões	de	certificação	 de	carbono	da	VERRA	e	do	
+Gold	Standard,	dentre	outras	instituições	 independentes	 que	desenvolvem	 padrões	
+de	certificação	de	carbono.
+Esses	últimos	tipos	de	padrão	são	comumente	 utilizados	no	VCM,	sendo	responsá-
+veis por gerar a estrutura de oferta de créditos de carbono que podem ser compra-
+dos por empresas que assumem compromissos de contribuir para o clima de forma 
+voluntária,	na	maioria	das	vezes	por	conta	de	engajamento	 com	a	chamada	agenda	
+ASG	(ambiental,	 social	e	de	governança).	 Nesse	sentido,	o	VCM	envolve	a	existên-
+cia	de	demanda	e	oferta	voluntária	por	créditos	de	carbono,	sendo	considerado	 um	
+mercado autorregulado. 
+Assim,	o	VCM	conta	ainda	com	a	participação	 de	entidades	que	têm	por	objetivo	
+promover integridade e credibilidade desse mercado tanto no que se refere à criação 
+de	orientações	 para	a	geração	de	oferta	de	créditos,	quanto	no	que	se	refere	a	orien-
+tações	para	fins	de	demanda	por	compensações.	 Dentre	essas	entidades	destacam-
+-se	o	Integrity	Council	for	the	Voluntary	Carbon	Market	(ICVCM)	e	a	International	
+Carbon	Reduction	and	Offset	Alliance	(ICROA),	cujos	papéis	e	funções	específicas	
+serão detalhadas no capítulo 3 deste trabalho. 
+No processo de geração e comprovação de reduções ou remoções de emissão  
+por meio da implementação de projetos para emissão de créditos de carbono,	 em	geral,	além	do	padrão	de	certificação,	 participam:	 o(s)	proponente(s)	 do	projeto,	um	
+desenvolvedor,	 o	financiador,	 um	implementador	 da	atividade,	a	comunidade	 local	e	
+um	verificador	para	auditoria	de	terceira	parte.	
+O	proponente	 é	o	responsável	 pelo	projeto	(podendo	ser	o	proprietário	 da	terra,	do	
+local	onde	o	projeto	será	realizado).	O	desenvolvedor	 do	projeto	é	responsável	 por	
+elaborar os documentos necessários para apresentação do projeto aos padrões de 
+certificação	 de	carbono,	preferencialmente,	 com	o	envolvimento	 das	comunidades	
+localizadas	 nas	áreas	de	influência	dos	projetos.	Em	muitos	casos,	também	é	neces-
+sária	a	figura	de	um	financiador	 do	projeto,	que	fornece	os	recursos	necessários	 para	
+o bom desenvolvimento das atividades adotadas visando a redução de emissões ou 
+a remoção de carbono. Tais papéis podem ser ou não representados pela mesma 
+entidade,	seja	pessoa	física	ou	jurídica.
+Desenvolvidos os documentos que comprovem que o projeto atende a requisitos 
+de elegibilidade	 à	geração	de	créditos	de	carbono,	será	contratado	 um	verificador	
+para auditoria de terceira parte para a validação dos documentos apresentados 
+pelo	proponente,	 visando	registro	do	projeto	no	padrão	de	certificação	 de	carbono	
+de	escolha	do	proponente.	 Essa	escolha	deve	considerar	a	finalidade	dos	créditos	a	
+serem	gerados,	se	para	compensações	 em	algum	mercado	regulado	ou	no	mercado	
+voluntário.	Ao	aceitar	os	documentos	 apresentados	 e	registrar	um	projeto,	o	padrão	
+de	certificação	 de	carbono	(nacional,	multilateral	 ou	independente)	 ficará	efetiva-
+mente	responsável	 por	emitir,	futuramente,	 os	créditos	de	carbono	deste	projeto	em	
+seu	registro	de	ativos	(ICC	Brasil	&	WayCarbon,	).	
+A	implementação	 da	atividade	deverá	seguir	metodologias	 específicas	 credencia-
+das	no	padrão	de	certificação	 de	carbono	de	acordo	com	o	escopo	de	projeto	es-
+colhido pelo proponente. Tais atividades devem ser monitoradas periodicamente. 
+Documentos sobre o monitoramento da implementação do projeto também deverão 
+ser	submetidos	 à	auditoria	de	terceira	parte	para	verificação	 dos	dados	e	emissão	
+de	parecer.	Uma	vez	submetidos	 os	documentos	 do	monitoramento	 e	o	parecer	da	
+auditoria,	o	padrão	de	certificação	 avaliará	a	implementação	 do	projeto	e,	se	estiver	
+tudo	em	conformidade	 com	suas	regras	de	certificação,	 emitirá	créditos,	correspon-
+dentes	às	reduções	ou	remoções	verificadas	 de	GEE	promovidos	 pelo	projeto	no	pe-
+ríodo	monitorado,	 que	a	princípio,	estarão	sob	responsabilidade	 dos	proponentes	 do	projeto no registro do padrão3.
+Dessa	forma,	as	etapas	entre	o	monitoramento	 e	a	emissão	do	crédito	podem	ocor -
+rer	de	forma	cíclica	fazendo	com	que,	de	tempos	em	tempos,	haja	emissão	de	cré-
+ditos	de	um	mesmo	projeto	de	carbono.	Os	créditos	emitidos	são,	então,	vendidos	
+a compradores intermediários ( traders  ou brokers)	ou	ao	comprador	 final,	empresa	
+que	deseja	fazer	contribuições	 voluntárias	 para	o	clima,	neutralizar	 suas	emissões	
+ou	fazer	compensações	 visando	a	conformidade	 em	um	sistema	regulado	(ICC	Brasil	
+&	WayCarbon,	 2022a).	A	Figura	1,	abaixo,	apresenta	um	esquema	enxuto	de	etapas	
+do processo de geração de créditos de carbono. 
+3.			A	posse	dos	créditos	dependerá	dos	diferentes	arranjos	possíveis	entre	proponentes,	financiadores,	proprietários	de	terras	e	comunidade	local.
+
+
+--- PÁGINA 11 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil11
+AnexosReferências  
+bibliográficas
+Tipo de de atores do mercado brasileiro
+Fornecedores
+de tecnologia
+Implementam ou 
+monitoram o projeto
+Compradores
+Compram créditos de carbono para 
+uso,	revenda	ou	capitalização	sobre	a	
+valorização	do	crédito.Implementador
+da atividade
+Garante que as atividades 
+sejam executadas in loco.
+Comunidades 
+locais e 
+beneficiário
+População	local	beneficiada	pelo	
+projeto.Proponente 
+do projeto
+Indivíduo	ou	organização	que	
+controla	e	se	responsabiliza	
+pelo projeto.
+Standards e 
+Programas
+Delimitam	critérios,	regras	e	
+metodologia para registro e 
+emissão de créditos.Auditores de 
+terceira parte
+Responsáveis por validar  
+e	verificar	os	documentos.Financiadores
+Investidores ou instituições 
+financeiras	que	disponibilizam	
+recursos para o proejto.
+Outros playersDesenvolvedor
+do projeto
+Reúne	informações,	realiza	
+análises e elabora a 
+documentação necessária.Concepção e  
+elaboração da  
+descritivaAuditoria de 
+Validação
+Solicitação
+de registroAuditoria de
+Verificação
+Documento descritivo 
+(PD/PDD) do ProjetoParecer e relatório 
+de validação
+Registro do projetoImplementação, 
+operação e 
+monitoramento
+Relatório de monitoramento  
+e cálculo da redução de Gases  
+de Efeito Estufa (GEE)Emissão e 
+destinação final 
+dos créditos
+Emissão do crédito, 
+venda e/ou compensação 
+de emissões
+Parecer e relatório 
+de verificação
+Figura 1:  
+Processo de geração de créditos 
+de carbono e a participação de 
+atores em cada etapa
+Fonte: ICC BRASIL e WAYCARBON
+
+--- PÁGINA 12 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil12
+AnexosReferências  
+bibliográficasO	mercado	regulado	de	carbono	brasileiro,	o	Sistema	Brasileiro	de	Comércio	de	Emis-
+sões	de	Gases	de	Efeito	Estufa	(SBCE),	foi	recentemente	 estabelecido.	 A	Lei,	a	qual	o	
+estabeleceu,	 prevê	a	aceitação	de	créditos	de	carbono	gerados	de	forma	voluntária,	
+desde que esses créditos tenham sido emitidos com base na adoção de metodologia 
+credenciada pelo órgão gestor do SBCE4. 
+Não há menção no texto legal de que as metodologias credenciadas devem ser de -
+senvolvidas	 no	âmbito	de	um	padrão	nacional	de	certificação	 de	carbono,	motivo	
+pelo qual se infere que o órgão gestor do SBCE deverá avaliar metodologias de qual-
+quer	tipo	de	padrão	de	certificação	 de	carbono,	inclusive	os	padrões	independentes.	
+Dessa	forma,	para	serem	utilizados	por	operadores	 regulados	sob	o	SBCE,	esses	
+créditos	deverão	ser	convertidos	 em	Certificados	 de	Redução	ou	Remoção	Verifica-
+da	de	Emissões	(CRVEs),	o	que	implicará	na	necessidade	 de	interoperabilidade	 do	
+Registro Central do SBCE5 com os registros de unidades transacionáveis de cada um 
+dos	padrões	de	certificação	 de	carbono	cujas	metodologias	 forem	credenciadas	 pelo	
+órgão gestor. 
+A	Lei	nº	15.042	de	11/12/2024,	 pontua	que	o	órgão	gestor	do	SBCE	deverá	esta-
+belecer critérios para credenciamento de metodologias com vistas a assegurar a 
+credibilidade da originação dos ativos integrantes do SBCE6 ; garantir a integridade 
+ambiental e o cumprimento de SALVAGUARDAS SOCIOAMBIENTAIS; e evitar a du-
+pla	contagem.	 Nesse	sentido,	a	Lei	foi	concebido	para	ser	uma	legislação	progra-
+mática,	concebida	de	forma	abrangente	 e	flexível	o	suficiente	para	que	as	decisões	
+mais operacionais possam ser tomadas após a aprovação da lei e descritas em atos 
+infralegais	mais	específicos.	 Isso	possibilita	que	o	mercado	possa	vir	a	ser	constan-
+temente ajustado conforme o sistema for amadurecendo. 
+Assim,	o	texto	não	traz	diretrizes	sobre	processos	e	requisitos	para	aceitação	dos	
+créditos	de	carbono	no	SBCE,	tais	como	um	percentual	 limite	de	inclusão,	nem	cri-Portanto,	com	a	criação	de	um	mercado	regulado	no	Brasil	e	a	criação	de	regras	
+operacionais	 para	a	venda	de	ITMOs,	faz-se	necessário	 compreender	 os	melhores	
+caminhos para o uso de compensações no SBCE. Tanto no que se refere à geração 
+de	CRVE	para	uso	dos	operadores	 regulados	sob	o	SBCE,	quanto	aqueles	créditos	
+que precisarão ser rastreados na contabilidade nacional da NDC quando forem ven-
+didos como ITMOs. 
+O presente relatório apresenta elementos para subsidiar a tomada de decisão do 
+governo brasileiro a respeito dessas questões. Tais elementos são decorrentes de 
+um extenso estudo que contou com as seguintes etapas: 
+(i) avaliação comparativa de como se dá a aceitação de compensações em ETS de 
+todo	mundo	de	forma	mais	geral	e,	de	forma	mais	específica,	nos	ETS	da	Califórnia,	
+Coreia do Sul e China; 
+(ii) análise profunda dos requisitos das metodologias para a garantia da qualidade 
+dos	créditos	a	serem	aceitos,	relacionando-os	 inclusive	a	questões	de	inclusão	social	
+e outros cobenefícios; e 
+(iii) avaliação por padrões independentes	 de	certificação	 de	carbono,	em	especial	o	
+Verified	Carbon	Standard	(VCS),	Gold	Standard	e	Art	Trees	por	sua	notoriedade,	 dos	
+escopos	de	projetos	de	carbono	à	luz	da	realidade	nacional	e	das	principais	metodo -
+logias de cada escopo considerando as particularidades de cada uma. 
+Destaca-se	 que	as	metodologias	 analisadas	 neste	estudo	são	as	certificadas	 por	
+padrões	independentes	 de	certificação	 uma	vez	que	ainda	não	foram	definidas	as	
+metodologias	 sob	o	art.	6	do	Acordo	de	Paris.	Quando	elas	existirem,	o	órgão	gestor	
+do	SBCE	terá	que	avaliá-las	para	credenciá-las.	 Por	fim,	foram	elaboradas	 recomen-
+dações	que	trazem	direcionamentos	 específicos	 do	que	deve	ser	considerado	 para	a	
+conversão	de	créditos	de	carbono	gerados	por	padrões	independentes	 de	certifica-
+ção de carbono em unidades do mercado regulado brasileiro. Os próximos capítulos 
+consolidam os subsídios e as recomendações apresentadas para cada uma das eta-
+pas adotadas nesse estudo.térios	específicos	 de	aceitação	de	créditos7,	deixando	tais	definições	para	a	regu-
+lamentação	 infralegal.	Embora	as	metodologias	 ainda	não	tenham	sido	definidas,	
+há restrições quanto à conversão em CRVE de créditos de carbono decorrentes de 
+atividades	de	manutenção	ou	de	manejo	florestal	sustentável.	No	entanto,	se	a	me -
+todologia credenciada pelo SBCE reconhecer a efetiva redução de emissão ou remo -
+ção	de	GEE	em	créditos	com	essa	origem	ela	deve	ser	aceita	(Senado	Federal,	2024).	
+Destaca-se	 que	metodologias	 de	qualquer	escopo	deverão	ser	avaliadas	priorizan-
+do o reconhecimento da integridade dos créditos. 
+Além	dos	mercados	voluntário	e	regulados	no	âmbito	nacional,	regional	ou	juris-
+dicional,	há	o	mercado	internacional	 regulado	no	âmbito	do	Acordo	de	Paris,	cujas	
+unidades transacionadas são as unidades de mitigação internacionalmente trans-
+feríveis	(em	inglês,	 Internationally transferred mitigation outcomes  - ITMOs) nas 
+quais:
+(i) resultados de mitigação de emissões de um país podem ser negociados para 
+o cumprimento das Contribuições Determinadas Nacionalmente (NDC) de outro 
+país nos mecanismos do Artigo 6.2; 
+(ii) reduções de emissão geradas por projetos de carbono do setor privado de um 
+país,	que	podem	ser	transacionadas	 pela	empresa	responsável	 pelo	projeto	ou	
+pelo país hospedeiro para o cumprimento da NDC de outro país ou para empresas 
+privadas estrangeiras no mecanismo do Artigo 6.4. 
+Esta	unidade	transacionável	 utiliza	mesma	unidade	de	medida	que	cotas	de	emis-
+sões e créditos de carbono: tonelada de dióxido de carbono equivalente (tCO2e) 
+(ICC	BRASIL;	WAYCARBON,	 2021).	Assim,	todas	essas	unidades	podem	ser	regis-
+tradas num mesmo sistema.
+A Lei nº 15.042 de 11/12/2024 discorre que os créditos de carbono gerados no país 
+que	venham	a	ser	utilizados	para	transferência	internacional	de	resultados	de	mi-
+tigação	(ou	seja,	que	devem	passar	pela	contabilidade	 nacional	da	NDC)	deverão	
+ser	registrados	 como	CRVE,	nos	termos	desta	Lei	e	da	regulação	do	órgão	gestor	
+do	SBCE,	condicionada	 à	autorização	 prévia	da	autoridade	 nacional	designada	
+para	fins	do	disposto	no	art.	6º	do	Acordo	de	Paris	(Senado	Federal,	2024).	Dessa	
+forma,	assim	como	créditos	gerados	pelos	padrões	independentes	 de	certificação 	
+de	carbono,	ITMOs	que	sigam	as	metodologias	 a	serem	definidas	para	os	meca-
+nismos	do	Artigo	6	(padrão	multilateral	 de	certificação	 de	carbono)	também	serão	
+convertidas	 em	CRVEs	para	que,	então,	possa	ser	feita	uma	transferência	 interna-
+cional com ajustes correspondentes na NDC.Box 1: Unidades dos mecanismos do Acordo de Paris
+4.	O	órgão	gestor	do	SBCE	constitui	a	instância	executora	do	SBCE,	de	caráter	normativo,	regulatório,	 executivo,	san-
+cionatório e recursal. Entre as suas atribuições está a de estabelecer os requisitos e os procedimentos
+de credenciamento e descredenciamento de metodologias de geração de CRVE.
+5.		O	Registro	Central	do	SBCE	é	a	plataforma	 que	deverá	permitir,	entre	outros	quesitos,	a	obtenção	de	informações 	
+sobre as transações com CRVEs originadas no país e a interoperabilidade com outros registros. 
+6.	Tal	ponto	já	era	trazido	no	PL	2148/2015,	no	PL	412/2022	e	no	PL	182/2024. 	
+7.	Destaca-se	 que	o	documento	 “Síntese	das	análises	e	resultados	do	Projeto	PMR	Brasil”	considerou,	 para	o	mer-
+cado	regulado	brasileiro,	que	o	uso	deveria	ser	limitado	a	20%	a	fim	de	evitar	que	os	preços	do	carbono	sejam	muito	
+reduzidos,	prejudicando	 o	incentivo	à	descarbonização	 e	à	inovação	tecnológica	 setorial,	e	para	minimizar	potenciais	
+efeitos	de	vazamento	(Banco	Mundial,	2020a). 	
+
+--- PÁGINA 13 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil13
+AnexosReferências  
+bibliográficas
+2. Avaliação comparativa da aceitação de compensações nos Sistemas   
+    de Comércio de Emissões (ETS) de jurisdições selecionadas
+Atualmente,	 existem	36	ETS	em	operação	no	mundo,	e	21	deles	permitem	que	as	en-
+tidades	cobertas	usem	compensações,	 ou	seja,	créditos	de	carbono,	para	endereçar	
+parte	de	suas	obrigações	de	conformidade	(World	Bank,	2024).
+Apesar	da	permissão	de	uso,	a	maior	parte	das	jurisdições	dos	vinte	e	um	ETS	impõe	
+restrições	quantitativas	 e	qualitativas	 significativas	 ao	uso	de	compensações	 em	
+seus sistemas. 
+Em	termos	de	LIMITES	QUANTITATIVOS	 DE	COMPENSAÇÃO,	 a	maioria	das	jurisdi-
+ções	restringe	o	uso	das	compensações	 a	dez	por	cento	das	obrigações	 das	entida-
+des	reguladas.	 A	predominância	 de	limites	mais	baixos,	provavelmente,	 está	asso -
+ciada à intenção de que parte representativa das reduções de emissões aconteça 
+dentro dos próprios setores regulados pelo sistema de cap-and-trade ,	que	tendem	a	
+ser os mais emissores. 
+Embora os limites de compensação possam parecer pequenos em comparação com 
+as	emissões	totais,	eles	podem	constituir	uma	grande	parte	das	reduções	exigidas	
+no âmbito do cap-and-trade .	No	caso	da	Califórnia,	por	exemplo,	os	limites	para	uso	
+de	compensações	 de	4%	(2021-2025)	 e	6%	(2026-2030)	 se	traduzem	em	aproxi-
+madamente 134 MtCO2e de reduções de 2021 a 2030. O CARB estima que o estado 
+precisará	reduzir	as	emissões	em	621	MtCO2e durante esse período para cumprir 
+a	meta	de	2030	(Haya	et	al.,	2020).	Assim,	a	utilização	máxima	de	compensações	
+equivale,	a	aproximadamente	 20%	do	total	das	reduções	estaduais	esperadas.	
+Como o CARB espera que o  cap-and-trade 	alcance	cerca	de	38%	das	621	MtCO2e 
+de	reduções	esperadas,	 ou	seja,	cerca	de	236	MtCO2e,	as	compensações	 poderiam	
+representar	 56%	do	efeito	do	cap-and-trade 	sobre	emissões	(Haya	et	al.,	2020).	As-
+sim,	a	eficácia	ambiental	do	cap-and-trade  provavelmente dependerá da qualidade 
+das compensações.Além	da	Coreia	do	Sul,	que	será	abordado	mais	à	frente,	outros	três	ETS	já	aceitaram	cré-
+ditos	do	Mecanismo	 de	Desenvolvimento	 Limpo	(MDL):	o	ETS	da	União	Europeia	(EU	ETS),	
+o	ETS	da	Suíça	e	o	ETS	da	Nova	Zelândia.	Atualmente,	 esses	três	últimos	ETS	não	aceitam	
+mais compensações no geral.
+A primeira experiência de um ETS com compensação de emissões foi do EU ETS. Na fase I 
+(2005-2007)	 do	sistema,	permitiu-se	 o	uso	ilimitado	de	créditos	do	MDL	e	créditos	de	Im-
+plementação	 Conjunta	(IC),	sem	limitações	de	escopo.	Mas,	na	prática,	nenhum	crédito	foi	
+utilizado	na	fase	I.	Já	na	fase	II	(2008–2012),	 implementou-se	 uma	restrição	de	escopos	e	
+uma restrição percentual determinada no PLANO NACIONAL DE ALOCAÇÃO do respectivo 
+país-membro do EU ETS. Ainda que a maioria das categorias de créditos MDL/IC tenha sido 
+permitida,	determinou-se	 que	créditos	originados	 de	projetos	de	Uso	da	Terra,	Mudança	
+no	Uso	da	Terra	e	Silvicultura	 (LULUCF),	e	de	energia	nuclear	não	entrariam,	e	foram	ainda	
+aplicados requisitos rigorosos aplicados a grandes projetos hidrelétricos superiores a 20 
+MW.	As	cotas	não	utilizadas	foram	transferidas	para	a	fase	III. 	
+Na	fase	III	(2013-2020),	 foram	adicionados	 na	lista	de	escopos	excluídos	os	projetos	de	gás	
+industrial	(projetos	que	envolvem	a	destruição	de	HFC-23	e	N2O),	independentemente	 do	
+país	anfitrião.	Os	créditos	de	projetos	de	MDL	e	IC	de	outros	países	só	eram	elegíveis	se	re-
+gistados	e	implementados	 antes	do	final	de	2012	(World	Bank,	2024).	Esse	período	de	acei-
+tação	de	compensações	 gerou	um	excedente	de	cotas.	E,	com	isso,	o	preço	das	cotas	caiu,	
+prejudicando	 a	relação	custo-benefício	 do	sistema	no	longo	prazo,	já	que	não	valia	a	pena	
+para empresas dos setores regulados investirem na mitigação de suas emissões (GALDI et 
+al.,	2022).	A	partir	da	fase	IV	(2021-2030),	o	EU	ETS	não	aceita	mais	compensações. 	
+As	compensações	 internacionais	 foram	permitidas	até	2020	no	ETS	da	Suíça,	sujeitas	a	de-
+terminados critérios. A maioria das categorias de créditos de projetos MDL em países me -
+nos desenvolvidos foram permitidas. Os créditos de projetos de MDL e IC de outros países 
+só	eram	elegíveis	se	registrados	 e	implementados	 antes	do	final	de	2012.	Uma	quantidade 	
+máxima	de	compensações	 permitidas	no	sistema	foi	fixada	em	11%	da	média	das	cotas	
+alocadas na fase voluntária (2008-2012). As indústrias que aderiram ao ETS no segundo 
+período	de	sistema	(2013-2020)	 poderiam	usar	compensações	 para	cobrir	até	4,5%	das	
+suas	emissões.	Especificamente,	 para	os	operadores	 de	aeronaves,	 o	limite	quantitativo 	
+foi	fixado	em	1,5%	(World	Bank,	2024).	Seguindo	a	União	Europeia,	a	Suíça	optou	por	não	aceitar mais compensações internacionais ou não a partir de 2021.
+Já	no	ETS	da	Nova	Zelândia,	as	compensações	 nacionais	e	internacionais	 foram	aceitas	desde	
+a	sua	criação	em	2008.	No	entanto,	esta	iniciativa	funcionou	bem	apenas	entre	2008	e	2012,	
+quando o preço das compensações internacionais era semelhante aos preços das cotas na-
+cionais.	No	entanto,	uma	queda	na	procura	de	cotas	devido	à	crise	financeira	de	2008-2009, 	
+juntamente com uma taxa de crescimento superior ao esperado nos volumes de fornecimento 
+de	unidades	do	Protocolo	de	Quioto,	fez	com	que	o	preço	de	mercado	das	compensações	 in-
+ternacionais	 caísse	desde	o	final	de	2012.	Assim,	com	compensações	 ilimitadas	permitidas	no	
+ETS	da	Nova	Zelândia,	houve	a	queda	dos	preços	das	cotas,	seu	acúmulo	e	na	paralisação	 de	
+atividades	domésticas	 de	redução	de	emissões.	Nos	três	anos	seguintes	à	queda	dos	preços,	
+as compensações internacionais constituíram a maior parte dos instrumentos de conformidade 
+usado no ETS da Nova Zelândia para resgates feitos do início de 2013 ao início de 2015. As-
+sim,	foram	inclusos	requisitos	de	escopos	para	a	redução	das	opções	para	compensação.	 No	
+entanto,	uma	análise	 ex-post	dos	créditos	que	foram	autorizados	 para	conformidade	 no	ETS	da	
+Nova	Zelândia,	especialmente	 durante	o	período	entre	2012	e	2015,	indicou	que	uma	grande	
+parte	dos	cerca	de	96	milhões	de	compensações	 utilizadas	para	cumprimento	 do	ETS	careciam	
+de integridade ambiental. 
+Desde	2015,	o	ETS	neozelandês	 passou	por	um	processo	fundamental	 de	revisão	e	reforma,	e	
+foi	aprovada	uma	nova	legislação	climática	abrangente,	 com	grandes	reformas	implementadas 	
+em	2021.	Assim,	o	foco	voltou-se	para	a	redução	de	emissões	nacionais	e	as	compensações 	
+internacionais não são mais permitidas. As compensações internacionais poderão ainda de -
+sempenhar	 um	papel	na	consecução	 das	metas	de	mitigação	no	futuro,	dado	o	potencial	rela-
+tivamente limitado de redução das emissões internas e os elevados custos de redução no país 
+e	a	redução	internacional	 estar	claramente	 sinalizada	na	NDC	atualizada	da	Nova	Zelândia	(La	
+Hoz	Theuer	et	al.,	2023).
+Destaca-se	 que	não	se	identificou	um	processo	de	validação	interno	de	documentos	 dos	proje -
+tos de metodologias aceitas em nenhum dos três ETS.  
+Ainda,	analisando	 os	ETS	que	aceitam	compensações,	 não	foi	identificado	 outro	ETS	que,	se-
+melhante	à	Califórnia	aceitasse	créditos	de	padrões	independentes	 de	certificação	 de	carbono.Box 2: Aceitação	de	créditos	do	Mecanismo	do	Desenvolvimento	Limpo	e	padrões	independentes	de	certificação	de	carbono.	
+
+--- PÁGINA 14 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil14
+AnexosReferências  
+bibliográficasQuanto	aos	LIMITES	QUALITATIVOS	 DE	COMPENSAÇÃO,	 a	maior	parte	dos	ETS	
+aceita apenas créditos gerados a partir de projetos implementados no país ou em 
+jurisdições vinculadas. A limitação a créditos locais incentiva reduções de emissões 
+dentro	do	próprio	país,	em	setores	que	ainda	não	foram	regulados,	o	que	pode	con-
+tribuir	para	metas	de	descarbonização.	 Além	disso,	os	projetos	podem	gerar	tam-
+bém	outros	benefícios	para	a	jurisdição,	para	além	da	mitigação.	
+As jurisdições também tendem a delimitar os escopos dos projetos aceitos. Os pi-
+lotos	da	China,	por	exemplo,	têm	restrição,	especificamente,	 à	hidreletricidade.	 Os	
+projetos	florestais	e	relacionados	 a	energia	são	incluídos	com	mais	frequência,	 mas	
+os ETS dos EUA8,	por	exemplo,	não	aceitam	projetos	de	energia.	Em	geral,	as	juris-
+dições aceitam projetos que querem incentivar e que são adicionais e aderentes ao 
+contexto local. Isso pode variar consideravelmente. 
+Particularmente,	 os	projetos	de	geração	de	energia	renovável,	em	países	como	o	
+Brasil,	que	já	possuem	um	sistema	energético	 predominantemente	 renovável,	po-
+dem	ser	pouco	adicionais.	Além	disso,	projetos	hidrelétricos,	 em	específico,	por	vezes	
+estão associados a problemas de infringimento de direitos de populações locais e 
+alagamento	de	grandes	áreas	florestais.Alguns	sistemas	também	estabelecem	 restrições	temporais,	 determinando	 um	pra-
+zo	de	expiração	para	o	uso	dos	créditos	e/ou	datas	de	corte	para	aceitação	de	cré-
+ditos.	Nestes	casos,	o	conceito	de	VINTAGE	é	importante.	 O	vintage  de um crédito 
+de carbono é o ano em que ocorreu a redução de emissão ou em que o crédito foi 
+emitido.	Ele	pode	ter	impacto	na	qualidade	e	preço	dos	créditos.	De	um	modo	geral,	
+quanto mais antigo for o vintage,	mais	barato	será	o	preço	por	crédito.	
+Vintages	mais	antigos	podem	levantar	preocupações	 com	a	qualidade,	 já	que,	as	
+metodologias	 são	atualizadas	 e	se	tornam	mais	rigorosas,	ao	longo	do	tempo.	As-
+sim,	a	qualidade	dos	créditos	tende	a	melhorar,	o	que	gera	mais	confiança	em	cré-
+ditos	recentes,	visto	que	as	melhorias	implementadas	 não	se	refletiriam	em	créditos	
+que	não	foram	vendidos	e	aposentados	 por	um	longo	período.	Dessa	forma,	esse	
+tipo de limite pode contribuir para assegurar a qualidade dos créditos nos mercados 
+regulados e para que não se tenha uma oferta excessiva que poderia impactar o 
+preço,	por	exemplo.	
+Cabe	ressaltar,	no	entanto,	que,	a	restrição	do	uso	de	créditos	mais	antigos	pode	
+penalizar	desenvolvedores	 pioneiros	que	planejaram	 e	executaram	 seus	projetos	
+há	mais	tempo,	contribuindo	 para	evitar	que	uma	proporção	maior	de	aquecimento	
+ocorresse,	como	resultado	da	persistência	do	CO2 na atmosfera.Além de restrições relacionadas ao vintage	dos	créditos,	outros	tipos	de	restrição	
+temporal	observados	 incluem	a	definição	de	prazos	para	data	de	início,	registro	e	
+monitoramento de projetos e para emissão e conversão de créditos. 
+Por	fim,	observa-se	 que	a	maioria	das	jurisdições	 ainda	não	desenvolveu	 requisitos	
+socioambientais	 específicos,	 para	além	de	salvaguardas	 protetivas.	 Os	projetos	de	
+créditos podem gerar benefícios complementares e as metodologias tendem a res-
+tringir	impactos	socioambientais	 negativos,	mas	as	jurisdições	 não	têm	exigências	
+específicas	sobre	esses	aspectos,	para	além	disso.
+O	Quadro	1,	a	seguir,	sintetiza	as	características	 de	cada	jurisdição	analisada	que	
+permite	o	uso	de	compensações.	 Destacou-se,	 no	quadro,	as	jurisdições	 posterior -
+mente selecionadas. Ressalta-se que escopos de agricultura compreendem projetos 
+de	cultivo	de	arroz	ou	mudanças	em	fertilizantes;	 de	energia	se	referem	a	projetos	de	
+energia	eólica,	solar	ou	outra	fonte	renovável	e/ou	eficiência	energética;	 de	florestas	
+se	referem	a	projetos	de	florestamento,	 reflorestamento	 ou	silvicultura;	 de	combustí-
+veis compreendem projetos nos quais há mudança no tipo de combustível pra outro 
+mais limpo; de pecuária se referem a projetos de gestão de metano e/ou produção 
+de	biogás;	e	de	resíduos	configuram	 projetos	de	captura/	destruição	 de	metano	de	
+aterro.
+ETS Ano de inícioAceita créditos de fora 
+da jurisdição/país?Limite quantitativo atual Escopo Origem dos créditosPadrão de certificação 
+de carbono aceitoAspectos sociais Outros requisitos
+Alberta  
+(Estadual - Canadá)2007 Não	especificado. 60%Energia; Agricultura; Pecu-
+ária; CCS; Resíduos 
+(protocolos provinciais)Permitido que os créditos 
+venham de setores 
+regulados que emitam 
+menos	que	100	ktCO2Alberta Emission Offset 
+System/ Alberta Carbon 
+RegistriesNão	identificadosPeríodo de expiração de 
+créditos de cinco anos para 
+uso em conformidade.
+Califórnia  
+(EUA)2013Sim. Aceita créditos 
+gerados em outros estados 
+e de jurisdições vinculadas 
+(Quebec)4%Agricultura; Captura de 
+metano em minas; Energia; 
+Florestas; Pecuária; 
+Substâncias que destroem 
+a	camada	de	ozônio.Permitido que os créditos 
+venham apenas de setores 
+não regulados.Compliance Offset 
+Program,	que	utiliza	a	
+estrutura de padrões 
+independentes de 
+certificação:	American	
+Carbon	Registry	(ACR),	
+Climate Action Reserve 
+(CAR) e VCSNão	identificadosA	partir	de	2021,	
+pelo	menos	50%	das	
+compensações devem 
+vir de projetos que 
+proporcionam benefícios 
+ambientais diretos ao 
+estado.Quadro 1: Avaliação preliminar de requisitos dos ETS que permitem o uso de compensações
+8.	Califórnia,	Washington	 e	RGGI	(Regional	Greenhouse	 Gas	Initiative),	que	é	um	ETS	que	compreende	 os	seguintes	estados	norte-americanos:	 Connecticut,	 Delaware,	Maine,	Maryland,	Massachusetts,	 New	Hampshire,	 New	Jersey,	New	York,	
+Rhode	Island,	Vermont	e	Virginia.
+
+--- PÁGINA 15 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionadosLista de 
+acrônimos5. Considerações finais 
+e recomendaçõesSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil15
+AnexosReferências  
+bibliográficasETS Ano de inícioAceita créditos de fora 
+da jurisdição/país?Limite quantitativo atual Escopo Origem dos créditosPadrão de certificação 
+de carbono aceitoAspectos sociais Outros requisitos
+Canadá  
+(Federal)2019Sim. Aceita unidade  
+reconhecida de outra  
+jurisdição.75%	das	emissões	 
+excedentes às cotas  
+podem ser compensadas 
+com créditos.Resíduos (metano);  
+Sistemas de Refrigeração; 
+CCS; Gestão Florestal;  
+Agricultura e pecuária  
+(protocolos federais)Permitido que os créditos  
+venham apenas de setores 
+não regulados.Canada’s	GHG	Offset	Credit	
+System / Public RegistryIncentiva comunidades  
+indígenas,	silvicultores,	 
+agricultores a  
+desenvolverem	projetos,	etc.Salvaguardas ambientais e 
+sociais. Período de expiração 
+de créditos de oito anos para 
+uso como compensação.
+Cazaquistão 2013 Não --- Todos os setoresPermitido que os créditos 
+|venham apenas de setores 
+não regulados.Registro interno no 
+Ministério de Ecologia e 
+Recursos Naturais do paísNão	identificados Não	identificados
+China  
+(ETS nacional)2021 Não 5% Energia; FlorestasApesar do ETS cobrir o setor 
+de	energia,	até	o	momento,	
+metodologias para energia 
+solar e eólica estão entre as 
+aprovadas.Padrão Nacional de Chinese 
+Certified Emissions Reduc -
+tions  (CCER)Não	identificados Não	identificados
+Chongqing  
+(China)2014 Não 8%Todos,	com	restrição	à	 
+hidroeletricidadeNão	identificada Padrão Nacional de CCER Não	identificadosTemporalidade: créditos  
+de	projetos	não-florestais	
+após 2010.
+Colúmbia Britânica  
+(Estadual - Canadá)2016 Não	especificado. ---Combustíveis; Energia; Resí-
+duos;	Gestão	florestal;	CCS	
+(protocolos provinciais)Protocolos aprovados  
+referentes à gestão  
+florestal	e	resíduos	 
+(metano)Colúmbia Britânica está  
+propondo o seu próprio pro -
+grama (BC Offset Program) / 
+BC Carbon Registry Não	identificadosProtocolos de compensa-
+ção ainda estão sob revisão 
+(combustível,	energia)	ou	em	
+desenvolvimento.
+Coreia do Sul 2015 Sim 5%Agricultura; Combustíveis; 
+Energia; Florestas;  
+ ResíduosNão	identificadaKorean Offsetting Program e 
+MDLNão	identificadosQuanto à origem das em-
+presas responsáveis pelos 
+projetos
+Fujian  
+(China)2016 Não5%	(não	florestais)	ou	10%	
+(florestais)Todos,	com	restrição	à	 
+hidroeletricidadeNão	identificada Padrão Nacional de CCER Não	identificadosTemporalidade: créditos 
+de	projetos	florestais	após	
+2005.
+Guangdong  
+(China)2013Sim,	mas	pelo	menos	70%	
+devem provir da jurisdição10%	para	cada	entidade	um	
+limite máximo para o volume 
+total do sistemaTodos,	com	restrição	à	 
+hidroeletricidadeNão	identificada Padrão Nacional de CCER Não	identificados Não	identificados
+Hubei  
+(China)2014 Não 10% Florestas; PecuáriaPermitido que os créditos  
+venham apenas de setores 
+não regulados.Padrão Nacional de CCERLocalização	de	projetos	em	
+condados do plano de alívio 
+da	pobrezaNão	identificados
+México 2020 Não 10%Agricultura; Florestas; Mobi-
+lidade urbana; PecuáriaNão	identificadaO governo estabelecerá um 
+padrão nacional para a  
+geração de créditos de  
+compensação que poderão 
+ser devolvidos para  
+compensações no ETS.Não	identificadosProtocolos em 
+desenvolvimento

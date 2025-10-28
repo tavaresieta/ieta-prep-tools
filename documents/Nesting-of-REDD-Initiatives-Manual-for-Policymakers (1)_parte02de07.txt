@@ -1,0 +1,1009 @@
+DOCUMENTO: Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)
+PARTE 2 de 7
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers7
+The international policy framework that 
+provides incentives for REDD+ has motivated 
+many developing country governments to review 
+their land-use policies . T o reduce emissions from 
+deforestation and forest degradation, and to support 
+the role of conservation, the sustainable management 
+of forests, and the enhancement of forest carbon 
+stocks in developing countries, policymakers at the 
+national and subnational scales have developed 
+strategies that seek to protect or expand forests 
+while promoting economic development ( Box 1 ). In 
+some cases, governments have expressed interest 
+in seeking results-based finance (RBF) for reduced 
+emissions, while in other countries preexisting 
+forest carbon projects, or projects that are under 
+development are registered under voluntary carbon 
+market standards to generate tradable carbon 
+credits. Several countries are also looking for ways 
+to integrate subnational programs and projects 
+into their national REDD+ strategies. Nesting is an 
+approach that can be used to integrate the actions 
+of smaller-scale REDD+ initiatives into larger-scale 
+jurisdictional  (national or subnational) approaches.
+6 UNFCCC Decision 15-9/CP. 19. https:/ /unfccc.int/topics/land-use/resources/warsaw-framework-for-redd-plus
+7 UNFCCC Decision 2/CP. 13 Annex, 7Box 1:  What Is REDD+?
+The concept of “REDD+” first emerged in 2007 
+during the negotiations under the UN Framework 
+Convention on Climate Change (UNFCCC). Then, in 
+2013, in Warsaw, the Conference of the Parties (COP) 
+to UNFCCC agreed on a set of decisions known as the 
+Warsaw Framework for REDD+,6 which encourages 
+developing countries to pursue mitigation actions in 
+the forest sector, and all countries to support such 
+efforts, including through finance.  The Warsaw 
+Framework includes guidance for countries on how 
+to develop a forest reference emission level (FREL) 
+as a benchmark of REDD+ performance. It also 
+demonstrates how entities that are financing REDD+, 
+including the Green Climate Fund (GCF), can apply 
+methodological guidance that is consistent with 
+COP decisions. REDD+ was conceived as a national 
+approach for encouraging the adoption of policies 
+to reduce deforestation, and accounting for ERs at 
+the national level. However, in view of the challenges 
+of implementing a fully national approach, COP has 
+recognized that subnational approaches can be used 
+as a step toward national approaches.7 In addition, 
+many countries now host and/or encourage project-
+scale activities as part of their national REDD+ 
+strategies. The term REDD+ is also used more broadly, 
+sometimes simply to mean reducing emissions (or 
+increasing removals) in the forest sector of developing 
+countries. 
+Experience has shown that countries with REDD+ 
+projects that were implemented in order to generate 
+carbon credits in jurisdictional ER programs 
+have faced multiple challenges. These have been 
+particularly severe in situations where there are 
+mismatches in the GHG accounting of projects 
+and jurisdictional programs; this often requires 
+continued negotiations among the governments and 
+implementation entities, and can be challenging for 
+both countries and projects. Nested systems enable 
+INTRODUCTION:   
+HOW AND WHY TO USE 
+THIS MANUAL
+
+
+--- PÁGINA 17 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers8
+the alignment of GHG accounting at various scales, to 
+promote the environmental integrity of carbon credits 
+issued at multiple scales. The advantages of designing 
+a nested system or framework has been emphasized 
+during the past few years; however, there has been a 
+lack of comprehensive guidance for designing them. 
+This manual seeks to address that gap.
+The need for this manual emerged from the 
+FCPF Carbon Fund experience of piloting REDD+ 
+implementation initiatives . Consultations with 
+stakeholders implementing such initiatives in 
+subnational and national ER program jurisdictions 
+supported through the World Bank’s Forest Carbon 
+Partnership Facility (FCPF)8 Carbon Fund have 
+revealed a need for guidance in aligning REDD+ 
+initiatives at various geographic scales in order to 
+enhance national ambition, ensure environmental 
+integrity, and avoid the double counting of REDD+ 
+mitigation outcomes. The experience of the FCPF 
+Carbon Fund has also highlighted the need to 
+bridge significant knowledge gaps among various 
+stakeholders—that is, governments, public and 
+private implementing entities, and participants and 
+stakeholders of REDD+ initiatives at various levels.  
+The purpose of this manual is to provide countries 
+with practical advice and guidance for developing a 
+“nested” system for REDD+ implementation.  Nested 
+REDD+ systems present pathways for integrating 
+subnational programs or projects into national REDD+ 
+strategies; and the nesting of REDD+ initiatives 
+can promote the environmental integrity of carbon 
+credits issued . Nested REDD+ initiatives can also 
+enable countries to confront deforestation and forest 
+degradation of various types and scales, from broad 
+public policies to site-specific activities, allowing 
+the intervention of public and private actors to 
+complement their actions. 
+A “nested” approach was first proposed in 2007,9 and 
+since then several publications10 have elaborated it. 
+Basically, nested systems allow a country to access 
+multiple sources of finance—from public-sector 
+climate finance to private-sector carbon finance—to 
+support REDD+ activities.  The Paris Agreement has 
+created new obligations for countries to meet their  
+8 The Forest Carbon Partnership Facility (FCPF) is one of the earliest multilateral initiatives to support REDD+ implementation in developing countries through two complementary funds. The 
+Readiness Fund provides support for enhancing the technical and institutional capacity to design and implement national REDD+ strategies; promoting stakeholder engagement; implementing 
+environmental and social safeguards; and enhancing the capacity for monitoring and reporting on REDD+ activities. The FCPF Carbon Fund extends results-based payments to developing 
+countries for emission reductions achieved through the implementation of REDD+ ER programs.
+9 Pedroni, L., Streck, C., Estrada, M. and Dutschke, M. 2007 . The Nested Approach: A Flexible Mechanism to Reduce Emissions from Deforestation. CATIE, Turrialba, Costa Rica.
+10 Angelsen et al.  2008. “What Is the Right Scale for REDD? National, Subnational and Nested Approaches. ” CIFOR Working Paper. Pedroni, L. et al . 2009. “Creating Incentives for Avoiding 
+Further Deforestation:  The Nested Approach. ” Climate Policy  9: 207–220; Cortez, R. et al  2010. A Nested Approach to REDD+: Structuring Effective and Transparent Incentive Mechanisms for REDD+ 
+Implementation at Multiple Scales . The Nature Conservancy; Chagas T. et al.  2011. Nested Approaches to REDD+: An Overview of Issues and Options . Forest Trends; Kashwan, P. and Holahan, R. 2014. 
+“Nested Governance for Effective REDD+: Institutional and Political Arguments. International Journal of the Commons . 2014. 8 (2): 554–575; Gibbon, A . et al . 2014. Planning Guide: Integrating REDD+ 
+Accounting Within a Nested Approach: Lowering Emissions in Asia’s Forests .: (LEAF), USAID; Pearson, T. et al.  2016. Guidance Document: Options for Nesting REDD+ Projects . Pub City: Winrock Interna -
+tional; Lee, D. et al.  2018. Approaches to REDD+ Nesting Lessons Learned from Country Experiences , Washington, DC: World Bank.climate targets in the form of nationally determined 
+contributions (NDCs), which are relevant for the 
+carbon accounting of projects and programs: this too 
+can be addressed by the nesting of REDD+ initiatives. 
+The need to integrate project-level activities into 
+national REDD+ strategies; interest in accessing 
+multiple sources of finance; and the demands of 
+carbon accounting under the Paris Agreement have led 
+to a demand from policymakers for guidance on how 
+to develop nested REDD+ systems that respond to a 
+variety of national circumstances. 
+Although the objective of FCPF is to support 
+jurisdictional REDD+ implementation through the 
+nesting of programs and projects, this manual includes 
+an overview of other models of REDD+ implementation 
+that have been observed on the ground as well, in 
+order to clarify the differences between nested models 
+and other models of REDD+ implementation.
+This manual provides guidance for countries on how 
+to align the accounting for projects with subnational 
+and national accounting procedures, as well as how 
+to identify steps for integrating the mechanisms used 
+to access the financing needed to implement national 
+REDD+ strategies. T ogether with the accompanying 
+Decision Support T ool (DST), decision makers are 
+guided through a step-by-step process of selecting, 
+planning, and implementing a nested REDD+ system. 
+The manual is divided into three parts. 
+Part 1.  Designing a Nested System guides users 
+through key issues and questions to consider when 
+designing an overall nested approach. The policy 
+objectives likely to be considered include national 
+forest or climate-change targets and the means for 
+achieving them, including access to finance. Other 
+contexts critical to the design of a nested system 
+include land (forest) tenure, and who has the right to 
+carbon from activities that reduce the emissions from 
+deforestation and forest degradation. We present four 
+basic models, which offer several options for accessing 
+various forms of REDD+ results-based finance RBF, 
+including two “nested” archetypes.  
+
+--- PÁGINA 18 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers9
+MANUAL
+DECISION SUPPORT TOOLReﬁne the elements for the selected 
+nested system, establish a timeline 
+and monitor progress
+DECISION SUPPORT TOOL
+Design the nested system Implement the nested systemFigure 3. Process Diagram: How to Use this Manual, and the Decision Support T oolPart 2.  Elements of a Nested System  elaborates 
+the specific elements needed, including MRV and 
+accounting systems, legal issues, benefit sharing, 
+and safeguards. It analyzes them, and clarifies the 
+actions and priorities that need to be considered in 
+each of them. These elements should be considered 
+as illustrative, to be adapted to each country’s 
+unique circumstances, taking into consideration the 
+requirements of various REDD+ initiatives or carbon 
+standards. Part 3.  Implementation of a Nested System 
+describes the steps in designing and implementing a 
+nested system, including consultations, the adoption 
+of a regulatory framework, and the establishment of 
+a registry. 
+Additionally, Appendix B provides instructions on the 
+use of the Decision Support T ool (DST), and explains 
+how it can complement the use of the manual . The 
+DST helps users identify the nesting model that best 
+reflects their national circumstances, as well as the 
+relevant elements for the model they have selected.
+
+--- PÁGINA 19 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers10
+PART I:  
+NESTING DESIGN
+This part presents the main considerations that 
+inform a government’s decision making regarding 
+nested REDD+.  
+1. NESTING AND ITS OBJECTIVES
+For the purpose of this manual, “nesting” refers to 
+the alignment of the accounting of greenhouse gas 
+(GHG) emission reductions and removals (ERs) from 
+REDD+ activities across multiple scales . For example, 
+a government may be seeking to receive results-
+based payments, or to generate and issue carbon 
+credits at the jurisdictional scale, while projects (or 
+smaller jurisdictions within the larger jurisdictional 
+program) are simultaneously accounting for ERs, and 
+are generating carbon credits. Although “nesting” 
+is referred to in this narrow sense, REDD+ nesting 
+also reflects an integrated policy framework that 
+implements REDD+ across various implementation 
+and governance levels (Box 2). For this reason, the 
+manual refers generically to four models of REDD 
+implementation, but only calls two of the models 
+“nested systems. ” Box 2:  What is Nesting?
+There is no internationally agreed-upon definition for 
+nesting. In fact, people often mean quite different 
+things when using this term. Some consider nesting 
+in the narrow context of aligning GHG “measurement, 
+monitoring and reporting” of smaller-scale systems; 
+for example, projects with larger-scale (subnational 
+or national) systems such as those that align ER 
+claims by carbon projects with the GHG inventories 
+that form the basis for nationally determined 
+contributions (NDCs). Others take a broader view that 
+nesting is about harmonizing the implementation 
+of REDD+ activities at multiple governance levels 
+and geographical scales. In the latter case, nesting 
+can encompass, for example, national-scale ER 
+programs that employ a benefit-sharing approach 
+for distributing finance received from monetizing 
+ERs; frameworks that enable site-scale activities; or 
+small-scale projects that can directly generate and 
+issue ERs. 
+A well-designed nested system reflects the policies, 
+priorities, rights, and regulatory framework for 
+implementing REDD+ within a country.  It promotes 
+environmental integrity and sets a foundation for 
+avoiding the double counting of ERs by facilitating the 
+alignment of measurement, reporting, and verification 
+(MRV) systems. It establishes institutional 
+arrangements for operating and maintaining the 
+system in order to manage the risks inherent in 
+nesting. Nesting is also closely linked to forest 
+policies, benefit sharing, and safeguards. All of these 
+elements are discussed in subsequent sections of this 
+manual.
+In many cases, countries are pursuing jurisdictional 
+ER programs, while projects are simultaneously 
+generating verified carbon credits.  This has created a 
+challenging situation for many countries, particularly 
+where there are significant mismatches between the 
+various GHG accounting systems. Setting up a nested 
+system therefore often requires an adjustment of the 
+
+
+--- PÁGINA 20 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers11
+processes for existing programs and projects; this 
+can be challenging, but the sooner such a system is 
+developed, the smoother the transition will be. 
+1.1 Determining the Objectives of Nesting
+A nested REDD+ system is at its core a national 
+policy; therefore, it should be driven by national 
+policy priorities . Before designing a nested system, a 
+country should decide why  it wants to develop such a 
+system, and should have in mind clear objectives, and 
+a clear idea of the planned scope, and applicability. 
+Some of the possible objectives for the development 
+of a nested system are presented below, in Box 3 .
+It is helpful for a government to have clarity 
+concerning its forest and climate-change policy 
+objectives before  designing a nested system  (Box 
+3). These may be clearly spelled out in a national 
+REDD+ strategy; through forest sector goals 
+that are communicated through another policy 
+or legal instrument; or in the national climate-
+change policy and/or the country’s NDC under 
+the Paris Agreement. While achieving forest or 
+climate-related policy objectives is the main goal 
+of national REDD+ strategies, other objectives that 
+influence policy decisions include poverty reduction, 
+rural development, and food security. In addition, 
+governments may be seeking to support vulnerable 
+communities and empower local actors. The bundle 
+of national aspirations regarding REDD+ will likely 
+determine the way nesting is designed.
+Next the government should explore pathways for 
+achieving its forest and climate change goals; for 
+example, which policies and measures it envisages 
+for reducing deforestation . REDD+ strategies often 
+include policies and measures the government 
+may target as drivers—for example, minimizing 
+agricultural expansion, or illegal logging—or 
+underlying causes of deforestation, such as conflicted 
+land titles, or weak law enforcement. Some actions 
+may require the adoption of government policies, or 
+increased government enforcement of existing laws 
+and policies. Other actions may require targeted 
+interventions that attempt to change the behavior 
+of those responsible for forest loss, or provide direct 
+assistance to and partnership with local actors. 
+Policymakers need to review the landscape of 
+available finance, including budgetary resources, 
+and decide how such financing can help achieve their 
+11  One useful resource for evaluating and designing a REDD+ financing system is Charlotte Streck and Brian Murry’s Financing Land Use Mitigation: A Practical Guide for Policy Makers. 2015. 
+(Winrock) .
+12  Countries may choose to implement REDD+ at a subnational scale as an interim step toward national implementation. Throughout the text we often refer to “national” scale with the 
+understanding that it may also apply to subnational scales.forest and climate goals .11 There are many types 
+of international finance available to governments, 
+including official development assistance (ODA); 
+loans from multilateral financial institutions; and/
+or other types of grant financing from public, private, 
+or philanthropic sources. Climate finance, both 
+investment finance and results-based finance (RBF) 
+for REDD+, and carbon market finance are other 
+potential sources (see Section 3.2). In assessing the 
+landscape of potential funding sources, policymakers 
+can determine which types of finance are available to 
+them; which financing conditions they can realistically 
+achieve; and within what time frame it can be done, 
+given their national circumstances and institutional 
+constraints. For example, many countries are already 
+receiving ODA, or have projects that are participating 
+in voluntary carbon markets. On the other hand, 
+access to market-based finance at the jurisdictional 
+level requires technical capacities, coordinated action 
+from multiple government ministries, and actions 
+from stakeholders at several levels; thus it may take 
+significant time to accomplish. 
+Once a country has determined how climate and 
+carbon finance can support implementation of 
+REDD+, and which types of financing it wishes to 
+seek, it can consider how to optimize access to 
+such finance.  For example, if a government wishes 
+to take advantage of both project-scale voluntary 
+markets and RBF from the Green Climate Fund (GCF), 
+it may need to promote alignment in accounting 
+at the project and national (or subnational) levels.12 
+Countries that are parties to the Paris Agreement also 
+need to periodically report on their climate mitigation 
+performance, and ensure the environmental integrity 
+of such achievement. Hence, it is crucial to manage 
+issues such as leakage, permanence, additionality, 
+and the carbon accounting of REDD+ activities that 
+are being implemented at different levels.
+Engagement in market-based transactions under 
+Article 6 of the Paris Agreement requires additional 
+considerations . T o participate in an Article 6 
+transaction, a government would need to transfer ERs 
+and make a “corresponding adjustment” (CA) to its 
+national GHG accounting (see Sections 3.4and 11.1). 
+If they wish to engage in transactions under Article 
+6 at the project or subnational level, there could be 
+a strong motivation for nesting, in order to align the 
+MRV of projects and programs with national-scale 
+GHG monitoring and reporting.
+
+--- PÁGINA 21 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers12
+Box 3: Why Do Countries Want to 
+Develop Nested Systems?
+Our research for this report revealed that at least 
+17 countries have an interest in developing nested 
+REDD+ systems. While each country is unique, and 
+circumstances differ from country to country, there 
+are several common reasons why many countries are 
+now interested in developing nested systems.
+One of the most common reasons cited by forested 
+countries is to be able to gain access to multiple 
+sources of financing in order to achieve their forest 
+and climate change goals . Countries see nesting 
+as a way to organize various streams of carbon 
+finance—including voluntary markets, funds such 
+as the FCPF Carbon Fund or BioCF-ISFL, as well 
+as nonmarket payments through donor-funded 
+schemes such as GCF’s results-based payments 
+program, or the REDD Early Movers Program. In 
+many cases, nested systems are largely motivated 
+by the government’s desire to access REDD+ results-
+based payments, while also allowing projects to 
+continue accessing private-sector finance. 
+Countries also often see nesting as a way to 
+supplement the government’s capacity to 
+implement its national REDD+ strategy  through 
+support for site-based activities. In such cases, the 
+government recognizes that national policies are 
+crucial for reducing deforestation, but also that 
+projects can help to support the management of 
+forests and protected areas, particularly when it is 
+insufficiently funded by government programs.  
+Some countries also see nesting as a way to avoid 
+double counting of ERs . Most countries have not 
+yet considered how to achieve their Paris Agreement 
+target, and the role that Article 6 transactions 
+may play in this. However, several governments 
+do see nesting, in particular the alignment of GHG 
+measurement across scales, as fundamental to 
+future considerations on double counting. 
+Nesting is also seen as an opportunity to increase 
+domestic support for REDD+ . By including a 
+wide range of actors, nesting can increase broad 
+ownership, and build REDD+ constituencies. In some 
+cases, a country may have had positive experiences 
+with early REDD+ projects that have generated 
+financial flows to support the conservation or 
+sustainable management of forests, and therefore 
+want these flows to continue. Such projects may also have the strong support of local communities, 
+or may be officially recognized as “early-action 
+projects. ” As such, they are critical to building 
+national support for REDD+.
+Another common motivation for building a nested 
+system is the mismatch between national GHG 
+accounting and project-based crediting. Where there 
+are multiple projects within a country or jurisdiction, 
+this mismatch becomes more pronounced, and can 
+put into question the environmental integrity of 
+the projects’ ER claims. In such cases, countries 
+look for ways to promote alignment among 
+projects—leveling the playing field, and promoting 
+“equal reward for equal effort”—and also to align 
+project-level GHG monitoring with national GHG 
+measurement and reporting approaches . In some 
+instances, countries have privately voiced concern 
+that projects are generating voluntary carbon 
+credits that are not backed by real ERs, and they 
+hope that nesting can help improve the credibility of 
+project crediting. 
+Hence, following a nesting approach allows countries 
+not only to promote the alignment of accounting 
+issues among projects and programs, but also to 
+establish among all REDD+ activities a streamlined 
+concept of key issues like permanence and 
+additionality, while minimizing the risks of leakage. 
+
+
+--- PÁGINA 22 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers13
+1.2 General Considerations in Designing a 
+Nested System
+After a government has determined its objectives for 
+a nested system, it should design the system in such 
+a way as to achieve those objectives to the greatest 
+extent possible. There are three fundamental design 
+decisions: 
+·	 Deciding the degree of centralization (or 
+decentralization) for REDD+. A centralized 
+approach focuses on receiving payments for 
+ERs at the jurisdictional scale, with a benefit-
+sharing system to distribute carbon benefits 
+(monetary and nonmonetary) to subnational 
+jurisdictions (states, municipalities), or nonstate 
+actors (private actors, landowners, legal 
+entities, communities, private sector companies, 
+or others). In a decentralized structure the 
+government authorizes the implementation of 
+projects and programs, which are then carried 
+out at lower scales, often with the participation 
+of private actors to directly market and monetize 
+ERs. Decentralized systems enable direct 
+incentives for local actors to achieve GHG results 
+without depending fully on government processes 
+to attract carbon finance investors. The 
+characteristics of centralized vs. decentralized 
+systems are described in Part I Section 2.
+·	 Defining the role that nonstate actors (private 
+entities, communities, and nongovernmental 
+entities) should play in the implementation 
+of REDD+. Closely related to the first point, 
+the government needs to decide how best to 
+integrate nonstate entities into its REDD+ 
+strategy, since ownership from a wide range of 
+stakeholders will lead to more sustainable and 
+more effective implementation. This decision 
+is influenced by the standing and local rights 
+that such nonstate actors possess, but also 
+the extent to which the government wishes to 
+rely on public policy alone to achieve REDD+ mitigation either directly (by addressing the 
+drivers of deforestation) or indirectly (by 
+providing incentives to local actors, including 
+private investors, to address these drivers); or 
+whether it wants to enable the local actors or 
+REDD+ projects to receive incentives related 
+to performance. If the latter is the case, the 
+next consideration is whether local actors 
+should be entitled to access carbon directly, or 
+whether incentives should be provided through 
+government-implemented programs.
+·	 Determining the types and channels of climate 
+and carbon finance to access. A government 
+may decide that it wishes to encourage voluntary 
+carbon market crediting at the project level, but 
+also make efforts to access nonmarket payments 
+at the jurisdictional level, for example from GCF. 
+It may also decide to allow crediting at various 
+levels—project, subnational, and national—or 
+it may limit crediting to only certain levels. Or 
+it may decide that certain REDD+ activities, 
+such as reforestation, are more appropriate 
+for implementation at the project level, while 
+reducing deforestation is tackled more effectively 
+at a jurisdictional level. The decisions about 
+which type of crediting, and at what levels, are 
+fundamental decisions to be made in designing a 
+nested system. 
+Before conceptualizing the design of the system, the 
+government should contemplate a series of policy 
+considerations. Several suggested questions are 
+provided in T able 1  below. In many cases, the answers 
+will depend on national circumstances. In the Decision 
+Support T ool (DST) , users are asked to provide the 
+responses that best, or most closely, characterize 
+the situation in their country, recognizing that 
+most contexts are complex, and multiple responses 
+may often apply; or that quite nuanced answers 
+may be appropriate. (See Appendix B for a detailed 
+description of the Decision Support T ool.) 
+
+
+--- PÁGINA 23 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers14
+Key Question Explanation
+As a government, which 
+actor/s do you want to 
+incentivize through results-
+based climate, or carbon 
+finance?  REDD+ results-based payments and/or carbon crediting can provide incentives for various 
+entities to change their behavior. Thus it is useful to consider whose behavior needs to be 
+changed. For example, in order to reduce deforestation, is it primarily government policy that is 
+needed? Or is it perhaps private action and investment in implementing existing policies? What 
+type of finance will be most effectively deployed, or will provide the appropriate incentives to 
+the right actors? For example, there may be a critical need to halt forest loss through land 
+tenure reform, which requires government policies supported by ODA, or nonmarket results-
+based finance.  Alternatively, the priority may be to provide incentives to local communities or 
+landowners to shift away from activities that cause deforestation—and carbon finance may 
+be seen as an opportunity to provide such incentives. In some cases, both activities may be 
+needed; this would be one reason to consider a nested system.
+What climate or carbon 
+finance opportunities are 
+most relevant for your 
+country?  Countries may consider the types of carbon finance they wish to access—from nonmarket 
+REDD+ results-based finance, to market-based finance, or financing from domestic, 
+international, or voluntary markets. (See Section 3.2  for a discussion of various sources.) 
+Furthermore, a country may consider the scales that are the “best fit”  for accessing different 
+types of finance. For example, a country may intend to access GCF REDD+ results-based 
+finance at the national scale, while enabling local actors to engage in voluntary markets. In 
+considering the various sources of financing, which are often unpredictable, countries should 
+gauge the risks of depending on external sources, and understand the  requirements for 
+accessing each of them.
+What is the best role for the 
+government to play with 
+regard to REDD+? As an ER 
+program manager, or as a 
+regulator?  Government engagement in markets at the national scale entails the management of a 
+country-wide ER program as well as responsibility for implementing activities, and ultimately 
+for performance as well. In such a case, a country would have full control over ERs, including 
+the monetization and disbursement of funds. At the other end of the spectrum, a country may 
+simply allow projects to proliferate, unattended by the government. A middle road may be for a 
+government to regulate projects – for example, attempt to drive projects to priority areas, align 
+MRV systems, or ensure that safeguards are applied – but empower the projects to generate 
+the credits and access carbon finance directly. 
+What characterizes your 
+country’s rules regarding land 
+and forest ownership?A country’s system of land tenure and ownership and forest governance will influence the 
+type of crediting that may occur within the country. For example, a country that has private 
+ownership of land and strong property rights might have some added difficulties with 
+subnational/national models compared to countries where the forests are nearly all state-
+owned and managed.
+What is your view of 
+voluntary carbon projects?  In many cases, nesting is the result of existing and/or emerging voluntary forest carbon 
+projects. In some instances, countries may wish to encourage projects, while in others they may 
+not be allowed. And some countries may wish to encourage projects, but also want to regulate 
+them—for example, to ensure that safeguard measures are applied, or to align them with 
+jurisdictional programs.T able 1. Key Policy Considerations When Designing a Nested System
+A country’s response to the above questions can help 
+them choose the REDD+ implementation model that is 
+most suitable for its needs. The next section discusses 
+nesting in the context of REDD+ implementation 
+models. It’s important to note that decisions about nesting 
+are often limited by local circumstances and existing 
+frameworks . For instance, limitations on the existing 
+jurisdictional MRV system might limit the available 
+options for nesting.  
+
+--- PÁGINA 24 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers15
+There are four simplified approaches, or models, that 
+a government may adopt for REDD+ implementation . 
+Based on our working definition of nesting, only the 
+two middle models – centralized and decentralized 
+– (shown in the blue box of Figure 4 ) are considered 
+nested systems.  Countries can choose just one of the 
+four models, or they can use a mixture of them (see 
+Section 2.6). Or they may start with one model and 
+evolve over time to a different model. The word “jurisdiction” can refer to either subnational 
+or national jurisdictions throughout this manual 
+(and vice-versa).  “Nesting” can refer to integrating 
+a subnational jurisdiction into a national framework 
+as well as integrating a project into a subnational 
+or national framework. A summary of the simplified 
+models of REDD+ implementation with nested systems 
+is highlighted in Figure 4 , followed by more detailed 
+descriptions in the subsections that follow.2. NESTING IN THE CONTEXT OF REDD+ IMPLEMENTATION MODELS
+Figure 4 Summary of Four Simplified Models 
+Centralized-nested 
+Key features:
+•  ERs credited up to national scale performance (only)
+•  Projects encouraged and receive rewards based on GHG   
+ performance (linked to national performance)
+•  Government control over ERs and distribution of carbon   
+ beneﬁts via an agreed ‘allocation method’
+Project crediting (only), no jurisdictional ER program
+Key features:
+• ERs credited at project scale (only)
+• Projects are incentivized, may be regulated
+• No RBF or sale of carbon credits by the government
+• Government role is regulator, not ER program managerDecentralized-nested
+Key features:
+• ERs credited at national and project scale
+• Projects authorized to generate and market ERs 
+ (delinked from national performance) 
+•  Government generates ERs through public programs 
+ and on public landsProjects receive
+rewards based on
+ER allocation approachCrediting at national level
+Crediting at project scaleNested systemsJurisdictional ER program (only) with beneﬁt sharing
+Key features:
+• ERs credited at national scale (only)
+• No forest carbon project crediting
+• Government operates ER program and distributes beneﬁts Crediting at national level
+Crediting at national level
+Crediting at project scale
+
+--- PÁGINA 25 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers16
+2.1 Jurisdictional ER Program (Only), With 
+Benefit Sharing
+How does this model operate?
+In this model, there is accounting for ERs only at the 
+national scale. This model relies on the government’s 
+ability to achieve ERs through government programs, 
+and to monetize the ERs generated at the 
+jurisdictional level. Local actors receive payments 
+from the government as part of the government’s 
+defined benefit-sharing arrangements ( Figure 5 ). The 
+government has full control over the accounting and 
+initial allocation of funds generated by the program, 
+but the benefits may be channeled through 
+nongovernmental means below a certain level. 
+Example:  At the time of this report, in Ecuador, all 
+ecosystems services belong to the state; therefore 
+projects are not authorized to generate carbon 
+credits.13 However, the country may receive payments 
+for REDD+ performance, as it has done from the GCF, 
+and it can transfer payments to beneficiaries through 
+national forest schemes such as the SocioBosque 
+program. This model is similar to Brazil’s Amazon 
+Fund, through which the government receives 
+payments for ERs in the Amazon region, and manages 
+a program to disburse the funds they receive to local 
+actors.
+13  Ecuador’s GCF Funding Proposal provides relevant information in Section F “Legal Arrangements”.  Available at: https:/ /www.greenclimate.fund/document/ecuador-redd-plus-rbp-results-
+period 2014 -What countries might be interested in this model?
+Incentives: The government is responsible for 
+implementing policies and measures to slow, halt, and 
+reverse deforestation, and to create the necessary 
+incentives and enabling environment to mobilize 
+private sector finance. Local actors obtain incentives 
+through defined benefit-sharing arrangements. 
+Therefore, the government is the sole direct recipient 
+of any climate or carbon finance. 
+Rights: This model is the easiest to implement in cases 
+where the public sector holds full control over forest 
+lands, resources, and management. It is also suitable 
+when the government relies on the enforcement of 
+existing laws to achieve REDD+ mitigation. 
+Finance:  The government wishes to support 
+jurisdictional programs through REDD+ results-based 
+finance (RBF); for example, finance provided by GCF 
+or other bilateral arrangements, or market-based 
+crediting at the jurisdictional scale. Carbon markets 
+are not a direct source of financing for REDD+ projects, 
+since carbon finance is received through the benefit-
+sharing arrangements of the jurisdictional program. 
+What is the key challenge of this model?
+The key challenge is the development of benefit-
+sharing arrangements that are acceptable to 
+constituents, and the implementation of policies that 
+will reduce deforestation. Where Indigenous and local 
+communities or private entities manage significant 
+parts of the forest estate, they may hold rights, 
+including customary or use rights, that allow them to 
+directly claim carbon rights. 
+Figure 5 Jurisdictional ER Program (Only),  
+with Benefit Sharing
+Projects receive
+rewards based on
+ER allocation approachCrediting at national level Crediting at national levelFigure 5 Jurisdictional ER Program (Only), with Benefit Sharing
+
+
+--- PÁGINA 26 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers17
+T able 2. Benefits/Risks of Jurisdictional ER Program (Only), with Benefit Sharing
+Benefits Risks
+Gives the government full control over 
+REDD+ credit (or payment) transactions… …but also places the full burden of achieving ERs, or creating the necessary policies to 
+mobilize non-carbon private finance (for example, environmental fiscal instruments) 
+on the government.
+A government does not need to worry 
+about “mismatches” in ER generation 
+with projects……but the system does not provide strong performance incentives to local actors 
+unless sufficient incentives are included in the benefit-sharing arrangements and 
+guaranteed by the government.
+The government has the flexibility to 
+channel REDD+ payments based on 
+national priorities……but in doing so it may not optimize GHG performance and contributions toward its 
+NDC.
+Requires potentially few REDD+ rules… …but requires robust national capacity to implement REDD+ activities and distribute 
+benefits. 
+May simplify national GHG accounting… …but may risk litigation if the system does not provide proper benefits to rights 
+holders.
+
+
+--- PÁGINA 27 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers18
+2.2 Centralized Nested Approach
+How does this model operate?  
+In this model, ERs are accounted for at the national 
+scale. However, because the government wishes to 
+encourage projects through incentives that are linked 
+to performance, it develops a system for sharing 
+the benefits it receives from monetizing ERs at the 
+national scale with projects. Approved projects may 
+receive either payments or ERs from the government 
+in accordance with its benefit-sharing arrangements 
+and ER allocation system ( Figure 6 ). The key 
+difference with the jurisdictional ER model above is 
+that projects can measure their own ER performance, 
+and can receive a share of the ERs. This model implies 
+that rewards for private action are dependent on 
+national performance, unless the government is 
+willing to make up any shortfalls by compensating 
+projects. 
+Example: The Democratic Republic of Congo (DRC)’s 
+benefit-sharing arrangements for the FCPF Carbon 
+Fund provides payments for GHG performance to 
+carbon projects, as well as the possibility for projects 
+to receive a share of the ERs that are generated by 
+the ER program, but are not purchased by the Carbon 
+Fund. A national government can also allocate ERs or 
+payments to subnational jurisdictions. For example, 
+in 2017 Brazil created a system whereby states 
+within the Amazon were provided with a share of the 
+regionally achieved ERs to monetize.14
+Figure 6 Centralized Nested Approach 
+Projects receive
+rewards based on
+ER allocation approachCrediting at national level Crediting at national level
+14  More detailed explanations of the DRC example can be found at: https:/ /openknowledge.worldbank.org/handle/ 29720 /10986What countries might be interested in this model?
+Incentives:  REDD+ requires a combination of 
+government and local action; however, the 
+government may wish to control international ER 
+transactions and link them to national performance. 
+The main goal of nesting is to incentivize projects to 
+contribute to the national performance. 
+Rights:  This model works best for state-owned 
+lands, including where a government has licensed out 
+management of parts of the forest estate. The land 
+managers that own the carbon rights receive benefits 
+in the form of funds or ERs, as a reward for measured 
+GHG ERs.
+Finance:  The government is interested in accessing 
+REDD+ RBF provided by GCF, the FCPF Carbon Fund, 
+or other bilateral arrangements, or market-based 
+crediting at the national scale; and wishes to create 
+incentives for subnational programs or projects 
+closely linked to measured GHG ERs.
+What are the key challenges of this model?
+Generating a transparent and fair allocation of 
+incentives to projects, and devising an accepted 
+means of allocating payments or ERs are the main 
+challenges of this model. Projects may not receive 
+benefits for their share in mitigation actions if the 
+overall jurisdiction falls short in achieving sufficient 
+ERs, or the government does not distribute benefits 
+fairly. This may undermine the incentives to change 
+behavior at the local level for activities that are 
+dependent on carbon finance.
+
+--- PÁGINA 28 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers19
+2.3 Decentralized Nested Approach
+How does this model operate?
+In this model, the crediting and monetizing of ERs 
+occurs at both the national and the project scale. 
+Projects can directly generate and issue tradable ERs 
+that do not depend on national performance ( Figure 
+7). Depending on the context, the government may be 
+required to subtract project credits when calculating 
+their national ER claims. The government regulates 
+project MRV and safeguards to promote alignment 
+with national approaches. 
+Example: Colombia allows the development of REDD+ 
+projects and programs that can directly generate ERs. 
+In 2018, the government adopted a regulation that 
+defined MRV rules for projects.15 The country engages 
+in RBF through the REDD Early Movers program and 
+GCF, but it also promotes private actions to protect 
+forests by recognizing ERs from REDD+ projects under 
+the national carbon tax, and future emissions trading 
+system.  
+What countries might be interested in this model?
+Incentives:  REDD+ requires a combination of 
+government and local actions; in this model, 
+projects can access carbon credits in compliance 
+with government rules, but without governmental 
+intermediation. This system is designed to drive 
+carbon finance directly to projects. 
+Rights: This model recognizes the rights of 
+community and private landowners to monetize 
+carbon rights and benefit from the ERs that result 
+from reducing deforestation on their land. 
+15  Resolution No. 1447 , August 2018  ,1. Ministry of the Environment and Sustainable Development, Colombia  Finance: The government wishes to engage private 
+sector finance, including direct investments into 
+REDD+, and also REDD+ results-based finance at the 
+national scale. .
+What is the key challenge of this model?
+The development of an MRV system for projects 
+that align with the national MRV, particularly 
+where a country foresees significant crediting at 
+the project scale (compared to national mitigation), 
+is challenging. This may require a sophisticated 
+national forest monitoring system, and institutional 
+arrangements that can regulate projects and manage 
+their reporting in a national registry or database.
+Figure 7 Decentralized Nested Approach
+Crediting at national level
+Crediting at project scaleCrediting at project scale
+REDD+
+project REDD+
+projectFigure 7 Decentralized Nested Approach Benefits Risks
+Government can benefit from ERs 
+generated at the project level… …but remains liable for generating and allocating REDD+ benefits.
+Local action may be incentivized through 
+the ER allocation system……but if projects do not receive rewards unless there is national performance, it is 
+likely to stifle carbon-related investment. 
+Protects government from “overselling” 
+ERs beyond national performance……but may be placing national underperformance risks on private projects.
+The government claims control over 
+carbon rights……but may risk litigation if the system does not provide proper benefits to rights 
+holders (project developers, project beneficiaries).T able 3. Benefits/Risks of the Centralized Nested Approach
+
+--- PÁGINA 29 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers20
+2.4 Project Crediting (Only), No Jurisdictional 
+ER Program 
+How does this model operate?
+In this model, crediting only occurs at the project 
+scale ( Figure 8 ), and the government does not intend 
+to monetize ERs at the national scale. This approach 
+applies to countries that do not depend on national 
+carbon payments to finance government programs. 
+For example, the government may still be 
+implementing REDD+ and may want to regulate 
+projects in order to promote equity in how carbon 
+benefits are enjoyed; to increase the environmental 
+integrity of projects; or to ensure that safeguards are 
+being applied. This model would allow them to 
+regulate projects in order to achieve such goals and/or 
+to align the MRV of projects with national GHG 
+accounting, which may be a factor if future Article 6 
+transactions are envisioned.
+Example:  This model may be relevant for countries 
+that consider REDD+ projects to be a good mechanism 
+for addressing the drivers of deforestation, since they 
+are in line with government policies and frameworks. 
+In this case, the government may wish to align ER 
+claims with their national forest monitoring, but not 
+intend to access results-based payments, or issue 
+jurisdictional forest carbon credits. 
+What countries might be interested in this model?
+Incentives:  Climate and carbon finance are focused 
+on encouraging local and private action. In this model, 
+the government is not dependent on accessing RBF or 
+carbon finance to support their policies. 
+Rights: This model is most appropriate for countries 
+with private and community forest landholdings with 
+strong property rights. Finance: The country implements national forest and 
+REDD+ policies without receiving RBF payments. It 
+is primarily interested in advancing private sector 
+carbon finance; it does not seek to monetize GHG 
+performance at the national scale. 
+What are the key challenges for this model?
+In this model, the government needs to either 
+self-finance, or find other sources of financing for 
+implementing its forest policies outside of the project 
+areas. If the country is only engaging voluntary 
+market projects, and not expecting to monetize 
+national performance, the urgency to align the MRV 
+systems of all projects is diminished; the government 
+may consider applying requirements to ensure the 
+environmental integrity of ERs generated within its 
+national jurisdiction. 
+Figure 8. Project Crediting (Only)Figure 8. Project Crediting (Only)Benefits Risks
+Engages private finance, including the 
+potential to generate upfront finance to 
+protect forests… …but requires significant technical capacity to develop MRV and carbon accounting 
+rules; the political will to adopt them; and strong institutional capacities for 
+processing project requests, including assessing the data and the information 
+submitted by projects.
+Mobilizes local action to contribute to 
+forest and climate change goals……but the government may face a “national underperformance” risk if project GHG 
+performance exceeds national GHG performance.
+Allows for the recognition of REDD+ and 
+the natural resource rights of forest 
+communities and Indigenous peoples….…but risks unscrupulous project developers taking advantage of communities 
+unless the government adopts minimum requirements on benefit sharing, and 
+enforces safeguards. ( Note: This is the case in any scenario that involves projects).
+Aligns the GHG accounting of REDD+ 
+projects with the national system…but requires technical capacity to manage MRV alignment at different scales, and 
+a national registry or database to regulate and track project accounting.T able 4. Benefits/Risks of the Decentralized Nested Approach
+Crediting at national level
+Crediting at project scaleCrediting at project scale
+REDD+
+project REDD+
+project
+
+--- PÁGINA 30 ---
+
+Nesting of REDD+ Initiatives: Manual for Policymakers21
+2.5 Key Differences Between the Models
+This section highlights several of the key differences 
+between the models presented above. One key 
+difference between the two nested models is whether 
+a country wishes to develop a system that limits and allocates ERs based on national performance 
+(the centralized model), or whether it wishes to 
+give projects more autonomy in generating ERs 
+(the decentralized model). Figure 9 illustrates this 
+difference.Benefits Risks
+Engages private finance in protecting 
+forests, and offers the potential to 
+generate upfront interest in private 
+sector finance in carbon offsets as a 
+return on their investment… …but may require financial, technical, and institutional capacity, depending on the 
+level of the desired regulation of projects.
+Is simple, with very low risk for litigation 
+or conflicts with respect to carbon rights……but may result in GHG performance being limited to project areas, if the 
+government fails to implement national forest and REDD+ policies.
+May lead to a higher volume of ERs 
+achieved per unit of area……but may result in impacts on environmental integrity due to overestimation of 
+ERs, unless rules are established in support of robust MRV.
+Allows for private sector partnerships 
+with  forest communities and Indigenous 
+peoples….…but risks project developers taking advantage of communities unless the 
+government adopts minimum requirements on benefit sharing, and enforces 
+safeguards. T able 5. Benefits/Risks of the Project Crediting (Only), No Jurisdictional  ER Program
+Centralized-nested Decentralized-nested
+Set national FREL Set national FREL
+Allocate FREL to projects
+(or subnational units)
+Calculate results (ERs)
+ER or $ ER or $ ER or $Allocate ERs or ﬁnance from sale of
+ERs to projects (or subnational units)
+ERs ERs ERsX% FREL Z% FREL Y% FRELFigure 9  The Key Difference between the Centralized and Decentralized Nested Models 
+While this difference may appear to be a simple one, it 
+has significant implications. For example:
+·	 Responsibility for generating ERs . Both 
+approaches require actions by both state and 
+nonstate stakeholders in order to address 
+deforestation and generate ERs. Both require 
+the implementation of policies and measures to 
+address the drivers and legal frameworks that 
+support catalyzation of on-the-ground activities. 
+However, in the decentralized  nested model there is a clearer link between successful implementation 
+of on-the-ground activities and the achievement of 
+results.  This creates a clearer risk-reward incentive 
+for projects, since they are driven by the potential 
+for future carbon revenues. 
+·	 Access to finance . In the centralized system, 
+the government controls and allocates all RBF 
+or carbon finance. This enables it to ensure that 
+sufficient funds are available for the support of 
+governance reform and government policies, for 

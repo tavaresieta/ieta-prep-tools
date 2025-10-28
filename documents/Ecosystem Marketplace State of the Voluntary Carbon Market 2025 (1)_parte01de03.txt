@@ -1,0 +1,744 @@
+DOCUMENTO: Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)
+PARTE 1 de 3
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+State of the Voluntary Carbon Market               2025
+Meeting the Moment  
+Renewing Trust in Carbon Finance
+
+--- PÁGINA 2 ---
+
+Meeting the Moment  
+Renewing Trust in Carbon FinanceState of the Voluntary Carbon Market               State of the Voluntary Carbon Market               20252025
+Author:
+Alex ProctonEditors:
+Charlotte Barber, Genevieve Bennett,
+Aubrey PetersonResearchers:
+Ciro Calderón,
+Jinsui Song
+
+
+--- PÁGINA 3 ---
+
+About Ecosystem Marketplace
+Ecosystem Marketplace (EM), a non-profit initiative of Forest Trends, is a leading global source of credible 
+information on environmental finance, markets, and payments for ecosystem services. For nearly two 
+decades, EM has run the world’s first and only globally recognized and standardized reporting and 
+transparency platform for voluntary carbon market (VCM) credit pricing data, news, and insights.  
+EM’s flagship State of the Voluntary Carbon Market reports and other analyses on carbon credit 
+market dynamics (e.g., prices, volumes, projects, corporate buyers, sellers, etc.) and carbon standard 
+issuance and retirement data have become anticipated industry staples. EM also provides a publicly 
+accessible data intelligence dashboard  and a news platform  for market coverage.
+EM data on prices, regulation, science, and other relevant issues on environmental services markets 
+and climate finance have been used extensively by a range of market actors, from companies, 
+journalists, and investors, to practitioners, natural resource agencies, academics, and local and 
+indigenous communities
+.
+About Forest Trends
+Forest Trends Association is a 501(c)(3) organization founded in 1999. Forest Trends works to 
+conserve forests and other ecosystems through the creation and wide adoption of a broad range 
+of environmental finance, markets, and other payment and incentive mechanisms. Forest Trends 
+does so by 1) providing transparent information on ecosystem values, finance, and markets through 
+knowledge acquisition, analysis, and dissemination; 2) convening diverse coalitions, partners, and 
+communities of practice to promote environmental values and advance development of new 
+markets and payment mechanisms; and 3) demonstrating successful tools, standards, and models of 
+innovative finance for conservation.
+Copyright and Disclaimer
+© 2025 Ecosystem Marketplace, an initiative of Forest Trends Association. All rights reserved. 
+Ecosystem Marketplace is an initiative of Forest Trends, located at 1203 19th Street NW, 4th Floor, 
+Washington, DC 20036 | info@ecosystemmarketplace.com | www.ecosystemmarketplace.com  | 
+www.forest-trends.org  
+Data on the voluntary carbon market transactions in this document were derived from information 
+supplied by participants in a market survey. Forest Trends’ Ecosystem Marketplace does not 
+represent or warrant the accuracy, suitability, or content of the survey responses or the results of Strategic SupportersVisionary Partners
+
+
+--- PÁGINA 4 ---
+
+that survey as set out herein. It is the sole responsibility and obligation of the reader of this report 
+to satisfy themselves as to the accuracy, suitability, and content of the information contained 
+therein. Forest Trends’ Ecosystem Marketplace (including its respective affiliates, officers, directors, 
+partners, and employees) makes no warranties and shall have no liability to the reader for any 
+inaccuracy, representation, or misrepresentation set out herein. The reader further agrees to hold 
+Forest Trends’ Ecosystem Marketplace harmless from and against any claims, loss, or damage in 
+connection with or arising out of any commercial decisions made on the basis of the information 
+contained herein. The reader of this report is strongly advised not to use the content of this report 
+in isolation, but to take the information contained herein together with other market information 
+and to formulate their own views, interpretations, and opinions thereon. The reader is strongly 
+advised to seek appropriate legal and professional advice before entering into commercial 
+transactions.
+Unless otherwise permitted by Forest Trends or under applicable law, you may not use these 
+data for any commercial purpose. If you have any questions, please contact EM at data@
+ecosystemmarketplace.com . 
+Attribution
+Please cite this work as follows: Forest Trends’ Ecosystem Marketplace. 2025. State of the Voluntary 
+Carbon Market 2025. Washington DC: Forest Trends Association.   
+Acknowledgements
+EM thanks its core partners, supporters, and collaborators: ACR/ART at Winrock International, 
+Ceres, GreenCollar, High Tide Foundation, Livelihoods Fund, Skoll Foundation, and The World 
+Bank. A special thank you to Forest Trends/Ecosystem Marketplace team members Ciro Calderón, 
+Kate Brandaw Ellis, Jinsui Song, Aubrey Peterson, and Verena Manolis, as well as Michael Jenkins 
+for his leadership. These data on voluntary carbon market dynamics come from EM’s database of 
+voluntarily disclosed over-the-counter (OTC) carbon credit transactions, which are shared with EM 
+by an international network of more than 200 “EM Respondents,” including project developers, 
+investors, and intermediaries with headquarters in over 40 countries and representing carbon 
+credit sales from thousands of nature-based and technological carbon projects in over 100 
+countries.
+Data on project registrations, credit issuances, and retirements come from the following project 
+registries: ACR, ART, BioCarbon, CAR, Cercarbono (EcoRegistry), CDM, Global Carbon Council, Gold 
+Standard, Plan Vivo, and VCS.
+Writing this report would not be possible without the insight of our external reviewers. We 
+extend our thanks to: Marissa Lazaroff and David Moore (Anew Climate); María Alejandra 
+Cantuarias (Bosques Amazónicos); Elsy Alvarado (Cool Effect); Bryn Davies and Adam Schoenberg 
+(Conservation International); Ricardo Bayon (Encourage Capital/EM Strategic Advisor); Juliana 
+Damasceno (EQAO); Bob O’Sullivan (GreenCollar); Matt Jordan, Alexia Kelly, and Dee Lawrence 
+(High Tide Foundation); Yuejia Peng (hub101.earth/EM Strategic Advisor); Tara Burke and Anton 
+Tsvetov (ICVCM);  Kate Hamilton (Kate Hamilton LLC/EM Strategic Advisor); Dan Kwiatkowski 
+(Level/Carbon Tanzania); David Tepper (The Earth Partners/EM Strategic Advisor); Kelley Hamrick 
+(The Nature Conservancy); Nick Corbett, Raffaella Infanti, and Sohyeon Park (VCMI); and Valeria 
+Enciso and Katie Goslee (Verra). The views presented here do not necessarily reflect those of the 
+reviewers.
+Branding, layout, data visualization, and graphic design by Eszter Bodnar, Visilio ( www.visilio.com ). 
+
+--- PÁGINA 5 ---
+
+Introduction 1
+Key Findings 3
+Market Overview 5
+Total Volume, Value, and Price  5
+Registry Data – Project Registrations, Issuances, and Retirements 9
+Volume, Value, and Price by Project Attributes 13
+Project Category and Type 13
+Details of Project Categories 15
+Project Standard 18
+Project Location 18
+Buyer Preferences and Proxies for Quality 22
+Reductions, Removals, Nature-based, and Engineered Credits 22
+Co-benefit Certifications 23
+Credit Vintage 24
+CORSIA and Compliance Markets 25
+ICVCM Core Carbon Principles 25
+Independent Credit Ratings Agencies 27
+EM Respondent Sentiments on the VCM in 2024 30
+Conclusion 33
+Appendices 34
+Data and Methodology 34
+EM Respondents, 2023-2024 34
+Glossary of Terms 36
+Supplementary Tables 39Table of Contents
+
+--- PÁGINA 6 ---
+
+State of the Voluntary Carbon Market 2025    1
+Over the 20-year history of Forest Trends’ 
+Ecosystem Marketplace (EM), we have seen 
+carbon markets grow from a nascent idea into 
+a mechanism with the potential to seriously 
+mitigate global warming. State of the Voluntary 
+Carbon Market reports have highlighted market 
+trends and key developments in this actively 
+evolving space, which has grown to meet 
+a steady demand to offset greenhouse gas 
+emissions (approximately 180-200 million tons 
+of credits retired annually since 2021). Today, we 
+continue to follow refinements in quality and 
+integrity as the voluntary carbon market (VCM) 
+works to transition to a new phase which reflects 
+a greater focus on nature-based solutions, 
+carbon removals, and interoperability with 
+international compliance carbon markets. 
+While it will be tempting to readers to interpret 
+the headline figures in this year’s State of the 
+Voluntary Carbon Market as a sign of weak 
+demand for carbon credits, there is actually 
+a very different explanation. This comes from 
+EM’s longitudinal experience and the “ear to the 
+ground,” thanks to the global network of market 
+actors who share their data and insights with us. 
+What we are seeing is an ongoing reboot of 
+the supply side of the VCM, in response to the 
+growing sophistication of the demand side of 
+the market. The legacy market of credits from 
+older methodologies is winding down, while the 
+next phase of the VCM, with a stronger emphasis 
+on integrity, ramps up to scale. It is going to 
+take time for the supply of credits to become 
+available from new projects. In the meantime, 
+steady demand from the end users of credits is 
+pushing up the price of credits from the existing 
+project types that are considered to be high 
+quality. This could be a bumpy ride. The VCM is 
+in the middle of a transition, and transitions take 
+time and are often messy.
+It is also important to note that while VCM 
+transaction volumes have seen volatility of late, 
+both across the complete market and within 
+individual categories and project types, the 
+pace of credit retirements has been much more stable over the past four years. This suggests that 
+demand from end users retiring credits remains 
+consistent. 
+It is not easy to separate these kinds of signals 
+from the noise. The opacity of the VCM is one 
+of its biggest weaknesses. Our position has 
+long been that for the VCM to transition to a 
+state of confidence and integrity, it must have 
+transparency. Market actors and observers alike 
+need access to reliable information to make 
+informed decisions and accurately interpret why 
+certain credits fetch certain prices and what that 
+signals to the market. 
+As a community of practice working toward 
+a common goal of driving investment in 
+decarbonization and climate resiliency, VCM 
+participants are laying the groundwork for 
+businesses, institutions, and individuals to 
+participate in multiple climate action pathways 
+that fit their needs and values. These financial 
+instruments are critical to bridging the major 
+climate finance gaps that are so desperately 
+needed. The shifts we’re seeing in the market 
+reflect the increasing sophistication and growing 
+technical expertise of market actors and 
+observers alike, especially compared to five years 
+ago, ten years ago, and the very early days of the 
+VCM. 
+After intense and sustained scrutiny of the VCM 
+following a rapid increase in credit transaction 
+and retirement volume in 2021 and 2022, we’ve 
+seen market actors focus on rebuilding trust by 
+creating guardrails to ensure market “integrity.” 
+This process has led to a flight to quality, with 
+market actors learning by doing as they try to 
+build consensus on and operationalize ever-more 
+robust definitions of quality and integrity on 
+both the supply and demand sides. In 2024, the 
+ongoing decline in market value and transaction 
+volume slowed, with demand growing for credits 
+with multiple dimensions of integrity and quality. 
+This served to bolster transaction volume for 
+project types like Improved Forest Management 
+and Landfill Gas Destruction, while other credit 
+types that were constrained by supply saw Introduction
+
+--- PÁGINA 7 ---
+
+2                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+average prices increase, including Afforestation/
+Reforestation-Revegetation and Agriculture 
+credits.
+The data and insights in this report are the 
+product of deep collaboration and mutual trust 
+across the broadest network of market actors 
+on the ground and stakeholders across the VCM 
+value chain. Our team and network of advisors 
+provide diligent analysis of market trends, 
+informed by our collective and hard-earned 
+wisdom over the last 20 years. By the time you 
+read this, the report will be in the hands of our 
+global audience of over 40,000 individuals who 
+have come to rely on our work as a critical source 
+of knowledge to understand the present state 
+of the market, where it’s going, and how those 
+dynamics continue to play out in terms of the 
+larger climate impact of the VCM.We are deeply proud of these relationships and 
+the credibility we’ve built over two decades. 
+We know that our Respondents trust EM with 
+their sensitive, confidential data because they 
+also believe market transparency matters. 
+We remain committed to delivering market 
+analysis that bridges the knowledge gap 
+and helps our readers understand opaque 
+elements and segments of the market, but as a 
+non-profit count on you to support this critical 
+work.
+It is our hope that the 2025 State of the 
+Voluntary Carbon Market report will provide 
+an indication of the most important issues 
+facing the VCM in 2024 and beyond, as well as 
+a glimpse of what can come next as the VCM 
+continues to evolve to meet higher standards of 
+quality and integrity.
+Charlotte Barber, Associate Director, Ecosystem Marketplace
+Alex Procton, Senior Manager, Data Solutions and Insights, Ecosystem Marketplace
+
+--- PÁGINA 8 ---
+
+State of the Voluntary Carbon Market 2025    3
+Key Findings
+1. Total market transaction volume declined 
+by 25 percent and average price declined by 
+5.5 percent in 2024.
+ ●The total reported transaction value of the 
+Voluntary Carbon Market (VCM) was $535M 
+USD, a decrease of 29 percent from 2023.
+ ●The ongoing decline in the VCM that began 
+in 2022 is gradually slowing. 2024 posted 
+the lowest transaction volume since 2018, 
+but market value is 1.9x higher than 2018.
+2. While transaction volume, which is a proxy 
+for VCM liquidity, continued to decline in 
+2024, the volume of credits retired from the 
+ten largest standards has plateaued at an 
+elevated level since 2021, with 182 million 
+tons of credits retired in 2024.
+ ●Retirements of Forestry and Land Use 
+credits remain steady at 68 million tons per 
+year. Given concurrent declining retirements 
+of Renewable Energy, Forestry and Land use 
+became the most frequently retired credit 
+type in 2024.
+ ●Credits from Household/Community 
+Devices projects made up an increased 
+share of retired offsets, reflecting sustained 
+growth in project registrations and 
+issuances in the category.
+3. There is a growing premium on credits 
+from projects that remove carbon dioxide 
+from the atmosphere and sequester it in 
+natural or engineered carbon pools. On 
+average, removal credits are 381 percent more 
+expensive than reduction credits in 2024—up 
+from 245 percent in 2023.
+ ●Market share of removal credits has 
+continued to grow slowly. Five percent 
+of credits traded in 2024 originated from 
+removal project types.
+ ●The price premium for removals substantially 
+benefits nature-based credits from 
+Afforestation-Reforestation/Revegetation (ARR), mangrove restoration, and agroforestry 
+projects, which are the largest category of 
+removal credits available today.
+4. The Integrity Council for the Voluntary 
+Carbon Market’s (ICVCM) Core Carbon 
+Principles (CCPs) approval took center stage 
+as an indicator of high quality.  Since only 
+a relatively small share of project types was 
+effectively approved during 2024 though, the 
+effect on demand was isolated and overall 
+market impact was relatively minimal.
+ ●Demand for Landfill Gas and Ozone 
+Depleting Substances credits grew. 
+ ●CCP-approved Reduced Emissions 
+from Deforestation and Degradation in 
+Developing Countries (REDD+) and ARR 
+credits are not available on the market yet. 
+5. Different categories of credits had different 
+trajectories. Some categories gained market 
+share while others saw volume or prices slip. 
+ ●Forestry and Land Use transaction volume 
+remained stable , with average price 
+declining in line with the broader market. 
+ ○REDD+ continues to decline in market 
+share (transaction volume fell 52 percent) 
+while Improved Forest Management 
+(IFM) saw explosive growth (transaction 
+volumes grew over 3x). 
+ ○ARR, Agroforestry, and Blue Carbon 
+projects, which generate removal credits, 
+saw average price increase by 20 percent. 
+ ●Waste Disposal volume grew over 3x, 
+driven by demand for CCP-approved 
+Landfill Gas credits. 
+ ○Biochar Production, which generates 
+removal credits and is one of the smallest 
+clusters in terms of transaction volume, 
+had an average price of over $160 /metric 
+ton of carbon dioxide equivalent (tCO2e), 
+over 25x the total market average price.
+
+--- PÁGINA 9 ---
+
+4                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+ ●Credits from Renewable Energy projects 
+continued to lose market share , with 
+transaction volume decreasing 23 percent 
+in 2024. 
+ ○Credits from biogas projects, which 
+include Landfill Gas to Energy projects 
+that may be eligible for CCP approval, 
+are becoming more expensive while all 
+other Renewable Energy clusters are 
+seeing prices steadily decline. 6. Buyer preference for credits from recent 
+vintages reached unprecedented levels.  
+There was a 217 percent premium for 
+credits with vintage from the last five years, 
+compared to a 53 percent premium in 2023. 
+7. Carbon market participants anticipate a 
+positive impact on demand and supply 
+in the VCM from Article 6 of the Paris 
+Agreement , but market participants don’t 
+view local jurisdictions as ready to engage 
+with and implement Article 6 mechanisms. 
+
+--- PÁGINA 10 ---
+
+State of the Voluntary Carbon Market 2025    5
+Total Volume, Value, and Price 
+ ●2024 marked the third year in a row of 
+declining VCM transaction volume and 
+market value, as the market continues to 
+face dramatic fluctuations in fundamental 
+supply and demand from credit standards 
+and end users retiring credits.
+ ●Total market value fell by 29 percent to 
+$535M, a similar total value as in 2020, but 
+this value was achieved with 84 MtCO2e of 
+credits sold—just 40 percent of the 2020 
+transaction volume.
+ ●The volume of credit retirements has 
+remained steady even as issuance and 
+transaction volume are in decline, indicating 
+sustained fundamental demand for carbon 
+credits even as market liquidity is strained.
+ ●As a result, credit prices have remained 
+structurally higher over the past three 
+years. The average transaction price of 
+$6.37 in 2024 was more than double the 
+2020 average price. 
+The past five years of market activity in the VCM 
+have been marked by extreme swings in supply 
+and demand: annual sales of carbon credits 
+spiked in 2021 and have declined ever since, 
+while retirement volumes remain elevated from 
+2021 onwards. For the third consecutive year, 
+transaction volume and market value in the 
+VCM declined in 2024, with EM Respondents submitting transaction data totaling 84 million 
+metric tons CO2e (MtCO2e), representing a 25 
+percent fall in traded volume from the previous 
+year (Table 1). 
+For the second year in a row, Respondents 
+reported transacting fewer credits than were 
+retired from the top ten carbon credit standards, 
+suggesting declining inventories of the most 
+sought-after credits in the face of sustained 
+demand and bottlenecks in supply of new credits.
+This was also the second year in a row of 
+declining prices after a peak in 2022 of $7.37/
+tCO2e. However, the rate of market contraction 
+slowed in 2024 as credit prices held firm above 
+$6/tCO2e, more than double the average credit 
+price in 2020 (Figure 1). Average credit prices fell 
+slightly from $6.71/tCO2e to $6.34/tCO2e, down 
+six percent year-over-year. As a result of drops 
+in both transaction volume and price, the total 
+market value of the VCM fell by 29 percent, with 
+a total value of $535M reported to EM in 2024 
+(Figure 2). This is a similar total value as was 
+reported in 2020—however, given higher average 
+prices in 2024, the volume of credit transactions 
+required to generate that value was only 40 
+percent of the total volume in 2020 (Figure 3).
+EM’s estimates of transaction volume and market 
+value are lower bounds for the VCM based on 
+transaction data from actual credit sales, received 
+from 82 EM Respondents with transactions in 
+2024, compared to 97 Respondents that reported 
+transaction data in 2023. To understand the effect 
+of the declining numbers of Respondents, we 
+compared the transaction volume and average Market Overview
+Table 1. Annual Total Voluntary Carbon Market Transaction Volume, Value, and Price per tCO2e for All Credits, 
+2023-2024
+2023 2024 Percent Change
+Volume
+(MtCO2e)Value 
+(USD)PriceVolume
+(MtCO2e)Value 
+(USD)Price Volume Value Price
+112.4 $754.5M $6.71 84.4 $535.1M $6.34 -25% -29% -6%Section Insights
+
+--- PÁGINA 11 ---
+
+6                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Figure 1. Overview of Voluntary Carbon Market Issuances, Transactions, Retirements, and Average Price,  
+2020-2024
+Price (USD/tCO2e)
+$0.00$1.00$2.00$3.00$4.00$5.00$6.00$7.00$8.00
+0100200300400500600
+2020 2021 2022 2023 2024Annual Volume (MtCO/uni2082e)
+Average Price Issuances Transactions Retirements
+Note: This figure includes data on credit issuances and retirements from American Carbon Registry (ACR), Archictecture for 
+REDD+ Transactions (ART), BioCarbon, Climate Action Reserve (CAR), Clean Development Mechanism (CDM), Cercarbono, 
+Global Carbon Council, Gold Standard, Plan Vivo, and Verified Carbon Standards (VCS) registries. Transaction volume and  
+average price data are sourced from actual transaction data provided by EM’s Respondents.
+Figure 2. Voluntary Carbon Market Size by Value of Traded Carbon Credits, pre-2005 to 2024
+Cumulative Value (billions USD)
+024681012
+05001000150020002500
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Annual Value (millions USD)
+$301M
+$48M $111M$359M$790M
+$485M$444M$602M
+$530M
+$339M$298M $278M$199M$136M$285M$320M$534M$1.9B
+$755M
+$535M$2.1B
+Pre-
+2005
+Cumulative Value Value per Year$11.3B
+
+--- PÁGINA 12 ---
+
+State of the Voluntary Carbon Market 2025    7
+price for 61 Respondents who submitted data 
+for both 2023 and 2024. Interestingly, this group 
+saw a greater decline in reported transaction 
+volume and average credit price in 2024 than 
+the full sample of Respondents, whose volume 
+declined by 31 percent and average price declined 
+by 20 percent. New Respondents, on the other 
+hand, saw an average transaction price that was 
+58 percent greater than the market average. 
+While some new EM Respondents represent 
+novel sources of supply from more expensive 
+project types, like European nature-based 
+projects, others are established VCM actors with 
+a broader scope. Both types of new Respondents 
+providing transaction data in 2024 added to the 
+completeness of EM’s network of carbon market 
+actors and improved the quality of the analysis in 
+this report. Market sentiments from Respondents 
+completing our qualitative survey confirm the 
+diversity of outcomes for market participants in 
+2024 (see EM Respondent Sentiments on the 
+VCM in 2024, p. 29)Further disaggregating transaction data by 
+project category, region of origin, credit vintage, 
+and other qualities of carbon credits supports 
+the conclusion that the VCM is continuing a 
+period of steady, comprehensive transformation 
+after the un precedented acceleration in market 
+activity beginning in 2020. The continuing 
+contraction is a transition from the exceptional 
+period from 2020 to 2021, when the average 
+annual market value was $2B per year (Figure 3). 
+Over the last two years, as the VCM was subject 
+to intense internal and external scrutiny, market 
+actors have worked to develop the new project 
+types, credit stan dards, governing boards, and 
+independent quality evaluators that the VCM will 
+need to sustain and scale for the next decades 
+of climate action. The quantitative data in this 
+report, as well as qualitative data gathered 
+from our network of Respon dents, indicate a 
+complex trajectory for the VCM, but one which 
+gives market actors some cause for moderate 
+optimism looking at 2025 and beyond.Figure 3. Voluntary Carbon Market Size by Volume of Traded Carbon Credits, pre-2005 to 2024
+Cumulative Volume (MtCO/uni2082e)
+05001,0001,5002,0002,5003,000
+0100200300400500600
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Annual Volume (MtCO/uni2082e)
+75M
+13M32M70M135M
+107M131M
+100M 103M
+68M 77M84M65M
+47M99M 105M208M254M
+112M
+84M516M
+Pre-
+2005
+Cumulative Volume Volume per Year2.5B
+
+--- PÁGINA 13 ---
+
+8                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+In the VCM and compliance carbon markets, one term that is used repeatedly in different contexts is 
+“registry.” Depending on the situation, a registry can be a tool used by credit issuers or a database of 
+credits that tracks what can be sold and retired for specific needs, e.g., compliance demand.
+Key Terms
+Standards: The organizations that define the project activities that can produce carbon credits 
+and publish methodologies outlining the calculation of credits generated by a project, as well as 
+approving and tracking project registration and credit issuance and retirement.
+Registries: Can refer either to databases of registered projects and issued and retired credits 
+maintained by standards, or to aggregations of credits meeting certain criteria, such as eligibility for 
+use in a compliance carbon market.
+Registration: Projects must pass through a series of design validation and auditing steps, including 
+potential public comment periods, before they are approved by standards and given registered 
+status.
+Issuance: Following a project’s registration, once it begins to generate emissions reductions or 
+removals, a third-party auditor will verify that the methodology applied in the project design is 
+being followed and confirm that the climate impact of the project is in line with expectations, 
+allowing the standard to issue credits to the project developer.
+Retirement: A credit may be passed through many hands from the project’s developer, or it may 
+be sold directly to its end user, who will “retire” the credit by requesting the standard to add the 
+specific credit to its registry of retired credits.
+Registries by Issuers – Publishing Credit Supply
+Probably the most common use of “registry” in a carbon market context is to refer to the 
+organizations that issue carbon credits and must maintain publicly available databases of carbon 
+projects and how many credits these projects have issued and had retired. When credits change 
+hands or are retired, account holders must inform the registry, which provides the single source 
+of truth regarding which credits have been used as offsets. Credit issuing standards publish 
+their registries to make credit buyers aware of existing supply and demand and planned future 
+developments. The timely maintenance of these registries is such a major part of the function of 
+carbon standards that the entire category of standards is sometimes referred to as “registries.” 
+Registries may be maintained directly by standards (e.g. Verra manages its own VCS registry) or by 
+third parties (e.g., Cercarbono’s registry, which is maintained by EcoRegistry).
+Registries for Credit Users – Aggregating Acceptable Offsets
+For end users of carbon credits who need to meet compliance requirements, another use case for 
+a registry is to organize and track eligible credits from the VCM that can be used to offset covered 
+emissions. This is most common when a compliance system allows credits from more than one 
+standard for offsetting emissions. For example, the International Civil Aviation Organization’s Carbon 
+Offsetting and Reduction Scheme for International Aviation (CORSIA) program allows the use of 
+credits from six different carbon standards during the first implementation phase, and information 
+on the credits that are retired under CORSIA is accounted for in the CORSIA Central Registry. Article 
+6.2 implementation also requires the establishment of national registries that contain information 
+on credits that are traded in bilateral or multilateral transactions, and an international registry to 
+record the transfer of these credits between jurisdictions. At COP29 in Baku last year, negotiators 
+confirmed that countries participating in Article 6.2 will have the option to develop their own 
+national registry, or to use the same infrastructure as the international registry to be maintained by 
+the UN (see Box 3, Article 6 of the Paris Agreement, p 27).Box 1: What Is a Registry? Defining The Mechanics of Carbon Markets
+
+--- PÁGINA 14 ---
+
+State of the Voluntary Carbon Market 2025    9
+Registry Data – Project Registrations, 
+Issuances, and Retirements
+ ●Project registrations declined slightly, down 
+11 percent from 2023. Between 600-700 new 
+projects have been registered with major 
+carbon standards annually from 2022 to 2024, 
+with categories like Household/Community 
+devices and Agriculture gaining prevalence.
+ ●The volume of credits issued fell 20 percent, 
+led by declining issuances from Renewable 
+Energy and Forestry and Land Use projects, 
+which is expected due to the slowdown in 
+project registrations from these categories 
+since 2020.
+ ●Credit retirements declined slightly to 182 
+million credits retired in 2024 from 189 
+million credits retired in 2023, which still 
+represents a sustained increase in annual   retirements since 2020 and a fairly steady 
+rate of retirement for the last four years. 
+Retirements of Forestry and Land Use 
+projects held steady while Household/
+Community Devices were an area of growth.
+ ●Buyers are retiring credits from Forestry 
+and Land Use and Agriculture projects 
+faster than project developers can issue 
+them, and at an accelerating pace. 
+IEM transaction data tracks sales of carbon 
+credits in terms of volumes and average 
+prices for confirmed over-the-counter (OTC) 
+and exchange-based trades. This allows us to 
+provide a precise measurement of the lower 
+bound of VCM volume and total market value 
+for transactions that took place during a given 
+year. Data from the project registries maintained 
+by credit issuing standards can round out our 
+understanding of the supply and demand of 
+carbon credits over the course of a given year.
+Figure 4. Carbon Credit Project Registrations by Category, 2020-2024
+0600
+400
+2008001,0001,2001,4001,600
+2020 2021 2022 2023 2024Number of projects registered
+Agriculture Chemical Processes / Industrial Manufacturing Energy Eﬃciency / Fuel Switching
+Forestry and Land Use Household / Community Devices Renewable Energy
+Transportation Waste Disposal
+Note: This figure includes data on project registrations from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global Carbon  
+Council, Gold Standard, Plan Vivo, and VCS registries.Section Insights
+
+--- PÁGINA 15 ---
+
+10                                                           Meeting the Moment: Renewing Trust in Carbon Finance
+Figure 5. Cumulative VCM Issuances and Retirements, 2002-2024
+Note: This figure includes data on credit issuances and retirements from ACR, ART, BioCarbon, CAR, CDM, Cercarbono, Global 
+Carbon Council, Gold Standard, Plan Vivo, and VCS registries.02,500
+2,000
+1,000
+5001,5003,0003,5004,0004,5005,000Volume (MtCO2e)
+Cumulative Issuances Cumulative Retirements2023 2024 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002
+147K
+ 147K
+ 3M
+ 122M
+ 269M
+ 418M
+ 125K
+0
+ 0
+ 407
+ 776
+14M
+8.3K
+ 431K
+ 2.5M
+ 4.8M
+933M
+1.3B
+1.6B
+1.8B
+2B
+583M
+11M
+ 22M
+ 41M
+ 70M
+ 100M
+ 143M
+2.3B
+2.5B
+2.7B
+3B
+3.4B
+3.9B
+2.1B
+184M
+ 233M
+ 290M
+370M
+481M
+675M
+878M
+4.3B
+4.6B
+1B
+1.2B
+Across the ten major standards tracked by EM, 
+616 new carbon projects were registered in 2024, 
+down from 694 registered in 2023, but equal to 
+the total number of projects registered in 2022. 
+The greatest decline in project registrations was 
+seen in the Household/Community Devices 
+category, which was the leading category for 
+new project registrations in 2023 (Figure 4). Total 
+credit issuances fell from 390 million in 2023 to 311 
+million in 2024 (Figure 5), with Renewable Energy 
+and Forestry and Land Use, the largest categories, 
+accounting for the greatest proportional decline 
+in issuances. The Household/Community Devices 
+category saw 9 million more credits issued 
+in 2024 than 2023, the largest increase of any 
+category (Figure 6). This demonstrates the long 
+lag times from project registration to credit 
+issuance and sales to final credit retirement. With 
+more Household/Community Devices projects 
+registered in 2022 and 2023, more projects 
+completed their initial measurement, reporting, 
+and verification (MRV) periods and sold carbon 
+credits in 2024, and we can expect to see this 
+delayed effect continue into the near future.Looking at the end of the credit lifecycle, 
+registries reported that 180 million credits 
+were retired in 2024, down slightly from 188 
+million in 2023. Most categories of projects 
+saw a decline in the volume of credits retired, 
+including Renewable Energy, which was the 
+most commonly retired category, with 67 million 
+credits retired in 2024 compared to 80 million in 
+2023. Forestry and Land Use and Transportation 
+credit retirements held steady at 66 million 
+credits and 33 million credits retired in 2024, 
+respectively. Household and Community Devices 
+credits saw the greatest growth in retirement 
+volume in 2024 with 68 million credits retired, 
+and Waste Disposal and Agriculture credits were 
+also retired in higher numbers over the past year 
+with 4 million credits retired. In Agriculture, the 
+smallest category in terms of credit issuances 
+and retirements, retirement volume grew by 60 
+percent over the last year with nearly 3 million 
+credits retired (Table 2).

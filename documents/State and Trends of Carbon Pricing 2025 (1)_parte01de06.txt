@@ -1,0 +1,592 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 1 de 6
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+2025
+STATE AND TRENDS OF
+carbon 
+pricing
+
+--- PÁGINA 2 ---
+
+© 2025 International Bank for Reconstruction and Development / The World Bank
+1818 H Street NW, Washington, DC 20433
+Telephone: 202-473-1000
+Internet: www.worldbank.org 
+Some rights reserved.
+1 2 3 4 28 27 26 25
+This work is a product of the staff of the World Bank with external contributions. The 
+findings, interpretations, and conclusions expressed in this work do not necessarily 
+reflect the views of the World Bank, its Board of Executive Directors, or the governments 
+they represent.
+The World Bank does not guarantee the accuracy, completeness, or currency of the data 
+included in this work and does not assume responsibility for any errors, omissions, or 
+discrepancies in the information or liability with respect to the use of or failure to use 
+the information, methods, processes, or conclusions set forth. The boundaries, colors, 
+denominations, links/footnotes and other information shown in this work do not imply 
+any judgment on the part of the World Bank concerning the legal status of any territory 
+or the endorsement or acceptance of such boundaries. The citation of works authored 
+by others does not mean the World Bank endorses the views expressed by those authors 
+or the content of their works.
+Nothing herein shall constitute or be construed or considered to be a limitation upon or 
+waiver of the privileges and immunities of the World Bank, all of which are specifically 
+reserved.
+Rights and Permissions
+This work is available under the Creative Commons Attribution 3.0 IGO license (CC BY 
+3.0 IGO) http:/ /creativecommons.org/licenses/by/3.0/igo . Under the Creative Commons 
+Attribution license, you are free to copy, distribute, transmit, and adapt this work, 
+including for commercial purposes, under the following conditions:Attribution  
+Please cite the work as follows: World Bank. 2025. State and Trends of Carbon Pricing 
+2025. Washington, DC: World Bank. DOI: 10.1596/978-1-4648-2255-1. License: Creative 
+Commons Attribution CC BY 3.0 IGO.
+Translations  
+If you create a translation of this work, please add the following disclaimer along with 
+the attribution: This translation was not created by The World Bank and should not be 
+considered an official World Bank translation. The World Bank shall not be liable for any 
+content or error in this translation.
+Adaptations  
+If you create an adaptation of this work, please add the following disclaimer along with 
+the attribution: This is an adaptation of an original work by The World Bank. Views and 
+opinions expressed in the adaptation are the sole responsibility of the author or authors of 
+the adaptation and are not endorsed by The World Bank.
+Third-party content  
+The World Bank does not necessarily own each component of the content contained 
+within the work. The World Bank therefore does not warrant that the use of any third-
+party-owned individual component or part contained in the work will not infringe on the 
+rights of those third parties. The risk of claims resulting from such infringement rests 
+solely with you. If you wish to re-use a component of the work, it is your responsibility to 
+determine whether permission is needed for that reuse and to obtain permission from 
+the copyright owner. Examples of components can include, but are not limited to, tables, 
+figures, or images.
+All queries on rights and licenses should be addressed to World Bank Publications, 
+The World Bank, 1818 H Street NW, Washington, DC 20433, USA; e-mail: pubrights@
+worldbank.org.
+ISBN (electronic): 978-1-4648-2255-1
+DOI: 10.1596/978-1-4648-2255-1
+Design: Climate Focus ( www.climatefocus.com )
+Copyediting: EpsteinWords
+State and Trends of Carbon Pricing 20252
+
+--- PÁGINA 3 ---
+
+State and Trends of Carbon Pricing 20253
+The development of this report was led by the World Bank and prepared by experts 
+from the World Bank, Climate Focus, and Trinomics. Contributions, including on data 
+and information on emissions trading systems, were provided by the International 
+Carbon Action Partnership. Additional data and contributions were also provided by 
+Ecosystem Marketplace. 
+Platts, S&P Global Commodity Insights, AlliedOffsets, and the Institute for Climate 
+Economics also supported the development of this report.
+The World Bank task team responsible for this report was composed of Joseph Pryor, 
+Ashia Bio Sawe, Shreya Rangarajan, Harikumar Gadde, Mustafa Ozgur Bozcaga, Anthony 
+Mansell, Alejandra Mazariegos, Jia Jun Lee, Jacob Junghun Lee, Conrad Buffier, Helen 
+Guyes, and Aurora Maria Sarah Silitonga. 
+The Climate Focus team included Carolina Inclan, Szymon Mikolajczyk, Elisa Perpignan, 
+Adriaan Korthuis, Jesús Mallol Díaz, Georg Hann, Anna Kovacs, and Michael Gerhard. 
+The Trinomics team included Long Lam, Peter Janoska, Marie Stjernquist, and Sara 
+Svensson. 
+This report benefited greatly from the insights and contributions from Harshani 
+Abeyrathna; Alberta Environment and Protected Areas; Andrés Camilo Álvarez-Espinosa; 
+Alexandra Andrea Maite Campmas; Charlotte Barber; Jonathan Beaulieu; Beijing 
+Climate Change Management Center; Simon Black; Brunei Climate Change Office; 
+Ciro Calderon; Sudharshan Canagarajah; Diana Cardenas Monar; Ignacio Casielles; 
+China Quality Certification Centre Guangzhou Branch; Chongqing Climate Change 
+Response and Development Center (Chongqing Resource and Environment Trading 
+Center); Krittaya Chunhaviriyakul; Clean Energy Regulator (Australia); Climate Change 
+Administration, MOENV; Luis Colín; Hania Dawood; Stefano De Clara; Christophe 
+de Gouvello; Department of Climate Change, Energy, the Environment and Water 
+(Australia); Department of Finance Canada; Department of Environment and Climate 
+Change Canada; Fernanda Díaz; Saurabh Diddi; Dirección Nacional de Investigaciones 
+y Análisis Fiscal, Subsecretaría de Ingresos Públicos, Secretaría de Hacienda, Ministerio 
+de Economía (Argentina); Niklas Döbbeling-Hildebrandt; Ecology and Environment 
+Bureau of Shenzhen Municipality (China); Assia Elgouacem; Jamie Ferguson; Carolyn 
+Fischer; Dirk Forrister; Manuela Francisco; Fujian Provincial Department of Ecology and 
+Environment (China); Agita Gancone; Global Warming Strategy Division, Department 
+of Environment, Saitama Prefecture; Marlen Goerner; Government of the Northwest Territories; Greenhouse Gas Inventory and Research Center of Korea (GIR, Ministry of 
+Environment); Guangdong Energy Research Society; Guangdong Provincial Academy 
+of Environmental Science; Guangdong University of Technology; Guangzhou Emissions 
+Exchange; Madhubhasini Gunathilaka; Stephane Hallegatte; Clara Harig; Hawaii 
+State Energy Office; Dirk Heine; Sharlin Hemraj; Valerie Hickey; Aja Ropret Homar; 
+Hubei Carbon Emission Exchange; Hubei Provincial Academy of Eco-Environmental 
+Sciences; David Hynes; Heeweon Hyun; Chamika Iddagoda; Iniciativa Climática de 
+México; Jane Jamieson; Vanessa Jaramillo; Kiviluoto Jussi; Ilze Kamarute; Mandeep 
+Kaur; Hjalmar Richter Korsaker; Juan Labat; William Lheude; Shelby Livingston; Luca 
+Lo Re; Juris Lukss; Erik Magnus Fernstrom; Markets Unit, Ministry for the Environment 
+(New Zealand); Bosi Martina; Phillip Mathew; MÉXICO2; Klaas Miersch; Ministerio de 
+Ambiente de Panamá; Ministry of Climate of Estonia; Ministry of Economy, Trade and 
+Industry (Japan); Ministry of Finance and Economic Affairs (Iceland); Ministry of Finance, 
+Government of Botswana; Ministry of the Environment (Japan); Jan Minx; Gjermund Lien 
+Moland; Sebastian Molineus; Mariza Montes de Oca Leon; Marco Murcia; Kuhle Mxakaza; 
+National Center for Climate Change Strategy and International Cooperation (China); 
+National Climate Change Secretariat and National Environment Agency (Singapore); 
+Derek Nixon; Luisa Olivera; Klaus Oppermann; Ndiafhi Patrick Tuwani; Alex Procton; 
+Anasuya Raj; Angela Liliana Rodríguez; Isabel Rojas Astorga; Marc Sadler; Gabriel Saive; 
+Hugh Salway; Juan Pedro Searle; Bogdan Semenenko; Shanghai Economic Information 
+Center; Shanghai Environment and Energy Exchange; Shanghai Municipal Bureau of 
+Ecology and Environment; Chandra Shekhar Sinha; Stephen Shelby; Jacob Smith; 
+William Space; Sandhya Srinivasan; The Danish Ministry of Taxation; Konstantinos 
+Theodoropoulos; Tianjin Academy of Eco-Environmental Sciences; Tokyo Metropolitan 
+Government; Sebastián Torres; Victoria Traverso; Frank van der Vleuten; Laura 
+Weatherer; Klas Wetterberg; Daniel Wetzel; Zhasyl Damu JSC; Karlygash Zhunussova; 
+and Mourad Ziani. 
+Report design was done by Climate Focus and editing was done by EpsteinWords. 
+This report has been developed as part of the Technical Work Program under the 
+Partnership for Market Implementation.
+
+
+--- PÁGINA 4 ---
+
+Table of Contents
+State and Trends of Carbon Pricing 20254
+
+--- PÁGINA 5 ---
+
+State and Trends of Carbon Pricing 20255
+List of Figures
+FIGURE 1
+Share of global greenhouse gas emissions covered by an ETS or carbon 
+tax, 2005-2025  21
+FIGURE 2
+Global map of ETS and carbon taxes implemented, under development, 
+or under consideration 22
+FIGURE 3
+Share of economic sectors’ global GHG emissions covered by an ETS or 
+carbon tax 27
+FIGURE 4
+Prices and coverage across ETSs and carbon taxes, as of April 1, 2025 32
+FIGURE 5
+Emissions-weighted average carbon prices for covered emissions and 
+global emissions, 2015–2025 33
+FIGURE 6
+Total carbon price by component in Latin America, 2016–2024  36
+FIGURE 7
+Carbon prices by fuel in Latin America, 2017–2024  37
+FIGURE 8
+Number of organizations using an internal carbon price and share of 
+type of internal carbon price used, 2021–2024  38
+FIGURE 9
+Total carbon revenues from ETSs and carbon taxes, 2015–2024 40
+FIGURE 10
+Share of ETS and carbon tax revenue by category, 2018–2024  43FIGURE 11
+Sources of demand and supply in global carbon credit markets 47
+FIGURE 12
+Total carbon credit retirements for compliance and voluntary purposes 
+and demand sources for compliance retirements, 2023–2024 49
+FIGURE 13
+Carbon credit issuances and retirements from independent crediting 
+mechanisms and volume of unretired credits, 2021–2024 50
+FIGURE 14 
+Map of governmental crediting mechanisms as of April 1, 2025  55
+FIGURE 15
+Breakdown of unretired credits from independent crediting 
+mechanisms by project type and credit vintage, as of April 2025 58
+FIGURE 16 
+The evolution of new project listings in independent crediting 
+mechanisms by category  59
+FIGURE 17
+Composition of issuances from independent crediting mechanisms by 
+CCP-label status, million tCO2e 60
+FIGURE 18
+Exchange-traded carbon credit prices by project types, January 1, 2022 
+to April 1, 2025 64
+FIGURE 19
+Comparison of average annual carbon credit prices from exchange-
+traded and over-the-counter transactions by project category, 2023– 
+2024 65
+
+--- PÁGINA 6 ---
+
+State and Trends of Carbon Pricing 20256
+List of Boxes
+BOX 1 
+Effectiveness of emissions trading systems and carbon taxes  15
+BOX 2 
+What is carbon pricing?   18
+BOX 3 
+The political economy of carbon pricing  23
+BOX 4 
+Border carbon adjustment mechanisms  26
+BOX 5 
+The growing role of rate-based emissions trading schemes 30
+BOX 6
+Total carbon pricing in Latin America  35
+BOX 7
+Three real-world examples of carbon pricing revenue allocation or 
+planned use  42
+BOX 8
+The carbon credit market landscape 47
+BOX 9
+Interactions between carbon pricing and crediting mechanisms 51
+BOX 10
+COP29 decisions on Article 6 62List of Tables
+TABLE 1
+Carbon pricing developments in key emerging economies 25
+TABLE 2
+Mapping of economic sectors and IPCC 2006 Guidelines for National 
+Greenhouse Gas Inventories emissions codes 80
+
+--- PÁGINA 7 ---
+
+State and Trends of Carbon Pricing 20257
+Abbreviations and acronyms
+BCA       Border carbon adjustment mechanism
+CBAM        Carbon border adjustment mechanism 
+CCP   The Integrity Council for the Voluntary Carbon Market’s 
+Framework Core Carbon Principles Framework 
+CDM        Clean Development Mechanism
+CER        Certified emission reduction 
+COP29        2024 Conference of the Parties of the United Nations 
+  Framework Convention on Climate Change
+CORSIA     Carbon Offsetting Reduction Scheme for International Aviation 
+ETS       Emissions trading system
+GDP        Gross domestic product
+GHG        Greenhouse gas
+I4CE        Institute for Climate Economics
+IATA        International Air Transport Association 
+ICAO       International Civil Aviation Organization 
+ICVCM        The Integrity Council for the Voluntary Carbon Market
+IEA  International Energy Agency
+IMF   International Monetary FundIPCC  Intergovernmental Panel on Climate Change
+ITMO        Internationally transferred mitigation outcome
+LPG        Liquefied petroleum gas 
+MIGA       Multilateral Investment Guarantee Agency
+MLN      Million
+NDCs        Nationally determined contributions under the Paris Agreement
+OBPS        Output-based pricing system
+OECD  Organisation for Economic Cooperation and Development
+OTC        Over the counter 
+PACM        Paris Agreement Crediting Mechanism 
+REDD+        Reducing Emissions from Deforestation and Forest Degradation
+tCO2e        Metric ton of carbon dioxide equivalent 
+TREES        The REDD+ Environmental Excellence Standard 
+UNFCCC    United Nations Framework Convention on Climate Change
+USD             United States dollar
+VAT        Value-added tax
+VCS        Verra’s Verified Carbon Standard
+
+--- PÁGINA 8 ---
+
+State and Trends of Carbon Pricing 20258
+State and Trends of Carbon Pricing 2025
+ CARBON PRICING
+ CARBON CREDIT MARKETS28 %  of global emissions 
+covered by a direct 
+carbon price, compared to ~5% 
+in 2005
+~3x more domestic 
+compliance 
+retirements 
+in 2024, compared to 2023 
+In 2024, almost a quarter of global 
+credit retirements were to meet 
+domestic compliance obligationsUSD 100+  billion 
+in revenues raised for 
+second consecutive year
+Over 50% of revenue 
+was used to support 
+environmental, 
+infrastructure, and 
+development projects
+Carbon credit prices are lower  
+but buyers are willing to pay 
+more for removals
+15.5
+5.3
+3.5 1.4 1
+Fore stry and lan d
+use (removals)Fore stry and
+land use
+(avoided emissions )Hous ehold
+devicesIndustrial
+projectsRenewable
+energy
+576741873987
+80
+emissions trading 
+systems and carbon taxes 
+implemented globally
+Plus ETSs planned in Brazil, 
+India, and Türkiye
+~1 billion unretired credits 
+from independent 
+crediting mechanisms
+2/3 are from credits issued 
+before 20222005
+2021 2023 2022 2024 As of April 1, 2025USD/tCO2e2025
+24%
+
+--- PÁGINA 9 ---
+
+State and Trends of Carbon Pricing 20259
+Foreword
+Governments today face immense fiscal pressure amid a complex and 
+uncertain economic environment. Low economic growth projections and 
+rising volatility in trade and financial markets are placing additional pressures 
+on public budgets. These converging pressures are not only threatening fiscal 
+resilience but also undermining development gains. 
+In this context, carbon pricing offers a powerful tool. It can mobilize finance 
+and secure development outcomes even during periods of uncertainty. 
+It mobilizes domestic revenue, drives efficiency and innovation, and attracts 
+international finance—all while helping countries advance climate and 
+development goals. It’s a pragmatic solution at a time when resources are tight, 
+and ambitions are high.
+We saw continued momentum over the past year, particularly among large 
+middle-income economies. China’s expansion of carbon pricing brought 
+three gigatons of greenhouse gas (GHG) emissions under its emissions trading 
+system. Today, around 28% of global emissions are covered by a direct carbon 
+price and economies representing nearly two-thirds of global economic output 
+have implemented either a carbon tax or emissions trading system. More 
+countries, including Brazil, India, and Türkiye, are moving forward with domestic 
+carbon pricing frameworks. Others, including Zambia, Tanzania, Paraguay, and 
+Viet Nam, are positioning themselves to participate in international carbon 
+markets. 
+Carbon markets are also increasing globally. Carbon credit markets play 
+multiple roles. They support climate commitments, lower the cost of new 
+technologies, and finance nature-based solutions like forest restoration. But 
+they do more than just carbon savings; they deliver development dividends in terms of more affordable energy access, cleaner cooking fuels, and healthier 
+forests, to name just a few.
+We are also seeing innovation. The emergence of new insurance products—
+including a political risk guarantee issued by our Multilateral Investment 
+Guarantee Agency—are helping de -risk investments in international carbon 
+markets and support private sector participation.
+The private sector plays a critical role. Companies are increasingly subject to 
+compliance requirements under new and expanding carbon pricing schemes. 
+To scale impact, there is a growing demand for safe, efficient, and interoperable 
+transaction infrastructure to incentivize more private sector revenues. 
+The growth from fewer than 10 instruments in 2005 to 80 today is a 
+reminder of global progress on direct carbon pricing. For over 20 years, the 
+State and Trends of Carbon Pricing report series has provided an important 
+global pulse check–offering rigorous, evidence-based insights into policies 
+and market developments. The World Bank seeks to provide knowledge that 
+can drive development and scale impactful solutions. I hope this year’s report 
+continues to inform action, inspire innovation, and strengthen partnerships 
+across public and private sectors.
+Axel van Trotsenburg
+Senior Managing Director  
+World Bank
+
+--- PÁGINA 10 ---
+
+Executive 
+Summary
+
+
+--- PÁGINA 11 ---
+
+State and Trends of Carbon Pricing 202511
+ 
+Direct carbon pricing continues to mobilize 
+over $100 billion for public budgets
+• Carbon prices held relatively steady in real 
+terms, but with variation across jurisdictions. 
+• Carbon revenue in 2024 was lower than 
+2023, largely due to lower prices in large 
+ETSs, such as the EU and the UK, but it was 
+over three times higher than a decade ago, in 
+real terms.
+• Over half of carbon revenues generated in 
+2024 were earmarked towards environment, 
+infrastructure, and development projects—a 
+slight increase compared to previous years. 
+Expansion of carbon taxes and ETSs has 
+increased the proportion of global emissions 
+and economic output being subjected to a 
+direct carbon price
+• The expansion of China’s ETS to industrial 
+sectors has increased global direct carbon 
+pricing coverage from 24% to around 28%.
+• The economies that have implemented either 
+a carbon tax or an ETS make up almost two-
+thirds of global gross domestic product.
+• Over half of global emissions from the power 
+sector and almost half of the industry sector 
+face a direct carbon price.
+• Coverage in other sectors is lower, with 
+agricultural emissions remaining unpriced.CARBON PRICING
+All large middle-income economies have 
+either implemented or are considering direct 
+carbon pricing
+• There are 80 carbon taxes and emissions 
+trading systems (ETSs) in operation 
+worldwide—a net increase of five over the 
+last 12 months. 
+• Brazil, India, and Türkiye have met key 
+milestones to facilitate ETS implementation, 
+while Colombia and Indonesia expanded 
+coverage.
+• Most new and planned instruments are 
+ETSs. While designs vary, many governments 
+including India have selected a rate-based 
+approach.
+
+--- PÁGINA 12 ---
+
+State and Trends of Carbon Pricing 202512
+ 
+Credit prices softened slightly, but with 
+observed premiums for specific credit types
+• Nature-based removal credits attracted 
+premiums and high forward prices, 
+suggesting voluntary buyers are willing 
+to pay more for these credits relative to 
+alternative credit types. 
+• A positive correlation is also emerging 
+between prices and carbon credit ratings 
+from proprietary ratings providers. 
+• Credits eligible for use in international 
+compliance markets command a price 
+premium compared to credits eligible for use 
+in voluntary markets. 
+There is a growing surplus of unretired 
+credits in the market
+• Global supply of credits declined slightly, 
+but supply trends varied across categories, 
+with issuances from nature-based removal 
+projects increasing compared to 2023.
+• The pool of unretired carbon credits 
+from independent crediting mechanisms 
+increased to almost 1 billion tons. Most of 
+these unretired credits are relatively old 
+(issued before 2022) and are from forestry 
+and land use or renewable energy projects.
+• Governmental crediting mechanisms, such 
+as the Australian Carbon Credit Unit Scheme 
+and the Kazakhstan Crediting Mechanism, 
+accounted for just over 10% of total global 
+credit issuances.CARBON CREDIT MARKETS
+Global carbon credit retirements increased 
+due to a short-term spike in demand for 
+compliance purposes
+• The private sector continues to lead demand 
+for carbon credits through voluntary and 
+domestic compliance markets, emphasizing 
+the role of carbon markets in channeling 
+private capital toward decarbonization 
+projects.
+• Compliance retirements in 2024 were almost 
+three times the 2023 level. Most were from 
+companies looking to meet their multi-year 
+compliance obligations under the California 
+and Québec ETSs.
+• Voluntary buyer preferences shifted toward 
+nature-based removal and clean cooking 
+projects.
+• The first phase of international aviation’s 
+Carbon Offsetting and Reduction Scheme for 
+International Aviation commenced in 2024, 
+but despite some initial sales, uncertainties 
+remain for both supply and demand.
+
+--- PÁGINA 13 ---
+
+CHAPTER 1
+Introduction
+
+
+--- PÁGINA 14 ---
+
+State and Trends of Carbon Pricing 202514
+CHAPTER 1
+Introduction 
+1.1 Governments continue to advance carbon pricing and markets in the 
+context of broader economic, financial, and social considerations
+The global economy is slowing amid a sharp escalation of trade tensions 
+and a highly uncertain global policy environment. Earlier expectations of 
+stabilization in global economic activity in 2025 following years of overlapping 
+shocks have been derailed by heightened policy uncertainty, financial market 
+volatility, and large shifts in the international trade policy environment. As 
+noted in the World Bank’s Global Economic Prospects report, global growth is 
+projected to slow this year to 2.3%, remaining well below the pre-pandemic 
+10-year average of 3.1%.1 This subdued outlook is driven by increased trade 
+barriers, elevated uncertainty, and deteriorating confidence. At the same time, 
+rising global public debt, expected to approach 100% of global gross domestic 
+product (GDP) by 2030, continues to strain economies, contributing to financial 
+instability.2
+Climate change places further pressure on economic and development 
+outcomes. More frequent and severe extreme weather events are damaging 
+infrastructure, driving up the costs of disaster recovery, and disrupting 
+supply chains. These events divert resources from critical areas, such as 
+health, education, and employment, disproportionately affecting low-income 
+communities and economies.3 In addition, asymmetrical policy responses 
+create risks for economies. For example, changes to the global policy 
+landscape, the rapid introduction of new technologies, and shifts in consumer 
+and investor preferences are disrupting existing markets and supply chains. This can undermine countries’ competitiveness, economic growth, and fiscal 
+sustainability, including through a heightened potential for stranded assets 
+and large shifts to the tax base.4 If not managed effectively, the risks posed by 
+climate change can undermine economic stability and development, increase 
+uncertainty, and further weaken long-term economic growth prospects. 
+Countries are using carbon pricing to work toward multiple policy 
+objectives. In addition to using direct carbon pricing as a tool to meet 
+emissions reduction targets (see Box 1), governments have broader objectives. 
+Carbon pricing is a potential source of revenue for fiscally constrained 
+governments. With an expected contractionary fiscal environment in the 
+coming years, raising domestic revenue with positive job and growth 
+impacts will become increasingly important.5 For instance, in Mexico, 11 state 
+governments have introduced carbon pricing, with revenue mobilization 
+being a contributing driver. Beyond carbon pricing as a revenue stream, 
+governments are also adopting carbon pricing alongside regulatory standards, 
+green industrial policies, and social welfare programs to deliver structural 
+changes. For example, the European Union Net-Zero Industry Act, introduced 
+in 2024, complements the EU Emissions Trading System (ETS) in supporting 
+decarbonization in hard-to-abate industries, while in Norway, tax incentives 
+combined with carbon pricing have resulted in electric cars accounting for 
+nearly all new car sales. Finally, Israel has implemented a carbon tax to address 
+the unpriced carbon externality and supplementary measures to improve the 
+efficiency of domestic industry.6 
+
+--- PÁGINA 15 ---
+
+State and Trends of Carbon Pricing 202515
+BOX 1 
+Effectiveness of emissions trading systems and carbon 
+taxes 
+Carbon pricing is widely recognized as an important tool to 
+incentivize low-carbon economic growth. The theoretical basis for 
+carbon pricing is well-established: Increasing the price of emission-
+intensive goods and services relative to low-carbon alternatives creates 
+an incentive for companies and individuals to move to low-carbon 
+options. The effectiveness of carbon pricing is increased where price 
+signals are stable, predictable, and enduring, helping to guide long-term 
+investment decisions. 
+However, measuring the real-world effectiveness of carbon pricing 
+has historically been challenging. Because carbon pricing often 
+operates alongside other policies and broader economic factors, it can 
+be difficult to isolate its impact. For example, other policies such as fuel 
+excise taxes and fuel subsidies influence the price signal passed through 
+the economy (see Box 6 in chapter 2). Determining the counterfactual 
+scenario (i.e., what emissions would have been without carbon pricing) 
+is equally complex because other factors, such as business cycles and 
+technological progress, also influence emissions over time. Research 
+has also been constrained by the relatively recent adoption of carbon 
+pricing—starting in Finland in the 1990s—as well as the prevalence of 
+low initial price levels and limited coverage. Researchers have begun 
+to overcome the challenges in measuring the effectiveness of carbon 
+pricing, and there are more carbon pricing instruments in operation to 
+feed into researchers’ evaluations. Recent research efforts are also using 
+new and innovative techniques, including machine-learning-assistedmeta-analysis; advancements in econometric methods; and innovations 
+in establishing counterfactual scenarios.
+Recent large-scale empirical studies evaluated the effectiveness 
+of carbon pricing instruments. Three large-scale studies conducted 
+in 2024 provided robust empirical evidence reinforcing the theoretical 
+foundation of carbon pricing as a tool to drive emissions reductions. 
+Colmer et al. (2024) found that French manufacturing firms regulated by 
+the EU Emissions Trading System reduced emissions by an average of 
+14% between 2005 and 2007 and 16% between 2008 and 2012 as a result 
+of the policy.7 Martinsson et al. (2024) found that without carbon pricing, 
+Sweden’s emissions from manufacturing in 2015 would have been about 
+30% higher.8 Döbbeling-Hildebrandt et al.’s (2024) meta-analysis of 
+studies of 21 carbon pricing policies found that at least 17 of the policies 
+produced emissions reductions of between 5% and 21%.9 Ultimately, the 
+emissions reductions delivered by a carbon pricing instrument depend 
+on a range of factors, including carbon price levels, the specific sectors 
+covered, and access to affordable abatement opportunities.10
+Carbon pricing can deliver outcomes beyond emissions reductions. 
+The World Bank’s report Quantifying the Development Benefits of Carbon 
+Pricing summarizes some of these broader outcomes.11 For example, by 
+reducing fossil fuel combustion, carbon pricing can deliver cleaner local 
+air and water, which leads to better human health outcomes. It can also 
+reduce road congestion and traffic accidents.12 Additional potential

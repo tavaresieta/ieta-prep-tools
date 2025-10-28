@@ -1,0 +1,742 @@
+DOCUMENTO: IATA Handbook
+PARTE 1 de 3
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+ CORSIAHandbook
+January 2024 
+iata.org/corsia 
+
+--- PÁGINA 2 ---
+
+ 
+   
+ 
+2 CORSIA  Handbook  Table of Contents  
+ 
+Introduction  ........................................................................................................................................................................................................................... 4 
+CORSIA  ................................................................................................................................................................................................................................... 5 
+Offsetting  ...................................................................................................................................................................................................................... 5 
+International standards and recommended practices ............................................................................................................................. 6 
+Periodic Review  ...................................................................................................................................................................................................... 6 
+Safeguard clause  ................................................................................................................................................................................................... 6 
+International flights  .................................................................................................................................................................................................... 7 
+Definition  ................................................................................................................................................................................................................... 7 
+Overseas territories  .............................................................................................................................................................................................. 7 
+Flight s tages and diversions  .............................................................................................................................................................................. 7 
+Monitoring, Reporting, and Verification ...................................................................................................................................................................... 8 
+Scope  .................................................................................................................................................................................................................................. 8 
+Monitoring  ...................................................................................................................................................................................................................... 10 
+Emissions Monitoring Plan ................................................................................................................................................................................... 10 
+Administration  .......................................................................................................................................................................................................... 11 
+Monitoring of CO 2 emissions  .............................................................................................................................................................................. 12 
+Simplified monitoring  ........................................................................................................................................................................................ 12 
+Fuel use monitoring  ........................................................................................................................................................................................... 14 
+Data management  .................................................................................................................................................................................................. 18 
+Material changes  ..................................................................................................................................................................................................... 18 
+Reporting  ........................................................................................................................................................................................................................ 19 
+CO 2 emissions  .......................................................................................................................................................................................................... 19 
+Data gaps  ................................................................................................................................................................................................................... 19 
+CORSIA eligible fuels  ............................................................................................................................................................................................. 20 
+Publication of data  .................................................................................................................................................................................................. 21 
+Verification  ..................................................................................................................................................................................................................... 23 
+Internal pre- verification  ........................................................................................................................................................................................ 23 
+Third -party verification  ......................................................................................................................................................................................... 24 
+Scope  ...................................................................................................................................................................................................................... 24 
+Objective  ................................................................................................................................................................................................................ 24 
+Requirements  ....................................................................................................................................................................................................... 25 
+Verification process ........................................................................................................................................................................................... 25 
+Verification body  .................................................................................................................................................................................................  27 
+State review ............................................................................................................................................................................................................... 28 
+Offsetting  ............................................................................................................................................................................................................................ 29 
+Phased implementation  ........................................................................................................................................................................................ 29 
+Pilot phase (2021 -2023) and first phase (2024- 2026)  .......................................................................................................................... 29 
+Second phase (2027 -2035)  ............................................................................................................................................................................ 29 
+Calculation of offsetting requirements  ........................................................................................................................................................... 30 
+
+--- PÁGINA 3 ---
+
+ 
+   
+ 
+3 CORSIA  Handbook  Principles  ............................................................................................................................................................................................................... 30 
+Calculation of an operator’s sectoral component  .................................................................................................................................. 30 
+Calculation of an operator’s individual component  ................................................................................................................................ 31 
+Calculation of an operator’s offsetting requirements  ........................................................................................................................... 31 
+Offset ting requirements  ....................................................................................................................................................................................... 32 
+Compliance cycle  ............................................................................................................................................................................................... 32 
+New entrants  ........................................................................................................................................................................................................ 33 
+CORSIA eligible fuels  ......................................................................................................................................................................................... 33 
+Eligible emissions units  ......................................................................................................................................................................................... 34 
+Emissi ons Units Criteria  ................................................................................................................................................................................... 34 
+Purchasing emissions units ............................................................................................................................................................................ 35 
+Cancelling emissions units  .................................................................................................................................................................................. 36 
+Emissions unit cancellation report  ............................................................................................................................................................... 36 
+Verification of Units ............................................................................................................................................................................................ 37 
+ 
+
+--- PÁGINA 4 ---
+
+ 
+    
+4 CORSIA  Handbook  Introduction  
+ 
+The aviation sector is singularly committed to its 
+decarbonization . As an early mover1 and following on 
+the heels of the adoption of the Paris Agreement at 
+the UN Climate Change Conference (COP21) in 2015, the 39
+th ICAO  (International Civil Aviation 
+Organization)  Assembly established CORSIA  (Carbon 
+Offsetting and Reduction Scheme for International  
+Aviation) in October 2016. CORSIA is  the only global 
+market -based measure scheme to address CO 2 
+emissions from international aviation.  
+ The industry further demonstrated its focus on 
+decarbonization in  2021, when the 77
+th IATA 
+(International Air Transportation Association) Annual General Meeting in Boston approved a resolution for 
+the global air transport industry to achieve net -zero 
+carbon emissions by 2050.  This was followed by the 
+41
+st Assembly of ICAO in October 2022, when member s tates adopted the Long -Term Aspirational 
+Goal (LTAG) for  international aviation of net- zero 
+carbon emissions by 2050.2 Therefore, governments 
+and the aviation industry are  wholly united in the 
+mission to ensure that international aviation 
+continues to develop sustainably in recognition of its vital role  in global economic and social development.  
+ 
+There are multiple ways to achieve sustainable 
+aviation , involving many  necessary developments  
+and innovati ons  (an analysis of thes e can be found in 
+IATA’s  Net Zero Roadmaps
+). In this hard -to-abate 
+sector where no solutions are currently available at 
+scale , every tool in the toolbox must be used. CORSIA 
+will make a significant and early contribution to the 
+industry’s decarbonization.  
+  
+ 
+1 The first time that a n industry sector agreed to a global market -based 
+measure in the climate change field.  2 Resolution A41 -21: Consolidated statement of continuing ICAO policies 
+and practices related to environmental protection – Climate Change. 
+
+--- PÁGINA 5 ---
+
+ 
+   
+ 
+5 CORSIA  Handbook  CORSIA
+Offsetting  
+Under CORSIA, aeroplane operators must  purchase 
+and cancel “emissions units” to offset the increase in 
+CO 2 emissions covered by the scheme.  
+CORSIA aims to address any increase in total CO 2 
+emissions from international civil aviation  over a 
+baseline. While it was initially  foreseen that the 
+baseline would be determined  using the average 
+annual emissions between 2019 and 2020 as reference . However, in June 2020 , the ICAO Council 
+agreed that the COVID -19 situation warranted action 
+by the Council to avoid an inappropriate econ omic 
+burden on international aviation and that 2020 
+emissions should not be used for the CORSIA design features. Therefore,  according to  ICAO Assembly 
+Resolution A4 1-22, only 2019 emissions will be  used 
+for the pilot phase of CORSIA (2021 -2023) , and 85% 
+of 2019 emissions  will be used for the baseline in the 
+subsequent compliance phases.  (2024 -2035) . 
+With the exceptions of humanitarian, medical , and 
+firefighting flights, all international civilian operations of aeroplanes are covered by CORSIA, including , for 
+example , scheduled and non- scheduled flights, 
+passenger and cargo flights, training and maintenance flights, as well as general aviation and 
+private jets.  The term “aeroplane operator” is used by ICAO to 
+exclude heli copter operations from the scope of 
+applicability of CORSIA .
+3 For simplicity, “operator” is  
+used in this handbook.  
+In the context of addressing climate change 
+concerns, offsetting is an action by a company or 
+individual to compensate for their emissions by 
+financing a reduction in emissions elsewhere. While 
+carbon offsetting does not require companies to 
+reduce their emissions “in- house,” it provides an 
+environmentally effective option for sectors with 
+limited potential for further emissions reductions or 
+where the abatement costs are unduly high.  
+Offsetting and carbon markets have been fundamental to  global, regional,  and national 
+emissions reduction policies. They have operated for 
+decades for compliance purposes and voluntary 
+emissions reductions, and they continue to be an 
+effective mechanism to underpin action against 
+climate change.  
+There are many ways to achieve CO
+2 reductions that 
+can be used as offsets, many of which bring other 
+social, environmental , and  economic benefits 
+relevant to sustainable development. Such offsets 
+can be sourced from diverse types of project 
+activities (e.g. , renewable energy projects) and can be 
+purchased through specialized offset providers or 
+carbon brokers.
+ 
+ 
+3 Annex 16, volume IV, Part I, Chapter 1.  
+
+--- PÁGINA 6 ---
+
+ 
+   
+ 
+6 CORSIA  Handbook  International standards and 
+recommended practices  
+In June 2018, the ICAO Council adopted the 
+International Standards and Recommended 
+Practices (SARPs) for CORSIA  as the First Edition of 
+“Annex 16, Volume IV , Carbon Offsetting and 
+Reduction Scheme for International Aviation 
+(CORSIA)” . This first edition of the SARP s of Annex 16, 
+Volume IV  (commonly called “CORSIA SARPs”) has 
+been appl ied in all ICAO member states since 1 
+January 2019. In July 2023, a second edition of Annex  
+16, Volume IV , was published  to reflect the outcome 
+of the CORSIA periodic review underpinned in ICAO 
+Assembly Resolution A41 -22. The second edition of 
+CORSIA SARPs  supersede s the first edition and took  
+effect  from 1 January 2024.   
+Annex 16, Volume IV, contains detailed rules for the 
+administration of CORSIA by states  for the 
+monitoring, reporting, and verifying of emissions and 
+for the cancellation of emissions units. It is complemented by the CORSIA i mplementation 
+elements, which include additional requirements for 
+emissions units and CORSIA eligible fuels.  
+According to the Chicago Convention and Assembly Resolution A39 -3, ICAO member states must  
+implement the SARPs in their national regulations and 
+ensure that domestic requirements are fully aligned 
+with the SARPs. Such unifo rmity is critical to 
+preventing market distortions and preserving  the 
+environmental integrity of CORSIA. However, states that  are not able to align their domestic regulations 
+with the SARPs may apply different requirements, 
+provided they inform ICAO of any  such differences.   
+The requirements of Annex 16, volume IV, are detailed 
+in the following  chapters. This handbook is based on 
+the CORSIA  SARP s adopted by the ICAO Council and 
+does not cover any different requirements that  
+individual member states may imp ose.  
+ 
+ 
+ Periodic Review  
+The ICAO Council will undertake a periodic review of 
+CORSIA  for consideration by the Assembly  every 
+three years , beginning in 2022. The review  intend s to 
+consider potential improvements to the scheme.  
+The periodic review should include an assessment of 
+the scheme’s market and cost impacts on States, 
+aeroplane operators and international aviation. It 
+should also assess the “functioning of the scheme’s 
+design elements.” Based on  this assessment, the 
+Assembly would consider p otential amendments to 
+the scheme to improve its implementation and 
+effectiveness and minimize market distortions.   
+Subsequently, a review took place in 2022, resulting 
+in several changes to CORSIA’s design elements, 
+including adjusting  how its baseline is calculated 
+during its operational years. These changes are detailed in forthcoming sections.  
+Safeguard clause  
+In Operative Paragraph 17 of Assembly Resolution 
+A39- 3, the Assembly  decided to provide safeguards 
+within CORSIA  to ensure the sustainable 
+development of the international aviation sector and against inappropriate economic burdens on 
+international aviatio n. It requested the Council  to 
+decide on the basis and criteria for triggering such action and identify possible means to address these issues. The provision was reiterated in Operative Paragraph 16 of Assembly Resolution A40 -19 and 
+Paragraph 16  of A41 -22. 
+The safeguard clause explicitly gives authority to the 
+ICAO Council to decide on the basis, criteria  and 
+means to address potential issues. As per this 
+safeguard clause, the Council agreed at its 220
+th 
+session that actual 2020 emissions should not be 
+used for CORSIA’s design features, recognizing that 
+the COVID -19 crisis constituted a “situation 
+warranti ng action by the Council to avoid 
+inappropriate economic burden on international 
+aviation.”4 
+ 
+ 
+4 ICAO Council, C- DEC 22 0/13.  
+
+--- PÁGINA 7 ---
+
+ 
+   
+ 
+7 CORSIA  Handbook  International flight s 
+Definition  
+CORSIA only applies to international flights, which  
+take off  in one state and land in another .5 Domestic 
+flights, i.e. , flights between two aerodromes located in 
+the same state, are not included in the scope of 
+CORSIA.  
+Under CORSIA, the categorization of a flight as international does not consider the operator's 
+nationality  or the airspace that  may be used to 
+operate the flight. A flight between two aerodromes 
+located in the same state would, therefore, be 
+considered as domestic even if the aircraft flew 
+through foreign airspace or if the operator is 
+administrated  by another state.   
+Overseas territories  
+For CORSIA, aerodromes located in overseas 
+territories are attributed to their respective ICAO 
+member state. This is also the case for overseas 
+territories , which may, in some organizations, be assimilated into  sma ll island developing states. For 
+example, flights to and from French Polynesia are  
+treated like flights to and from any other aerodrome 
+in France.   
+The ICAO Manual on Location Indicators (Doc 7910) 
+contains a list of aerodromes,  and the ICAO member 
+states where they are located . 
+Flight stages and 
+diversions  
+Under CORSIA, each individual “stage” of a flight with 
+intermediate stops is considered as a separate flight , 
+and the applicability of CORSIA is  determined for 
+each flight stage individually. For example, suppose 
+an operator flies between Los Angeles and London 
+with a stop in New York. In that case,  the (domestic) 
+flight operation between Los Angeles and New York is  
+considered independent of  the (international) 
+operation between New York and London.  
+This rule applies irrespective of the nature of the 
+intermediate landing, including in cases of unplanned 
+stops such as technical or medical diversions.  
+ 
+ 
+ 
+5 Annex 16, volume IV, Part II, 1.1.2.  
+
+--- PÁGINA 8 ---
+
+ 
+   
+ 
+8 CORSIA  Handbook  Monitoring, 
+Reporting , and 
+Verification
+Scope  
+All operators, irrespective of their nationality , have to 
+monitor , report , and verify  (MRV)  CO 2 emissions from  
+all their international flights to their national authority 
+(“administrating authority”) on an annual basis. T he 
+requirement to  monitor CO 2 emissions has been 
+applicable since  1 January 2019.  
+Exemptions  
+CORSIA only applies to international civil  aviation . 
+State flights are, therefore, excluded from the scope of the scheme. State flights include military, customs,  
+and police flights.
+6  
+Furthermore, several exemptions of a technical 
+nature are provided for, namely:  
+• Operations with aeroplanes  with a Maximum 
+Take Off Mass (MTOM) below or equal to 
+5,700 kg;  
+• Humanitarian, medical,  and firefighting 
+operations;  
+• Operators whose total annual CO 2 emissions 
+from international aviation are below or equal to 10,000 tonnes.  
+These flight operations are exempt from CORSIA and 
+not subject to any of its MRV or offsetting requirements.  
+State flights  
+In accordance with Article 3(b) of the Chicago Convention, state flights include aircraft used in 
+military, customs , and police services. The status of a 
+flight is determined by the function the aircraft 
+performs at a given time, taking into account all the 
+circumstances surrounding a flight, rather than just 
+the registration or ownership of the aircraft. State 
+ 
+6 Convention on International Civil Aviation (Chicago Convention), Article 3.  flights may, for example, be operated by aircraft 
+normal ly used for civilian purposes.  
+State flights can, for example, be distinguished  
+through a specific identifier  in the flight plan. If Item 18 
+of the flight plan is marked “ STS/ HEAD ,” then the flight 
+is considered a flight with Head of State status  
+according to Doc 4444 – Procedures for Air 
+Navigation Services –  Air Traffic Management . Other 
+state flights, such as customs and police services, will 
+use the “STS/STATE” indicator in Item 18. Military 
+flights are usually recognizable if item 8 of the flight 
+plan (flight rules and type of flight) is marked with an 
+“M.” 
+Subject to the approval of their administrating authority, operators may use other means to 
+demonstrate that a flight was operated as a state 
+flight.  This may include supporting documentation 
+and sou rces of information that can be used to 
+demonstrate the nature of the flight , including, for 
+example,  charter contracts and diplomatic 
+clearances. These documents, and others, can then 
+be made available to verifiers  or administrating 
+authorities upon request to demonstrate that the 
+aircraft was operated as part of a contract with a state 
+entity for state purposes and can, therefore,  be 
+considered a state flight.  
+Humanitarian, medical , and firefighting 
+flights  
+Humanit arian, medical,  and firefighting operations are 
+also exempt from the scope of CORSIA. This 
+exemption would extend to flights preceding or 
+following humanitarian, medical, or firefighting flights 
+if they were required to accomplish the humanitarian, 
+medical, or firefighting activities or to reposition the 
+aeroplane  thereafter.7 
+Humanitarian flights are typically flights operated for 
+humanitarian purposes that  carry relief personnel and 
+relief supplies during or after an emergency and/or 
+7 Annex 16, Vol. IV, Part II, 2.1.1 and 2.1.3.  
+
+--- PÁGINA 9 ---
+
+ 
+   
+ 
+9 CORSIA  Handbook  disaster and/or are used to evacuate persons from a 
+place where their life or health is threatened by such 
+emergency and/or disaster.  
+Medical flights include flights carrying sick or 
+seriously injured persons requiring urgent medical 
+attention and life -critical medical emerge ncy 
+evacuation, as well as flights transporting medical 
+personnel, equipment, organ donors, organs,  or other 
+lifesaving medical material urgently required.  
+Operators must  provide evidence that specific flights 
+were operated for humanitarian, medical , or 
+firefighting reasons. Such evidence may, for example, 
+include the information contained in item 18 of the 
+flight plan,  which can contain a specific indicator , 
+according to Doc 4444 :  
+• “STS/ HUM” for humanitarian flights;  
+• “STS/HOSP” for medical flights declar ed by 
+medical authorities;  
+• “STS/ MEDEVAC” for  life-critical  medical 
+emergency evacuation  flights;  
+• “STS/ FFR” for firefighting flights.  
+As for State flights, subject to the approval of their 
+administrating authority, operators may use other 
+means to demonstrate that a flight was operated for 
+humanitarian, medical,  or firefighting reasons.   
+Small emitters  
+Operators whose total CO 2 emissions from 
+international flights are below or equal to 10,000 tonnes are exempt from CORSIA. Only flights within 
+the scope of applicability of CORSIA must be included 
+in an operator’s total emissions to determine if it emits 
+more or less than 10,000 t onnes of CO 2. Emissions 
+from exempt flight operations (see above ) must be 
+excluded.8  
+If an operator’s CO 2 emissions increase above the 
+10,000 tonnes threshold, which may be as a result of 
+an increase in international operations or the start of internatio nal operations,  it will have to start 
+monitoring its emissions from the beginning  of the 
+year,  after which its CO
+2 emissions pass the 10,000 
+tonnes threshold.9 
+For example, if an operator’s CO 2 emissions increase 
+above 10,000 tonnes in 2023, it must  start  complying 
+with the MRV requirements of CORSIA from 1 January 
+2024.  
+However, with the approval of its administrating 
+authority, an operator may already start monitoring its 
+emissions in the year during which it passes or expects to pass the 10,000 tonnes threshold.  
+If an operator’s emissions decrease below 10,000 
+tonnes, the operator will fall outside of the scope of applicability of CORSIA and will no longer have to 
+report its emissions. However, it is advised that 
+operators engage with their authority if they are in this 
+situation.
+ 
+ 
+ 
+  
+ 
+8 Annex 16, vol. IV, Part II, 2.1.1.  9 Annex 16, vol. IV, Part II, 2.1.4.  
+
+--- PÁGINA 10 ---
+
+ 
+   
+ 
+10 CORSIA  Handbook  Monitoring
+Emissions Monitoring Plan 
+All operators with annual emissions greater than 
+10,000 tonnes of CO 2 are required to r eport CO 2 
+emissions on an annual basis, with monitoring starting 
+on 1 January 2019.  
+In order to prepare for the monitoring, reporting , and 
+verification (MRV) of CO 2 emissions, each operator 
+needs to develop an emissions monitoring plan.10 
+The emissions monitoring plan shall include 
+information on the operator, its fleet , and operations. 
+The emissions monitoring plan also details  the 
+methods the operator uses to monitor fuel use, 
+calculate  emissions, and all associated data 
+management.11 
+The emissions monitoring plan is important for the 
+verification process. It helps the verifier to 
+understand the procedures chosen and approved by 
+the authority and check if they have been 
+appropriately applied . 
+The emissions monitoring plan must  be approv ed by 
+the administrating authority, who should be satisfied 
+that the processes described by the operator are 
+appropriate and sufficient to comply with the 
+prescribed MRV requirements. There is no need for 
+the emissions monitoring plan to be reviewed or app roved by a verification body before or after the 
+approval by the administrating authority.  
+Before approving it, the administrating authority must 
+review the emissions monitoring plan to ensure it is 
+complete and consistent with the requirements of 
+Annex 16  vol. IV. It notably assess es if the procedures 
+in place are sufficient and if the operator has a 
+suitable data management plan in place.  
+Furthermore, new entrant aeroplane operators must  
+submit an emissions monitoring plan to thei r 
+respective administrat ive authority  within three 
+months of falling within the scope of CORSIA.  
+Approval by the administrating authority assures the 
+operator  that the processes detailed in its emissions 
+monitoring plan are satisfactory. Additionally, 
+suppose there are material c hanges made to the 
+information contained within the emissions 
+monitoring plan (for example, changes that would 
+affect the status or eligibility of the operator for an 
+option under the emissions monitoring 
+requirements). In that case,  the operator is requir ed to 
+resubmit the emissions monitoring plan to the 
+authority for approval.  
+The key MRV requirements and information to be 
+included in the emissions monitoring plan are explained in the following sections.
+ 
+  
+ 
+10 Annex 16, vol. IV, Part II, 2.2.2.  11 Annex 16, vol. IV, Appendix 4.  
+
+--- PÁGINA 11 ---
+
+ 
+   
+ 
+11 CORSIA  Handbook  Administration  
+Operators are liable for compliance with the MRV and 
+offsetting requirements under CORSIA, with each 
+operator reporting to a single national authority , their  
+“administrating authority .”  
+For most commercial operators, the identification of 
+the operator responsible for a flight  and the 
+attribution of the operator to a state is  based on the 
+ICAO designator.12 The ICAO designator is a three -
+letter  code used to identify aircraft operating 
+agencies in aeronautical telecommunications 
+services. A li st of ICAO designators is published as 
+ICAO Document 8585, Designators for Aircraft 
+Operating Agencies, Aeronautical Authorities and 
+Services . 
+For operators with an ICAO designator, the operator 
+that has been assigned the ICAO designator is  the 
+accountable  entity , and it is administrated by the 
+state,  which has notified ICAO of the designator.  
+Operators without an ICAO designator are  
+administered by the state that issued their air 
+operator certificate (AOC). In the absence of AOC, they are administrated  by the state where they are 
+incorporated.   
+Two operators may request to be treated as a single 
+entity if one is a wholly owned subsidiary of the other 
+and both are administrated by the same state, subject 
+to the latter’s approval .
+13 The possibility of treating  
+several operators as a single entity does not apply 
+when they are wholly owned by a holding group that  is 
+not an operator itself. If two operators decide to be 
+treated as a single entity, their emissions will be 
+aggregated to calculate the pooled entity’s offsetting 
+requirements.  
+ 
+12 Annex 16, vol. IV, Part II, 1.1 and 1.2.  The aircraft identification information in item 7 of the flight plan will be used to associate individual flights 
+with operators . 
+If an ICAO designator is used to identify the aircraft in 
+item 7, the operator holding the ICAO designator will 
+be responsible for the flight.  
+The same applies in cases of a wet lease; if a flight is 
+operated under the ICAO designator of the lessee, 
+the obligations related to the emissions from the flight are attributed to  the lessee and not to the lessor. 
+Similarly, emissions from a code -share flight 
+marketed by different airlines are  only allocated to the 
+operator whose ICAO designator is used in the flight 
+plan.  
+If a registration mark is used in item 7 to identify an 
+aircraft, the operator in whose AOC, or equivalent document, the aircraft registration mark is listed is  
+responsible for the flight. In addition to registration marks listed in the AOC (or equivalent), and subject to 
+the approval of the administrating author ity, 
+registration marks listed in the emissions monitoring 
+plan may be used to attribute flights to an operator.  
+Suppose a flight cannot be attributed to an operator 
+based on an ICAO designator or registration mark 
+listed in the AOC or equivalent. In that case,  the owner 
+of the aeroplane will be responsible for the flight.  
+13 Annex  16, vol. IV, Part II, 1.2.6.  
+
+
+--- PÁGINA 12 ---
+
+ 
+   
+ 
+12 CORSIA  Handbook  Monitoring of CO 2 
+emissions  
+CO 2 emissions are determined based on fuel use. A s 
+a rule , actual fuel use on each individual international 
+flight  is used . However, in certain circumstances, 
+operators are eligible to use simplified monitoring.  
+Simplified monitoring  
+Operators eligible for simplified monitoring are not 
+required to monitor actual fuel use but can  calculate 
+their emissions using the IC AO CORSIA CO 2 
+Estimation and Reporting Tool (CERT), an estimation 
+tool developed by ICAO. The CERT applies CO 2 
+Estimation Models (CEMs) to estimate the emissions 
+of a flight based on great circle distance or block time 
+for a given aircraft type.14 
+A new version of the CERT is published annually,  and 
+operators must ensure they use the correct one. For example, the 2019 version of the CERT is only valid for 
+the 2019 emissions report.  
+Operators may implement the CERT’s CO
+2 Estimation 
+Models (CEMs) in their IT  systems to facilitate 
+compliance with CORSIA. They , however,  need to 
+ensure that the latest version of the CEMs is 
+implemented and that the results of implementing the 
+CEMs in IT systems are identical to those obtained 
+with the same input from the downloa dable CERT 
+version. Annex 16, volume IV, does not provide for the 
+use of any other estimation method for simplified monitoring.  During the baseline period (2019 -2020), operators 
+with annual CO
+2 emissions (from all international 
+flights) below 500,000 tonn es are eligible for 
+simplified monitoring.15  
+From 2021, an operator may use the CERT:  
+• for flights not subject to offsetting 
+requirements; and  
+• for flights subject to offsetting requirements, if the total annual CO
+2 emissions from these 
+flights are below 50,000 tonnes.16 
+If an operator’s CO 2 emissions increase above the 
+50,000 tonnes threshold for two consecutive years, it 
+will no longer be eligible to use the CERT. The 
+operator will have to submit a revised emissions 
+monitoring plan by 30 September of the following 
+year and then start monitoring its actual fuel use from 
+the following 1 January. For example, if an operator’s 
+CO 2 emissions from flights subject to offsetting 
+requirements are greater than 50,000 tonnes i n 2024 
+and 2025, a new emissions monitoring plan must  be 
+submitted by 30 September 2026 , and actual fuel use 
+must  be monitored from 1 January 2027.  
+If two operators have decided to be treated as a 
+single entity, the eligibility for simplified monitoring is  
+determined based on  their aggregated CO 2 
+emissions.  
+An operator eligible for simplified monitoring may 
+decide to monitor actual fuel use instead of using the 
+CERT to estimate its emissions.  
+ 
+ 
+ 
+14 Annex 16, vol. IV, Appendix 3.  
+15 Annex 16, vol. IV, Part II, 2.2.1.2.  16 Annex 16, vol. IV, Part II, 2.2.1.3.  
+
+--- PÁGINA 13 ---
+
+ 
+    
+13 CORSIA  Handbook  
+An operator with annual emissions greater than 
+50,000 tonnes per year can use the CERT to 
+estimate its emissions from flights which are not 
+subject to offsetting requirements. The obligation 
+to monitor actual fuel use only applies to flights 
+    
+
+--- PÁGINA 14 ---
+
+ 
+   
+ 
+14 CORSIA  Handbook  Fuel use monitoring  
+Where operators monitor actual fuel use, they may 
+select from  five fuel monitoring methods.17  
+Different methods may be used for different 
+aeroplane types (as specified in Doc 8643 – Aircraft 
+Type Designators ), but the same method must be 
+used for all aeroplanes of the same type.  
+Two variants of an aeroplane which share the same 
+ICAO aircraft type designators cannot be considered 
+as different aeroplane types. For example, an Airbus A320 is assigned “A320” as an ICAO aircraft type 
+designator irrespective of whether it is an Airbus 
+A320 -100 or - 200 variant  or retrofit ted with sharklets. 
+In contrast, an Airbus A320 and an Airbus A320neo 
+constitute different types as the A320neo is identified 
+by the “A20N” ICAO aircraft type designator.  
+Operators should use the same fuel use monitoring 
+method in the baseline period as t he one they will use 
+from 2021. With the approval of its administrating 
+authority, an operator may change the fuel monitoring method it uses for its fleet or for a sub -fleet, but the change must not occur in the middle of a 3 -year 
+compliance cycle. The cha nge can only become 
+effective from the start of the following  compliance 
+cycle.  
+It is also important to note that while the different fuel use monitoring methods require collecting  specific 
+data points, the specific means through which the 
+operator collects the data  are not prescribed. In its 
+emissions monitoring plan, the operator need s to 
+describe how it plans to collect the data for applying  
+a specific fuel monitoring method, including the 
+equipment, procedures , and documentation that  will 
+be used.  
+The operator shall identify  primary and also 
+secondary data sources , if the primary source cannot 
+be used. The operator also need s to detail the exact 
+points in time when the measurements will be made.  
+Naturally, like the other elements of the emissions 
+monitoring plan, the processes described in the 
+emissions monitoring plan will need to be considered 
+satisfactory and approved by the administrating 
+authority.
+ 
+  
+ 
+17 Annex 16, vol. IV, Part II, Appendix 2.  
+
+--- PÁGINA 15 ---
+
+ 
+   
+ 
+15 CORSIA  Handbook  The five monitoring methods are:  
+• Method A , which is based on measurements 
+after the completion of fuel uplifts (for the 
+flight under consideration and the 
+subsequent flight) and the fuel uplift for the 
+subsequent flight;  
+• Method B , which is based on measurements 
+at block -on times (preceding flight  and flight 
+under consideration) and the fuel uplift for the 
+flight considered;  
+• Block -off / block -on, which is based on the 
+fuel consumed between block -off and block -
+on; • Fuel uplift , which is based on the fuel uplift 
+before each flight , measured in volume and 
+multiplied by a density value ; and  
+• Fuel allocation with block hours , which 
+applies the average fuel burn ratio by 
+aeroplane type and during the reporting year 
+in question to the block hours of each flight.  
+The chart below provides an overview of each 
+method's data points and formulas. The figures in 
+the chart are illustrative and do not indicate any 
+quantitative differences that would be observed 
+using real -life measurements.  
+ 

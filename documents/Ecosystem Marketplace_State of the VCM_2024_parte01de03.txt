@@ -1,0 +1,720 @@
+DOCUMENTO: Ecosystem Marketplace_State of the VCM_2024
+PARTE 1 de 3
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+On the Path to MaturityState of the Voluntary Carbon Market               2024
+
+--- PÁGINA 2 ---
+
+
+
+--- PÁGINA 3 ---
+
+On the Path to MaturityState of the Voluntary Carbon Market               State of the Voluntary Carbon Market               20242024
+Author:
+Alex ProctonEditors:
+Charlotte Barber, Genevieve Bennett,
+Cheyenne CoxonResearchers:
+Ciro Calderón,
+Laura Weatherer
+
+
+--- PÁGINA 4 ---
+
+About Ecosystem Marketplace
+Ecosystem Marketplace (EM), a non-profit initiative of Forest Trends, is a leading global source of credible 
+information on environmental finance, markets, and payments for ecosystem services. For nearly two 
+decades, EM has run the world’s first and only globally recognized and standardized reporting and 
+transparency platform for voluntary carbon market (VCM) credit pricing data, news, and insights.  
+EM’s flagship State of the Voluntary Carbon Market  reports and other analyses on carbon credit 
+market dynamics (e.g., prices, volumes, projects, corporate buyers, sellers, etc.) and carbon standard 
+issuance and retirement data have become anticipated industry staples. EM also provides a publicly 
+accessible data intelligence dashboard and a news platform for market coverage.  
+EM data on prices, regulation, science, and other relevant issues on environmental services markets 
+and climate finance have been used extensively by a range of market actors, from companies, 
+journalists, and investors, to practitioners, natural resource agencies, academics, and local and 
+indigenous communities.
+About Forest Trends
+Forest Trends Association is a 501(c)(3) organization founded in 1999. Forest Trends works to 
+conserve forests and other ecosystems through the creation and wide adoption of a broad range 
+of environmental finance, markets, and other payment and incentive mechanisms. Forest Trends 
+does so by 1) providing transparent information on ecosystem values, finance, and markets through 
+knowledge acquisition, analysis, and dissemination; 2) convening diverse coalitions, partners, and 
+communities of practice to promote environmental values and advance development of new 
+markets and payment mechanisms; and 3) demonstrating successful tools, standards, and models of 
+innovative finance for conservation.
+Copyright and Disclaimer
+© 2024 Ecosystem Marketplace, an initiative of Forest Trends Association. All rights reserved. 
+Ecosystem Marketplace is an initiative of Forest Trends, located at 1203 19th Street NW, 4th Floor, 
+Washington, DC 20036 | info@ecosystemmarketplace.com | www.ecosystemmarketplace.com  | 
+www.forest-trends.org  
+Data on the voluntary carbon market transactions in this document were derived from information 
+supplied by participants in a market survey. Forest Trends’ Ecosystem Marketplace does not 
+represent or warrant the accuracy, suitability, or content of the survey responses or the results of 
+that survey as set out herein. It is the sole responsibility and obligation of the reader of this report Strategic SupportersVisionary Partners
+
+
+--- PÁGINA 5 ---
+
+to satisfy themselves as to the accuracy, suitability, and content of the information contained 
+therein. Forest Trends’ Ecosystem Marketplace (including its respective affiliates, officers, directors, 
+partners, and employees) makes no warranties and shall have no liability to the reader for any 
+inaccuracy, representation, or misrepresentation set out herein. The reader further agrees to hold 
+Forest Trends’ Ecosystem Marketplace harmless from and against any claims, loss, or damage in 
+connection with or arising out of any commercial decisions made on the basis of the information 
+contained herein. The reader of this report is strongly advised not to use the content of this report 
+in isolation, but to take the information contained herein together with other market information 
+and to formulate their own views, interpretations, and opinions thereon. The reader is strongly 
+advised to seek appropriate legal and professional advice before entering into commercial 
+transactions. 
+Unless otherwise permitted by Forest Trends or under applicable law, you may not use these 
+data for any commercial purpose. If you have any questions, please contact EM at data@
+ecosystemmarketplace.com. 
+Attribution
+Please cite this work as follows: Forest Trends’ Ecosystem Marketplace. 2024. State of the Voluntary 
+Carbon Market 2024. Washington DC: Forest Trends Association.   
+Acknowledgements
+EM thanks its core partners, supporters, and collaborators: 3Degrees, ACR/ART at Winrock 
+International, Biofílica Ambipar Environment, C-Quest Capital, Forest Stewardship Council, 
+High Tide Foundation, Livelihoods Fund, Strive by STX, Verra, Arbor Day Foundation, Everland, 
+The Nature Conservancy, and The World Bank. A special thank you to Forest Trends/Ecosystem 
+Marketplace team members Kate Brandaw Ellis and Verena Manolis, as well as Michael Jenkins 
+for his leadership. These data on voluntary carbon market dynamics come from EM’s database of 
+voluntarily disclosed over-the-counter (OTC) carbon credit transactions, which are shared with EM 
+by an international network of more than 180 “EM Respondents,” including project developers, 
+investors, and intermediaries with headquarters in over 40 countries and representing carbon 
+credit sales from thousands of nature-based and technological carbon projects in over 100 
+countries.
+Data on project registrations, credit issuances, and retirements come from the following project 
+registries: ACR, CAR, CDM, City Forest Credits, Global Carbon Council, Gold Standard, Plan Vivo, and 
+VCS.
+Writing this report would not be possible without the insight of our external reviewers. We extend 
+our thanks to: Katie Tomayko (3Degrees); Ryan Norris (Arbor Day Foundation) Luisa Cotrim (Biofílica 
+Ambipar Environment); Elsy Alvarado and Dee Lawrence (Cool Effect); Bryn Davies, Allie Goldstein, 
+Jenny Parker, and LJ Sinsley (Conservation International); Ricardo Bayon (Encourage Capital/EM 
+Strategic Advisor); Josh McCarron (Everland); Pina Gervassi and Ondrej Tarabus (Forest Stewardship 
+Council); Hugh Salway (Gold Standard); Yuejia Peng (hub101.earth /EM Strategic Advisor); Kate 
+Hamilton (Kate Hamilton LLC/EM Strategic Advisor); Zoe Gossett and Bruce Lowry (Skoll Foundation); 
+Maximiliano Bernal Temores (The Nature Conservancy); Trevor Kombo, Sohyeon Park, and Eden 
+Roehr (VCMI); Nandita Molloy (Verra); and Luke Pritchard (We Mean Business). The views presented 
+here do not necessarily reflect those of the reviewers.
+Branding, basic layout, and graphic design by Eszter Bodnar, Visilio ( www.visilio.com ). 
+Graphs and charts designed by Melissa Tatge, All the Good Design LLC.
+
+--- PÁGINA 6 ---
+
+Table of Contents
+Introduction ................................................................................................................................................................................ ........1
+Key Findings ........................................................................................................................................................................... ............3
+Market Overview  ................................................................................................................................................. .......... ............... 4
+Total Volume, Value, and Price ....................................................................................................................................... 4
+Carbon Credit Price, by Buyer Type ..................................................................................................................... .....5
+Registry Data – Project Registrations, Issuances, and Retirements ............................. ............6
+Volume, Value, and Price, by Project Attributes ........................................................................................... 10
+Project Category and Type .............................................................................................................................................. 10
+Details of Project Categories .................................................................................................................................. .......11
+Nature-based and Engineered Credits ........................................................................................................ .......13
+Reductions and Removals ............................................................................................................................................... 14
+Project Standard ....................................................................................................................................................................... 14
+Project Location ..................................................................................................................................................................... ....15
+Quality Indicators Affecting Volume, Value, and Price ....................................................................... ...17
+Co-benefit and Sustainable Development Goals Certifications ................................. .................17
+Credit Vintage ............................................................................................................................................................ ............. ....18
+CORSIA Eligibility .................................................................................................................................................................... ..18
+EM Respondent Views on the VCM in 2023 .......................................................................................... ..............20
+Conclusion .......................................................................................................................................................................... .............. 21
+Appendices ........................................................................................................................................................................ ...............21
+Data and Methodology ...................................................................................................................................................... 22
+EM Respondents, 2022-2023 ................................................................................................................................ .........22
+Glossary of Terms ........................................................................................................................................................ ............24
+Supplementary Tables ...................................................................................................................................... .................27
+
+--- PÁGINA 7 ---
+
+State of the Voluntary Carbon Market 2024    1
+Ecosystem Marketplace (EM) publishes our 
+annual State of the Voluntary Carbon Market 
+(SOVCM)  report – a series now approaching the 
+two-decade mark – to provide a comprehensive 
+overview of the global supply and demand 
+of voluntary carbon credits. We interview 
+and collect annual disclosures from market 
+participants representing the majority of project 
+developers and credit resellers, and combine 
+this with registry data from the largest carbon 
+credit standards and certifications. While SOVCM  
+reports are always retrospective, capturing the 
+previous full year of market activity, we also take 
+a forward-looking lens to understand the most 
+important developments shaping the future of 
+the voluntary carbon market (VCM).
+2023 was an unusual year for the market. Along 
+with being the hottest year on record, it was also 
+the year that the debate about the voluntary 
+carbon market reached a fever pitch. Galvanized 
+by widely read media coverage spotlighting 
+cases of unethical or ineffective carbon projects 
+and standards, public perception of carbon 
+credits took a sharp turn toward the negative. 
+At the same time, 2023 was the fourth year in an 
+upswing in the value of the VCM, which began in 
+earnest in 2020, hit a peak in 2021 when over  
+$2 billion United States dollar (USD) of credits 
+were traded, and continued into 2022 and 2023 
+as higher average credit prices have partially 
+offset declining transaction volumes. Altogether, 
+49 percent of the total VCM value reported to EM 
+since the beginning of the SOVCM  report series 
+in 2005 was transacted between 2020 and 2023, 
+and the total 2023 market value of $723 million 
+USD was greater than the annual value for any 
+year from 2009 to 2020.
+There are a couple of key questions being 
+asked about the future of the VCM. First, if 
+given a cheaper alternative to reducing their 
+greenhouse gas (GHG) emissions in-house, will 
+companies seize the opportunity to “buy their 
+way out” of responsibility and continue with 
+business as usual? 2023 gave us an answer: our 
+analysis of corporate disclosures submitted to CDP ( All In on Climate , published October 2023) 
+shows quite clearly that in terms of climate 
+action and ambition, companies engaged in the 
+VCM outperform their peers who don’t utilize 
+carbon credits, rather than lagging behind 
+them.
+Second, carbon credit watchdogs have 
+questioned whether carbon methodologies 
+are accurately accounting for projects’ actual 
+emissions reductions. 2023 was the year of 
+repeat volleys between market observers 
+alarmed by a series of papers contending that 
+baselines for the majority of REDD+ projects were 
+vastly overinflated, followed by equally sharp 
+rebuttals detailing problems with those papers’ 
+methodologies, and suggesting that the critical 
+studies relied on cherry-picked negative findings 
+and misrepresented results. A new consolidated 
+methodology from the Verra standard addresses 
+the issues raised, but is unlikely to completely end 
+the controversy over methodological assumptions 
+inherent in nature-based projects’ estimations of 
+GHG mitigation and removal benefits.
+In response to these concerns, a set of integrity 
+initiatives (see Box 3 on page 19) have stepped in 
+to play a market governance role and set clear, 
+high standards for quality both on the supply 
+and demand sides. But much of 2023 was spent 
+in a kind of limbo waiting on signals from these 
+initiatives–without a doubt sacrificing some short-
+term market activity to the long-term project of 
+integrity. Unresolved questions about how Article 
+6 of the Paris Agreement will apply to voluntary 
+carbon credits added further uncertainty to the 
+market (see Box 2 on page 16). 
+The VCM faced all of these headwinds in 2023. 
+In response, the overall volume of the market 
+dropped by 56 percent from 2022. REDD+ 
+project developers in Asia, Latin America, 
+and the Caribbean bore the brunt of this 
+market contraction. Over the past year, many 
+buyers have preferentially sought out credits 
+representing emissions removals, not reductions 
+(we dig into this distinction later in the report), 
+and credits that are generated closer to home. Introduction
+
+--- PÁGINA 8 ---
+
+2                                                           On the Path to Maturity
+Prices were more supported, with the market 
+average price dropping to $6.53/ton, down 11 
+percent from $7.37 in 2022, but over 60 percent 
+higher than average prices in 2021.
+These are the headline figures, but frankly 
+they’re of limited use in understanding the VCM 
+today. Every credit represents a ton of carbon 
+emissions removed or reduced, but beyond that, 
+there is enormous differentiation in terms of 
+pricing and market share, depending on credit 
+type, geographic provenance, standard, vintage, 
+and certification of additional benefits such as 
+sustainable development or biodiversity. In other words, nuance is needed, and so is 
+taking time to understand what the data are 
+really telling us. That applies also to debates 
+about carbon markets. We see good intentions 
+on both sides of the VCM controversies. 
+Difference, debate, and course-correction are 
+a sign of a healthy system, not a broken one. 
+We are honored to bring you the latest State of 
+the Voluntary Carbon Market , and contribute 
+in our own way to market integrity: through 
+transparency and evidence.
+
+--- PÁGINA 9 ---
+
+State of the Voluntary Carbon Market 2024    3
+1. In 2023, the volume and value of the 
+voluntary carbon market (VCM) contracted 
+for the second year in a row from its 2021 
+peak, with a 56 percent year-on-year decline 
+in the volume of reported transactions. 
+ ●The total reported transaction value  
+of the VCM was $723M USD, down  
+61 percent from last year.
+2. On average, buyers paid $6.53 per ton CO2e 
+for carbon credits in 2023, a slight decrease 
+from 2022. Average credit prices in 2023 were 
+higher than in any year before 2022. As of 
+early 2024, prices appear to be rebounding 
+from this dip.
+3. Market participants reported a clear negative 
+impact from media scrutiny of the VCM. 
+Negative press questioning the additionality 
+and governance of carbon credit projects 
+and potential corporate buyer greenwashing 
+overshadowed many positive market 
+developments in 2023. This translated to both 
+a direct pullback in buyer investment, and 
+increased complexity for project developers, 
+whether due to changing requirements from 
+credit issuing standards or greater demand for 
+due diligence from credit buyers.
+4. The publication of the ICVCM’s Core Carbon 
+Principles and the launch of VCMI’s Claims 
+Code contributed to buyer confidence in 
+market quality and integrity. But delays in 
+implementation of these initiatives and a lack 
+of guidance from the Science Based Targets 
+Initiative (SBTi) on the use of carbon offsets 
+to meet corporate net-zero goals was cited by 
+many respondents as a prime factor keeping 
+buyers on the sidelines for much of late 2023. 
+5. The data suggest a growing bifurcation 
+in the market between buyers seeking 
+pure carbon removal projects and those 
+committed to projects that deliver social and 
+environmental co-benefits. Co-benefits are 
+a core motive for some buyers, an interesting 
+trend pointing to the possibility of greater convergence with emerging markets for 
+nature-positive and biodiversity credits.
+ ●In 2023, buyers preferentially sought out 
+credits representing emissions removals 
+and clearly demonstrated project 
+additionality .
+ ●While the share of credits traded from 
+projects certifying “beyond carbon” 
+co-benefits through Sustainable 
+Development Goals (SDGs) or individual 
+certifications grew, the premium that 
+buyers paid for these credits declined from 
+2022 values, suggesting a growing supply 
+of projects providing local co-benefits.
+6. Although total market value fell for all 
+VCM credit categories, different categories 
+had distinct trajectories in terms of traded 
+volumes and average price. 
+ ●The biggest gross declines in volume 
+occurred among Forestry and Land Use 
+and Renewable Energy credits, which 
+remain the most popular project types, 
+but faced intense scrutiny, particularly 
+around project additionality calculations. 
+ ●The volume of transactions in the Energy 
+Efficiency/Fuel Switching, Agriculture, and 
+Household/Community Devices categories 
+all increased  from 2022.
+ ●Within the Forestry and Land Use credit 
+category, REDD+ credits, the most 
+popular nature-based project type, lost 
+62 percent of their value year-over-
+year, with transaction volume falling 
+51 percent and price falling 23 percent. 
+Prices for Afforestation-Reforestation and 
+Revegetation (ARR) and Improved Forest 
+Management (IFM) credits both increased. 
+The 2023 pullback from REDD+ projects 
+affected transaction volume of projects 
+in Asia, Latin America, and the Caribbean, 
+where the majority of these projects are 
+located. EM survey respondents shared 
+that many buyers in higher income 
+countries are seeking credits from projects 
+closer to home.Key Findings
+
+--- PÁGINA 10 ---
+
+4                                                           On the Path to Maturity
+Total Volume, Value, and Price 
+In 2023, the volume and value of the voluntary 
+carbon market (VCM) contracted to a total of 
+111 million tons CO2e (MtCO2e) transacted - a 56 
+percent drop from 2022 levels (Figure 2; Table 
+1). Credit prices also fell, but by less. The average 
+price per ton CO2e of VCM credits declined by  
+11 percent from record highs in 2022, to $6.53 USD 
+per ton CO2e in 2023. Early data on 2024 prices 
+to date suggest they are holding at or above this 
+level. The combination of a decrease in volume 
+and a pullback from last year’s peak prices 
+translated to a 61 percent decline in total market 
+value year-over-year, for a total reported value of 
+$723 million USD (Figure 1; Table 1).These figures are based on market data received 
+from 90 EM Respondents with transactions in 
+2023, compared to 115 Respondents in 2022. The 
+number of Respondents declined year-over-year 
+due to mergers between some Respondents 
+and others temporarily pausing credit sales in 
+2023 while they waited for the VCM to establish 
+stronger integrity and quality norms. It is not 
+surprising that fewer Respondents shared 
+transaction data in a year of lower volume. 
+EM analysts confirmed that this effect did not 
+skew the estimate of the decline in transaction 
+volume from 2022 by comparing a core group of 
+80 Respondents who submitted data for both 
+2022 and 2023, including the highest-volume 
+Respondents. The relative decline in transaction Market Overview
+Table 1. Annual Total Voluntary Carbon Market Transaction Volume, Value, and Price per tCO2e for All Projects, 
+2022-2023
+2022 2023 Percent Change
+Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume
+(MtCO2e)Value
+(USD)Price
+(USD)Volume Value Price
+253.8 $1.87 B $7.37 110.8 $723 M $6.53 -56% -61% -11%
+Figure 1. Voluntary Carbon Market Size, by Value of Traded Carbon Credits, pre-2005 to 2023
+$301M
+$48M $111M$359M$790M
+$485M$444M$602M
+$530M
+$339M$298M $278M $285M $320M$534M$2.1B
+$1.9B
+$723M
+$199M$136M
+2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 pre-
+200505001000150020002500Annual Value (millions USD)$10.8B
+01246811
+357910
+Cumulative Value (billions USD)
+Cumulative Value
+
+--- PÁGINA 11 ---
+
+State of the Voluntary Carbon Market 2024    5
+volume for this group was 54 percent from 
+2022, indicating that the finding of a 56 percent 
+decline in the total VCM volume in 2023 is robust. 
+Qualitative feedback from EM Respondents 
+indicated disparate trends among sub-sectors of 
+the market that help explain why credit volumes 
+dropped so steeply, while value declined 
+relatively less. Market participants expressed 
+increasing buyer preference for credits from 
+nature-based and community-focused project 
+types that offer environmental and social co-
+benefits in addition to emissions reductions, 
+as opposed to credits generated by carbon 
+removal, most frequently through Afforestation-
+Reforestation and Revegetation (ARR) projects.
+Carbon Credit Price, by Buyer Type
+In 2023, VCM credit sales to end users1 had 
+a 33 percent price premium over sales to 
+intermediaries, consistent with 2022 (Table 2). 
+Intermediaries who take ownership of credits for 
+speculative purposes are typically more price-
+sensitive, though the magnitude of this effect 
+varies by project category and carbon credit 
+standard. 
+1 “End users” include transactions where the buyer was 
+identified as an end user as well as those where the buyer 
+was an intermediary who does not take delivery of credits, 
+but instead purchases on behalf of an end user.Energy Efficiency/Fuel Switching and Renewable 
+Energy credit transactions had the largest 
+premium for end users, and the majority of sales 
+in these categories were to intermediaries. This 
+suggests that buyers in these sectors rely more 
+on intermediary brokers and resellers to parse 
+project quality, and that credit resellers can 
+take advantage of the relatively low prices of 
+credits from Energy Efficiency and Renewable 
+Energy projects to make a greater profit when 
+selling to end users. The majority of transactions 
+in the Chemical Processes and Industrial 
+Manufacturing, Forestry and Land Use, and 
+Agriculture categories were sales to end users, 
+and premiums for these end-user sales were 
+smaller than for other categories because these 
+credits changed hands fewer times.
+Table 2. Annual Voluntary Carbon Market Transaction 
+Price (USD), by Buyer Type, 2022-2023
+2022 2023
+Buyer Type Price (USD) Price (USD)
+Total VCM $7.37 $6.53
+End User $8.74 $7.79
+Intermediary $6.40 $5.87Figure 2. Voluntary Carbon Market Size, by Volume of Traded Carbon Credits, pre-2005 to 2023
+2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 pre-
+2005
+Cumulative VolumeAnnual Volume (MtCO/uni2082e)
+75M
+12M 32M70M135M
+107M131M
+100M 103M
+68M 77M 84M99M 105M208M516M
+111M254M
+64M47M
+0100200300400500600
+05001000150020002500
+Cumulative Volume (MtCO/uni2082e)2.4B
+
+--- PÁGINA 12 ---
+
+6                                                           On the Path to Maturity
+Gold Standard credits had the greatest premium 
+for end-user sales among credit standards, 
+amounting to a 140 percent premium in 2023, up 
+from 83 percent in 2022. The premium for end-
+user sales of Clean Development Mechanism 
+(CDM) and Verified Carbon Standard (VCS) 
+credits also increased substantially, with a 
+premium of 58 percent for CDM in 2023 versus 
+18 percent in 2022. End users paid a 47 percent 
+premium for VCS credits in 2023 versus 30 
+percent in 2022. This may indicate that credit 
+buyers are increasingly turning to trusted 
+intermediaries to vet project quality for the 
+largest carbon credit standards. Credit resellers 
+played a large role in CDM credit transactions, 
+in particular, with the proportion of CDM credit 
+sales to intermediaries increasing to 73 percent 
+in 2023, versus 54 percent in 2022. This growth 
+in credits sold to intermediaries and the gradual 
+decline in CDM credit issuances now that CDM 
+is no longer registering new projects is likely 
+the result of market uncertainty around the 
+transition of CDM projects to a future Article 6 
+mechanism for transnational carbon trading 
+under the Paris Agreement.Registry Data – Project Registrations, 
+Issuances, and Retirements
+EM analysis of publicly available data from 
+credit standard registries of projects and 
+credit issuances and retirements illuminates 
+the underlying supply and demand of carbon 
+credits underpinning VCM transactions. Despite 
+market headwinds, the total number of new 
+registered projects grew to 694 in 2023, led by 
+329 Household/Community Devices projects. 
+Forestry and Land Use, Renewable Energy, 
+Agriculture, and Waste Disposal project 
+registrations also grew year-on-year, while the 
+greatest decline in new registrations was for 
+Chemical Processes/Industrial Manufacturing 
+(Figure 3).
+New project registrations represent the end of a 
+long process involving a project proposal, public 
+comment period, and methodological validation. 
+Credit issuances by projects often occur close 
+to the time of initial credit sale by the project 
+developer, while end users may wait one or 
+Figure 3. Carbon Credit Project Registrations, by Category, 2019-2023
+Note: Includes data on project registrations from ACR, CAR, CDM, City Forest Credits, Global Carbon Council, Gold Standard, 
+Plan Vivo, and VCS registries.030060090012001500
+2023 2022 2021 2020 2019
+Agriculture
+Chemical Processes / Industrial Manufacturing
+Energy Eﬃciency / Fuel SwitchingForestry and Land Use
+Household / Community Devices
+Renewable EnergyTransportation
+Waste DisposalNumber of Projects Registered
+
+--- PÁGINA 13 ---
+
+State of the Voluntary Carbon Market 2024    7
+more years to retire credits that they purchase 
+from the VCM. Therefore, recent market trends 
+reflect the rate of registrations, issuances, and 
+retirements, in combination with the volume 
+of transactions that do not result in credit 
+retirement.
+Compared to 2022, there was a 93 MtCO2e 
+decrease in credit issuances in 2023 and a 2.6 
+MtCO2e increase in retirements, indicating 
+that the surplus supply of carbon credits is 
+tightening, but still substantial (Figure 4). The 
+categories contributing the most to the decline 
+in issuances were Chemical Processes/Industrial 
+Manufacturing and Energy Efficiency/Fuel 
+Switching. Meanwhile, issuances of Household/
+Community Devices and Transportation credits 
+increased, with Household/Community Devices 
+projects more than doubling the volume of 
+credits issued in 2022 with an increase of 31 
+MtCO2e (Figure 5). Issuances of Transportation 
+credits increased in 2023, which is a natural 
+result of an increase in Transportation projects registered in 2022; the annual transaction 
+volume for this category remains low.
+The categories with the greatest growth in 
+retirements were Forestry and Land Use and 
+Chemical Processes/Industrial Manufacturing, 
+while retirements of Renewable Energy, Waste 
+Disposal, and Transportation credits decreased 
+(Figure 5). This suggests that credit buyers 
+are moving away from projects with weaker 
+additionality, such as international clean 
+infrastructure financing, and embracing projects 
+that deliver clear carbon removals and emissions 
+reductions in the Forestry and Land Use and 
+Chemical Processes/Industrial Manufacturing 
+categories. Total annual credit retirements have 
+hovered around 170 MtCO2e for the past three 
+years, indicating that the fundamental demand 
+from end users has remained steady, with more 
+upside for the rate of retirements if corporate 
+buyers are permitted to claim credits as offsets 
+against their Scope 3 emissions targets (see Box 
+3, page 19).
+Figure 4. Cumulative VCM Issuances and Retirements, 2002-2023
+Note: Includes data on credit issuances and retirements from ACR, CAR, CDM, City Forest Credits, Global Carbon Council, Gold 
+Standard, Plan Vivo, and VCS registries.2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002Volume (MtCO/uni2082e)
+125K
+ 126K
+ 3M
+ 14M
+ 122M
+585M
+1.3B
+1.6B
+1.8B
+2.0B
+2.1B
+2.3B
+2.7B
+2.9B
+2.5B
+935M
+419M
+269M
+ 125K
+0
+ 0
+ 407
+ 776
+ 8K
+ 432K
+ 4M
+ 2M
+ 9M
+ 19M
+ 60M
+ 86M
+3.8B
+3.3B
+196M
+122M
+315M
+ 246M
+155M
+4.1B
+409M
+571M
+731M
+891M
+35M 010002000300040005000
+Issuances Retirements
+
+--- PÁGINA 14 ---
+
+8                                                           On the Path to Maturity
+Figure 5. Cumulative VCM Issuances and Retirements, by Project Category, 2002-2023
+Note: Includes data on credit issuances and retirements from ACR, CAR, CDM, City Forest Credits, Global Carbon Council, Gold 
+Standard, Plan Vivo, and VCS registries.020040060080010001200
+0300600900120015001800
+050100150200
+0501001502002500100200300400500600
+050100150200250300
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Household / Community Devices
+0345678
+2
+1
+Volume (MtCO2e)
+Issuances Retirements
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Waste DisposalVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Transportation
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Forestry & Land UseVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Energy Eﬃciency / Fuel Switching
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Chemical Processes / Industrial ManufacturingVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Agriculture
+Renewable Energy051015202530
+Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances Retirements020040060080010001200
+0300600900120015001800
+050100150200
+0501001502002500100200300400500600
+050100150200250300
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Household / Community Devices
+0345678
+2
+1
+Volume (MtCO2e)
+Issuances Retirements
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Waste DisposalVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Transportation
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Forestry & Land UseVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Energy Eﬃciency / Fuel Switching
+Volume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Chemical Processes / Industrial ManufacturingVolume (MtCO2e)
+202320222021202020192018201720162015201420132012201120102009200820072006200520042002Agriculture
+Renewable Energy051015202530
+Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances RetirementsIssuances Retirements Issuances Retirements
+
+--- PÁGINA 15 ---
+
+State of the Voluntary Carbon Market 2024    9
+The reduction or removal of one ton of carbon emissions is equivalent no matter where in the 
+world it takes place, which is the basis of carbon credits as a fungible instrument to finance 
+climate change mitigation. Depending on the circumstances of the credit’s generation, or the 
+circumstances of its use as an offset for greenhouse gas emissions, a transaction can be considered 
+part of the VCM or a compliance carbon market, or–due to increasing linkages between the VCM 
+and compliance carbon markets–a part of both market types.
+Voluntary and compliance carbon markets can be differentiated based on the source of supply 
+for carbon credits or the ultimate type of demand for emissions offsetting. Credits may be 
+issued through one of three processes: international crediting mechanisms administered by 
+an international organization (e.g., the Clean Development Mechanism (CDM), national or sub-
+national governmental crediting mechanisms (e.g., the California Compliance Offset Program, the 
+Australian Carbon Credit Unit Scheme, or the Japanese J-Credit Scheme), or independent crediting 
+mechanisms (e.g., Verified Carbon Standard (VCS) and Gold Standard).
+Carbon credits can be used as emissions offsets within international or domestic compliance 
+mechanisms or for voluntary purposes. As established in the Paris Agreement, credits traded for 
+international compliance purposes can contribute to the buyer country’s Nationally Determined 
+Contributions (NDCs), and must include a “corresponding adjustment,” which is an additional 
+agreement that prevents the project’s host country from “double-counting” the traded emissions 
+reductions/removals against their own NDCs (see Box 2, Implementation of Article 6 of the 
+Paris Agreement). Domestic compliance schemes are established within a country, subnational 
+jurisdiction, or an industry (e.g., automobile manufacturing), and often include a credit issuance 
+mechanism to facilitate emissions reduction trading. Finally, there is the voluntary segment of 
+demand, which consists of private entities such as corporations purchasing and retiring carbon 
+credits to meet their own self-imposed emissions reduction goals.
+The boundaries between the VCM and international and domestic compliance markets have 
+become blurred as compliance systems, such as the California Cap-and-Trade Program and 
+the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA), have allowed 
+participants to use credits from independent crediting mechanisms that would otherwise be 
+considered voluntary credits. International mechanisms, the most prominent example being CDM, 
+are meant to drive investment in climate solutions in countries with the greatest potential for 
+greenhouse gas mitigation. However, because participation in these systems by project proponents 
+and credit buyers is entirely voluntary, they can also be considered voluntary mechanisms, even 
+when used to achieve internationally mandated outcomes.
+EM believes that our Respondents, who are typically sell-side market participants, are best-placed 
+to determine whether their credit transactions were within the voluntary or compliance carbon 
+markets. The VCM transactions discussed in this report originate from independent crediting 
+mechanisms as well as the international, UN-administered CDM .Box 1: Connections Between Voluntary and Compliance Carbon Credit Markets

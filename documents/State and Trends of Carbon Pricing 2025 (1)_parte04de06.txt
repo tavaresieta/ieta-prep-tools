@@ -1,0 +1,584 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 4 de 6
+Páginas 46 a 60
+======================================================================
+
+
+--- PÁGINA 46 ---
+
+State and Trends of Carbon Pricing 202546
+In recent years, 
+the linkages and 
+overlaps across 
+compliance 
+and voluntary 
+markets, as well as 
+international and 
+domestic markets, 
+have increasedCHAPTER 3
+Carbon crediting markets and mechanisms 
+In 2024, carbon credit markets saw retirements increase, issuances stabilize, and average prices slightly decline. However, 
+there has been increasing divergence in demand, supply, and prices across different types of credits. The growth in carbon 
+credit retirements was mainly due to a spike in demand from domestic compliance markets, while demand from voluntary 
+buyers dipped slightly. Supply continued to outstrip demand, moving the global pool of unretired credits from independent 
+crediting mechanisms close to 1 billion tons. Pricing also shows differentiation across credit types. Credits from carbon 
+removal projects (such as afforestation and reforestation) continue to exhibit price premiums, and credits eligible under 
+international compliance markets and those with higher-quality ratings also attracted higher prices. 
+3.1 Domestic compliance demand for carbon credits 
+increased, while voluntary buyers shifted toward 
+carbon removals
+The carbon credit market landscape is complex, with 
+increasing levels of overlap and interaction with carbon 
+taxes and ETSs. Global carbon credit markets consist of a 
+diverse range of sources of supply, sources of demand, and 
+trading frameworks (Box 8). Historically, there were more 
+discrete markets for carbon credits, where specific sources 
+of supply were matched to distinct sources of demand. 
+For example, independent crediting mechanisms largely 
+supplied the voluntary buyers, while international crediting 
+mechanisms were primarily used by countries to meet 
+international commitments (e.g., under the Kyoto Protocol). 
+In recent years, the linkages and overlaps across compliance 
+and voluntary markets, as well as international and domestic 
+markets, have increased. As a result, few sources of supply 
+can be matched to a single source of demand (Figure 11). For example, certain carbon credits from independent crediting 
+mechanisms (which have historically been used by voluntary 
+buyers) are increasingly permitted in domestic compliance 
+markets—such as in California, Chile, Colombia, and South 
+Africa—in addition to being used by businesses to meet 
+voluntary commitments.
+
+--- PÁGINA 47 ---
+
+State and Trends of Carbon Pricing 202547
+BOX 8
+The carbon credit market landscape
+Carbon credit markets trade “carbon credits,” which are units that 
+represent an emission reduction, avoidance or removal equivalent to 
+1-tCO2e, generated through voluntarily implemented mitigation activities. 
+Emissions reductions can be generated, for instance, by destroying 
+methane generated at landfills or meeting energy demand with solar or 
+wind instead of fossil fuels. Avoided deforestation, including Reducing 
+Emissions from Deforestation and Forest Degradation, is another example 
+of an emission reduction project. Carbon credits can also represent 
+carbon dioxide removals from the atmosphere, such as sequestering 
+carbon through afforestation or directly capturing carbon from the air and 
+storing it. FIGURE 11
+Sources of demand and supply in global carbon credit markets
+Note: While there is crossover between categories, not all sources of carbon credits are fully fungible 
+across demand segments. For example, international compliance and nationally determined contribution 
+achievement require authorized credits that include a corresponding adjustment.
+
+--- PÁGINA 48 ---
+
+State and Trends of Carbon Pricing 202548
+The four main sources of demand for carbon credits are as follows:
+• Domestic compliance: This consists of liable entities under mandatory 
+compliance schemes, such as ETSs and carbon taxes, being allowed 
+to purchase carbon credits to meet a portion of their compliance 
+obligations. Examples include liable entities purchasing credits for 
+compliance with Colombia’s carbon tax, the Republic of Korea’s ETS, 
+and California’s Cap-and-Trade Program.
+• International compliance: CORSIA, introduced by the International 
+Civil Aviation Organization, is currently the only international sectoral 
+compliance system. CORSIA requires covered airlines to offset the 
+growth in their CO₂ emissions beyond 2019 levels by purchasing carbon 
+credits issued by approved crediting mechanisms.
+• Nationally determined contribution (NDC) achievement: This refers 
+to sovereign demand for international carbon credits (internationally 
+transferred mitigation outcomes) authorized under Article 6 of the 
+Paris Agreement to meet (or outperform) national climate targets 
+(articulated through NDCs submitted to the United Nations Framework 
+Convention for Climate Change). Examples of sovereign buyers include 
+Singapore and Switzerland. 
+• Voluntary: This involves private entities purchasing carbon credits 
+to meet voluntary mitigation commitments. These commitments 
+include corporate net zero targets and other voluntary climate or 
+environmental claims.The supply of carbon credits (discussed in Section 3.2) is generated 
+through three main categories of crediting mechanisms:
+• Governmental crediting mechanisms: These are administered by 
+one or more national or sub-national governments. Examples of such 
+mechanisms include the Thai-VER scheme, the Californian Compliance 
+Offset Program, and the Australian Carbon Credit Unit Scheme.
+• Independent crediting mechanisms: This category includes 
+mechanisms administered by nongovernmental organizations. 
+Examples include Verra’s Verified Carbon Standard (VCS) and Gold 
+Standard.
+• International crediting mechanisms: These are administered or 
+managed by an international organization established with the 
+authority of national governments, such as UN agencies. The principal 
+international crediting mechanism is the centralized Paris Agreement 
+Crediting Mechanism (PACM), established under Article 6.4 of the Paris 
+Agreement.
+
+--- PÁGINA 49 ---
+
+State and Trends of Carbon Pricing 202549
+Overall, carbon credit retirements rose, supported by 
+increased demand from compliance buyers. Retirements 
+reflect the annual use of carbon credits toward, for example, 
+making specific claims or complying with a carbon pricing 
+obligation. Retirements serve as a useful proxy for demand, 
+as they do not include cross-temporal demand, such as 
+buyers purchasing credits for future use. Total retirements 
+in 2024 were around 15% higher than in 2023 (Figure 12). 
+The rise is primarily attributable to a short-term spike in 
+demand for compliance purposes (almost three times higher 
+than in 2023), whereas total retirements for voluntary 
+purposes declined slightly, year on year.viiAs a result, in 2024, 
+retirements for compliance purposes accounted for almost 
+a quarter of all observed retirements (compared to 9% in 
+2023). Over half of compliance retirements in 2024 were 
+from entities liable under the California and Québec ETSs,67 
+where businesses were required to finalize obligations for 
+the three-year compliance period (2021–2023) by November 
+2024.viiiiWhile the increase in retirements was partly driven 
+by these multi-year compliance cycles, compliance markets 
+are nevertheless an important ongoing source of demand 
+for carbon credits. This role may increase as new sources 
+of compliance demand emerge (Box 9). This includes 
+Singapore’s carbon tax and Korea’s ETS, which both permit 
+the use of international credits. 
+vi Based on analysis jointly delivered by the World Bank and AlliedOffsets.
+vii For example, in California's cap-and-trade program, compliance periods are triennial, i.e., three years in length, with smaller annual events in between. For the program's fourth 
+compliance period, covering 2021-2023, covered entities had to submit compliance instruments for 30% of their 2021 emissions in 2022; for 30% of their 2022 emissions in 2023; 
+and then in 2024 for 70% of their 2021 emissions, 70% of their 2022 emissions, and 100% of their 2023 emissions. 
+Note: Based on a joint analysis by the World Bank and AlliedOffsets.FIGURE 12
+Total carbon credit retirements for compliance and voluntary purposes and demand sources for compliance 
+retirements, 2023–2024
+
+--- PÁGINA 50 ---
+
+State and Trends of Carbon Pricing 202550
+Demand from voluntary buyers shifted toward nature-
+based removals and clean cooking projects. Retirements 
+of nature-based carbon removal credits (within the forestry 
+and land use category) issued by independent crediting 
+mechanisms rose by nearly 25%, through a combination 
+of increased supply and buyer interest in credits from 
+carbon removal projects. This marked a new high. New 
+buyer interest was also reflected in the robust volume of 
+capital flowing to nature-based carbon removal activities 
+through long-term offtake commitments announced 
+by investors and buyer groups such as the Symbiosis 
+Coalition, a 20-million-ton advanced market commitment 
+to purchase nature-based removals.68 The recognition of 
+carbon removal credits in voluntary corporate net-zero 
+targets, along with jurisdictions such as the UK considering 
+the potential for incorporating removals into domestic 
+carbon pricing instruments, could be contributing to this 
+trend. Beyond removals, carbon credits generated by 
+household technologies—namely clean cooking solutions—
+also experienced a significant increase in demand, with 
+retirements rising 50% compared to 2023. While retirements 
+of credits from renewable energy projects declined slightly, 
+the category still made up nearly one-third of all retirements 
+recorded by independent crediting mechanisms in 2024 
+(Figure 13).69 New purchasing commitments for engineered 
+carbon removals emerged during 2024, with an estimated 
+8 million tons purchased but only 318,000 tons delivered 
+to buyers (a ratio of approximately 4%).70 The majority of 
+purchasing commitments are therefore intended to support 
+projects delivering credits in future years.
+Note: Based on data from Climate Focus’s Voluntary Carbon Market Dashboard, using project categorizations based on those published by 
+Ecosystem Marketplace. The volume of issuances and retirements by project category covers the following crediting mechanisms: American 
+Carbon Registry, Architecture for Reducing Emissions from Deforestation and Forest Degradation Transactions, BioCarbon, Cercarbono, Climate 
+Action Reserve, Climate Forward, Gold Standard, Plan Vivo, and Verra’s VCS. All issuance and retirement data here refers to original issuances, 
+which only include the first time a credit was issued for a specific emission reduction/removal activity to avoid double counting. Original 
+issuances do not rely on previous issuances from other crediting mechanisms.FIGURE 13
+Carbon credit issuances and retirements from independent crediting mechanisms and volume of unretired 
+credits, 2021–2024
+
+--- PÁGINA 51 ---
+
+State and Trends of Carbon Pricing 202551
+BOX 9
+Interactions between carbon pricing and crediting 
+mechanisms
+Carbon crediting and pricing can complement one another, 
+particularly where there are formalized links between them. Around 
+40% of implemented ETSs and carbon taxes worldwide allow covered 
+installations or companies to use carbon credits to meet part of their 
+obligations, providing flexibility while channeling funds to lower-cost 
+mitigation opportunities outside the regulated sectors.viii Most carbon 
+pricing instruments cap this flexibility to a predetermined share to 
+preserve emissions reductions from covered sectors while providing 
+businesses with flexibility. For example, the Colombian carbon tax allows 
+for a maximum of 50% of tax liabilities to be offset through carbon 
+credits generated by independent crediting mechanisms. Similarly, Chile 
+permitted companies to use carbon credits to offset their liabilities under 
+their carbon tax from 2024. South Africa announced in March 2025 a 
+proposed increase in the allowable use of carbon credit by 5%—increasing 
+the quantitative limit to either 10% or 15% (depending on the sector) from 
+January 2026.71 Some countries have also allowed companies to use 
+international credits generated under Article 6 of the Paris Agreement 
+for compliance purposes. For instance, Singapore allows companies to 
+cover up to 5% of their carbon tax obligations with international credits, 
+provided they are not double counted.72 Similarly, liable entities in the 
+Republic of Korea can cover up to 5% of their ETS compliance obligations 
+using carbon credits, including from international sources.73Carbon crediting can also build capacity to help implement carbon 
+pricing and extend price incentives to uncovered sectors. The 
+implementation of crediting mechanisms can help build institutions, 
+monitoring systems, and regulatory frameworks. While these are not 
+a prerequisite for all forms of carbon pricing (e.g., an upstream carbon 
+tax would not require them), establishing frameworks, systems, and 
+institutions can provide valuable learnings for countries considering a 
+domestic compliance policy. Carbon crediting mechanisms have been 
+frequently used to help incentivize decarbonization efforts in sectors not 
+covered by an ETS or carbon tax, such as waste and the land sector. For 
+example, the EU and UK are exploring the potential to integrate carbon 
+removal into their respective ETSs.74
+i 
+viii Based on data directly provided by the jurisdictions, reflecting the share of jurisdictions that allow the use 
+of offsets as a flexibility mechanism for compliance under an ETS or carbon tax.
+
+--- PÁGINA 52 ---
+
+State and Trends of Carbon Pricing 202552
+ICAO estimates 
+that total demand 
+during the first 
+phase of CORSIA 
+will be between 102 
+and 148 million tonsDemand from CORSIA—the international compliance 
+market for airlines—started to materialize, with large but 
+uncertain estimates for future demand. The International 
+Civil Aviation Organization (ICAO), which oversees the 
+scheme, introduced key updates in 2024 for the scheme’s 
+first phase, which covers international aviation emissions 
+from 2024 to 2026 and follows the voluntary pilot phase 
+that concluded in 2023.75 These updates included approving 
+additional crediting mechanisms and clarifying phase 1 
+airline participation rules. In line with the commencement 
+of phase 1, the International Air Transport Association 
+(IATA) organized a procurement event (see Section 3.3). 
+While this represents the first initial demand from phase 1, 
+ICAO estimates that total demand during the first phase 
+of CORSIA will be between 102 million and 148 million 
+tons.76 This estimated cumulative demand would equate 
+to between nearly half and three-quarters of the volume 
+of carbon credits retired in 2024. However, given that 
+enforcement of CORSIA obligations on airlines falls on 
+national governments, the extent to which this demand 
+materializes is dependent on when and how participating 
+jurisdictions transfer CORSIA’s rules into national law. As of 
+April 1, 2025, only Brazil, Canada, the EU, and the UK had 
+commenced incorporating CORSIA into their domestic legal 
+frameworks.77 
+Guidance on claims around the use of carbon credits in 
+voluntary corporate climate action remains fragmented 
+and inconsistent. The Science Based Targets Initiative—a 
+climate action organization that defines a science-based 
+framework for achieving net zero goals—released its revised 
+corporate net zero standard for public consultation in March 2025. The draft standard would allow companies to use 
+carbon removal credits to achieve both near- and long-term 
+targets, but it continues to limit the use of other types of 
+carbon credits to beyond value chain mitigation only.78 Other 
+frameworks for corporate use of carbon credits are also 
+undergoing revisions. In September 2024, the Voluntary 
+Carbon Markets Integrity Initiative—a nonprofit providing 
+guidance on corporate climate action through the voluntary 
+use of carbon credits—launched a public consultation on 
+its updated guidelines for corporate claims. It has also 
+developed a Scope 3 Action Code of Practice for companies 
+interested in addressing value chain emissions.79 These 
+guidelines propose the use of carbon credits until 2038 
+for scope 3 claims in order to allow companies flexibility 
+in their science-aligned decarbonization. In addition, the 
+International Organization for Standardization—a global, 
+nonprofit organization that develops and publishes quality 
+and safety standards across industries—started the 
+development of its own international standard for net zero 
+corporate accounting. The draft standard and its guidance 
+on the role of carbon credits is yet to be made public.80  In 
+parallel, jurisdictions such as the EU and UK have been 
+adopting policies to guide offset-related claims.81 While 
+these regulations differ in scope and stringency, they 
+generally adopt a cautious approach toward using carbon 
+credits in climate claims, pushing for high environmental 
+integrity and improved transparency (where carbon credits 
+are permitted).
+
+--- PÁGINA 53 ---
+
+State and Trends of Carbon Pricing 202553
+Carbon credit insurance products continue to evolve 
+to help manage uncertainty and scale investment in 
+carbon markets. As in other industries, insurance can play 
+a critical role in de-risking and scaling up investments in 
+carbon credit projects, in turn boosting demand and trust 
+in the market. A range of specialized insurance products 
+are currently offered, from carbon delivery insurance 
+solutions (e.g., covering physical or reversal risks82), to 
+political risk insurance (e.g., protecting against confiscation, 
+nationalization, license cancellation, or revocation of 
+authorization under Article 683), to warranty and indemnity 
+policies (e.g., policy protecting buyers or investors against 
+environmental integrity issues84). Beyond primary insurance 
+products, the market is actively exploring reinsurance 
+solutions to help insurers manage exposure and expand 
+capacity—key to fostering more resilient and scalable 
+insurance markets.85 In parallel to these commercial 
+insurance solutions, the Multilateral Investment Guarantee 
+Agency (MIGA) issued its first political risk guarantee for a 
+project supporting the host country’s commitment under 
+the Paris Agreement: a USD 180 million policy for a clean 
+cookstove project in Kenya.86 In addition to covering the 
+risks of expropriation, transfer restriction, and war and 
+civil disturbance, the policy also offers breach of contract 
+coverage against the risk of the host country failing to 
+uphold corresponding adjustments in international
+ix Corresponding adjustments under the Paris Agreement refer to a key accounting mechanism designed to avoid double counting of emissions reductions or carbon removals 
+when countries transfer credits generated under Article 6 across borders. Where credits are authorized toward the achievement of NDCs, the transferring country is to apply a 
+corresponding adjustment to their GHG emissions inventory. Credits may also be authorized for other international mitigation purposes, such as international compliance under 
+CORSIA.compliance markets and NDC achievement.ixiiiFor example, 
+to safeguard CORSIA buyers, independent crediting 
+mechanisms including the Gold Standard have released 
+guidelines on the eligibility of issued carbon credits 
+under CORSIA, making explicit reference to MIGA’s 
+political risk insurance as the pre-approved insurance 
+provider (while exploring the possibility of expanding the 
+list of eligible insurers to commercial entities as well). 
+These advancements in insurance product innovation in 
+response to buyers’ increasing concerns signal the growing 
+sophistication of international carbon markets.
+Insurance can play 
+a critical role in de-
+risking and scaling 
+up investments 
+in carbon credit 
+projects
+
+--- PÁGINA 54 ---
+
+State and Trends of Carbon Pricing 202554
+Issuances from 
+governmental 
+crediting 
+mechanisms were 
+just over 10% of 
+total issuances from 
+all mechanisms3.2 Carbon credit supply levels declined slightly, while 
+groundwork was laid for new supply from international 
+mechanisms 
+Governmental crediting mechanisms have remained 
+a stable source of supply of carbon credits, offering 
+flexibility to meet domestic compliance demand. As 
+of April 1, 2025, there were 33 governmental crediting 
+mechanisms in place, with an additional 11 under 
+consideration or in development (Figure 14). This represents 
+two fewer implemented than in 2024, due to the Indo-
+Pacific Carbon Offsets Scheme ceasing operations, and the 
+consolidation of Beijing’s two crediting mechanisms into 
+a single program. In 2024, issuances from governmental 
+crediting mechanisms were just over 10% of total issuances 
+from all mechanisms, matching the share observed in 
+2023.xivThe largest sources of supply were issued by more 
+mature mechanisms, including the Australian Carbon Credit 
+Unit Scheme and California’s Compliance Offset Program. 
+At the same time, progress achieved on operationalizing 
+domestic supply initiatives in developing and emerging 
+countries indicates that further growth from governmental 
+crediting mechanisms is on the horizon. 
+x Based on data collected by the World Bank on governmental crediting mechanisms and the Climate Focus carbon market dashboard intelligence, April 1, 2025.
+
+--- PÁGINA 55 ---
+
+State and Trends of Carbon Pricing 202555
+FIGURE 14 
+Map of governmental crediting mechanisms as of April 1, 2025 
+Note: An instrument “under development” means that a government is actively working toward implementing a 
+crediting mechanism, and official government sources have formally confirmed this. This includes, for example, 
+where a mandate has been established but no credits have been issued. If a government has announced its 
+intention to work toward implementing a crediting mechanism and official government sources formally confirm that 
+intention, the instrument is “under consideration.” For those countries with multiple crediting mechanisms that have 
+both “under development” or “under consideration” and “implemented” crediting mechanisms, the map will show the 
+status of the latter. The status of crediting mechanisms in subnational jurisdictions is also reflected in the map.
+
+
+--- PÁGINA 56 ---
+
+State and Trends of Carbon Pricing 202556
+Several countries clarified rules to create, trade, and use 
+carbon credits both domestically and internationally. 
+China recommenced issuances under the China Certified 
+Emissions Reductions Scheme, issuing 9.5 million tCO2e on 
+March 6 from offshore wind and solar thermal projects.87 
+This follows clarification by the government of trading rules 
+and the approval of several new methodologies targeting 
+afforestation, mangrove cultivation, and renewable 
+energy. The Indian government also made progress toward 
+implementing its governmental crediting mechanism. 
+Following the establishment of its institutional framework 
+in 2023, the government approved eight methodologies 
+in March 2025 under its proposed crediting mechanism 
+covering a range of activities, including renewable 
+energy, industrial energy efficiency, landfill methane, and 
+mangrove afforestation and reforestation.88 In December 
+2024 Chile expanded the list of independent crediting 
+mechanisms admissible under its domestic carbon tax—
+adding BioCarbon and Cercarbono to the list of eligible 
+international and independent crediting mechanisms.89 
+In August 2024, Egypt adopted before regulation to 
+allow trade of carbon credits through its national stock 
+exchange.90 Collectively, these institutional frameworks 
+promote access to carbon credits from in-country projects. 
+Beyond rules for governmental crediting mechanisms, 
+several countries (such as Paraguay, Tanzania, Viet Nam, 
+and Zambia) also adopted frameworks to provide the 
+legal and institutional basis necessary for participation in 
+international markets.91 This includes, for example, defining 
+rules, requirements, and responsibilities for obtaining 
+host country authorization for different uses; identifying 
+activities eligible to generate credits under Article 6 of the Paris Agreement; and determining revenue sharing 
+arrangements associated with implementation and trade. 
+Several countries are developing infrastructure to support 
+engagement in international carbon markets including 
+the development of new carbon credit registries and the 
+adoption of commercial registry systems managed by 
+third-party service providers. The former are underway in 
+Bhutan and Ghana, and Chile and Indonesia are considering 
+the latter.92
+Several countries 
+are developing 
+infrastructure 
+to support 
+engagement in 
+international carbon 
+markets
+
+--- PÁGINA 57 ---
+
+A total of 290 
+million credits 
+were issued by the 
+major independent 
+crediting 
+mechanisms, 
+representing 
+a year-on-
+year decline of 
+approximately 5%
+State and Trends of Carbon Pricing 202557
+Annual issuances from independent crediting 
+mechanisms dipped in 2024, driven by declines in 
+supply from historically dominant avoided deforestation 
+projects. A total of 290 million credits were issued by the 
+major independent crediting mechanisms,xivrepresenting 
+a year-on-year decline of approximately 5% (Figure 13), 
+though there is significant variation across independent 
+crediting mechanisms.93 Supply from avoided deforestation 
+programs was about half of 2023 issuances, against a 
+backdrop of concerns about the perceived environmental 
+integrity of projects, and the transition to a new 
+methodology for Reducing Emissions from Deforestation 
+and Forest Degradation (REDD+) by Verra, the largest issuer 
+of avoided deforestation projects. 
+Conversely, some project types experienced increased 
+credit issuances in 2024. For example, issuances of 
+credits from nature-based carbon removal projects—
+particularly from improved forest management and 
+afforestation/reforestation activities—increased by nearly 
+20% compared to 2023 levels. Issuances from renewable 
+energy projects stabilized, with no visible sign that last 
+year’s decision by the Integrity Council for the Voluntary 
+Carbon Market (ICVCM)xiivito reject key methodologies 
+is affecting the incentives for project developers to 
+issue credits. Issuances from activities distributing 
+household devices, particularly improved and clean 
+cookstove projects, experienced strong growth, nearly 
+matching issuances from renewable energy activities 
+xi The retirement and supply data from independent crediting mechanisms presented in this report covers the following mechanisms: American Carbon Registry, Architecture for 
+REDD+ Transactions, BioCarbon, Cercarbono, Climate Action Reserve, Climate Forward, Gold Standard, Plan Vivo, and Verra’s VCS. 
+xii The ICVCM is a nongovernmental initiative that aims to provide a minimum benchmark of supply-side quality.for the first time. This indicates the continued interest 
+in clean cookstove projects, despite environmental 
+integrity concerns relating to older projects remaining 
+eligible to issue credits for the duration of their crediting 
+periods. Leading concerns include the use of outdated 
+values representing the proportion of biomass harvested 
+unsustainably, and assumptions about the share of devices 
+operating and frequency of their use.94 
+
+--- PÁGINA 58 ---
+
+State and Trends of Carbon Pricing 202558
+Overall, supply continued to exceed retirement 
+volumes, with the global pool of unretired credits from 
+independent crediting mechanisms approaching 1 
+billion tons (Figure 13).xiiiviiA large share of these unretired 
+credits, however, relate to “legacy” credits issued many 
+years ago that are not finding any buyers in the market.95 
+As of early 2025, over two-thirds of unretired credits from 
+independent crediting mechanisms were from pre-2022 
+vintages (i.e., the reductions or removals occurred before 
+2022).96 The most common unretired credits originate from 
+forestry and land use (36%) and renewable energy (30%) 
+projects, which is consistent with their status as the largest 
+sources of issued carbon credits (Figure 15).
+xiii This excludes unretired certified emission reductions (CERs) from the clean development mechanism.FIGURE 15
+Breakdown of unretired credits from independent crediting mechanisms by project type and credit vintage, as 
+of April 2025
+
+
+--- PÁGINA 59 ---
+
+State and Trends of Carbon Pricing 202559
+Project originations are showing early signs of the 
+potential impacts of the ICVCM’s recent decisions. 
+Most notably, the number of renewable energy projects 
+listedxiv
+viii—which also make up a significant share of 
+historical issuances—declined by over 40%, coinciding with 
+ICVCM’s announcement that existing renewable energy 
+methodologies will not receive approval under its Core 
+Carbon Principles (CCP) framework (Figure 16).xvixWhile 
+the overall number of listed household devices projects 
+declined, nearly half of all the new projects in the pipeline 
+aim to apply one of the three cookstove methodologies 
+recently approved by the ICVCM. There has also been a 
+rise in the number of projects using CCP-approved REDD+ 
+methodologies, including Verra’s VCS and ART’s The REDD+ 
+Environmental Excellence Standard (TREES).97 A direct 
+causal link between these trends and ICVCM decisions is 
+challenging to establish. However, listing data suggests 
+that the project developers and other supply-side market 
+participants are responding to the ICVCM’s endorsements 
+of specific methodologies, and that the CCPs may be seen 
+as a minimum benchmark of supply-side quality for project 
+developers. 
+xiv A listing occurs before a project is approved and registered by a crediting mechanism. It means the project or program has been submitted for consideration but has not yet 
+completed the validation (audit) process.
+xv The CCP labellng process is designed to provide a minimum benchmark of supply-side quality by identifying and recognizing high-integrity carbon credits. Approved crediting 
+mechanisms can submit their methodologies to the organization, which evaluates them against a set of principles set out in the ICVCM’s Assessment Framework. A CCP label can 
+subsequently be associated with carbon credits that are issued against approved methodologies (including specific versions of methodologies). The ICVCM, however, does not 
+assess individual projects. 
+xvi “Project listings” include new programs of activities, voluntary project activities, and standalone projects as per January 1sof any given year. The project listings data from 
+independent crediting mechanisms presented in the figure covers the following mechanisms: American Carbon Registry, Architecture for REDD+ Transactions, BioCarbon, 
+Cercarbono, Climate Action Reserve, Climate Forward, Gold Standard, Plan Vivo, and Verra’s VCS. FIGURE 16 
+The evolution of new project listings in independent crediting 
+mechanisms by categoryxvix 
+
+
+--- PÁGINA 60 ---
+
+State and Trends of Carbon Pricing 202560
+Changes in issuances due to project registration 
+preferences, including shifts due to CCP labeling, 
+have yet to materialize. Uncertainty also exists in the 
+relationship between registrations and issuances, noting 
+that the volume of issuances is not necessarily directly 
+related to project listings or registrations.xviixiAs of January 
+2025, just over 40 million carbon credits were issued 
+with the CCP label, with the majority representing credits 
+from the Verra registry (Figure 17). A much larger share—
+nearly 40% of historical supply—has been issued against 
+methodologies that have been rejected by the ICVCM. 
+While several governments, such as the UK, have started 
+aligned their principles for high-integrity voluntary carbon 
+markets with the ICVCM’s CCPs,98 CCP labels are currently 
+not formally embedded in decision-making in international 
+compliance or domestic compliance markets. 
+xvii Certain project types (e.g., jurisdictional REDD+ programs) will generally produce higher volumes of credits per project compared to others related to more local, smaller activities, 
+such as those related to household devices.
+FIGURE 17
+Composition of issuances from independent crediting mechanisms by CCP-label status, million tCO2e

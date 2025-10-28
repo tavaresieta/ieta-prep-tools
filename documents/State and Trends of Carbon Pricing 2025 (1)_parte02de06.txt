@@ -1,0 +1,594 @@
+DOCUMENTO: State and Trends of Carbon Pricing 2025 (1)
+PARTE 2 de 6
+Páginas 16 a 30
+======================================================================
+
+
+--- PÁGINA 16 ---
+
+State and Trends of Carbon Pricing 202516
+outcomes include enhanced energy and food security, increased 
+efficiency of national tax systems, higher labor productivity and thus 
+economic growth through replacing inefficient taxes, and government 
+revenue that can be directed towards countries’ individual objectives.13 
+Carbon pricing coverage has continued to expand globally, 
+and empirical evidence of its effectiveness continues to grow, 
+demonstrating the importance of its role in countries’ climate policy 
+mixes. While carbon pricing may not be a silver bullet, it is an important 
+tool available to jurisdictions to strengthen their ability to address 
+broader economic and environmental challenges and facilitate the 
+global transition to net zero emissions.
+New approaches are needed to mobilize finance, particularly for emerging 
+markets and developing economies. The Independent High-Level Expert 
+Group on Climate Finance estimates that by 2030 there will need to be a global 
+investment of USD 6.3 to 6.7 trillion per year to support decarbonization, build 
+resilience to rising impacts of climate change (including extreme weather), and 
+protect nature and biodiversity.14 Around USD 2.4 trillion of this must go toward 
+emerging markets and developing economies other than China. Meeting this 
+increased investment requires additional financial resources from governments 
+(USD 800–900 billion), businesses (USD 1–1.18 trillion), and other international 
+or multilateral sources (USD 490–610 billion). For governments, mobilizing 
+additional revenue through effective taxation and strategic public finance 
+management will be key to creating the fiscal space necessary to meet broader 
+development priorities.While carbon pricing helps generate public revenue, carbon credit 
+markets can mobilize private capital and channel public finance. Carbon 
+credit markets have an important role in raising private capital. They have 
+the potential to act as a vehicle to channel private capital to development 
+projects that reduce or remove emissions from the atmosphere. This includes, 
+for example, planting new forests and promoting technology adoption in 
+low-income countries, such as the use of clean cookstoves. For example, 
+an estimated USD 14 billion was raised in Q1–Q3 of 2024 toward developing 
+new carbon credit projects globally, with the highest share dedicated to 
+nature-based removal projects.15 The recent agreement on international 
+carbon markets at the 2024 Conference of the Parties of the United Nations 
+Framework Convention on Climate Change (COP29) in Baku, Azerbaijan, 
+could help advance market participation and has the potential to stimulate 
+greater investment flows to low-income countries. This agreement provides 
+clarity on the rules for cross-border transfers of carbon credits under Article 
+6 of the Paris Agreement. With the agreement in place, focus will transition 
+to operationalization, which will require building countries’ capacities—from 
+setting up institutional and regulatory frameworks to deploying market 
+infrastructure, such as registries. The confirmation of UN-administered carbon 
+markets has opened an alternative avenue for market participation, which is 
+significant given the increased scrutiny over the integrity of voluntary carbon 
+markets in recent years. 
+
+--- PÁGINA 17 ---
+
+State and Trends of Carbon Pricing 202517
+This report covers 
+the state and 
+trends of direct 
+carbon pricing 
+instruments and 
+carbon  markets1.2 Scope of the report 
+As with past years', this report covers the state and 
+trends of direct carbon pricing instruments and carbon 
+markets. The report is intended to serve as a snapshot of 
+ETSs, carbon taxes, and carbon pricing mechanisms (see 
+Box 2). It includes developments up until April 1, 2025, 
+with a focus on developments in the previous 12 months. It 
+provides information on observable metrics, such as prices, 
+coverage, and revenues, and how these have changed 
+over time. The report is not intended to provide a critique 
+or normative assessment of policy choices. Chapter 2 
+explores key trends in carbon taxes and ETSs, while chapter 
+3 examines carbon crediting mechanisms, including 
+voluntary and international carbon markets. The annexes 
+provide additional detail, including on the definitions and 
+methodology used in this report. Additional information, 
+including the data underpinning this report, is available on 
+the World Bank’s Carbon Pricing Dashboard. 
+
+--- PÁGINA 18 ---
+
+State and Trends of Carbon Pricing 202518
+BOX 2 
+What is carbon pricing? 
+Carbon pricing seeks to align the costs of consuming carbon-intensive 
+fuels or using carbon-intensive processes with the social costs of those 
+activities. The State and Trends of Carbon Pricing report focuses on direct 
+carbon pricing instruments, which are those policies that aim to reduce 
+GHG emissions by providing a price signal explicitly linked to emissions. 
+The report focuses on three main instruments (which are not mutually 
+exclusive): 
+• Emissions trading systems, where a government places a limit, or cap, 
+on the amount or intensity of GHG emissions generated by covered 
+entities. Entities must surrender emission units (or “allowances”) to 
+cover their emissions within a compliance period. Companies can 
+trade allowances with other covered entities, and the price is mainly 
+determined by the market. 
+• Carbon taxes, where a government levies a fee on covered entities 
+for their GHG emissions. Under a carbon tax, the government sets 
+the price of emissions (the tax rate), by taxing either the amount of 
+emissions produced or the carbon content of fuels.
+• Carbon crediting mechanisms, where tradable credits are generated 
+through voluntary activities that reduce emissions through either 
+avoidance or reduction (preventing GHG emissions from entering 
+the atmosphere—like capturing methane from landfills before it is 
+released), or removal (taking GHGs from the atmosphere, for example 
+through sequestering carbon through afforestation). This report coversdomestic and international as well as compliance and voluntary carbon 
+credit market activities.
+In contrast to direct carbon pricing, indirect carbon pricing instruments 
+(such as fuel excise taxes and fossil fuel subsidies) change the price of 
+products associated with carbon emissions, but are not explicitly linked 
+to GHG emissions. While this report does not focus on indirect carbon 
+pricing, Box 6 in chapter 2 provides insights on examples of indirect 
+carbon pricing in Latin America. “Carbon pricing” in this report refers to 
+direct carbon pricing unless otherwise stated.
+In this report, “internal carbon pricing” refers to an estimate of GHG 
+emission costs used internally by companies as a strategic planning tool 
+to identify climate-related revenue opportunities and risks, drive energy 
+efficiency, and inform capital investment decisions.
+Further information on definitions can be found in Annex C.
+
+--- PÁGINA 19 ---
+
+CHAPTER 2
+Carbon taxes 
+and emission 
+trading 
+systems
+
+
+--- PÁGINA 20 ---
+
+State and Trends of Carbon Pricing 202520
+The proportion 
+of global GHG 
+emissions covered 
+by a direct carbon 
+price increased 
+from 24% to 28%CHAPTER 2
+Carbon taxes and emission trading systems
+Carbon pricing now covers around 28% of global GHG emissions, with 43 carbon taxes and 37 ETSs in place. Jurisdictions 
+comprising almost two-thirds of global GDP have a direct carbon price in place and the largest middle-income economies, 
+including Brazil, China, India, Indonesia, and Türkiye have implemented or are moving toward implementing carbon pricing. 
+Carbon prices have remained relatively flat across most jurisdictions. Despite a slight reduction in carbon pricing revenues, 
+globally ETSs and carbon taxes continued to generate over USD 100 billion.
+2.1 Progress in key economies and planned scope 
+expansions have increased global coverage and have 
+primed the pipeline for future increases
+Carbon pricing now covers around 28% of global GHG 
+emissions, with increased coverage largely due to 
+China’s national ETS expanding beyond the power sector. 
+The last 12 months saw several announced extensions to 
+existing carbon pricing instruments, increasing covered 
+emissions to almost 15 billion metric tons of carbon dioxide 
+equivalent emissions (tCO2e) out of the global total of just 
+over 52 billion tCO2e. As a result, the proportion of global 
+GHG emissions covered by a direct carbon price increased 
+from 24% to 28% (Figure 1). The most significant addition 
+was the expansion of China’s national ETS to cover cement, 
+steel, and aluminum, increasing gross coverage by around 
+3 billion tCO2e. Liabilities apply retrospectively to these 
+new sectors from January 1, 2024, with compliance 
+requirements ramping up over two years. Colombia also 
+advanced its carbon pricing framework through expanding 
+its national carbon tax beyond liquid and gaseous fossil fuels to also include coal combustion, with facilities included 
+at a progressively increasing rate. These developments 
+demonstrate the flexibility of carbon pricing to ratchet up 
+over time, both through increasing carbon price levels and 
+through expanding coverage to new sectors. This flexibility 
+is important as governments continue to balance a range of 
+policy objectives.
+
+--- PÁGINA 21 ---
+
+State and Trends of Carbon Pricing 202521
+Overall, the number of implemented carbon pricing 
+instruments increased slightly with the launch of new 
+and revival of suspended policies, which offset the 
+rollback of carbon taxes in Canada. There are now 80 
+direct carbon pricing instruments in operation around 
+the world, 37 ETSs and 43 carbon taxes (Figure 2). This 
+represents a net increase of five since April 1, 2024, after 
+accounting for both new and removed policies. Two ETSs 
+have been added to the tally—one newly implemented 
+ETS and one ETS that has been reinstated. The former 
+was implemented by the US state of Colorado, expanding 
+a framework adopted in 2021 to allow for credit creation 
+and trading between covered businesses.16 The latter was 
+reinstated by the US state of Oregon in January 2025.17 
+Three new carbon taxes took effect over the 12 months 
+up to April 1, 2025—a new carbon tax on fuels in Israel and 
+two subnational carbon taxes in Mexico, in Mexico City and 
+Morelos.18 The year 2024 also saw the commencement of 
+the first compliance period for the carbon fee in Taiwan, 
+China, with liabilities due by May 2026.19 In addition, Portugal 
+reinstated its carbon tax in September 2024. In Canada, 
+however, new regulations have ended the application of 
+the federal fuel charge, precipitating the elimination of 
+the subnational carbon tax in British Columbia and the 
+Saskatchewan output-based pricing system (OBPS).20 These 
+movements highlight the importance and impact of the 
+political economy on carbon pricing (Box 3).FIGURE 1
+Share of global greenhouse gas emissions covered by an ETS or carbon tax, 2005–2025
+
+
+--- PÁGINA 22 ---
+
+State and Trends of Carbon Pricing 202522
+FIGURE 2
+Global map of ETS and carbon taxes implemented, under development, or under consideration
+
+
+--- PÁGINA 23 ---
+
+State and Trends of Carbon Pricing 202523
+BOX 3 
+The political economy of carbon pricing 
+Carbon pricing represents one of many policy tools available to 
+governments as they seek to deliver on a number of competing policy 
+objectives, such as emissions reductions, economic development, 
+job creation, poverty alleviation, and fiscal stability. The adoption 
+and durability of carbon pricing policies is influenced by a range of 
+factors, including their perceived effectiveness, fairness, impacts, 
+and distributional effects. This means that in addition to policy design 
+aspects, the political economy (including public sentiment) influences the 
+potential for carbon pricing policies to deliver environmental, economic, 
+and fiscal outcomes.
+Three recent World Bank reports21 describe how climate policies, including 
+carbon pricing, affect politics, the economy, and society, and vice 
+versa. Balancing Act summarizes the challenges and opportunities with 
+advancing carbon pricing, highlighting that policy makers should consider 
+local concerns, industry interests, institutional capacity, and the political 
+landscape as part of policy design and implementation. Within Reach 
+emphasizes that while climate policies like carbon pricing can create jobs, 
+these outcomes depend on intentional design choices and the presence 
+of a supportive policy environment. For example, new job creation can 
+be supported through revenue recycling into infrastructure investments 
+and reductions in labor taxes. Reality Check highlights that carbon 
+pricing can be compatible with positive economic and social outcomes, 
+as demonstrated by British Columbia’s carbon tax, which increased 
+aggregate employment and helped narrow the gap between low- and 
+high-income households through revenue recycling without harming economic growth. Despite these documented positive impacts, the 
+government of British Colombia cancelled the carbon tax on March 31, 
+2025, citing that “it has become too politically divisive and a distraction 
+from the important issues we are tackling.”22 Such examples highlight 
+that evidence-based assessments of the effectiveness, fairness, and 
+impacts of carbon pricing alone are insufficient to overcome the political 
+economy aspects that affect the success and longevity of carbon pricing 
+policies.
+
+--- PÁGINA 24 ---
+
+State and Trends of Carbon Pricing 202524
+Countries with 
+carbon pricing in 
+force represent 
+almost two-thirds 
+of global GDPMost major economies, including large middle-income 
+economies, have implemented or are advancing the 
+adoption of carbon pricing, with countries in Asia playing 
+an increasingly significant role. Collectively, countries 
+with carbon pricing in force represent almost two-thirds 
+of global GDP. Canada, China, the EU, Japan, Mexico, and 
+the United Kingdom have all implemented carbon pricing 
+instruments, while several middle-income countries have 
+made substantial progress in the past year (see Table 1).
+Most of this recent progress has been through the 
+consideration or adoption of ETSs rather than carbon taxes. 
+Brazil approved a law in December 2024 that sets out an 
+ambitious framework for implementing an ETS with links to 
+domestic carbon credits within the next five years. There 
+was also notable progress in Türkiye, where a proposed 
+climate law was submitted to Parliament. The draft law sets 
+out the legal framework for Türkiye’s response to climate 
+change, including its ETS, with the potential for a pilot phase 
+to commence in 2026.23 The Indian government established 
+regulations in mid-2024 for its planned ETS, which will 
+target emissions intensity reductions in India’s industrial 
+sector.24 Both India and Türkiye are progressing rate-based 
+ETSs, where total emissions are not capped but individual 
+entities are allocated a performance benchmark that serves 
+as a limit on their net emissions. Rate-based ETSs offer 
+additional flexibility in managing future growth uncertainty 
+as well as international competitiveness concerns. In East 
+Asia, new policies are advancing for both ETSs and carbon 
+taxes: Thailand’s cabinet approved a carbon tax; Malaysia 
+announced its intention to fast-track the introduction of 
+a carbon tax for the energy and iron and steel industries by 2026; and the Philippines’ House of Representatives 
+proposed a bill that would establish an ETS.25 
+The drivers for the increasing interest in carbon pricing 
+are diverse. While decarbonizing economies and achieving 
+international commitments remains paramount, broader 
+motivating factors are also driving action. As highlighted in 
+chapter 1, jurisdictions are employing carbon pricing as a 
+fiscal tool and are using it as a policy lever to help manage 
+broader economic issues, including those presented through 
+the introduction of border carbon adjustments (Box 4). 
+
+--- PÁGINA 25 ---
+
+State and Trends of Carbon Pricing 202525
+Brazil formally 
+approved a law 
+to establish 
+the Brazilian 
+Greenhouse Gas 
+Emissions Trading 
+SystemTABLE 1
+Carbon pricing developments in key emerging economies
+Brazil  In December 2024, Brazil formally approved a law to establish the Brazilian Greenhouse 
+Gas Emissions Trading System. The ETS is set to cover large facilities in all sectors except 
+for agriculture and is expected to be operational in five years. The ETS also establishes 
+a process to facilitate the use of carbon credits to meet ETS liabilities and a process for 
+determining whether credits can be transferred internationally under Article 6 of the Paris 
+Agreement. 
+China In March 2025, China confirmed the expansion of the national ETS to include the steel, 
+cement, and aluminum sectors. This change was implemented retrospectively with 
+compliance requirements commencing from January 1, 2024. This expansion brings 1,500 
+additional entities under the national ETS regulation, covering an additional 3 billion tCO₂e. 
+As a result, the total coverage of the national ETS has increased to around 8 billion tCO₂e, 
+which represents over half of China’s total GHG emissions.
+India In July 2024 the Indian government adopted detailed regulations for its planned Carbon 
+Credit Trading Scheme, a rate-based ETS covering an initial nine energy-intensive 
+industrial sectors. The program will issue carbon credit certificates to covered facilities 
+that outperform an emissions intensity benchmark. A domestic voluntary carbon crediting 
+program is also being developed, which would issue carbon credits for activities and 
+emissions sources not covered by the ETS.26 On March 28, 2025, India’s Ministry of Power 
+announced the approval of eight crediting methodologies, including for renewable energy, 
+green hydrogen production, industrial energy efficiency, and mangrove afforestation and 
+reforestation.27 The gradual transition from the current market-based energy efficiency 
+program Perform, Achieve, and Trade scheme to these new programs is set to begin in 2025. 
+Indonesia The scope of Indonesia’s rate-based ETS was expanded in 2024 to include additional grid-
+connected coal-fired power generation facilities with generation above 25 megawatts. 
+This expansion means covered power plants increased from 99 to 146. A second expansion 
+is planned for 2025 to also cover natural gas generators and power plants that are not 
+connected to the grid.
+Türkiye Türkiye submitted its Climate Law Proposal to Parliament in February 2025. The draft law 
+provides the legal framework to establish Türkiye’s ETS and governance arrangements 
+through a Carbon Market Board. The details of the ETS will be outlined in regulations. The 
+initial pilot phase of the ETS is expected to commence in 2026.
+
+--- PÁGINA 26 ---
+
+State and Trends of Carbon Pricing 202526
+BOX 4 
+Border carbon adjustment mechanisms 
+Border carbon adjustment mechanisms (BCAs) are policy instruments 
+that impose a carbon price at the border on the emissions embodied 
+in certain carbon-intensive goods imported from other jurisdictions. 
+The main objective of a BCA is to equalize the carbon price levied on 
+imported goods with the carbon price charged on domestically produced 
+goods (through a carbon tax or an ETS) to level the playing field and 
+prevent carbon leakage. BCAs are relatively novel, but a conceptually 
+similar approach has been implemented in California for over a decade, 
+which applies its carbon price to imported electricity. The EU’s Fit for 55 
+legislative package includes the first transnational example of a BCA, the 
+EU’s Carbon Border Adjustment Mechanism (CBAM).
+While the EU CBAM is the first of its kind, other economies are 
+considering BCAs. The UK government announced the introduction of 
+its CBAM starting in 2027. In October 2024, it published a response to its 
+CBAM policy design consultation, outlining the scope, mechanics, and 
+impacts of the UK CBAM.28 Australia, Canada, Japan, and Türkiye have 
+also investigated the possibility of implementing BCAs.29 Taiwan, China, 
+is developing a CBAM proposal expected to be announced in the middle 
+of 2025.30 Thailand’s draft climate change bill includes provisions on 
+establishing a CBAM similar to the EU CBAM.31 Chile’s 2024 draft sectoral 
+plan included a plan for the Ministry of Economy, Development, and 
+Tourism to study the implementation by 2029 of a BCA for emissions-
+intensive industries exposed to foreign trade.32 As noted in the report 
+of the Joint Task Force on Climate Action, Carbon Pricing and Policy 
+Spillovers, while BCAs can help manage leakage, they can also create 
+nontrivial compliance and reporting costs, which could potentiallydisproportionately adversely affect lower-income countries.33 This 
+risk can be minimized by streamlining and harmonizing reporting 
+requirements to minimize costs and avoid imposing unintentional barriers 
+to trade.34 
+More countries are exploring policy responses to reduce their exposure 
+to emerging BCAs, including the adoption of carbon pricing. Introducing 
+a domestic carbon price can reduce exposure in two ways: first, by 
+incentivizing improvements in the production efficiency of exported 
+goods; and second, by reducing import charges by demonstrating that a 
+carbon price has already been applied.i Growing evidence suggests that 
+the introduction of BCAs is motivating countries to implement carbon 
+pricing and to prioritize carbon pricing in sectors covered by planned 
+BCAs. For example, Türkiye’s Medium-Term Program (2023–2025) ties the 
+planned national ETS to the EU CBAM. Israel’s decision to adopt a carbon 
+tax cites the need to improve industrial efficiency and references the 
+need to support facilities exposed to international trade.35 Discussions 
+in Malaysia have cited the potential for a carbon tax on industry as a way 
+of both retaining revenues and creating a level playing field for domestic 
+producers in alignment with the EU CBAM.36 Viet nam has moved to 
+expedite implementation of its ETS for CBAM sectors, indicating that 
+these sectors will be the first to receive government quotas in 2025 
+and 202637 and China’s national ETS coverage expansion has prioritized 
+sectors covered by the EU CBAM.38i 
+i For example, both the EU and the UK CBAM frameworks include provisions that allow for reduced charges 
+where the associated emissions have already been subject to a carbon price in their country of origin.
+
+--- PÁGINA 27 ---
+
+State and Trends of Carbon Pricing 202527
+Globally, the power sector continues to have the highest 
+levels of carbon pricing coverage with industry a close 
+second due to China’s recent scope expansion. Over 
+half of global power sector emissions (which represent 
+almost 30% of global GHG emissions) were covered by a 
+carbon price in 2025. This high level of coverage is largely 
+because almost all ETSs, including those in large economies 
+such as in China, the EU, and Indonesia, cover electricity 
+generation (Figure 3). Power sector decarbonization 
+can enable further emissions reductions downstream 
+as targeted electrification in the industrial and transport 
+sectors would offer emissions reductions when fossil fuels 
+are substituted with lower emissions electricity.39 However, 
+as shown in the World Bank’s Carbon Pricing in the Power 
+Sector report,40 market structure, regulatory frameworks, 
+and decisions about where to position a carbon price in 
+the value chain can limit the potential for carbon pricing to 
+incentivize decarbonization, particularly in the power sector. 
+The expansion of the China National ETS to include cement, 
+steel, and aluminum increased global coverage for the 
+industry sector to over 40%. This is a substantial increase 
+to a diverse and large sector that includes manufacturing 
+and construction and is responsible for around 20% of global 
+GHG emissions.
+Note: Based on World Bank analysis. Values are not additive due to rounding. Aviation and maritime carbon tax coverage are both less than 1%, 
+waste ETS coverage is 1 %, and carbon tax coverage is < 1%.FIGURE 3
+Share of economic sectors’ global GHG emissions covered by an ETS or carbon tax
+
+--- PÁGINA 28 ---
+
+State and Trends of Carbon Pricing 202528
+ETSs application to 
+road transport and 
+buildings—sectors 
+traditionally not 
+included in ETS 
+frameworks—is 
+expandingBeyond power and industry, other sectors tend to have 
+lower levels of coverage. Almost 15% of the mining and 
+extractives sector is covered by a direct carbon price. This 
+sector accounts for around 13% of global GHG emissions 
+and includes emissions from ore extraction, natural gas 
+production, and fuel refining. Coverage is highest in the 
+EU ETS due to the inclusion of fuel refining, followed by 
+resource-rich economies such as South Africa, Australia 
+and Canada. Approximately 12% of land transport emissions, 
+which contribute around 13% of global GHG emissions, are 
+covered by a direct carbon price. Buildings show similar 
+coverage at 13% of emissions. Carbon prices in both of these 
+sectors have historically been more commonly applied 
+through upstream carbon taxes on fuels, which can cover 
+smaller, more diffuse emissions sources, like buildings 
+and vehicles. However, ETSs' application to road transport 
+and buildings—sectors traditionally not included in ETS 
+frameworks—is expanding, as noted in the Organisation 
+for Economic Co-operation and Development’s (OECD’s) 
+Pricing Greenhouse Gas Emissions 2024.41 Many ETSs (e.g., 
+California's and New Zealand's) already apply upstream 
+coverage to these emissions, while the introduction of 
+the EU ETS2 in 2027 will expand the upstream approach 
+currently applied by the Austrian and German ETSs to all 
+EU member states. Domestic aviation emissions coverage 
+stands at around 9%, with a dominant contribution from 
+the EU. Coverage of international aviation and shipping 
+emissions, which fall outside the Paris Agreement 
+framework, continues to advance. International aviation 
+emissions are priced through the Carbon Offsetting Reduction Scheme for International Aviation (CORSIA), a 
+compliance market for carbon credits discussed in chapter 
+3, and as of April 1, 2025, discussions at the International 
+Maritime Organization regarding GHG emissions pricing for 
+shipping were ongoing. 
+Other sectors, such as agriculture and waste, remain 
+largely uncovered by carbon pricing. Non-energy 
+agricultural emissions, such as methane from livestock or 
+emissions from the application of fertilizer, produce over 
+12% of global emissions, but currently remain uncovered 
+by an ETS or carbon tax. Other policies, including carbon 
+crediting, are more typically used to reduce emissions in 
+these sectors. However, Denmark is pioneering a first-of-a-
+kind carbon tax on livestock and agricultural lime used as 
+a fertilizer. The carbon tax will be implemented gradually, 
+beginning in 2030. It will start at around USD 40 per tCO2e 
+and rise to over USD 100 per tCO2e by 2035.42 The measure 
+includes tax allowances to reduce impacts on farmers. 
+Similarly, only a fraction of global emissions from waste 
+(e.g., landfills and wastewater) face a carbon price, although 
+scope expansions to include waste incineration have been 
+made in Germany and Shenzhen and are being considered in 
+the UK. 
+
+--- PÁGINA 29 ---
+
+State and Trends of Carbon Pricing 202529
+Interest in, and 
+adoption of, rate-
+based ETSs has 
+been growingCarbon pricing policies continue to incorporate flexibility 
+into instrument design. This includes specific flexibility 
+mechanisms, such as banking and (less frequently) 
+borrowing of emissions allowances, or multi-year 
+compliance periods, to provide businesses with choices 
+regarding if, when, and how to reduce emissions. Other 
+design aspects are aimed at providing greater certainty on 
+the carbon prices, which can help promote confidence in 
+long-term investment decisions. All carbon taxes provide 
+near-term certainty through legislated fixed prices, with 
+some setting out planned rate increases—either linked to 
+inflation (such as Colombia and Poland) or through planned 
+price trajectories (such as Ireland, Singapore, South Africa, 
+and Sweden). ETSs are increasingly adopting design 
+elements to improve price certainty. Almost half have 
+market stability reserves to help manage price extremes, 
+and around 20% have price floors or auction reserve prices. 
+Other jurisdictions, such as Germany and Austria, have 
+implemented a fixed price on a transitional basis. Finally, 
+as discussed in chapter 3, governments are increasingly 
+allowing carbon credits to be used to offset carbon pricing 
+liabilities. Almost two-thirds of ETSs and almost 20% of 
+carbon taxes allow eligible carbon credits as a compliance 
+option. 
+Governments are increasingly considering rate-based 
+ETSs, which offer flexibility in responding to changing 
+economic conditions. Carbon pricing instruments can 
+also adopt broader policy design elements to help meet 
+jurisdictions’ broader policy objectives and account for 
+their specific circumstances. For example, interest in, and 
+adoption of, rate-based ETSs has been growing (Box 5). This includes rate-based ETSs in Australia, China, and 
+Indonesia, as well as Türkiye’s proposed ETS. Colorado’s 
+recently implemented ETS uses a rate-based approach and 
+has been tailored to meet the state’s specific circumstances 
+and to manage the risk of carbon leakage. Colorado is also 
+providing flexibility in its approach to compliance cycles, 
+with some entities initially being permitted to meet their 
+emission liabilities over a three-year period. 
+
+--- PÁGINA 30 ---
+
+State and Trends of Carbon Pricing 202530
+BOX 5 
+The growing role of rate-based emissions trading schemes
+Rate-based ETSs are gaining traction, as more countries adopt flexible 
+approaches to manage competitiveness and price impacts while driving 
+decarbonization. Rate-based ETSs differ from cap-and-trade systems 
+in that they do not set an overall cap on emissions. Instead, they regulate 
+emissions relative to output and in some jurisdictions operate in a manner 
+similar to tradable performance standards. Rate-based ETSs set benchmark 
+emissions intensity levels, typically defined as a quantity of emissions per 
+unit of output, such as 2 tCO2e per ton of steel produced. Each covered 
+entity has an emissions constraint or “baseline,” which is calculated by 
+multiplying its output by the benchmark emissions intensity. If a regulated 
+entity’s emissions are below its baseline in a year, it can receive credits, 
+and if emissions exceed the baseline, it must acquire and surrender credits 
+equal to its excess emissions. Baselines can decline over time in line with a 
+jurisdiction’s emissions reduction targets. Rate-based ETSs are becoming 
+more common, especially in middle-income countries as governments seek 
+to manage competitiveness and price impacts, particularly where future 
+growth and hence demand is uncertain.43 
+A rate-based approach is being used in Australia, Canada, China, and 
+Indonesia. China’s national rate-based carbon trading system determines 
+emissions limits based on the technology used by entities. The system 
+is designed to avoid excessively penalizing companies that rely on older 
+technologies, which are often located in poorer regions. It incentivizes the 
+adoption of more efficient technologies but may not encourage a shift in 
+fuel type, as coal and natural gas have separate technology-specific rates.44 
+India is developing a nationwide ETS and currently operates an energy 
+efficiency trading scheme called Perform, Achieve and Trade. Companies are assigned an energy-related GHG emission intensity target 
+and earn tradable certificates if they exceed them. These certificates 
+are traded on designated exchanges.45 Canada’s OBPS and Australia’s 
+Safeguard Mechanisms are both rate-based systems that set emissions 
+intensity standards for industrial sectors. 
+Rate-based ETSs provide additional flexibility to businesses, but they 
+provide less certainty on emissions reductions and generally do not 
+generate revenue for governments. Due to the additional flexibility, 
+rate-based systems can support economic growth while maintaining a 
+requirement that entities improve their efficiency over time. Rate-based 
+systems can also protect against carbon leakage—firms do not have an 
+incentive to reduce production domestically to emit under their baseline, 
+lowering the incentive to relocate production to jurisdictions with weaker 
+carbon policies.46 On the other hand, if benchmarks are differentiated by 
+technology or fuel type, it can be harder for clean firms to compete, since 
+their less-efficient competitors receive higher baseline allocations per 
+unit of the same product. From a macroeconomic perspective, rate-based 
+ETSs automatically adjust to reflect growth in production. This can help 
+manage political economy challenges by preventing high permit prices 
+during economic growth and price drops during recessions. However, the 
+absence of a cap means the level of emissions reductions delivered by 
+a rate-based ETS is less certain than a cap-and-trade. Further, because 
+rate-based ETSs allocate all emissions allowances to covered entities 
+through baseline allocations, they do not generate government revenue 
+(unless coupled with an additional mechanism, such as in Canada, where 
+companies can comply with Canada’s OBPS by paying into a public fund).

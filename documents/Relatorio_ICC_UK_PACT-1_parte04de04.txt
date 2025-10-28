@@ -1,0 +1,492 @@
+DOCUMENTO: Relatorio_ICC_UK_PACT-1
+PARTE 4 de 4
+Páginas 46 a 53
+======================================================================
+
+
+--- PÁGINA 46 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil46
+AnexosReferências  
+bibliográficasAnexo 2 – Metodologias presentes em projetos de carbono no Brasil
+NO VCS:
+•  ACM0001: Queima ou uso de gás de aterro (5 projetos)
+• ACM0002: Geração de eletricidade conectada à rede a partir de fontes renováveis 
+(14 projetos)
+• ACM0006: Geração de eletricidade e calor a partir de biomassa (2 projetos)
+• AMS-I.C.: Produção de energia térmica com ou sem eletricidade (10 projetos)
+• AMS-I.D.: Geração de eletricidade renovável conectada à rede (4 projetos)
+• AMS-I.E.: Mudança de biomassa não renovável para aplicações térmicas pelo usu-
+ário (32 projetos)
+• AMS-III.BM: Transporte pessoal leve de duas e três rodas (1 projeto)
+• AMS-III.D.: Recuperação de metano em sistemas de manejo de dejetos animais (18 
+projetos)
+• AMS-III.I.: Evitação da produção de metano no tratamento de águas residuais atra-
+vés da substituição de sistemas anaeróbicos por sistemas aeróbios (1 projeto)
+• AR-ACM0003:	 Florestação	 e	reflorestação	 de	terras,	exceto	zonas	úmidas	(4	pro-
+jetos)
+• AR-AMS0001:	 Metodologia	 simplificada	 de	linha	de	base	e	monitoramento	 para	
+atividades de projetos de F/R MDL (1 projeto)
+• AR-AMS0006:	 Metodologia	 simplificada	 de	linha	de	base	e	monitoramento	 para	
+atividades de projetos silvipastoris (1 projeto)• AR-AMS0007:	 Atividades	de	projeto	de	florestamento	 e	reflorestamento	 implemen-
+tadas	em	terras	que	não	sejam	zonas	úmidas(	1	projeto)
+• VM0007: Estrutura Metodológica REDD+ (8 projetos)
+• VM0009: Metodologia para Conversão Evitada de Ecossistemas (1 projeto)
+• VM0011: Metodologia para cálculo dos benefícios de GEE decorrentes da preven-
+ção da degradação planejada (1 projeto)
+• VM0015: Metodologia para Desmatamento Não Planejado Evitado (13 projetos)
+• VM0019: Mudança de combustível de gasolina para etanol em frotas de veículos 
+Flex-Fuel (1 projeto)
+NO GOLD STANDARD:
+• ACM0001: Queima ou uso de gás de aterro (3 projetos)
+• ACM0002: Geração de eletricidade conectada à rede a partir de fontes renováveis 
+( 2 projetos)
+• Metodologia	 de	Redução	e	Sequestro	de	GEE	por	Florestamento/Reflorestamento	
+(1 projeto)
+• AMS-I.C.: Produção de energia térmica com ou sem eletricidade (1 projeto)
+• AMS-I.D.: Geração de eletricidade renovável conectada à rede (1 projeto)
+• AMS-I.E.: Mudança de biomassa não renovável para aplicações térmicas pelo usu-
+ário (1 projeto)• GS	Metodologia	para	melhorar	fogões	e	práticas	em	cozinha	v1.	(1	projeto)
+• GS	Metodologia	para	melhorar	fogões	e	práticas	em	cozinha	v2.	(1	projeto)
+• GS	MS	Metodologia	Simplificada	para	eficiência	de	fogões	v1.	(2	projetos)
+
+--- PÁGINA 47 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil47
+AnexosReferências  
+bibliográficasAnexo 3 – Glossário
+Acreditação –	Atestação	realizada	por	terceira	parte,	relativa	a	um	organismo	 de	
+avaliação	da	conformidade,	 exprimindo	 demonstração	 formal	de	sua	competência,	
+imparcialidade	 e	operação	consistente	 na	execução	de	atividades	 específicas	 de	
+avaliação da conformidade (fonte ABNT ISO/IEC 17.000 – Vocabulário e princípios 
+gerais) 
+Adicionalidade - demonstração de que a atividade resulta em reduções ou remo -
+ções que excedem o que seria alcançado sob um cenário de “business as usual” e 
+não teria ocorrido na ausência do incentivo fornecido por mercados de carbono;
+Advocacy : defesa de argumentação em favor de uma causa.
+Aninhamento: A incorporação de atividades de nível de projeto em uma estrutura 
+jurisdicional. a integração do desenho e implementação de atividades REDD+ em 
+várias	escalas	em	uma	jurisdição	para	alinhar	a	contabilização	 de	atividades	de	me-
+nor escala com sistemas jurisdicionais e relatorias nacionais. 
+Cobenefícios: Benefícios além dos benefícios climáticos dos projetos de carbono.
+Comunidades locais – comunidades impactadas de forma direta ou indireta pelo 
+projeto.	Ao	identificá-las,	 o	proponente	 do	projeto	deve	considerar	o	quão	profunda-
+mente	elas	podem	ser	afetadas	pelas	atividades	do	projeto,	não	se	limitando	à	área	
+deste. 
+Condições de aplicabilidade – descrição das características necessárias para que 
+as atividades de projeto sejam aplicáveis ao cálculo descrito na metodologia.
+Créditos de carbono – unidades de 1 tCO2e que representam reduções ou remoções 
+de emissões de carbono geradas por meio da implementação de projetos que se -
+guem	determinadas	 metodologias	 e	passam	pelo	processo	de	padrões	de	certifica-
+ção. 
+Créditos aposentados – créditos que foram retirados de circulação após o uso para 
+a compensação de emissões. Desmatamento não planejado -	desmatamento	 de	florestas	(de	degradadas	 a	ma-
+duras)	não	legalmente	autorizado	e	documentado	para	conversão.
+Desmatamento planejado	 -	desmatamento	 em	terras	florestais	legalmente	 autori-
+zado	e	documentado	para	conversão.
+Escopo - descrição das atividades de redução ou remoção de emissões de carbono 
+englobadas pela metodologia.
+Fronteira de projeto	 -	descrição	das	fontes,	sumidouros	 e	reservatórios	 de	GEE	que	
+são relevantes para os cenários de linha de base e de projeto.
+Integridade de créditos de carbono	 –	conceito	que	engloba	adicionalidade,	 acura-
+cidade,	mensuração	 adequada,	 conservadorismo,	 permanência,	 verificação	 e	trans-
+parência.
+Limites qualitativos de compensação – restrições estabelecidas pelas jurisdições 
+com relação às características dos tipos de créditos de carbono permitidos para uso 
+como compensações nos sistemas de comércio de emissões.
+Limites quantitativos de compensação - restrições estabelecidas pelas jurisdições 
+com relação à quantidade de créditos de carbono permitidos para uso como com-
+pensações nos sistemas de comércio de emissões.
+Mercado voluntário de carbono - mercado de carbono no qual agentes não regu-
+lados	podem	fazer	contribuições	 voluntárias	 para	o	clima	por	meio	da	compra	de	
+créditos de carbono. 
+Metodologia de monitoramento - instruções para o monitoramento dos impactos 
+das	atividades	do	projeto	nas	fontes	de	emissões,	sumidouros	 e	reservatórios	 rele-
+vantes,	para	determinação	do	benefício	líquido	de	GEE.
+Metodologias - documentos que estabelecem procedimentos detalhados para quan-
+tificar	os	benefícios	reais	de	mitigação	de	gases	de	efeito	estufa	(GEE)	de	um	projeto	e fornecem orientação para ajudar os desenvolvedores de projetos a determinar os 
+limites	do	projeto,	definir	linhas	de	base,	avaliar	a	adicionalidade	 e,	por	fim,	quantifi-
+car	as	emissões	de	GEE	que	foram	reduzidas	ou	removidas.
+Nível de Referência de Emissões Florestais (FREL)	 -	parâmetro	 utilizado	por	ju-
+risdições	para	implementar	 atividades	 no	contexto	do	REDD+,	servindo	como	um	
+benchmark para	avaliar	o	desempenho	 dessas	atividades,	 medindo	a	quantidade	 de	
+emissões de CO2 evitadas em comparação com um nível de referência estabelecido.
+Órgão gestor	 -	constitui	a	instância	executora	do	SBCE,	de	caráter	normativo,	 regu-
+latório,	executivo,	sancionatório	e	recursal.
+Originação	-	processo	de	criação	de	um	ativo	financeiro	ou	valor	mobiliário.	
+Padrão de certificação de carbono	 -	programas	 (independentes,	 multilaterais	 ou	
+nacionais)	que	emitem	créditos	de	carbono,	a	partir	de	metodologias	 desenvolvidas	
+para diferentes tipos de atividades de projeto. Os padrões estabelecem regras e re -
+quisitos	que	os	projetos	devem	seguir	para	serem	certificados.
+Pipeline de projetos -	lista	dos	projetos	que	ainda	não	estão	registrados	 no	Padrão,	
+mas se encontram em algum dos estágios anteriores ao registro e posteriores à lis-
+tagem. 
+Plano Nacional de Alocação	 -	plano	que	estabelece,	 para	cada	período	de	compro -
+misso,	a	trajetória	dos	limites	de	emissão	de	GEE	além	das	regras	de	comercializa-
+ção no âmbito do mercado regulado.
+Qualidade de créditos de carbono - princípio que considera que o crédito seja adi-
+cional,	permanente,	 não	gere	emissões	em	outros	locais	(vazamento)	 e	que	a	ativi-
+dade geradora dos créditos não deixe as populações locais em situação pior do que 
+a situação anterior ao início do projeto (salvaguardas).
+Quantificação de reduções/remoções esperadas	 -	instruções	para	a	quantificação	
+das reduções de emissões de GEE ou remoções de dióxido de carbono alcançadas 
+
+--- PÁGINA 48 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil48
+AnexosReferências  
+bibliográficaspelos	projetos,	incluindo,	quando	aplicável,	cálculos	de	emissões	de	linha	de	base,	
+emissões	de	projeto,	remoções	de	projeto,	vazamento	e	incerteza;
+REDD+ do mercado voluntário - atividades de Redução de Emissões por Desma-
+tamento	e	Degradação	 florestal	em	projetos	privados	que	seguem	determinadas	
+metodologias	e	podem,	periodicamente,	gerar	créditos	de	carbono.
+REDD+ jurisdicional - atividades de Redução de Emissões por Desmatamento e De -
+gradação	florestal	implementadas	 por	governos	municipais,	 estaduais	ou	de	países	
+que formam programas e projetos que podem gerar créditos.
+REDD+ no âmbito da UNFCCC - pagamento por Redução de Emissões por Desma-
+tamento	e	Degradação	 florestal	comprovada,	 mas	sem	transferência	 de	resultados;	
+não gera crédito de carbono.
+Relatório de verificação – documento emitido por um Organismo de Validação/Ve -
+rificação	avaliando	as	reduções	ou	remoções	de	emissões	de	GEE	reivindicadas	 no	
+âmbito	do	projeto,	a	cada	período	de	monitoramento.
+Relatório periódico de monitoramento - documento submetido pelo proponente de 
+projeto,	descrevendo	 os	procedimentos	 de	monitoramento	 e	reduções	ou	remoções	
+de	emissões	de	GEE	ocorridas,	a	cada	período	de	monitoramento.
+Requisitos de elegibilidade	 -	requisitos,	estabelecidos	 pelos	padrões	de	certificação	
+de	carbono,	que	projetos	devem	seguir	para	serem	aplicáveis	a	se	tornar	projetos	
+de	carbono	e	emitir	créditos	de	carbono.	Para	concluir	o	processo	de	certificação,	 os	
+projetos	devem	demonstrar	 como	atendem	às	regras	e	requisitos	definidos,	além	de	
+demonstrar como aplicaram integralmente uma metodologia elegível. 
+Requisitos de qualidade - princípios estabelecidos pelos padrões que visam asse -
+gurar	que	os	créditos	gerados	representem	 reduções	ou	remoções	de	emissões	reais,	
+mensuráveis,	 adicionais	e	permanentes,	 e	que	o	processo	seja	íntegro	e	transparente.
+Salvaguardas socioambientais- princípios obrigatórios exigidos pelos Padrões que 
+visam garantir que as atividades do projeto não impactem negativamente o meio 
+ambiente ou as comunidades. Sistema de comércio de emissões (ETS, na sigla em inglês) - mercado regulado de 
+carbono	com	a	definição	de	limites	máximos	de	emissão	de	gases	de	efeito	estufa	
+(teto ou cap)	para	um	conjunto	de	fontes	localizadas	 em	um	determinado	 país	ou	
+região	durante	um	determinado	 horizonte	de	tempo	(denominado	 período	de	com-
+promisso).
+Vintage  - o vintage de um crédito de carbono é o ano em que ocorreu a redução de 
+emissão ou em que o crédito foi emitido. 
+ 
+
+--- PÁGINA 49 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil49
+AnexosReferências  
+bibliográficasART.	(2021a,	julho).	 Nesting Under ART .	https://www.artredd.org/wp-content/uplo -
+ads/2021/12/Nesting-under-ART-final-July-2021.pdf
+ART. (2021b). The REDD+ Environmental Excellence Standard (TREES) . 
+https://www.artredd.org/wp-content/uploads/2021/12/TREES-2.0-August -
+-2021-Clean.pdf
+ART	Registry.	([s.d.]).	 ART Architecture for REDD+ Transactions . Recuperado 20 de 
+junho	de	2024,	de	https://www.artredd.org/art-registry/
+BACEN,	B.	C.	do	B.	(2006).	 Diagnóstico de Convergência às Normas Internacionais—
+IAS 32—Financial Instruments . 
+https://www.bcb.gov.br/content/estabilidadefinanceira/convergencia_normas/
+IAS_32_Apresentacao_de_Instrumentos_Financeiros.pdf
+Banco Mundial. (2020a). Aspectos jurídicos para marco regulatório de um Sistema 
+de Comércio de Emissões de Gases de Efeito Estufa no Brasil  (Partnership for 
+Market	Readiness).	 Banco	Mundial.	https://www.gov.br/produtividade-e-co -
+mercio-exterior/pt-br/assuntos/competitividade-industrial/pmr/juridico/anali-
+se-juridico-regulatoria-sce.pdf/view
+Banco	Mundial,	P.	for	M.	R.	(2020b).	 Aspectos jurídicos para marco regulatório de um 
+Sistema de Comércio de Emissões de Gases de Efeito Estufa no Brasil. https://
+www.gov.br/mdic/pt-br/assuntos/competitividade-industrial/pmr/juridico/ana-
+lise-juridico-regulatoria-sce.pdf
+BeZero	Carbon.	([s.d.]).	 Global Carbon Ratings . BeZero Carbon. Recuperado 21 de 
+junho	de	2024,	de	https://bezerocarbon.com/ratings/approach
+BRASIL. (2016). NDC - a ambição climática do Brasil . http://educaclima.mma.gov.br/
+wp-content/uploads/2023/08/NDC-1.1-Brasil-21-set-2016-portugues.pdf
+BRASIL. (2023). Contribuição Nacionalmente Determinada (NDC) para o Acordo de Paris no âmbito da UNFCCC .	http://educaclima.mma.gov.br/wp-content/uplo -
+ads/2023/11/NDC-1.4-Brasil-27-out-2023-portugues.pdf
+BRASIL,	C.,	Comissão	de	Valores	Mobiliários.	 (2010).	 Consulta sobre Reduções Cer -
+tificadas de Emissão—RCE (Créditos de Carbono) . 
+https://conteudo.cvm.gov.br/export/sites/cvm/decisoes/anexos/0005/6565_1.pdf
+BRASIL,	C.	G.	da	U.	(2024).	 Relatório de Avaliação—Comissão de Valores Mobiliá -
+rios, exercício 2022  (Controladoria Geral da União). Relatório de Avaliação: 
+1267897. https://eaud.cgu.gov.br/relatorios?colunaOrdenacao=dataPublica-
+cao&direcaoOrdenacao=DESC&tamanhoPagina=15&offset=0&fixos=#lista
+BRASIL,	S.	F.	(2024).	 Redação Final—Projeto de Lei 182 de 2024 . https://legis.sena-
+do.leg.br/sdleg-getter/documento?dm=9541864&ts=1714088684987&dispo -
+sition=inline
+British Chamber of Commerce Singapore. (2023). Singapore sets eligibility criteria 
+for carbon credits that can be used to offset carbon tax .	https://www.britcham.
+org.sg/news/singapore-carbon-credits-eligibility-criteria
+California Air Resources Board. (2015). California Air Resources Board Offset Credit 
+Regulatory Conformance and Invalidation Guidance .	https://ww2.arb.ca.gov/
+sites/default/files/cap-and-trade/offsets/arboc_guide_regul_conform_invali-
+dation.pdf
+Calyx	Global.	([s.d.]).	 Approach—Calyx Global .	Recuperado	 21	de	junho	de	2024,	de	
+https://calyxglobal.com/approach
+Cercarbono.	 ([s.d.]-a).	 Cercarbono’s Protocol for Voluntary Carbon Certification v4.1 . 
+Recuperado	 20	de	junho	de	2024,	de	https://www.cercarbono.com/wp-con-
+tent/uploads/2022/09/2022.07.29-Cercarbonos-Protocol-Version-4.1.pdf
+Cercarbono.	 ([s.d.]-b).	 Cercarbono’s Tool to Report Contributions from Climate Chan -ge Mitigation Initiatives to the Sustainable Development Goals v1.1 . Recupe -
+rado	20	de	junho	de	2024,	de	https://www.cercarbono.com/wp-content/uplo -
+ads/2021/09/Cercarbonos-Tool-for-SDGs-Contribution-Report.pdf
+CPC,	C.	de	P.	C.	(2005).	 Pronuncimaneto Técnico do Comitê de Pronunciamentos 
+Contábeis (CPC), número 14 . http://static.cpc.aatb.com.br/Documentos/227_
+CPC_14.pdf
+EcoRegistry—Cercarbono .	([s.d.]).	Recuperado	 20	de	junho	de	2024,	de	https://www.
+ecoregistry.io/projects-list/cercarbono-co2
+Global	Carbon	Council.	([s.d.]).  GCC Projects Portal .	Recuperado	 20	de	junho	de	2024,	
+de https://projects.globalcarboncouncil.com/
+Global Carbon Council. (2020). Project Standard V3.1 .
+Global Carbon Council. (2023). Draft Methodology for Project Activities Involving the 
+Capture,  Transport and Geological Storage of Carbon Dioxide.  
+https://www.globalcarboncouncil.com/wp-content/uploads/2023/11/Draft-Metho -
+dology-for-Project-Activities-Involving-the-Capture-Transport-and-Geologi-
+cal-Storage-of-Carbon-Dioxide-V1.0-1.pdf
+Gold	Standard.	([s.d.]-a).	 Gold Standard for the Global Goals – Standard Documents . 
+Recuperado	20	de	junho	de	2024,	de	https://globalgoals.goldstandard.org/
+Gold	Standard.	([s.d.]-b).	 Gold Standard Impact Registry.  Gold Standard. Recupera-
+do	20	de	junho	de	2024,	de	https://www.goldstandard.org/project-developers/
+impact-registry
+Gold	Standard.	([s.d.]-c).	 The Gold Standard .	Recuperado	 11	de	março	de	2024,	de	
+https://www.goldstandard.org/
+Gold Standard. (2013). The Gold Standard—Afforestation/Reforestation (A/R) Re -Referências bibliográficas
+
+--- PÁGINA 50 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil50
+AnexosReferências  
+bibliográficasquirements. https://globalgoals.goldstandard.org/standards/PRE-GS4GG-AF/
+ar-requirements_ v0-9.pdf
+Gold	Standard.	(2019,	outubro).	Safeguarding principles and requeriments. Version 
+1.2. Gold Standard. https://globalgoals.goldstandard.org/standards/103_V1.2_
+PAR_Safeguarding-Principles-Requirements.pdf
+Gold Standard. (2022). Methodology for animal manure management and biogas 
+use for thermal energy generation . https://globalgoals.goldstandard.org/stan-
+dards/433_V1.0_Methodology-for-Animal-Manure-Management-and-Bio -
+gas-Use-for-Thermal-Energy-Generation.pdf
+Gold Standard. (2023a). Implementing Article 6—An Overview of Preparations in 
+Selected Countries .	https://www.goldstandard.org/publications/implementin-
+g-article-6---an-overview-of-preparations
+Gold Standard. (2023b). New Carbon Dioxide Removal Methodology Launched for 
+Consultation .	https://www.goldstandard.org/news/new-carbon-dioxide-re -
+moval-methodology-launched
+Gold Standard. (2024). Gold Standard Principles .	Gold	Standard.	https://www.golds-
+tandard.org/project-developers/gold-standard-principles
+Haya,	B.,	Cullenward,	 D.,	Strong,	A.	L.,	Grubert,	E.,	Heilmayr,	R.,	Sivas,	D.	A.,	&	Wara,	
+M. (2020). Managing uncertainty in carbon offsets: Insights from California’s 
+standardized	 approach.	 Climate Policy, 20 (9),	1112–1126.	 https://doi.org/10.1
+080/14693062.2020.1781035
+ICC	Brasil,	&	WayCarbon.	 (2021).	 Oportunidades para o Brasil em mercados de car -
+bono	(https://www.iccbrasil.org/media/uploads/2021/09/27/oportunidades-
+-para-o-brasil-em-mercados-de-carbono_icc-br-e-waycarbon_29_09_2021.
+pdf;	1).	ICC	Brasil	e	WayCarbon.	 https://www.iccbrasil.org/media/uplo -
+ads/2021/09/27/oportunidades-para-o-brasil-em-mercados-de-carbono_ic-
+c-br-e-waycarbon_29_09_2021.pdf
+ICC	Brasil,	&	WayCarbon.	 (2022a).	Oportunidades	 para	o	Brasil	e	Mercados	de	Car-
+bono 2022. ICC Brasil.	https://www.iccbrasil.org/lancamento-da-segunda-e -dicao-do-estudo-icc-waycarbon-oportunidades-para-o-brasil-e-mercados-
+-de-carbono/
+ICC	Brasil,	&	WayCarbon.	 (2023).	 Oportunidades para o Brasil em Créditos de Car -
+bono-Relatório 2023 .	https://www.iccbrasil.org/wp-content/uploads/2023/11/
+RELATORIO_ICCBR_2023.pdf
+ICROA. (2024a). Endorsed Organisations | ICROA . https://icroa.org/endorsed-orga-
+nisations/
+ICROA.	(2024b,	março).	 Carbon Crediting Programme Endorsement Review Criteria, 
+version 3.1 .	ICROA.	https://icroa.org/wp-content/uploads/2024/03/Program-
+me-Endorsement-Review-Criteria.pdf
+ICVCM,	I.	C.	for	the	V.	C.	M.	(2024a,	janeiro).	 Core Carbon Principles, Assessment 
+Framework and Assessment Procedure .	https://icvcm.org/wp-content/uplo -
+ads/2024/02/CCP-Book-V1.1-FINAL-LowRes-15May24.pdf
+ICVCM,	I.	C.	for	the	V.	C.	M.	(2024b,	abril	29).	 How does ICVCM differ from or com -
+plement ICROA? 	ICVCM	Ltd.	https://integritycouncil.freshdesk.com/support/
+solutions/articles/201000033482-how-does-icvcm-differ-from-or-comple -
+ment-icroa-
+Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa 
+(SBCE);	e	altera	as	Leis	nos	12.187,	de	29	de	dezembro	de	2009,	12.651,	de	25	
+de	maio	de	2012	(Código	Florestal),	6.385,	de	7	de	dezembro	de	1976,	11.033,	
+de	21	de	dezembro	de	2004,	e	6.015,	de	31	de	dezembro	de	1973	(Lei	de	Re-
+gistros	Públicos).,	Projeto	de	Lei	182	(2024).	https://legis.senado.leg.br/sdleg-
+-getter/documento?dm=9543189&ts=1714088684949&disposition=inline
+La	Hoz	Theuer,	S.,	Hall,	M.,	Eden,	A.,	Krause,	E.,	Haug,	C.,	&	De	Clara,	S.	(2023).	 Offset 
+Use Across Emissions Trading Systems. Berlin: ICAP . https://icapcarbonaction.
+com/system/files/document/ICAP%20offsets%20paper_vfin.pdf
+LuxCS.	([s.d.]).	LuxCS.	Recuperado	20	de	junho	de	2024,	de	https://www.luxcs.org
+MapBiomas. (2023). Relatório Anual do Desmatamento no Brasil 2022 . https://stora-
+ge.googleapis.com/alerta-public/dashboard/rad/2022/RAD_2022.pdfMichaelowa,	 A.,	Hermwille,	 L.,	Obergassel,	 W.,	&	Butzengeiger,	 S.	(2019).	Additio -
+nality	revisited:	Guarding	the	integrity	of	market	mechanisms	 under	the	Paris	
+Agreement. Climate Policy ,	19(10),	1211–1224.	 https://doi.org/10.1080/14693
+062.2019.1628695
+Narasimhan,	 P.,	Starr,	I.,	Hayward,	J.,	Noponen,	M.,	&	Durbin,	J.	(2014).	 Guidance for 
+the Use of the CCB Standards .	Climate,	Community	 and	Biodiversity	 Allian-
+ce	and	the	Rainforest	Alliance.	https://verra.org/wp-content/uploads/2023/04/
+Guidance_for_the_Use_of_the_CCB_Standards_May_2013.pdf
+Observatório	 da	Restauração	 e	Reflorestamento.	 (2024).	 Observatório da Restaura -
+ção e Reflorestamento . https://observatoriodarestauracao.org.br/home
+Presidência da República. (2023). Discurso do presidente Luiz Inácio Lula da Sil -
+va durante o Fórum das Grandes Economias sobre Energia e Clima . https://
+www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos-e-pronuncia-
+mentos/2023/discurso-do-presidente-luiz-inacio-lula-da-silva-durante-o-fo -
+rum-das-grandes-economias-sobre-energia-e-clima#:~:text=Senhoras%20
+e%20senhores.,sustentabilidade%20num%20mundo%20em%20guerra.
+Renoster.	([s.d.]).	 How We Rate Projects .	Recuperado	 21	de	junho	de	2024,	de	ht-
+tps://www.renoster.co/science
+Senado	Federal.	(2024).	Projeto	de	Lei	n°	182.	de	2024.	Disponível	em:	https://www25.
+senado.leg.br/web/atividade/materias/-/materia/161961
+Social	Carbon.	([s.d.]).	 Social Carbon - Documentation . Social Carbon. Recuperado 
+20	de	junho	de	2024,	de	https://www.socialcarbon.org/documentation
+Social	Carbon.	(2023a,	fevereiro	3).	Summary of the approved SOCIALCARBON Indi -
+cators used to assess the broader sustainability impacts delivered by projects . 
+https://static1.squarespace.com/static/6161c89d030b89374bec0b70/t/65a -
+53c23e72c915e91e44723/1705327653402/SOCIALCARBON+Indicators+-
+v1.0.pdf
+Social	Carbon.	(2023b,	maio	12).	 Standard Guide, V.1.2 . https://static1.squares-
+pace.com/static/6161c89d030b89374bec0b70/t/645d23ab9b4d373de -
+
+--- PÁGINA 51 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil51
+AnexosReferências  
+bibliográficas8ce9a45/1683825582430/SOCIALCARBON-Standard_Guide_v1.2.pdf
+South Pole. (2022). Hydrogen for Net Zero Initiative .	https://www.southpole.com/hy -
+drogen-for-net-zero-initiative
+Sylvera.	([s.d.]).	 Ratings Frameworks & Methodologies . Recuperado 21 de junho de 
+2024,	de	https://www.sylvera.com/ratings
+Tero Carbon. (2023). Metodologia AFOLU TERO 001 REDD Plus . Tero Carbon. ht -
+tps://terocarbon.com/home/metodologia-afolu-tero-001-redd-plus/
+UNFCCC.	([s.d.]).  Forest reference emission levels / REDD+ . Recuperado 21 de junho 
+de	2024,	de	https://redd.unfccc.int/fact-sheets/forest-reference-emission-le -
+vels.html
+UNFCCC. (2020). ACM 0001 -  Flaring or use of landfill gas - Version 19.0 . CDM. https://
+cdm.unfccc.int/methodologies/DB/JPYB4DYQUXQPZLBDVPHA87479EMY9M
+UNFCCC. (2022). Proposed new baseline and monitoring methodology form (Ver -
+sion 02.0).  https://cdm.unfccc.int/UserManagement/FileStorage/WSJ70IX -
+6QMFK5LVNHR249PUE38CGDA
+Valor	Econômico.	 (2024,	abril	23).	 Samauma e Unicef se unem para levar vão água, 
+saneamento e preservação ambiental ao Acre .	Valor	Econômico.	 https://valor.
+globo.com/brasil/esg/noticia/2024/04/23/fram-capital-e-unicef-se-unem-pa-
+ra-levar-vao-agua-saneamento-e-preservacao-ambiental-ao-acre.ghtml
+VCS. (2017). Climate, Community & Biodiversity Standards  - Third Edition v3.1.  
+https://verra.org/wp-content/uploads/CCB-Standards-v3.1_ENG.pdf
+Verra.	([s.d.]-a).	 Methodologies .	Recuperado	 11	de	março	de	2024,	de	https://verra.
+org/methodologies-main/
+Verra.	([s.d.]-b).  Verra Registry .	Recuperado	 11	de	março	de	2024,	de	https://registry.
+verra.org/
+Verra. (2015). Methodology to Reduce Enteric Methane Emissions in Beef Cattle 
+using Organic or Natural Feed Supplements . https://verra.org/methodologies/methodology-to-reduce-enteric-methane-emissions-in-beef-cattle-using-or -
+ganic-or-natural-feed-supplements/
+Verra. (2019). Sustainable Development Verified Impact Standard, program Guide . 
+https://verra.org/wp-content/uploads/2019/01/SD-VISta-Program-Guide -
+-v1.0.pdf
+Verra.	(2021,	abril).	 JNR Program Guide v4.0 .	https://verra.org/wp-content/uplo -
+ads/2021/04/JNR_Program_Guide_v4.0.pdf
+Verra. (2023a). Setting the Standard: Verra’s Revolutionary New REDD Methodo -
+logy.  https://verra.org/program-notice/setting-the-standard-verras-revolutio -
+nary-new-redd-methodology/
+Verra. (2023b). VCS methodologies: VM0047 .	https://verra.org/wp-content/uplo -
+ads/2023/09/VM0047_ARR_v1.0-1.pdf
+Verra. (2023c). VM0044 Methodology for Biochar Utilization in Soil and Non-Soil 
+Applications, v1.1 . https://verra.org/methodologies/vm0044-methodology-for -
+-biochar-utilization-in-soil-and-non-soil-applications/
+Verra.	(2023d,	maio	30).	 VM0042. Methodology for Improved Agricultural Land 
+Management. V2 .	Verra.	https://verra.org/wp-content/uploads/2023/05/VM-
+0042-Improved-ALM-v2.0.pdf
+Verra.	(2023e,	dezembro).	 VCS Standard v4.5 .	https://verra.org/wp-content/uplo -
+ads/2023/08/VCS-Standard-v4.5-updated-11-Dec-2023-watermark.pdf
+Verra. (2024a). Methodology Framework for Carbon Capture and Storage . https://
+verra.org/wp-content/uploads/2024/04/Methodology-Development-and-Re -
+view-Process-v4.4-FINAL-4.15.24.pdf
+Verra. (2024b). VM0045 Methodology for Improved Forest Management Using Dy -
+namic Matched Baselines from National Forest Inventories, v1.1.  
+ https://verra.org/methodologies/methodology-for-improved-forest-manage -
+ment/Verra. (2024c). VT0007, Unplanned Deforestation Allocation (UDef-A) ,	v1.0.	  
+https://verra.org/methodologies/vt0007-unplanned-deforestation-allocation-
+-udef-a-v1-0/
+Verra.	(2024d,	abril	16).	 VCS Standard, v 4.7 .	https://verra.org/wp-content/uplo -
+ads/2024/04/VCS-Standard-v4.7-FINAL-4.15.24.pdf
+World	Bank.	(2024).	 Carbon Pricing Dashboard . Carbon Pricing Dashboard.  
+https://carbonpricingdashboard.worldbank.org/
+
+--- PÁGINA 52 ---
+
+Suporte ao Governo Federal por 
+meio da análise de um framework do 
+mercado de carbono no Brasil
+Produto 1.8 – Relatório completo do Output 1
+Autores
+WayCarbon
+Beatriz	Ribeiro
+Bruna Araújo
+Caio Barreto
+Fabiana Assumpção
+Letícia Gavioli
+Luísa Botelho
+Nathalia PereiraRevisores
+WayCarbon
+Felipe Bittencourt
+Henrique	Pereira
+Sérgio Margulis Revisão editorial
+ICC Brasil
+Gabriella Dorlhiac
+Danielle Berini
+
+
+--- PÁGINA 53 ---
+
+Em caso de dúvidas, entre em contato 
+através do e-mail communications@ukpact.co.uk

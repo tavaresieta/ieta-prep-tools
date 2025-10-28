@@ -1,0 +1,1356 @@
+DOCUMENTO: Relatorio_ICC_UK_PACT-1
+PARTE 3 de 4
+Páginas 31 a 45
+======================================================================
+
+
+--- PÁGINA 31 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil31
+AnexosReferências  
+bibliográficasO	FREL	é	um	parâmetro	utilizado	pelos	países	para	implementar	 atividades	no	contexto	do	
+REDD+,	servindo	como	um	benchmark	para	avaliar	o	desempenho	 dessas	atividades,	me-
+dindo a quantidade de emissões de CO2 evitadas em comparação com um nível de referência 
+estabelecido. Esse nível de referência é expresso em toneladas de CO2	equivalente	 por	ano,	
+durante	um	período	de	referência	específico,	contra	o	qual	as	emissões	e	remoções	do	período	
+de	resultados	são	comparadas	(UNFCCC,	[s.d.]).
+O	FREL	jurisdicional	 refere-se	a	níveis	de	referência	de	emissão	florestal	estabelecidos	 para	
+áreas	geográficas	 específicas	 dentro	de	um	país,	como	estados	ou	regiões	administrativas. 	
+Esta	abordagem	 permite	que	unidades	subnacionais,	 como	governos	estaduais,	desenvolvam 	
+seus	próprios	FRELs	de	acordo	com	suas	circunstâncias	 e	capacidades	 específicas,	 enquanto	
+ainda	contribuem	para	os	objetivos	nacionais	de	REDD+	(Verra,	2021).
+Os	FRELs	devem	ser	desenvolvidos	 de	maneira	transparente,	 utilizando	dados	históricos,	e	
+devem	ser	flexíveis	para	acomodar	as	circunstâncias	 e	capacidades	 nacionais,	ao	mesmo	
+tempo em que se busca integridade ambiental. Eles são submetidos voluntariamente ao se -
+cretariado da Convenção-Quadro das Nações Unidas sobre a Mudança do Clima (UNFCCC) 
+para	avaliação	técnica,	que	é	conduzida	por	especialistas	 em	uso	da	terra,	mudanças	no	uso	
+da	terra	e	florestas	(LULUCF)	seguindo	procedimentos	 estabelecidos	 pela	COP	(Conferência 	
+das Partes).Box 4 – Ferramenta UDEF-A 
+O programa JNR é baseado em três cenários principais:
+• Cenário 1: Neste	cenário,	uma	entidade	governamental	 desenvolve	 e	registra	
+um	FREL	que	cobre	toda	ou	parte	de	sua	área	jurisdicional.	 Este	FREL	é	utilizado	
+para determinar as linhas de base para projetos REDD+ e programas jurisdicionais 
+de nível inferior (estados e municípios). A contabilidade de carbono e a emissão 
+de créditos ocorrem apenas para projetos e programas de nível inferior. O 
+processo	enfatiza	a	participação	 das	partes	interessadas,	 a	transparência	 e	o	
+compartilhamento	 de	benefícios,	 envolvendo	 diversos	 stakeholders ,	incluindo	
+proponentes	 de	projetos,	proprietários	 de	terras	privadas,	comunidades	
+indígenas,	agências	governamentais,	setor	privado,	academia	e	ONGs.
+• Cenário 2: Dividido em duas subcategorias:
+• Cenário 2a: O governo (entidade de nível responsável pela jurisdição) 
+desenvolve um programa jurisdicional para emitir Unidades de Redução de 
+Emissões de Carbono (VCUs) para as reduções de emissões alcançadas por meio de políticas e programas REDD+. Tanto o governo quanto os projetos/
+programas	de	nível	inferior	realizam	atividades	e	solicitam	VCUs.
+• Cenário 2b: Um programa jurisdicional é desenvolvido com base nos 
+elementos do REDD+ sob a UNFCCC. Apenas projetos aninhados ou 
+programas de nível inferior podem reivindicar créditos de carbono. Este 
+cenário	também	estabelece	 diretrizes	específicas	 de	monitoramento,	 cálculo	
+de	emissões,	permanência	 e	verificação,	 garantindo	 a	acessibilidade	 das	
+informações sobre salvaguardas às partes interessadas.
+• Cenário 3: Focado em programas de REDD jurisdicionais onde a emissão de 
+créditos	de	carbono	é	direcionada	 exclusivamente	 ao	programa	jurisdicional,	 sem	
+a emissão direta de VCUs para projetos ou programas de nível inferior. Estabelece 
+diretrizes	para	a	implementação,	 incluindo	definição	de	limites,	períodos	de	
+concessão	 de	créditos,	atividades	 elegíveis,	fontes	de	GEE,	 pools	de	carbono,	
+metodologia	 para	FREL,	cálculo	e	mitigação	de	vazamentos,	 monitoramento	
+contínuo,	permanência	 das	reduções	de	emissões	e	verificação	 independente.	 O	
+objetivo	é	garantir	a	contabilidade	 precisa	das	reduções	de	emissões,	promover	
+a	conservação	florestal	e	contribuir	para	o	desenvolvimento	sustentável.
+O	Padrão	JNR	possui,	atualmente,	 três	programas	 jurisdicionais	 listados	no	registro	
+da	Verra,	todos	em	situação	de	consulta	com	 stakeholders 	(Verra,	[s.d.]-b),	conforme	
+o Quadro 5.Dentro do âmbito do programa JNR ( Jurisdictional and Nested REDD+ ),	existe	um	instru-
+mento	desenvolvido	 para	abordar	o	DESMATAMENTO	 NÃO	PLANEJADO,	 a	ferramenta	
+VCS Tool - Unplanned Deforestation Allocation 	(UDEF-A)	(Verra,	2024c).
+Ela se baseia em ferramentas anteriores e tem como principal objetivo a geração de ma-
+pas de risco para a alocação de dados de atividade de desmatamento não planeado em 
+projetos,	incluindo	a	partir	de	Níveis	de	Referência	 de	Emissões	Florestais	(FRELs)	a	nível	
+jurisdicional.	 A	abordagem	 da	ferramenta	 prioriza	alocações	imparciais,	 identifica	eficaz -
+mente áreas de baixo risco e mantém uma ampla aplicabilidade com requisitos mínimos 
+de dados.
+A ferramenta é aplicável em duas condições principais: para projetos independentes que 
+visam evitar o desmatamento não planejado e procuram a alocação de dados desse tipo 
+de atividade a nível jurisdicional; ou para jurisdições de nível superior (federais ou esta-
+duais) que procuram designar os seus FRELs a projetos ou jurisdições de nível inferior 
+(estaduais ou municipais). 
+Ela	destina-se	ao	uso	oficial	por	prestadores	 de	serviços	contratados	 para	atuar	em	nome	
+da	Verra,	com	a	ressalva	de	que	os	dados	de	atividade	alocados	pela	Verra	têm	prece -
+dência sobre outros usos da ferramenta por outras partes interessadas. 
+Ressalta-se	 que	a	ferramenta	 passou	por	modificações	 recentes	(2024),	demonstrando	
+estar	ainda	em	desenvolvimento	 e	em	processo	de	melhorias,	 podendo	se	apresentar	
+como	ainda	pouco	consolidada	para	aplicação	prática	no	mercado	(Verra,	2024c).Box 3 – Jurisdictional Forest Reference Emission Levels (FRELs)
+ID Proponente Nome do Programa Jurisdição
+2264State	Agency	of	Forest	Development,	Industry,	 
+Trade and Sustainable Services of Acre (SEDENS)Jurisdictional Subnational Program for Incentives for Environmental Services  
+of	Carbon	of	the	State	of	ACRE,	Brazil	–	ACRE	ISA-Carbon	ProgramAcre,	Brasil
+2574 Terra	Global	Capital,	LLC Korea-Myanmar Joint - Bago Region REDD+ ProgramBago,	
+Myanmar
+4648 Ministry	of	Finance,	Facilities	and	Public	Services	of	Argentina Jurisdictional	REDD+	Program	in	Misiones,	ArgentinaMisiones,	
+ArgentinaQuadro 5: Programas jurisdicionais listados no JNR
+Fonte: Verra,	s.d.-b.
+
+--- PÁGINA 32 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil32
+AnexosReferências  
+bibliográficas4.1.4 Art Trees
+O ART ( Architecture for REDD+ Transactions ) TREES ( The REDD+ Environmental 
+Excellence Standard ) é um padrão ambiental que estabelece diretrizes rigorosas 
+para Programas de REDD+ Jurisdicionais. Este padrão tem como objetivo principal 
+quantificar,	 monitorar,	 relatar	e	verificar	as	reduções	de	emissões	de	gases	de	
+efeito	estufa	e	remoções	de	carbono	em	projetos	de	conservação	 florestal	e	gestão	
+sustentável	de	florestas	(ART,	2021b).
+Para atender aos requisitos do ART TREES,	 os	participantes	 devem	seguir	diretrizes	
+específicas,	 como	a	conformidade	 com	as	orientações	 do	IPCC	para	a	contabilidade	 de	
+emissões	de	GEE,	a	utilização	de	dados	confiáveis	e	verificáveis,	 a	implementação	 de	
+práticas	de	monitoramento	 robustas,	a	transparência	 na	comunicação	 de	resultados	
+e	a	realização	de	auditorias	independentes	 para	verificar	a	conformidade	 com	os	
+critérios	estabelecidos.	 Esses	requisitos	visam	garantir	a	eficácia	na	redução	das	
+emissões de carbono e na promoção do desenvolvimento sustentável.
+Ao	criar	um	programa	jurisdicional	 de	REDD+	através	do	ART	TREES,	os	participantes	
+devem	desenvolver	 um	plano	abrangente	 que	inclua	a	identificação	 de	áreas	de	
+intervenção,	 a	definição	de	metas	de	redução	de	emissões,	a	implementação	
+de	medidas	de	conservação	 florestal	e	o	estabelecimento	 de	mecanismos	 de	
+monitoramento e relatórios regulares. 
+No	que	diz	respeito	às	abordagens de contabilidade,	 o	ART	TREES	reconhece	a	
+importância	 da	contabilidade	 baseada	em	terras,	que	avalia	as	emissões	e	remoções	
+de	carbono	em	uma	área	geográfica	 específica,	 e	da	contabilidade	 baseada	em	
+atividades,	 que	se	concentra	na	quantificação	 das	emissões	e	remoções	associadas	 a	
+atividades	humanas	específicas,	 como	desmatamento,	 reflorestamento	 e	agricultura.	
+A escolha entre contabilidade de carbono baseada na terra e contabilidade de 
+carbono baseada em atividades depende dos objetivos do programa REDD+ e das 
+características da área. 
+A decisão entre essas abordagens deve considerar os objetivos do programa, a 
+disponibilidade de dados e recursos, e a escala das atividades de REDD+ a serem 
+monitoradas. Ambas as abordagens são aceitas pelo padrão TREES e podem ser 
+aplicadas conforme as necessidades e características específicas de cada contexto.O ART TREES apresenta vantagens que o destacam como padrão de certificação 
+para projetos de REDD+. Entre elas estão:
+• o	estabelecimento	 de	diretrizes	rigorosas	para	garantir	a	qualidade	e	eficácia	
+das	ações	de	conservação	florestal	e	gestão	sustentável	de	florestas;
+• o reconhecimento internacional como um padrão de excelência para projetos de 
+REDD+;
+• a	facilitação	do	acesso	a	financiamento	e	investimentos	para	projetos	de	REDD+,	e
+• a possibilidade de uma avaliação abrangente e detalhada do estoque de 
+carbono e das emissões de gases de efeito estufa em diferentes contextos.
+A incorporação de atividades de nível de projeto em uma estrutura jurisdicional 
+(aninhamento) no âmbito do programa ART TREES refere-se à integração do 
+design e implementação de atividades REDD+ em várias escalas dentro de uma 
+jurisdição para alinhar a contabilidade de atividades em menor escala com os 
+sistemas jurisdicionais e com os relatórios nacionais	 (ART,	2021a).	A	apresentação	
+sobre o aninhamento no contexto do programa ART TREES é feita através de um 
+documento	anexo,	visto	que	o	padrão não possui menção direta ao aninhamento. 
+É destacada a importância de incorporar atividades em nível de projeto em um 
+quadro	jurisdicional,	 reconhecendo	 o	papel	fundamental	 que	os	projetos	podem	desempenhar na implementação de uma Estratégia REDD+ jurisdicional. Também 
+são	mencionados	 vários	cenários	de	aninhamento,	 nos	quais	a	jurisdição	pode	chegar	
+a	acordos	com	os	proprietários	 dos	direitos	de	carbono	ou	benefícios,	permitindo	 que	
+as	atividades	em	escala	de	projeto	participem	de	padrões	certificação	de	crédito	de	
+carbono	diferentes	do	ART	TREES.	Em	tais	cenários,	os	créditos	verificados	 para	os	
+projetos são subtraídos do total de créditos emitidos para a jurisdição sob o ART 
+TREES para evitar a contagem dupla.
+Além	disso,	ressalta-se	 a	relevância da conformidade com as salvaguardas 
+ambientais e sociais, bem como a flexibilidade oferecida pelo ART TREES para 
+acomodar várias abordagens de aninhamento e alocação de benefícios que melhor 
+se adequem às circunstâncias específicas da jurisdição. O aninhamento é visto 
+como	uma	maneira	de	promover	a	governança	 florestal,	incentivar	a	participação	
+de	várias	partes	interessadas	 e	garantir	a	eficácia	das	ações	REDD+	em	diferentes	
+escalas dentro de uma jurisdição.
+O	Quadro	6	apresenta	os	4	programas	 de	carbono	florestal	submetidos	 sob	o	ART	
+TREES	existentes	atualmente	no	Brasil,	não	havendo	registro	em	nenhum	deles	ainda.
+Mundialmente,	 o	ART	TREES	possui	cerca	de	20	programas.	 Desses,	quatro	são	os	
+programas	 brasileiros	com	status	de	listados,	bem	como	outros	15	programas	 com	
+o	mesmo	status	pelo	mundo,	e	possui,	somente,	um	projeto	registrado,	 o	Guyana 
+Forestry Commission ,	programa	de	Carbono	Florestal	na	Guiana	(ART	Registry,	[s.d.])
+ID Desenvolvedor do Programa Soberano Nome do Programa Tipo do Programa Jurisdição
+ART 103 Secretaria	do	Meio	Ambiente	e	Recursos	Hídricos Tocantins Carbono Florestal Tocantins
+ART 104 Secretaria de Estado de Meio Ambiente e Recursos Naturais (SEMA) do Maranhão Maranhão Carbono Florestal Maranhão
+ART 105 Secretaria de Estado de Meio Ambiente do Amapá Amapá Carbono Florestal Amapá
+ART 120 Secretaria de Estado de Meio Ambiente do Mato Grosso Mato Grosso REDD+ Program Carbono Florestal Mato GrossoQuadro 6: Programas jurisdicionais brasileiros listados no ART TREES
+Fonte: ART	Registry,	s.d.
+
+--- PÁGINA 33 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil33
+AnexosReferências  
+bibliográficas4.2. Análise comparativa dos padrões 
+independentes de certificação de carbono
+Para que seja possível compreender características relevantes para a aceitação 
+de	padrões	de	certificação	 parceiros	no	SBCE,	foram	comparados	 os	padrões	
+selecionados agrupados de acordo com seus escopos.
+4.2.1. VCS e Gold Standard
+O VCS	é	o	padrão	independente	 de	certificação	 de	carbono	mais	bem	estabelecido	
+no	mercado	voluntário,	com	o	maior	número	de	projetos	registrados,	 inclusive	a	nível	
+nacional.	Pela	alta	demanda	de	registro	de	projetos,	por	vezes,	fica	com	processos	
+lentos	e	atrasados.	O	VCS	aceita	uma	grande	variedade	de	escopos	de	projeto,	o	que	
+permite	uma	ampla	gama	de	opções	para	seleção,	mas	pode	dificultar	a	avaliação	
+de adicionalidade rigorosa de todos os projetos. 
+O	padrão	foi	alvo	de	críticas,	recentemente,	 relacionadas	 à	adicionalidade	 dos	projetos,	
+à	verificação	 das	atividades	relacionadas	 e	ao	desrespeito	 a	direitos	trabalhistas	 e	
+humanos.	A	certificadora	 respondeu	às	críticas	afirmando	que	tomou	medidas	para	
+inativar	projetos	que	desrespeitassem	 suas	regras.	Além	disso,	vem	trabalhando	 em	
+melhorias	metodológicas	 para	garantir	projetos	adicionais,	 realistas	e	de	qualidade.	
+O Gold Standard,	 por	sua	vez,	também	aceita	uma	grande	variedade	de	escopos	
+de	projeto	e	metodologias.	 No	entanto,	ao	longo	dos	anos,	os	projetos	brasileiros	
+se	concentraram	 no	escopo	de	energia	renovável.	 Recentemente,	 após	a	queda	
+de	adicionalidade	 de	projetos	de	energia	renovável	ligados	ao	grid,	seu	pipeline  de 
+projetos	no	Brasil	tem	se	tornado	cada	vez	mais	diverso.	
+Como	o	VCS	é	gerido	pela	Verra,	que	também	gere	padrões	de	certificação	 de	
+cobenefícios sociais e ambientais (CCB e SDVista) e o programa de REDD+ jurisdicional 
+JNR,	possui	uma	experiência	 abrangente	 em	projetos	de	carbono	associados	 ao	
+desenvolvimento sustentável para comunidades locais aos projetos. 
+Por	outro	lado,	o	Gold	Standard,	além	de	ser	um	padrão	independente	 de	certificação	de	carbono,	incorpora	análises	de	cobenefícios	 socioambientais	 dentro	de	seus	
+processos,	 realizando	 assim	o	trabalho	realizado	por	certificações	 exclusivas	
+de	cobenefícios,	 tais	como	o	CCB.	Possui	metodologia	 robusta	de	salvaguardas	
+socioambientais e igualdade de gênero aplicável a todos os projetos.
+A	Verra	tem	parceria	para	compensações	 com	o	ETS	da	Califórnia.	Em	contrapartida,	
+o	Gold	Standard	não	é	aceito	em	regulações	 nacionais,	mas	já	se	prepara	para	
+realizar	os	ajustes	correspondentes	em	transações	no	Artigo	6	do	Acordo	de	Paris.
+4.2.2  Programas jurisdicionais
+A Lei nº 15.042 de 11/12/2024 trata dos programas jurisdicionais de crédito de 
+carbono,	com	foco	especial	no	REDD+	jurisdicional,	 que	é	desenvolvido	 pelos	entes	
+públicos	em	âmbito	nacional	ou	estadual	e	têm	o	objetivo	de	reduzir	as	emissões	ou	
+promover a remoção de gases de efeito estufa. Estes programas geram resultados 
+mensuráveis	 que	podem	ser	convertidos	 em	créditos	de	carbono,	permitindo	 que	os	
+entes públicos recebam pagamentos por esses resultados ambientais através da 
+venda	desses	créditos	(Senado	Federal,	2024).
+A legislação estabelecerá regras para a exclusão de imóveis de terceiros desses 
+programas	 jurisdicionais,	 garantindo	 o	direito	de	propriedade	 e	usufruto.	Os	
+proprietários ou usufrutuários podem comunicar sua vontade de retirar seus 
+imóveis	do	programa	jurisdicional,	 sendo	proibida	a	imposição	 de	exigências	 ou	
+condicionantes para exercer esse direito. Qualquer venda de créditos de carbono 
+relacionada	 a	esses	imóveis	após	o	comunicado	 é	considerada	 nula,	sob	pena	de	
+responsabilização	dos	entes	públicos	e	agentes	envolvidos.
+Além	disso,	a	Lei	prevê	a	possibilidade	 de	os	entes	públicos	desenvolverem	 programas	
+jurisdicionais	 de	crédito	de	carbono	com	abordagem	 de	mercado,	onde	recebem	
+pagamentos por resultados ambientais passados pela venda de créditos de carbono 
+gerados a partir da redução de emissões ou remoção de gases de efeito estufa já 
+alcançadas. Essas medidas visam evitar a dupla contagem e promover a efetividade 
+das ações de mitigação das mudanças climáticas.Os programas jurisdicionais se relacionam com essa abordagem de diferentes 
+maneiras,	estabelecendo	 padrões	para	quantificação,	 verificação	 e	relato	de	reduções	
+de	emissões	e	remoções	de	carbono,	garantindo	 que	os	créditos	sejam	baseados	em	
+resultados	verificados	 e	evitando	sobreposições	 com	outros	compromissos.	 Também	
+implementam	 medidas	para	evitar	dupla	contagem,	 como	provas	de	propriedade	 e	
+rastreamento	 dos	créditos,	além	de	proibir	dupla	venda	e	reivindicação,	 permitem	
+que países usem créditos de compensação para cumprir compromissos climáticos 
+do	Acordo	de	Paris,	apoiando	as	Contribuições	 Nacionalmente	 Determinadas	 (NDCs)	
+e	exige	transparência	 nos	relatórios	à	UNFCCC	para	assegurar	uma	contabilização	
+clara e sem duplicidade dos créditos.
+Ao compararmos alguns dos principais pontos da Lei nº 15.042 de 11/12/2024 com 
+o estabelecido nos programas jurisdicionais vigentes (ART TREES e JNR Program ),	
+podemos	observar	as	seguintes	semelhanças,	apresentadas	no	Quadro	7.
+
+
+--- PÁGINA 34 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil34
+AnexosReferências  
+bibliográficasIniciativa da Lei nº 15.042  
+de 11/12/2024JNR P rogram Art Trees
+Necessidade de credenciamento 
+das	metodologias	utilizadas	
+para REDD+ pelo SBCE.O	JNR	não	especifica	metodologia	para	desenvolvimento	
+de	projetos	de	carbono,	podendo	ser	utilizada	qualquer	
+metodologia credenciada que siga as etapas gerais de 
+melhores	práticas,	as	quais	as	principais	metodologias	já	
+seguem	(VCS,	Cercarbono,	Gold	Standard	etc).	Estando	de	
+acordo com a Lei nº 15.042 de 11/12/2024.O	ART	TREES	também	não	especifica	metodologia	para	
+desenvolvimento	de	projetos	de	carbono,	podendo	ser	utilizada	
+qualquer metodologia credenciada que siga as etapas gerais de 
+melhores	práticas,	as	quais	as	principais	metodologias	já	seguem	
+(VCS,	Cercarbono,	Gold	Standard	etc).	Estando	de	acordo	com	a	Lei	nº	
+15.042 de 11/12/2024.
+Evitar dupla contagem de 
+créditos.O	JNR	possui	processos	bem	definidos	para	evitar	a	dupla	
+contagem	de	créditos	de	carbono,	assegurando	a	integridade	
+ambiental e a transparência na contabilidade de carbono. Esses 
+processos	incluem	a	definição	clara	de	limites	geográficos	
+e	escopos	das	atividades,	a	implementação	de	sistemas	
+robustos	de	medição	e	relato,	a	exigência	de	verificação	
+independente dos dados e a promoção da transparência 
+através do compartilhamento detalhado de informações sobre 
+as atividades e resultados alcançados. Estando de acordo com 
+a Lei nº 15.042 de 11/12/2024.O ART TREES implementa processos para evitar a dupla contagem 
+de	créditos	de	carbono,	incluindo	prova	de	propriedade	no	momento	
+da	emissão,	rastreamento	detalhado	com	números	de	série	e	contas	
+registradas,	e	proibição	explícita	de	dupla	venda	por	meio	de	regras	
+específicas.	Estando	de	acordo	com	a	Lei	nº	15.042	de	11/12/2024.
+Exclusão de imóveis privados/
+projetos privados do programa 
+jurisdicional.O JNR visa promover a integração de projetos em programas 
+jurisdicionais para garantir uma abordagem coordenada 
+e abrangente para a redução de emissões de carbono e o 
+combate	ao	desmatamento	e	degradação	florestal.	A	decisão	
+de incluir ou excluir projetos privados dentro desse contexto 
+dependerá	das	políticas	e	diretrizes	estabelecidas	pelo	
+programa	jurisdicional	específico.	A	ferramenta	UDEF-A	fornece	
+insumos	para	alocação	da	linha	de	base	em	projetos	privados,	
+bem como fornece a informação necessária para sua exclusão 
+do programa jurisdicional. Estando de acordo com a Lei nº 
+15.042 de 11/12/2024.Sendo um standard prioritariamente para o desenvolvimento de 
+programas	jurisdicionais,	fica	subentendido	que	a	diretriz	principal	do	
+ART TREES é a exclusão de projetos privados/imóveis privados. Caso 
+seja	do	desejo	do	proponente	do	programa	o	aninhamento,	o	TREES	
+possui	um	documento	anexo	disponibilizando	cenários	para	que	o	
+aninhamento	seja	realizado.	Estando	de	acordo	com	a	Lei	nº	15.042	de	
+11/12/2024.
+Realização	da	alocação	
+dos resultados (Relato e 
+Verificação).Está previsto no padrão a preparação de relatórios periódicos 
+sobre as reduções de emissões de carbono alcançadas 
+e	submeter	esses	relatórios	a	processos	de	verificação	
+independentes para garantir a precisão e a conformidade com 
+os requisitos do JNR. Estando de acordo com a Lei nº 15.042 de 
+11/12/2024.O	TREES	aborda	a	alocação	dos	resultados	(relato	e	verificação)	como	
+parte	fundamental	do	processo	de	certificação	de	projetos	de	REDD+.	
+A	alocação	dos	resultados	refere-se	à	atribuição	e	verificação	das	
+reduções de emissões e remoções de carbono alcançadas por um 
+determinado projeto ou programa de REDD+. Estando de acordo com 
+a Lei nº 15.042 de 11/12/2024.A Lei nº 15.042 de 11/12/2024 traz também a manutenção de um registro nacional 
+de programas jurisdicionais de crédito de carbono para identificar o ente público 
+responsável pelo programa, evitando a dupla contagem. 
+• No	contexto	do	SBCE,	tal	como	a	Lei	nº	15.042	de	11/12/2024	 estabelece,	 a	Co-
+missão Nacional para REDD+ (CONAREDD+) desempenhará um papel crucial 
+no processo de credenciamento das metodologias a serem aceitas pelo órgão 
+gestor.	Além	disso,	a	CONAREDD+	 é	encarregada	 de	manter	um	registro	nacio -
+nal	de	programas	 jurisdicionais	 de	crédito	de	carbono,	o	que	ajuda	a	identificar	
+os responsáveis por esses programas e a evitar a contagem dupla de créditos 
+de	carbono	(S.	F.	BRASIL,	2024).
+• As atribuições delineadas pela Lei para a CONAREDD+ incluem ser consultada 
+no	processo	de	credenciamento	 de	metodologias	 para	REDD+,	manter	registros	
+nacionais	de	programas	 jurisdicionais	 de	crédito	de	carbono,	receber	informa-
+ções	sobre	projetos	certificados	 de	REDD+	em	execução	no	país,	e	sugerir	a	
+exclusão de propriedades de programas jurisdicionais. Essas responsabilidades 
+têm	como	objetivo	assegurar	a	integridade	 e	eficácia	das	iniciativas	voltadas	
+para a redução de emissões provenientes do desmatamento e da degradação 
+florestal	(S.	F.	BRASIL,	2024).
+Atualmente, comparativamente ao JNR, o ART Trees é preferido para o creden-
+ciamento no SBCE devido à sua ampla aceitação e maior consolidação, especial-
+mente entre os estados brasileiros. Ele se destaca pela flexibilidade metodológica 
+e pela habilidade de adaptação às diretrizes específicas, o que o torna mais prá-
+tico e eficaz na implementação de programas jurisdicionais de REDD+. 
+Em contraste, embora o JNR possua uma metodologia robusta e uma ferramen-
+ta que pode ter uma utilização favorável mesmo fora do JNR, o padrão enfrenta 
+baixa utilização e poucas submissões de programas jurisdicionais. Atualizações 
+recentes na ferramenta do padrão sugerem que esse ainda está em desenvolvi-
+mento e, com melhorias contínuas, eventualmente o JNR pode ganhar potencial 
+transformando-se em uma alternativa viável no futuro, à medida que o padrão 
+amadurece e ganha maior adesão.
+
+--- PÁGINA 35 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil35
+AnexosReferências  
+bibliográficas4.3. Escopos prioritários e suas principais  
+metodologias 
+O órgão gestor do SBCE deverá estabelecer critérios para credenciamento de meto -
+dologias,	assim,	serão	analisados	 quais	os	tipos	de	projetos	devem	ser	prioritários	 e	
+as principais metodologias de cada um deles. Para conhecer o nível de impacto dos 
+tipos	de	projetos	em	termos	de	emissões,	analisou-se	 as	estimativas	 de	emissões	
+de	GEE	brasileiras.	 A	Figura	5,	abaixo	apresenta	essas	estimativas.	 Destacam-se	 as	emissões	de	mudança	do	uso	da	terra	e	florestas,	principalmente	 fruto	do	desmata-
+mento ilegal.
+Assim,	considerando	 esses	setores,	foram	analisados	 os	seguintes	escopos	de	pro-
+jetos	de	carbono	correspondentes:	 para	mudança	do	uso	do	solo	e	florestas,	REDD+,	
+Melhora	do	manejo	florestal	(IFM)	e	Florestamento,	 Reflorestamento	 e	Revegetação	
+(ARR);	para	setor	de	agropecuária,	 o	escopo	de	gestão	de	terras	agrícolas	e	meta-
+no;	já	para	setor	de	energia,	o	escopo	de	hidrogênio	 verde;	para	o	setor	de	resíduos,	
+analisou-se	 o	escopo	de	gás	de	aterro	sanitário.	Além	desses,	foram	considerados	ainda	outros	escopos	como	CCS	e	biochar,	que	juntamente	 com	IFM,	hidrogênio	 ver-
+de	e	metano	entérico,	não	são	ainda	muito	difundidos	e	foram	incluídos	na	seção	de	
+tecnologias promissoras.
+É importante destacar que projetos de carbono ligados à geração de energia elé -
+trica,	apesar	de	já	terem	sido	muito	comuns	no	Brasil,	não	foram	abordados,	 visto	
+que,	as	principais	tecnologias	 de	geração	de	energia	elétrica	se	tornaram	comuns	
+no	país,	ao	longo	dos	anos,	fazendo	com	que	escopos	específicos	 já	deixem	de	ser	
+aceitos	por	parte	dos	padrões	de	certificação,	pela	falta	de	adicionalidade.	
+4.3.1  Conservação florestal e manejo florestal
+A	área	desmatada	 no	país	cresceu	22,3%	em	2022	em	relação	ao	ano	anterior	e	fo-
+ram	identificados,	 validados	e	refinados	76.193	alertas,	que	totalizaram	 2.057.251	
+hectares	de	desmatamento,	 sendo	que	a	Amazônia	e	o	Cerrado	são	os	biomas	mais	
+ameaçados	 (MapBiomas,	 2023).	Sendo	assim,	fundamental	 zelar	pela	conservação	
+florestal23		e	o	REDD+	podem	ter	impacto	significativo	 na	redução	do	desmatamento.	
+O REDD+ é uma iniciativa global que visa mitigar as mudanças climáticas por meio 
+da	conservação	 e	manejo	sustentável	 das	florestas,	além	da	melhoria	dos	estoques	
+de	carbono	florestal.
+Quando	se	trata	de	REDD+,	é	possível	falar	de	diferentes	estruturas.	 A	nomenclatura	
+dessas	estruturas	é	mesma,	mas,	na	prática,	há	conceitos	distintos:
+(i) O REDD+ NO ÂMBITO DA UNFCCC;
+(ii)	O	REDD+	DO	MERCADO	VOLUNTÁRIO;	e
+(iii) O REDD+ JURISDICIONAL.
+Essa é uma agenda emergente em que as agendas de políticas públicas e projetos 
+do	setor	privado	começa	a	convergir.	Neste	estudo,	serão	decorridos,	 inicialmente,	 a	
+inclusão	de	compensações	 com	créditos	de	REDD+	do	mercado	voluntário	e,	poste -
+riormente,	com	créditos	de	REDD+	jurisdicional.
+Embora	não	ganhe	em	número	de	projetos,	REDD+	é	o	tipo	de	projeto	que	mais	gera	
+créditos	no	Brasil	atualmente.	 Em	2021,	foi	gerado	o	correspondente	 a	33,25	MtCO2 
+23.	No	contexto	legislativo	da	conservação	florestal	no	Brasil,	destacam-se	o	Sistema	Nacional	de	Unidades	de	Conservação	(SNUC)	(Lei	9.985/2000),	a	Lei	de	Proteção	da	Vegetação	Nativa	(Lei	11.428/2006) 	
+e o Código Florestal (Lei 12.651/2012).
+350M
+300M
+250M
+200M
+150M
+100M
+50M
+0M
+1990
+1993
+1996
+1999
+2002
+2005
+2008
+2011
+2014
+2017
+2020
+2023
+Resíduos Mudança de Uso da Terra e Floresta Agropecuária Energia Processos IndustriaisFigura 5: Estimativa de emissões brasileiras por setor (tCO2e)
+Fonte: SEEG (2024).
+
+--- PÁGINA 36 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil36
+AnexosReferências  
+bibliográficase	evitadas	em	créditos.	Há	16	projetos	registrados	 no	VCS	e	outros	82	no	pipeline . 
+Considera-se	 que	há	oportunidades	 para	este	tipo	de	projeto	já	que	setor	florestal	
+têm	um	alto	potencial	de	mitigação	de	emissões,	entre	10	e	90	MtCO2e (ICC Brasil & 
+WayCarbon,	2021).	
+Além	disso,	emissões	evitadas	por	REDD+	tem,	geralmente,	 baixo	custo	de	imple -
+mentação em relação ao ARR e a outros setores e maiores possibilidades de gera-
+ção	de	cobenefícios	 já	que	a	população	 local	muitas	vezes	vive	dentro	da	área	de	
+projeto.	No	entanto,	há	desafios	ligados	às	recentes	críticas	em	relação	a	adicionali-
+dade	e	cálculo	das	linhas	de	base,	às	questões	fundiárias	e	ao	relacionamento	 com	
+as comunidades locais.
+Embora	existam	diversas	metodologias	 mais	antigas	de	REDD+,	destaca-se	 a	
+VM0048,	que	foi	elaborada	recentemente	 pela	Verra	e	incorpora	medidas	de	respos-
+ta	às	diversas	críticas	feitas	aos	projetos	de	REDD+,	particularmente,	 relacionadas	 à	
+questão	do	grande	número	de	créditos	de	carbono	emitidos	por	eles.	Espera-se	que,	
+eventualmente,	 ela	englobe	todos	os	tipos	de	projeto	REDD	(desmatamento	 não	
+planejado	evitado,	DESMATAMENTO	 PLANEJADO	 EVITADO,	degradação	 florestal	
+evitada)	e	se	torne	a	metodologia	unificada	desse	escopo	no	padrão.
+Assim,	como	apontado,	 o escopo de projeto de carbono de REDD+ tem alta rele -
+vância para o país. Discussões sobre ele vêm ganhando cada vez mais espaço, 
+particularmente, devido ao componente jurisdicional. Observam-se avanços re -
+lacionados a isso, com a aprovação da nova metodologia da Verra, VM00048, 
+que se baseia no framework do JNR e permite que as linhas de base de seus pro -
+jetos sejam derivadas das linhas de base jurisdicionais de REDD+, sinalizando 
+uma promissora sinergia entre as duas iniciativas, que reforçam a importância da 
+aceitação de projetos que sigam esta metodologia.Box 5 – Metodologia VM0048
+Fonte: (Verra,	2023a).Em	novembro	de	2023,	a	Verra	publicou	sua	nova	metodologia	 REDD	para	pro-
+jetos	de	conservação	 florestal	no	VCS,	a	VM0048	-	Reducing Emissions from 
+Deforestation and Forest Degradation ,	juntamente	 com	o	módulo,	dessa	meto -
+dologia,	para	atividades	de	Desmatamento	 Não	Planejado	Evitado	(VMD0055),	
+que envolve a colaboração com governos nacionais e permite que as linhas de 
+base do projeto sejam derivadas das linhas de base jurisdicionais de REDD. A 
+nova metodologia pretende lidar com a questão do grande número de créditos 
+de carbono emitidos por projetos de desmatamento evitado e suas principais 
+atualizações	incluem:
+Mudança para linhas de base “jurisdicionais”.	 Antes,	os	desenvolvedores	 eram	
+responsáveis	 pela	criação	de	suas	próprias	linhas	de	base,	o	que	era	critica-
+do	como	causa	de	uma	possível	significativa	 geração	excessiva	de	créditos.	A	
+Verra contratou fornecedores geoespaciais dedicados para desenvolver linhas 
+de	base	na	escala	de	jurisdições	 inteiras,	destinadas	 a	permitir	uma	contabili-
+dade	centralizada	 e	padronizada	 que	também	possa	combater	problemas	 de	
+vazamento.	 O	processo	de	coleta	de	dados	incorporará	 tecnologias	 sofisticadas,	
+como	satélites	e	detecção	remota,	bem	como	verificações	no	terreno.
+Embora	se	espere	que	a	Verra	crie	as	suas	próprias	linhas	de	base,	 os projetos 
+sob a nova metodologia poderão utilizar linhas de base jurisdicionais emitidas 
+pelos estados e países anfitriões,	 por	exemplo,	como	parte	dos	procedimentos	
+de aninhamento J-REDD+. 
+Adição de uma nova ferramenta de risco de desmatamento. Esta ferramenta 
+distribui a parcela da linha de base jurisdicional para projetos dentro de uma 
+região,	calculando	 o	risco	de	desmatamento	 em	uma	zona	buffer	da	borda	da	
+floresta	com	base	na	taxa	de	desmatamento	nos	últimos	seis	anos.	
+Quanto	mais	próximo	o	projeto	estiver	de	uma	borda	florestal	ou	de	áreas	que	
+tenham	visto	altas	taxas	de	desmatamento,	 maior	será	a	pontuação	 de	risco	e	
+maior será a linha de base para os desenvolvedores. Quaisquer locais fora da 
+distância do buffer não serão considerados em risco e não serão considerados 
+no cálculo da linha de base. 
+A nova metodologia será aplicada retroativamente aos projetos de REDD+ 
+existentes. Os projetos de REDD+ podem atualmente usar até cinco metodolo -
+gias	diferentes	para	desmatamento	 evitado	não-planejado	 (AUD,	na	sigla	do	in-
+glês),	mas	sob	a	nova	metodologia	 os	projetos	receberão	um	período	de	carência	
+de	seis	meses,	após	o	qual	quaisquer	novas	emissões	ou	períodos	de	crédito	de-
+verão	atender	à	VM0048.	Em	iterações	futuras,	também	serão	incluídos	módulos	
+adicionais	para	abordar	atividades	 que	reduzem	as	emissões	provenientes	 do	
+desmatamento	planejado	e	da	degradação	florestal	não	planejada.24.	A	Lei	nº	15.042	de	11	de	dezembro	de	2024	cita	“§	2º	É	expressamente	vedada	a	conversão	em 	
+CRVE de créditos de carbono do mercado voluntário decorrentes de atividades de manutenção ou 
+de	manejo	florestal	sustentável,	salvo	se	metodologia	credenciada	pelo	SBCE	reconhecer	a	efetiva 	
+redução	de	emissão	ou	remoção	de	GEE	em	créditos	com	essa	origem.”	No	entanto,	apesar	da	Lei	citar 	
+a	exclusão	de	projetos	de	atividades	de	manutenção	ou	manejo	florestal	sustentável,	conhecidas	como 	
+IFM,	assim	como	outras	metodologias,	esta	não	fica	excluída	desta	análise	já	que	ainda	não	houve	o 	
+credenciamento de metodologias no SBCE.4.3.1.1. REDD+ Jurisdicional
+Enquanto os projetos de REDD+ convencionais são frequentemente baseados em 
+áreas	específicas	 e	delimitadas,	 o	REDD+	Jurisdicional,	 já	abordado	anteriormente	
+ao	falar	dos	padrões	JNR	e	ART	TREES,	adota	uma	abordagem	 mais	abrangente,	
+considerando	 toda	uma	jurisdição	-	seja	nacional,	estadual	ou	regional	-	para	medir	
+e monitorar a redução das emissões de carbono provenientes do desmatamento e 
+da	degradação	florestal.
+Os programas de REDD+ Jurisdicional emergem como uma estratégia essencial para 
+a	conservação	 florestal	e	mitigação	das	mudanças	 climáticas,	 abordando	 causas	
+do	desmatamento	 de	forma	holística	em	níveis	nacional,	estadual	ou	regional.	Eles	
+usam	dados	abrangentes	 e	modelos	avançados	 para	definir	linhas	de	base	precisas,	
+essenciais para medir emissões evitadas e garantir a credibilidade dos créditos de 
+carbono gerados.
+A	escala	maior	desses	programas	 facilita	o	monitoramento	 e	a	detecção	de	vaza-
+mentos	de	desmatamento,	 que	são	contabilizados	 em	toda	a	jurisdição.	Além	disso,	
+ajudam	a	reduzir	os	custos	elevados	de	Monitoramento,	 Reporte	e	Verificação	 (MRV)	
+ao compartilhar esses custos e adotar tecnologias avançadas.
+A	participação	 ativa	dos	governos	é	crucial,	pois	podem	implementar	 políticas	pú-
+blicas	de	suporte,	promover	a	participação	 comunitária	 e	proteger	direitos	de	pro-
+priedade,	além	de	criar	incentivos	financeiros	 para	a	conservação.	 Padrões	como	o	
+ART-TREES	 e	o	Programa	JNR	da	Verra	são	exemplos	significativos	 que	promovem	
+a	conservação	florestal	e	a	redução	de	emissões.
+4.3.2  Manejo florestal sustentável
+Além	do	escopo	de	REDD,	existem	também	projetos	exclusivamente	 de	IFM,	gestão	
+sustentável	 das	florestas24	.	A	VM0045,	Metodologia	 para	Gestão	Florestal	Susten-
+tável,	está	entre	as	novas	metodologias	do	VCS	e	os	projetos	desenvolvidos	sob	ela	
+já	minimizam	riscos	de	imprecisão	dos	cálculos	do	balanço	de	carbono.	
+
+--- PÁGINA 37 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil37
+AnexosReferências  
+bibliográficasBox 6  – Metodologia VM0045
+Esta	metodologia	 aplica-se	a	uma	ampla	gama	de	práticas	de	IFM	e	utiliza	um	
+referencial de desempenho dinâmico para adicionalidade e a linha de base de 
+crédito	criada	a	partir	de	inventários	 florestais	nacionais.	Esta	metodologia	 é	
+muito	recente,	de	12	de	março	de	2024.	Os	projetos	elegíveis	devem	adotar	uma	
+ou	mais	práticas	de	IFM	específicas	 e	não	pré-existentes.	 O	foco	da	contabili-
+dade está na estimativa das emissões de GEE e/ou na alteração dos estoques 
+de	carbono	em	parcelas	permanentes,	 e	não	na	estimativa	dos	estoques	em	si,	
+melhorando,	 assim,	a	precisão	das	reduções	e/ou	remoções	de	emissões	de	GEE	
+relatadas.
+A metodologia emprega um amplo quadro de monitoramento e contabilidade 
+que capta os impactos dos GEE das práticas de IFM destinadas a evitar emis-
+sões (de colheita ou perturbações naturais) ou a aumentar o sequestro. Os pro -
+jetos podem aplicar uma combinação de práticas implementadas em conjunto 
+na mesma área.
+Fonte: (Verra,	2024a).
+4.3.3  Restauração florestal
+Na	NDC	brasileira,	entre	as	contribuições	 para	o	alcance	das	reduções	de	emissões	
+(considerando emissões líquidas que descontam as remoções de emissões) está 
+o compromisso de restaurar 12 milhões de hectares de vegetação nativa no país 
+até	2030	(BRASIL,	2016).	Este	compromisso	 foi	retomado	pelo	governo	brasileiro	
+em 2023 no Fórum das Grandes Economias sobre Energia e Clima (Presidência da 
+República,	2023).	Todavia,	identifica-se	 que,	desde	que	o	Acordo	de	Paris	passou	a	
+vigorar,	em	2016,	o	Brasil,	por	meio	de	iniciativas	públicas	e	privadas,	restaurou	ati-
+vamente,	por	meio	do	plantio	de	árvores	nativas,	apenas	79	mil	hectares,	ou	0,65%	
+da	meta	brasileira,	dos	quais	74	mil	ha	concentram-se	 na	Mata	Atlântica	(Observa-
+tório	da	Restauração	e	Reflorestamento,	2024). 	
+A	restauração	 florestal	promove	a	remoção	de	emissões,	fundamental	 para	metas	
+de neutralidade de emissões25	.	Assim,	há	uma	tendência	de	que	empresas	que	sub-
+meteram	metas	net-zero	busquem	créditos	de	remoção	de	emissões	nos	próximos	
+anos.	Além	disso,	o	país	tem	a	meta	de	neutralidade	 para	2050	definida	na	NDC	(BRASIL,	2023).	A	Figura	6	mostra	como	se	dá	o	balanço	de	carbono	em	projetos	de	
+remoção de emissões. 
+Destaca-se	 que	a	grande	maioria	dos	projetos	que	proporcionam	 a	restauração	 flo-
+restal	no	Brasil	não	gera	crédito	de	carbono	(Observatório	 da	Restauração	 e	Reflo -
+restamento,	 2024).	Há	menos	expressividade	 de	projetos	de	ARR	no	Brasil	compa-
+rado	a	projetos	de	REDD+.	Há	apenas	6	projetos	registrados	 no	VCS	e	1	no	Gold	
+Standard,	sendo	3	com	espécies	comerciais	 e	3	com	espécies	nativas,	mas	o	pipeline	
+do	VCS,	com	27	projetos	desse	tipo,	mostra	tendência	de	crescimento	 desse	tipo	de	
+projeto	(Gold	Standard,	[s.d.]-b;	Verra,	[s.d.]-b).		
+Como	oportunidades	 para	projetos	de	ARR,	considera-se	 os	milhões	de	hectares	
+que	estão	aptos	para	restauração	 florestal	no	Brasil	e	pelo	aumento	da	demanda	
+por	esse	tipo	de	projeto.	Além	disso,	a	restauração	 pode	fazer	frente,	principalmente	
+quando	feita	com	espécies	nativas:	à	perda	de	biodiversidade,	 à	baixa	resiliência	das	
+paisagens	às	alterações	climáticas,	 à	insegurança	 hídrica,	à	pobreza,	entre	outros.	
+25.	A	Science	Based	Target	initiative	(SBTi)	recomenda	o	uso	de	remoções	de	emissão	para	a	neutralização	de	emissões	residuais	de	empresas	que	se	comprometeram	com	metas	net-zeroFigura 6: Balanço de carbono de projetos de remoção de emissões
+Fonte: Elaboração própria.
+Anos (t)
+Crédito de carbono Remoção LíquidaRemoção pré-projetoEmissões
+Há	ainda	outras	oportunidades	 tais	como:	o	preço	dos	créditos	geralmente	 é	superior	
+aos	de	REDD+	e	a	geração	de	emprego	e	renda	devido	às	atividades	de	plantio,	co-
+leta de sementes e manutenção das áreas. 
+No	entanto,	esse	tipo	de	projeto	também	carrega	desafios	como	o	alto	custo	de	im-
+plementação	 em	relação	a	projetos	de	REDD+,	a	questão	de	propriedade	 de	terras	e	
+dúvidas	em	relação	à	garantia	de	sucesso	a	longo	prazo	pelos	projetos	terem	dura-
+ção	de	décadas.	Destaca-se	 que	os	projetos	de	carbono	de	restauração,	 por	vezes,	
+ocorrem por meio de parcerias entre os proponentes de projetos e os proprietários 
+de	terras,	que	recebem	pagamento	 por	serviços	ambientais	 (PSA)	por	permitirem	 as	
+atividades dos projetos em suas áreas
+Há	diversas	metodologias	 para	este	escopo,	destacam-se	 a	VM0047	(mais	usada	no	
+Brasil no VCS) e a A/R que está sendo usada para desenvolvimento de um projeto 
+deste setor no Gold Standard.
+
+--- PÁGINA 38 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil38
+AnexosReferências  
+bibliográficasBox 8  – Metodologia A/R Gold Standard
+A	VM0047	substituiu	as	metodologias	 do	MDL	AR-ACM0003	 e	AR-AMS0007,	 as	mais	utili-
+zadas	para	projetos	de	ARR.	Ela	está	ativa	desde	28	de	setembro	de	2023.	Esta	metodologia 	
+quantifica	as	remoções	de	carbono	provenientes	 de	atividades	que	aumentam	 a	densidade	
+de árvores ou outros tipos de vegetação lenhosa. Ele fornece duas abordagens para quanti-
+ficar	essas	remoções	de	carbono	provenientes	de	atividades	de	ARR:
+• Abordagem baseada em área: Esta abordagem combina amostragem baseada em 
+parcelas,	sensoriamento	 remoto	e	um	benchmarking  de desempenho dinâmico para tes-
+tar	a	adicionalidade	e	estabelecer	as	linhas	de	base	de	crédito	em	cada	verificação.
+• Abordagem baseada no censo: Esta abordagem se aplica a projetos menores onde 
+é viável um censo completo das plantações. É mais adequada para atividades de plantio 
+dispersas	(por	exemplo,	silvicultura	urbana,	agrossilvicultura,	 cinturões	de	proteção	e	ati-
+vidades	de	revegetação	 que	não	atendem	à	definição	de	floresta).	Sob	esta	abordagem, 	
+a adicionalidade é demonstrada com um método de projeto e a linha de base de crédito é 
+definida	como	zero	se	critérios	conservadores	forem	atendidos.
+A metodologia é aplicável quando as atividades do projeto aumentam a cobertura vegetal; e 
+de	forma	específica	considerando	 as	possíveis	abordagens.	 No	entanto,	a	metodologia	 não	é	
+aplicável se: as atividades do projeto envolvem a remoção mecânica fora do local ou a quei-
+ma	de	estoques	significativos	 de	madeira	morta	preexistente	 (por	exemplo,	para	preparação 	
+do	local);	quando	a	preparação	 do	local	do	projeto	incluir	lascamento,	 mastigação	 ou	empi-
+lhamento	mecânico,	todo	o	material	deverá	permanecer	 no	local	dentro	dos	limites	do	projeto;	
+as	atividades	do	projeto	ocorrem	em	zonas	úmidas	de	maré	(por	exemplo,	manguezais,	 pân-
+tanos	salgados);	e	para	atividades	do	projeto	que	ocorrem	em	solos	orgânicos	ou	em	zonas	
+úmidas e resultam na manipulação do lençol freático. 
+Para	cenários	de	linha	de	base	para	a	abordagem	 baseada	em	área,	uma	referência	de	de-
+sempenho	é	usada	para	definir	a	linha	de	base	de	crédito.	O	valor	de	referência	de	desempe -
+nho,	definido	como	o	aumento	normal	da	cobertura	vegetal	em	relação	ao	projeto,	é	definido	
+com base em dados de parcelas de controle representativas fora da área do projeto. Já para 
+a	abordagem	 baseada	no	censo	utiliza	um	método	de	projeto	para	definir	a	linha	de	base	
+de crédito. A atividade do projeto deve: 1) ocorrer dentro de uma área com cobertura de bio -
+massa	lenhosa	pré-existente	 inferior	a	10%;	e/ou	2)	ocorrer	em	área	sujeita	a	cultivo	contínuo,	
+em	assentamento(s)	 ou	em	terras	categorizadas	 como	‘outras	terras’.	Se	o	projeto	atender	a	
+esses	critérios,	pode-se	presumir	que	o	florestamento,	 o	reflorestamento	 ou	a	revegetação 	
+não	ocorrerão	sem	as	intervenções	 do	projeto	e	a	linha	de	base	de	crédito	poderá	ser	definida	
+como	zero.	Todas	as	outras	linhas	de	base	são	efetivamente	excluídas	da	aplicação.
+Fonte: (Verra,	2023b)São elegíveis para aplicar esta metodologia projetos que incluam o plantio de árvores em 
+terras	que	não	atendem	à	definição	de	floresta,	na	qual	a	área	de	plantio	não	deverá	ter	
+sido	florestada	por	pelo	menos	10	anos	antes	do	início	do	plantio,	ou	se	a	área	de	plantio	
+tiver	sido	desmatada	 durante	os	10	anos	anteriores	ao	início	do	plantio,	a	elegibilidade	 do	
+projeto deverá ser avaliada pelo Secretariado do Gold Standard.
+Os	projetos	podem	aplicar	todos	os	sistemas	silviculturais:	 florestas	de	conservação	 (sem	
+uso	de	madeira);	florestas	com	colheita	seletiva;	e	silvicultura	de	rotação.	Todos	os	projetos	
+podem	incluir	agricultura	(agrofloresta)	 ou	atividades	em	pastagem	(silvopastoris).	 As	áre-
+as	do	projeto	não	deverão	estar	em	zonas	úmidas,	com	solos	orgânicos	e	não	deverão	ser	
+drenadas ou irrigadas (exceto para irrigação para plantio). A perturbação do solo (através 
+de	aragem,	escavação	de	covas,	remoção	de	tocos,	infraestruturas,	 etc.)	em	solos	orgâni-
+cos	deverá	ocorrer	em	menos	de	10%	da	área	que	é	submetida	à	certificação	 (não	10%	de	
+toda a área de projeto). 
+O	cenário	mais	provável	sem	o	projeto	(cenário	de	linha	de	base)	deverá	ser	definido	para	a	
+área	do	projeto.	Este	cenário	não	deve	mostrar	qualquer	aumento	significativo	 da	biomas-
+sa	de	referência	(‘árvore’	e	‘não-árvore’).
+Considerações	 especiais	para	projetos	de	A/R	Mangrove:	90%	da	área	de	plantio	será	plan-
+tada	com	espécies	de	mangue.	Devido	ao	acúmulo	de	carbono	orgânico	no	solo,	um	adi-
+cional	de	1,8	tCO2/ha/ano	podem	ser	contabilizadas	 nos	primeiros	20	anos	após	o	plantio	
+de	uma	Unidade	Modeladora	 (UM),	a	menos	que	informações	 transparentes	 e	verificáveis	
+possam	ser	fornecidas	para	justificar	um	valor	diferente.	Caso	haja	gerenciamento/insu-
+mos	direcionados	 que	levem	à	melhora	de	absorção	de	carbono	orgânico	no	solo,	o	uso	da	
+SOC Framework Methodology  pode ser permitido. O componente de sequestro de carbono 
+orgânico do solo será excluído da emissão das Reduções de Emissões Planejadas.
+Além de considerar o cenário pré-projeto com área degradada e um cenário de projeto 
+com	o	crescimento	 de	uma	floresta,	a	metodologia	 considera	a	possibilidade	 de	um	cenário	Box 7  – Metodologia VM0047
+com	rotação	de	silvicultura.	 Um	mínimo	de	10%	da	área	total	do	projeto	deverá	ser	identificado 	
+e usado para proteger ou melhorar a diversidade biológica. Os cenários de linha de base devem 
+considerar para o cálculo dos parâmetros remoção de CO2	o	valor	de	referência	e	fuga,	os	reser -
+vatórios	de	carbono	devem	ser	avaliados	e	que	a	madeira	morta	em	pé	faz	parte	do	reservatório 	
+de	carbono	da	“biomassa	das	árvores”.	Fugas	positivas,	bem	como	as	fugas	de	mercado,	não	
+serão	contabilizadas	 nesta	metodologia.	 Os	projetos	que	cumpram	os	requisitos	podem	usar	a	
+Ferramenta	 de	Carbono	do	Solo	de	A/R	para	contabilizar	 as	alterações	de	carbono	no	solo.	A	Fer-
+ramenta de Carbono do Solo A/R estima a mudança nos estoques de carbono orgânico do solo 
+devido	ao	plantio	de	florestas	e	aplica-se	apenas	aos	solos	em	áreas	de	plantio.	Depois	que	um	
+projeto	tiver	passado	por	uma	certificação	 de	design	bem-sucedida,	 os	GS-VER	calculados	usan-
+do	esta	ferramenta	poderão	ser	emitidos	após	uma	certificação	de	desempenho	bem-sucedida. 	
+A	área	protegida	designada	estará	localizada	dentro	da	Área	do	Projeto	e	gerenciada	 pelo	De-
+senvolvedor.	 A	área	protegida	pode	incluir	zonas	de	drenagem	para	massas	de	água.	Para	pro-
+teger	ou	melhorar	a	diversidade	 biológica,	os	seguintes	itens	devem	ser	identificados	 e	geridos:	
+(a)	Manchas	existentes	de	espécies	de	árvores	nativas,	e	(b)	Caules	únicos	e	solitários	de	espécies	
+arbóreas	nativas,	e	(c)	Habitats	de	espécies	raras,	ameaçadas	 e	em	perigo	de	extinção,	e	(d)	Áre-
+as relevantes para a conectividade do habitat.
+O	Desenvolvedor	 do	Projeto	deverá	manter	uma	zona	amortecimento26 de 15 metros para corpos 
+d’água	em	ambos	os	lados	de	qualquer	corpo	de	água	permanente	 ou	temporário	 como	lagos,	
+riachos,	rios,	pântanos,	etc.	Canais	de	irrigação	estão	excluídos	desta	exigência.	Nestas	zonas	de	
+drenagem:	(a)	Todas	as	árvores	nativas	existentes	deverão	ser	mantidas,	e	(b)	Não	serão	utiliza-
+dos	fertilizantes	 e	pesticidas,	e	(c)	Nenhuma	atividade	madeireira	deverá	ocorrer,	e	(d)	Nenhuma	
+maquinaria	 pesada	deve	ser	usada,	e	(e)	Nenhum	cultivo	é	permitido,	e	(f)	Caso	estejam	sendo	
+plantadas	árvores,	estas	precisam	ser	árvores	de	espécies	nativas.
+Fonte: Gold Standard (2013)
+26.	A	Zona	de	Amortecimento	(ZA,	também	chamada	de	“Zona	Tampão”)	é	uma	área	estabelecida	ao	redor	de	uma	unidade	de	conservação	com	o	objetivo	de	filtrar	os	impactos	negativos	das	atividades	que	ocorrem 	
+fora	dela,	como:	ruídos,	poluição,	espécies	invasoras	e	avanço	da	ocupação	humana,	especialmente	nas	unidades	próximas	a	áreas	intensamente	ocupadas.4.3.4  Agropecuária sustentável
+A agropecuária é um dos setores que mais contribui com as emissões de GEE do 
+Brasil	diretamente,	 por	sua	atividade,	e	indiretamente,	 em	emissões	de	mudança	do	
+uso do solo causadas pelo avanço do desmatamento. Apesar da alta representativi-
+dade	em	termos	de	emissões,	o	setor	possui	diversas	tecnologias	 e	práticas	com	bai-
+xo	custo	marginal	de	abatimento,	 o	que	indica	um	potencial	de	reduzir	as	emissões	
+dessas atividades expressivo a ser explorado. Ainda é incipiente a quantidade de projetos no Brasil neste setor. Isso se dá por questões relacionadas a adicionalidade 
+de	projetos,	baixa	diversidade	 de	metodologias	 adequadas	 e	baixa	disseminação	 de	
+conhecimento de produtores rurais sobre projetos de carbono. 
+Mas,	a	aplicação	de	metodologias	 para	gestão	de	terras	agrícolas,	além	de	propor -
+cionar o aumento da absorção de carbono orgânico no solo e redução de emissões 
+pela	diminuição	 da	necessidade	 de	uso	de	fertilizantes,	 podem	envolver	pequenos	
+produtores e gerar cobenefícios sociais. Entre as metodologias para gestão de terras 
+
+--- PÁGINA 39 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil39
+AnexosReferências  
+bibliográficasagrícolas,	se	destaca	a	metodologia	 VM0042,	que	quantifica	as	reduções	de	emis-
+sões de gases de efeito estufa e remoções de carbono orgânico do solo resultantes 
+da adoção de práticas aprimoradas de gestão de terras agrícolas e permite a ado -
+ção de diversas práticas diferentes. 
+A amplitude de possibilidades de mensuração do impacto da atividade do pro -
+jeto	em	termos	de	redução	de	emissões	ou	sequestro	de	carbono	flexibiliza	a	
+metodologia	 para	ser	utilizada	em	diferentes	contextos	regionais,	de	forma	que	
+o proponente do projeto tem a possibilidade de escolher o que melhor se adequa 
+a sua condição. 
+A metodologia não é aplicável: se a área do projeto tiver sido limpa de ecossis-
+temas nativos no período de 10 anos imediatamente anterior à data de início 
+do projeto; se a atividade do projeto causar redução na produtividade em mais A	metodologia	 VM0042	se	aplica	a	atividades	de	projeto	que	aumentam	o	armazenamento 	
+de Carbono Orgânico no Solo e/ou diminuem as emissões líquidas de CO2,	CH4 e N2O das ope -
+rações terras agrícolas em comparação com o cenário de linha de base das operações terras 
+agrícolas	em	comparação	 com	o	cenário	de	linha	de	base.	Os	escopos	cobertos	incluem,	de	
+forma	não	exaustiva:	melhoria	na	gestão	de	fertilizantes	orgânicos	e	inorgânicos;	melhoraria 	
+na gestão/irrigação; melhoria na gestão de resíduos; melhoraria no plantio e a colheita de 
+culturas;	e	melhorias	nas	práticas	de	pastoreio	(Verra,	2023d).
+A	prática	comum	é	definida	como	aquela	que	possui	pelo	menos	20%	de	adoção	na	região	
+do	projeto	(estado	ou	jurisdição	de	segunda	ordem).	Quando	a	estratificação	 baseada	em	
+limites	geopolíticos	 for	impraticável	 (por	exemplo,	devido	à	falta	de	dados),	outras	formas	de	
+estratificação,	 como	os	principais	tipos	de	solo	ou	zonas	de	cultivo,	podem	ser	utilizadas	des-
+de que sejam apresentadas evidências que demonstrem como essas barreiras são aplicáveis 
+à	região	do	projeto.	A	mesma	abordagem	 de	estratificação	 e	fontes	de	dados	deve	ser	aplica-
+da em todo o projeto para manter a integridade da demonstração da prática comum. Quando 
+uma	fonte	de	dados	não	estiver	disponível	para	um	subconjunto	 da	região	do	projeto,	deverá	
+ser	fornecida	uma	justificativa	para	o	uso	de	uma	fonte	de	dados	diferente.
+A demonstração de barreiras culturais ou sociais deve ser apoiada por estudos revisados por 
+pares	e/ou	publicações	 específicas	 para	a	região	do	projeto.	Quando	não	houver	evidências	
+disponíveis	para	a	região	do	projeto,	poderão	ser	utilizadas	evidências	de	outras	regiões,	des-
+de	que	seja	dada	uma	justificativa	 que	demonstre	como	essas	barreiras	também	são	aplicá-
+veis à região do projeto. Essas barreiras podem incluir o conhecimento tradicional ou a falta 
+dele,	leis	e	costumes,	condições	de	mercado	e	falta	de	incentivos	motivadores	 para	mudar	
+práticas,	etc	(Verra,	2023d). 	
+Outras	informações	 que	os	proponentes	 devem	prestar	são:	localização	 do	projeto;	o	histó -
+rico mínimo de 3 anos da atividade; e análises sobre o Carbono no Solo (a cada 5 anos no 
+mínimo).	As	práticas	do	cenário	de	linha	de	base	são	definidas	para	corresponder	 às	práticas	
+implementadas	 no	período	histórico,	criando	um	cronograma	 anual	de	atividades	a	serem	
+repetidas ao longo do primeiro período de linha de base. 
+A	medição	das	emissões	reduzidas	ou	removidas	pode	ser	realizada	por	diversos	métodos,	
+que podem ser tanto modelados quanto mensurados. A Figura 7 abaixo ilustra essas possi-
+bilidades de mensuração.Box 9  – Metodologia VM0042
+1.Mensurar     
+e Modelar
+CO2  no soloCO2  no soloCO2Quantiﬁcação
+CalagemCombustíveis 
+Fósseis Legenda
+Formas de mensuração 
+das emissões (projetos e 
+linhas de base)
+Formato referente ao gás
+carbônico (CO2)
+Formato referente ao
+metano (CH4)
+Formato referente ao 
+óxido nitroso (N2O)Fermentação 
+Entérica
+Queima de
+Biomassa
+Depósito de
+Resíduos
+Espécies 
+Fixadoras de N
+Queima de 
+biomassaResíduos
+Fertilizantes2. Mensurar e   
+    “Remensurar”3. Fatores 
+    padrão
+CH4
+N₂OCH4
+N₂OFertilizantes
+Resíduos
+Espécies 
+Fixadoras de NPossibilidade 1
+Possibilidade 2
+Possibilidade 3Figura 7: Mensuração do Carbono Evitado ou Removido na metodologia VM0042
+Fonte: VERRA (2023a) e Verra (2023c).de	5%;	e	se	a	atividade	do	projeto	é	a	aplicação	de	biochar.	O	biochar	pode	
+ser	aplicado	como	corretivo	do	solo	na	área	do	projeto,	desde	que	o	conteú-
+do total de carbono orgânico do biochar aplicado seja subtraído da mudança 
+estimada no estoque de carbono orgânico no solo no cenário do projeto em 
+cada	evento	de	verificação.	 A	metodologia	 também	não	é	aplicável	se	as	ati-
+vidades do projeto ocorrem em área úmida. Esta condição não exclui culturas 
+sujeitas	a	inundações	 artificiais	quando	for	demonstrado	 que	o	cultivo	de	cul-
+turas	não	tem	impacto	na	hidrologia	de	quaisquer	zonas	húmidas	próximas.  
+
+--- PÁGINA 40 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil40
+AnexosReferências  
+bibliográficasHá	ainda	metodologias	 pouco	difundidas	 no	Brasil	que	reduzem	emissões	de	me-
+tano entérico em bovinos de corte usando suplementos alimentares orgânicos ou 
+naturais ou que capturam o biogás pelo manejo de dejetos de animais. A aplicação 
+de	metodologias	 de	redução	de	metano	entérico	pode,	além	de	reduzir	a	quantidade	
+de	gases,	por	utilizar	suplementos	 alimentares,	 aumentar	o	tempo	de	degradação	
+de	pastos	e	reduzir	a	pressão	por	desmatamento.	
+A Methodology to Reduce Enteric Methane Emissions in Beef Cattle using Organic or Natural 
+Feed Supplements 	da	Verra	propõe-se	a	quantificar	as	reduções	de	emissões	que	compre -
+endem	o	uso	de	suplementos	 alimentares	 enriquecidos	 que	são	orgânicos	ou	100%	naturais	
+(sem	antibióticos)	 em	bovinos	de	corte,	o	que	reduz	o	tempo	de	engorda,	reduzindo	assim	as	
+emissões de metano provenientes da fermentação entérica. A adicionalidade é demonstrada 
+utilizando	um	método	de	penetração	 de	atividade	geograficamente	 limitado	ao	Brasil.	Os	
+projetos	seriam	adicionais	até	que	a	venda	de	suplementos	 alimentares	 qualificados	 atinja	
+5%	do	mercado	total	de	suplementos	 alimentares	 no	Brasil.	O	monitoramento	 envolve	o	nú-
+mero de dias no pasto comparado a uma linha de base baseada em dados publicados.
+Já	o	Gold	Standard,	está	trabalhando	 numa	metodologia	 para	captura	de	biogás,	a	Metho -
+dology for animal manure management and biogas use for thermal energy Generation . Esta 
+metodologia	 aplica-se	às	atividades	que	envolvem	a	recuperação	 e	utilização	de	metano	pro-
+veniente	de	estrume	e	resíduos	agrícolas	que	se	decomporiam	 anaerobicamente,	 emitindo	
+metano	para	a	atmosfera,	na	ausência	da	atividade	implementada.	 Apresenta-se	 como	uma	
+metodologia integrada para Sistema de Gerenciamento de Resíduos Animais e aplicação 
+térmica do biogás capturado com múltiplas aplicações. 
+Fonte: Gold Standard (2022) e Verra (2015)Os projetos da metodologia ACM0001 incluem a captura do gás de aterro e sua queima 
+(flaring),	em	projetos	novos	(greenfield)	 ou	antigos	(brownfield),	 para	produzir	energia	ou	
+para	suprir	a	demanda	por	combustíveis	 fósseis,	de	forma	que	a	ação	de	mitigação	pode	
+ser a destruição do metano ou o deslocamento da demanda de serviços mais intensivos em 
+carbono. Os projetos devem aumentar a queima ou uso do gás de aterro de forma além de 
+requisitos	regulatórios	 e/ou	contratuais,	 ou	seja,	apresentar	superávit	regulatório.	 Adicional-
+mente,	é	preciso	que	a	queima	ou	uso	do	gás	de	aterro	não	tenha	tido	aplicações	antes	do	
+projeto.	O	uso	do	gás	pode	ser	destinado	nas	seguintes	formas,	que	determinarão	 como	a	
+linha	de	base	para	a	estimativa	da	redução	de	emissões	será	definida	(UNFCCC,	2020):
+• Geração de eletricidade;
+•	Gerar	calor	em	caldeira,	aquecedor	de	ar	ou	forno	(apenas	queima	de	tijolos)	ou	forno	
+de fusão de vidro;
+• Fornecimento de gás aos consumidores através de uma rede de distribuição de gás 
+natural;
+•	Fornecimento	 de	gás	comprimido/liquefeito	 aos	consumidores	 que	utilizam	cami-
+nhões;Box 10  – Novas metodologias envolvendo metano entérico do gado
+Box 11  – Metodologia ACM0001
+4.3.5  Resíduos e saneamento
+O setor de resíduos representa uma pequena parcela das emissões nacionais. 
+Ainda	assim,	há	oportunidades	 a	serem	exploradas	 neste	setor	devido	a	baixos	
+custos marginais de abatimento de emissões e pelo alto potencial de gerar ex -
+ternalidades	 positivas,	especialmente	 na	saúde	pública	e	na	poluição	de	águas	superficiais	 e	subterrâneas.	 No	entanto,	o	aumento	do	tratamento	 de	resíduos	e	
+esgotos	proporciona	 o	aumento	das	emissões	quantificadas	 e	projetos	de	carbo -
+no nesse setor necessitam de implantação de infraestrutura de coleta do gás em 
+aterros e estações de tratamento de esgoto.  
+Há	ainda	um	potencial	sinérgico	de	ainda	gerar	energia	ou	substituir	o	gás	na-
+tural,	além	de	incentivar	o	estabelecimento	 de	aterros	sanitários	com	a	coleta	
+segura	de	gases,	conforme	indicado	na	Política	Nacional	de	Resíduos	Sólidos,	
+minimizando	 impactos	sociais	negativos	relacionados	 à	gestão	de	resíduos.	Há	9	
+projetos registrados no VCS e 25 no pipeline envolvendo a recuperação de biogás 
+(Verra,	[s.d.]-b).	E,	devido	ao	desafio	em	se	fazer	cumprir	o	Plano	Nacional	de	Sa-
+neamento	Básico	(Plansab),	há	a	tendência	de	aumento	do	número	de	projetos	de	carbono nesse setor pelo potencial de aumentar a atratividade dos investimentos 
+em	saneamento	e	tratamento	de	efluentes. 	
+Destaca-se	 a	metodologia	 ACM0001,	 que	tem	projetos	registrados	 tanto	no	VCS	
+quanto	no	Gold	Standard	(Gold	Standard,	[s.d.]-b;	Verra,	[s.d.]-b).	Esta	metodolo -
+gia	pode	ajudar	na	viabilidade	 econômica	 dos	projetos	de	aterro,	visto	que	grande	
+parte dos municípios brasileiros não possuem capacidade de investimento e as 
+concessões	 ou	parcerias	público-privadas	 podem	não	ser	atrativas	financeira-
+mente,	especialmente	 em	pequenos	municípios.	 A	aplicação	de	projetos	com	essa	
+metodologia	 pode	ser	especialmente	 interessante	 em	aterros	sanitários	realiza-
+dos	em	consórcios	municipais,	devido	ao	ganho	de	escala	do	projeto. 	
+• Fornecimento de gás aos consumidores através de um gasoduto dedicado;
+A metodologia não é aplicável em combinação com outras metodologias para geração de 
+créditos de carbono ou se a gestão do local de descarte de resíduos na atividade do projeto 
+for	deliberadamente	 alterada	durante	o	período	creditício,	a	fim	de	aumentar	a	geração	de	
+metano em comparação com a situação anterior à implementação da atividade de projeto.
+A comprovação de adicionalidade consiste em uma lista positiva de tecnologias que confere 
+adicionalidade	 automática	 para	as	atividades	de	projetos	MDL	(forma	simplificada	 de	adicio -
+nalidade).	A	linha	de	base	suposta	para	o	projeto	é	a	queima	(flare)	dos	gases	para	cumprir	
+regulamentos	 ou	requisitos	contratuais.	 Os	projetos	adicionais	nessa	forma	simplificada	 de	
+adicionalidade são aqueles que: aproveitam o gás para a geração de energia com capaci-
+dade nominal até 10 MW; projetos em que o gás é usado para consumo; projetos apenas 
+queimam o gás além da linha de base.
+Fonte: UNFCCC (2020)
+
+--- PÁGINA 41 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil41
+AnexosReferências  
+bibliográficas4.3.6. Tecnologias promissoras
+Embora haja projetos que gerem energia limpa que não tenham mais adicionalidade 
+no	VCS	e	Gold	Standard	no	Brasil,	deve-se	observar	o	desenvolvimento	 de	projetos	
+que consideram novas tecnologias de geração de energia ainda não amplamente 
+difundidas.	 A	geração	de	créditos	de	carbono	pode	ser	adicional,	dado	que	não	há	
+incentivo	econômico	para	a	adoção	dessas	tecnologias	no	Brasil.	
+O	hidrogênio	 verde,	por	exemplo,	é	uma	alternativa	 para	promover	a	descarboni-
+zação	de	setores	de	difícil	abatimento	 de	emissões	e,	por	se	constituir	em	um	vetor	
+de	energia,	possibilita	o	armazenamento	 energético.	 Os	custos	de	produção	do	hi-
+drogênio	verde	ainda	são	elevados	em	relação	a	hidrogênios	 de	outras	fontes,	mas	
+o país possui uma abundante quantidade de fontes renováveis para a produção de 
+eletricidade	à	baixo	custo,	o	que	favorece	a	produção	do	hidrogênio	verde	no	país.
+Há	uma	metodologia	 do	MDL	para	hidrogênio	verde,	a	Redução	de	emissões	pela	produção	
+de hidrogênio a partir de fontes de energia renováveis (NM0381) de 2022. Esta metodologia 
+é aplicável a atividades de projetos de produção de hidrogênio de energia renovável que: 
+(a) Instalar uma central elétrica nova; (b) Envolver uma renovação de plantas operacionais 
+existentes; (c) Envolver a substituição de fábrica(s) existente(s); (d) Envolver um acréscimo de 
+capacidade a uma(s) fábrica(s) existente(s). A eletricidade renovável gerada para as ativi-
+dades	do	projeto	provém	de	usina/unidade	 de	energia	eólica,	usina/unidade	 de	energia	solar	
+ou	eletricidade	 limpa	certificada.	 A	metodologia	 aplica-se	apenas	se	o	cenário	de	referência	
+identificado	 utilizar	a	última	versão	aprovada	da	“Ferramenta	 combinada	 para	identificar	o	
+cenário	de	referência	e	demonstrar	 adicionalidade”	 para	hidrogênio	a	partir	de	carvão.	E,	se	a	
+energia	renovável	estiver	conectada	à	rede,	as	metodologias	 ACM0002	e	AMS-I.D	podem	ser	
+usadas em conjunto com esta metodologia para solicitar redução de emissões de eletricidade 
+na rede.
+Para	superar	a	lacuna	financeira	para	a	introdução	do	hidrogênio	verde,	a	iniciativa	Hydro -
+gen	for	Net	Zero	(H2NZ)	está	trabalhando	 em	colaboração	 com	especialistas	 técnicos	e	com	
+os	dois	principais	padrões	do	mercado	voluntário	de	carbono,	Verra	e	Gold	Standard,	no	de-
+senvolvimento de novas metodologias para a geração de créditos de carbono por meio da 
+geração do hidrogênio. Estas metodologias pretendem abranger toda a cadeia de abasteci-
+mento	de	hidrogênio,	desde	a	produção	e	processamento	 até	ao	transporte,	armazenamento 	
+e	aplicação	em	vários	setores	–	como	a	indústria	pesada,	produtos	químicos,	produção	de	
+fertilizantes,	transportes	e	aviação,	entre	outros.
+Fonte: South Pole (2022) e UNFCCC (2022)Box 12  – Metodologias para hidrogênio verdeAlém	de	novas	tecnologias	 para	a	geração	de	energia,	há	tecnologias	 para	a	remo -
+ção	de	emissões,	tais	como	CCS	e	biochar.	Mas,	é	importante	 avaliar	se	a	produção	
+dessas tecnologias se dará por empresas dos setores regulados. 
+O	Biochar,	é	outro	exemplo	de	tecnologia	 inovadora,	 consistindo	 em	um	material	
+sólido,	rico	em	carbono,	semelhante	 ao	carvão,	criado	a	partir	de	biomassa	–	por	
+exemplo,	lascas	de	madeira,	resíduos	agrícolas	ou	esterco	animal	–	submetido	a	al-
+tas temperaturas e ambientes com oxigênio limitado (pirólise em indústrias). Quan-
+do	incorporado	 nos	solos,	é	10	a	100	vezes	mais	estável	do	que	a	matéria-prima	
+a	partir	da	qual	foi	produzido,	 e	uma	quantidade	 substancial	 de	carbono	orgânico	
+do	biochar	persistirá	no	solo	durante	décadas	a	milênios.	Assim,	o	biochar	pode	ser	
+usado	para	enriquecer	terras	agrícolas	e	fixar	carbono	no	solo	de	forma	permanen-
+te,	reduzindo	as	emissões	do	setor	de	Agropecuária.	 No	entanto,	ainda	tem	um	alto	
+custo de produção. 
+A	Verra	lançou	a	metodologia	 VM0044,	que	estabelece	 procedimentos	 para	quan-
+tificar	as	remoções	de	emissões	de	GEE	decorrentes	 da	produção	de	biochar	e	seu	
+uso	em	aplicações	aprovadas	 no	solo	e	fora	do	solo	(Verra,	2023c).	Atualmente,	 há	5	
+projetos em pipeline	na	Verra,	todos	no	continente	asiático	(Verra,	[s.d.]-b)	.
+Já o CCS é uma tecnologia com o objetivo de remover emissões por meio da injeção 
+de CO2 em uma formação geológica subterrânea em escalas de tempo essencial-
+mente	permanentes,	 como	em	poços	de	petróleo	inativados.	 Esta	tecnologia	tem	al-
+tos gasto energético e custo de implementação. Apesar dos principais padrões inde -
+pendentes	 de	certificação	 ainda	não	apresentarem	 metodologias	 ativas	para	esse	
+tipo	de	projeto,	VCS,	Gold	Standard	e	GCC	possuem	iniciativas	em	desenvolvimento	
+(Global	Carbon	Council,	2023;	Gold	Standard,	2023b;	Verra,	2024a).	
+4.3.7. Conclusões sobre os escopos prioritários
+Ao	selecionar	os	escopos	e	respectivas	 metodologias,	 deve-se	levar	em	considera-
+ção diversos fatores como: a redução do custo de conformidade no mercado regu-
+lado,	a	representatividade	 das	emissões	dos	setores	dos	projetos,	questões	socioe -
+conômicas	 envolvendo	 as	atividades	desenvolvidas,	 a	maturidade	 e	aplicação	das	metodologias na realidade nacional e o impacto da compra desse tipo de crédito 
+para	o	mercado	regulado,	considerando	 que	créditos	de	carbono	geralmente	 têm	
+preços variáveis relacionados ao escopo. 
+Além	disso,	é	importante	 ressaltar	que	a	compra	dos	créditos	dependerá	 de	uma	
+relação de custo-benefício entre os custos dos créditos e os custos marginais de 
+abatimento	 das	entidades	reguladas,	 ou	seja,	os	créditos	de	carbono	do	mercado	
+voluntário,	por	serem	mais	baratos	tendem	a	ser	priorizados	 em	detrimento	 das	ini-
+ciativas	de	redução	de	emissões	dentro	da	própria	entidade	regulada.	Dessa	forma,	
+é necessário considerar um percentual limitado de créditos de carbono a serem acei-
+tos	para	assegurar	que	a	descarbonização	 pretendida	 de	fato	aconteça,	particular -
+mente,	nos	setores	de	maior	dificuldade.
+Há,	portanto,	diversas	possibilidades	 de	escolhas	para	a	limitação	de	escopos,	que	
+podem ser consideradas de acordo com o objetivo da aceitação de compensação 
+de	emissões	no	SCBE.	Se	o	objetivo	for	reduzir	o	custo	de	conformidade	 do	merca-
+do	regulado,	escopos	de	projetos	que	propiciem	créditos	de	carbono	de	baixo	custo,	
+obviamente	 mantendo	a	adicionalidade,	 devem	ser	priorizados27. Se o objetivo da 
+compensação	 de	emissões	for	impulsionar	 outras	políticas	ou	objetivos	nacionais,	
+outros escopos que não necessariamente terão os preços mais baixos podem ser 
+priorizados.	 No	caso	do	Brasil,	esses	objetivos	podem	ser	combinados,	 já	que	se-
+tores que apresentam baixos custos marginais de abatimento também são setores 
+contemplados com políticas públicas direcionadas.
+27.	Vale	ressaltar	que	priorizar	escopos	para	as	primeiras	fases	não	significa	desconsiderar	os	demais 	
+setores para as próximas fases. O critério do custo para a seleção inicial de escopos visa apenas 
+introduzir	atividades	que	já	sejam	tecnicamente	viáveis	no	momento	inicial	do	SCBE,	mas	novos	escopos 	
+podem e devem ser considerados posteriormente para que a competição entre os desenvolvedores de 
+projetos de diferentes escopos seja estimulada.
+
+
+--- PÁGINA 42 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil42
+AnexosReferências  
+bibliográficas
+5. Considerações finais e recomendações
+Com	base	no	levantamento	 teórico	e	nas	análises	realizados	ao	longo	do	estudo,	
+entende-se que há diversos pontos de atenção que o governo brasileiro deve consi-
+derar para que haja a inclusão de compensações no SBCE por meio de créditos de 
+carbono que favoreça os interesses nacionais e colabore para a conformidade de 
+agentes.	Assim,	o	presente	estudo	apresenta	as	seguintes	recomendações:	
+5.1. Recomendações de requisitos para  
+que créditos de carbono sejam convertidos  
+em CRVEs
+As experiências internacionais analisadas neste estudo apontaram para tipos espe -
+cíficos	de	requisitos	para	aceitação	de	compensações	 em	ETS,	por	exemplo,	quanto	
+ao limite quantitativo para compensações e à origem dos créditos de carbono. As-
+sim,	elaborou-se	 recomendações	 para	que	créditos	de	carbono	estejam	aptos	para	
+conversão em CRVEs baseadas na realidade brasileira:
+1. Determinar um limite quantitativo para compensações no SBCE de 
+acordo com o propósito que este mercado terá na estratégia climática na-
+cional. Se	o	objetivo	do	SBCE	for	incentivar	a	descarbonização	 dos	setores	co-
+bertos,	é	importante	 que	haja	um	limite	quantitativo	 para	compensações	 relati-
+vamente	baixo,	conforme	as	experiências	 internacionais	 (dos	ETS	que	têm	limite	
+quantitativo,	 o	percentual	geralmente	 não	ultrapassa	10%).	Mas,	se	o	propósito	
+for	estimular	a	redução	de	emissões	em	setores	não	regulados,	tais	como	o	setor	
+AFOLU,	que	possui	alta	representatividade	 no	inventário	de	emissões	nacional,	
+então,	o	percentual	de	restrição	para	compensações	 no	SBCE	poderia	ser	maior.	2. Restringir claramente que os CRVEs sejam gerados a partir do desen-
+volvimento de projetos em território nacional. Além de a maioria dos ETS 
+que	aceitam	compensações	 possuir	esse	tipo	de	restrição,	considera-se	 o	
+alto potencial de geração de créditos brasileiro e a experiência internacio -
+nal.	Ainda,	entende-se	 que	entre	os	objetivos	da	lei	que	criará	o	mercado	de	
+carbono brasileiro está o de estimular a mitigação de emissões em âmbito 
+nacional. 
+3. Considerar que os CRVEs devem ser emitidos com base na implemen-
+tação de atividades que não sejam reguladas pelo sistema e que seus es-
+copos estejam alinhados:
+• ao papel do SBCE possui na PNMC;
+• aos compromissos estabelecidos pelo governo brasileiro nacional e in-
+ternacionalmente; 
+• às prioridades nacionais em termos de redução de emissões (favorecer 
+setores mais emissores)	 uma	vez	que	o	uso	de	compensações	 tem	como	
+consequência	promover	a	descarbonização	nos	setores	selecionados;	
+• à priorização da geração impactos socioambientais positivos,	 já	que	
+há tipos de projetos que têm a aptidão de promover cobenefícios e contribuir 
+para	desenvolvimento	sustentável	em	sua	área	de	influência;	e
+• à maturidade das metodologias adotadas para o desenvolvimento de 
+projetos no país (privilegiar escopos cujas metodologias que já tenham 
+sido aplicadas à realidade nacional),	 dado	que	diversas	metodologias	 de	soluções	baseadas	na	natureza	existente	não	foram	originalmente	 elabora-
+das com base nas características climáticas brasileiras.
+4. Considerando os aspectos citados acima na recomendação 3, priorizar, 
+inicialmente, os seguintes escopos no SBCE:
+• ARR com uso de espécies nativas para a geração de benefícios à bio -
+diversidade	 pela	remoção	de	emissões,	contribuição	 dos	objetivos	nacionais	
+de	restauração	 florestal	e	biodiversidade	 e	grande	extensão	de	áreas	aptas	
+para restauração no país;
+• REDD+ (privados e programas jurisdicionais) e IFM com a participa-
+ção das comunidades locais na elaboração do projeto,	 pela	redução	do	
+desmatamento,	que	tem	grande	participação	nas	emissões	nacionais,	e	alta	
+capacidade de geração de cobenefícios socioambientais. Destaca-se que 
+programas	 jurisdicionais	 possuem	uma	abordagem	 abrangente,	 que	permite	
+a participação dos Estados e já demanda a participação das comunidades 
+locais. Essa integração de diferentes atores proporcionaria transparência ao 
+processo de desenvolvimento de geração do crédito de carbono e poderia 
+garantir	cobenefícios	 efetivos	para	a	população	 local.	No	entanto,	destaca-
+-se	que	ainda	faltam	definições	claras	e	a	efetiva	implementação	 de	um	pro-
+grama jurisdicional no Brasil que sirva de exemplo para compreender as par -
+ticularidades	 no	contexto	brasileiro.	Além	disso,	será	necessário	 avaliar	um	
+limite à quantidade de créditos REDD+ devido a seu alto volume potencial.
+• do setor agropecuário,	 pelo	alto	potencial	de	reduzir	as	emissões	a	ser	
+explorado e pelo potencial de geração de cobenefícios.
+
+--- PÁGINA 43 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil43
+AnexosReferências  
+bibliográficas• e do setor de saneamento e gestão de resíduos,	 pelo	aproveitamento	 do	
+potencial	energético	e	alto	potencial	de	gerar	externalidades	 positivas,	espe -
+cialmente	na	saúde	pública	e	na	redução	da	poluição	de	águas	superficiais	 e	
+subterrâneas.
+5. Adotar uma seleção limitada de metodologias específicas, existentes e 
+consolidadas nos escopos prioritários do SBCE, que considerem diferentes 
+escalas de projeto, aplicáveis à realidade brasileira e mais avançadas em 
+seus escopos quanto a requisitos de qualidade. Esta seleção possibilitaria 
+um	primeiro	nível	de	controle	de	qualidade	dos	créditos	no	sistema,	abran-
+gência	em	termos	de	escala	e	o	incentivo	a	projetos	e	escopos	específicos	
+relevantes para o país. A aceitação de uma quantidade grande de meto -
+dologias	e	escopos	tenderia	a	incentivar,	primordialmente,	 os	projetos	mais	
+baratos,	que,	muitas	vezes,	não	são	os	mais	efetivos.	Além	disso,	há	uma	
+experiência desfavorável do ETS da China na aceitação de grande quantida-
+de de metodologias no início da operação de seu sistema. Como exemplos a 
+serem	seguidos,	considera-se	 o	credenciamento	 de	metodologias	 de	REDD+	
+que	utilizem	linhas	de	base	jurisdicionais	 e	de	metodologias	 de	pequena	es-
+cala,	como	as	do	MDL,	que	buscam	simplificar	processos	para	permitir	que	
+projetos menores possam acontecer.  
+6. Implementar ciclos de reavaliação para a inclusão de novas metodo -
+logias e atualizações das já aptas para que a seleção de metodologias 
+contemple escopos que venham a ser relevantes para o país e para o mer -
+cado no futuro. Infere-se que a lista de metodologias aceitas não precisa se 
+restringir	à	priorização	 inicial,	ou	seja,	é	possível	a	exclusão	e/ou	a	inclusão	
+de	novos	escopos	e	metodologias,	 como	de	tecnologias	 promissoras.	 O	mer-
+cado regulado poderá criar demanda para projetos que tenham menor po -
+tencial	de	geração	de	créditos	de	carbono,	dando	escala	para	iniciativas	que,	
+atualmente,	 não	conseguem	 acessar	o	mercado	voluntário	por	barreiras	de	
+custo,	tamanho,	entre	outras.
+7. Avaliar se as metodologias que venham a ser aceitas no mecanismo 
+do Artigo 6.4 do Acordo de Paris estarão alinhadas à estratégia climática 
+nacional, e, assim, entrariam na lista de metodologias aptas à aceitação 
+pelo SBCE. 5.2. Recomendações para garantia  
+de integridade
+Ressalta-se	 que,	embora	a	Lei	nº	15.042	preveja	o	credenciamento	 de	metodologias	
+para	uso	de	compensações	 no	SBCE,	entende-se	 que,	além	desse	critério,	outros	cri-
+térios também relevantes foram analisados neste relatório e devem ser considerados 
+para	o	uso	de	compensações.		 Por	meio	da	análise	de	experiências	 internacionais,	
+identificou-se	 que	somente	a	seleção	de	metodologias	 não	seria	capaz	de	garantir	a	
+integridade	 e	a	qualidade	dos	CRVEs,	mesmo	que	elas	tenham	requisitos	mínimos.	
+Não	há	experiências	 internacionais	 de	ETS	que,	atualmente,	 aceitem	compensações	
+e	que	não	tenham	camadas	de	verificação	 para	garantia	da	integridade	 dos	créditos	
+para além da seleção de metodologias.
+A maioria dos ETS no mundo que permitem a inclusão de compensações possui 
+registro	próprio	e	tem,	portanto,	um	maior	controle	da	integridade	 das	unidades	de	
+compensação.	 Em	ETS	que	não	utilizam	apenas	um	registro	nacional,	identificou-se	
+que há mecanismos que contribuem na garantia da integridade das unidades de 
+compensação:	 a	designação	 de	padrões	independentes	 de	certificação	 cujos	crédi-
+tos estariam aptos a tornar-se créditos compensatórios; a acreditação de organis-
+mos	de	verificação	 a	estarem	aptos	para	auditorias	de	terceira	parte;	e	avaliação	
+interna	quanto	ao	atendimento	 à	regulação	e	à	metodologia	 aplicável,	solicitando	
+maiores informações caso julgue necessário. 
+Assim,	 recomenda-se que o SBCE não se baseie apenas na seleção de metodolo -
+gias para a garantia de integridade e qualidade dos CRVEs e aplique as seguin-
+tes camadas de verificação no processo de geração dos créditos que se tornarão 
+CRVEs: 
+1. Priorizar a seleção de padrões de certificação com processos robustos, 
+maduros e consolidados no Brasil, para análise das metodologias a serem 
+cadastradas como aptas a gerar créditos que possam ser convertidos em 
+CRVEs,. Ainda, propõe-se definir, inicialmente, o VCS e o Gold Standard 
+como padrões independentes de certificação de carbono aptos, e, poste -
+riormente, incluir novos padrões independentes de certificação de carbono 
+que tenham sido avaliados pela ICROA, inclusive os brasileiros, median-te uma reavaliação. E, para programas jurisdicionais, sugere-se definir, a 
+princípio, o ART/Trees como apto para a inclusão de programas jurisdicio -
+nais no SBCE e avaliação posterior para inclusão do JNR à medida que ele 
+amadureça e ganhe maior aceitação.	 No	entanto,	será	necessário	 compre -
+ender o nível de comprometimento que esses padrões estariam dispostos a 
+ter para integração entre seus registros e o SBCE.
+2. Acreditar verificadores para auditorias de terceira parte, que fazem 
+parte do processo de geração do crédito dos padrões de certificação, que 
+possuam conhecimento da realidade brasileira e estejam aptos a avalia-
+rem requisitos específicos para aptidão no SBCE. Entende-se que auditores 
+credenciados	 seriam	capazes	de	endereçar	aspectos	locais	de	forma	mais	
+eficaz	já	que	há	aspectos	particulares	 ao	Brasil	que	poderiam	fugir	da	ava-
+liação	de	organismos	 internacionais.	 Dessa	forma,	para	que	os	créditos pos-
+sam ser convertidos em CRVEs,	 os	verificadores,	 nas	auditorias	de	terceira	
+parte	para	geração	do	crédito	no	padrão,	devem	avaliar	nos	projetos	de	car-
+bono	que	os	originam,	os seguintes requisitos mínimos:
+• Adicionalidade;
+• Permanência;
+• Quantificação robusta e linhas de base conservadoras;
+• Análise do risco de vazamento;
+• Participação de partes interessadas;
+• Mitigação de impactos socioambientais negativos; 
+• Salvaguardas mínimas gerais para as populações impactadas; e 
+• Ações específicas que gerem cobenefícios socioambientais (especial-
+mente para projetos de REDD+).
+Embora os ETS analisados não tenham	 requisitos	sociais,	eles	devem	ser	
+avaliados	no	SBCE,	possivelmente,	 inclusive	pela	presença	de	selos	de	co-
+benefícios	tais	como	CCB,	devido	à	grande	parte	do	potencial	brasileiro	para	
+geração	de	créditos	de	carbono	estar	em	projetos	florestais	cujo	impacto	so-
+
+--- PÁGINA 44 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil44
+AnexosReferências  
+bibliográficascial	é	relevante	e,	também,	pela	adoção	de	ações	de	impacto	social	positivo	
+em	projetos	do	tipo	estar	se	tornando	prática	comum	e	muitas	vezes	ser	cer-
+tificada	por	aqueles	selos.	Além	disso,	impactos	sociais	negativos	têm	sido	
+cada	vez	mais	relacionados	 à	qualidade	de	créditos	no	mercado	voluntário	
+em	recentes	críticas	à	credibilidade	 de	projetos	de	carbono.	O	SBCE	pode,	
+portanto,	ser	o	mercado	regulado	pioneiro	nesse	sentido	com	a	inclusão	da	
+avaliação	de	requisitos	específicos	 para	impactos	sociais,	em	especial	em	
+projetos	florestais.	Adicionalmente,	 considera-se	 que	a	inclusão	das	informa-
+ções socioambientais dos projetos de carbono e indicadores de acompanha-
+mento	de	impacto	em	um	sistema	público	de	projetos	traria	transparência,	
+incentivaria	 a	adoção	de	boas	práticas	e	facilitaria	a	responsabilização	 dos	
+desenvolvedores de projeto. 
+3. Caso sejam usadas metodologias existentes, recomenda-se ainda a 
+avaliação de requisitos legais, pelos OVVs, em documentos de auditorias 
+de validação e verificação de projetos cujos créditos possam ser conver -
+tidos em CRVEs. Considera-se que isso traria mais controle ao SBCE sobre 
+o cumprimento das salvaguardas mínimas exigidas pelos padrões indepen-
+dentes	de	certificação	 e	de	outros	requisitos.	Em	especial,	a	adequação	 le-
+gal	e	o	respeito	aos	direitos	de	propriedade	 devem	ser	verificados	 com	olhar	
+particular à legislação e realidade brasileiras e não deixados sob a responsa-
+bilidade	exclusiva	das	certificadoras	 independentes,	 ainda	que	elas	possam	
+verificar	tais	requisitos	em	seus	processos.	Entre	os	requisitos	de	adequação	
+legal,	considera-se
+• Consulta de proponentes (CNPJ) e principais sócios (CPF) na Lista de  
+Empregadores que submeteram trabalhadores a condições análogas  
+à escravidão;
+•	 Comprovação	 de	propriedade	 de	terra	ou	autorização	 legal	do	proprietá-
+rio para atividade na área;
+• Análise da Situação Cadastral do Cadastro Ambiental Rural (CAR) do 
+imóvel;
+• Análise de áreas embargadas pelo Ibama e pelo ICMBio;•	 Análise	 de	prática	de	desmatamento	 ilegal,	conforme	registros	atualiza-
+dos	e	disponibilizados	pelo	Incra;
+• Análise de imóveis rurais em Unidades de Conservação;
+•	 Análise	 de	licenças	ambientais,	 a	depender	do	escopo	do	projeto.	(por	
+exemplo,	o	número	de	licença	ambiental	ou	a	comprovação	da	dispensa);
+•	 Consulta	 à	certidão	negativa	de	débitos	federais,	estaduais	e	municipais	
+dos desenvolvedores dos projetos; e 
+•	 A	comprovação	do	Consentimento	Livre,	Prévio	e	Informado.
+4.  Realizar avaliações extras in loco dos projetos que originem CRVEs, e 
+de seus documentos, de forma periódica e por amostragem para um maior 
+controle da eficácia do sistema. Esse	tipo	de	verificação	 poderia	captar	al-
+gum	ponto	crítico	ou	inconsistência	 em	outras	camadas	de	verificação	 e	as-
+segurar	maior	robustez	no	controle	de	qualidade	e	integridade	dos	CRVEs.
+5.3. Recomendações de apoio a atores  
+do mercado
+Como as salvaguardas mínimas para população e ambiente impactados devem ser 
+aplicáveis	a	todos	os	projetos	desenvolvidos,	 inclusive	àqueles	em	que	há	participa-
+ção	de	comunidades	 locais,	entende-se	 que	é	necessário	 prover	apoio	a	atores	do	
+mercado para que todos tenham a plena compreensão dos processos para inclusão 
+de	compensações	no	SBCE.	Assim,	recomenda-se:	
+1. Desenvolver documento guia para proponentes de projetos que per -
+mita direcionamento e inclusão dos agentes impactados inspirado no do -
+cumento de Princípios e Requisitos de Salvaguarda do Gold Standard e 
+documentos acessíveis às comunidades envolvidas,	 inclusive	nos	casos	em	
+que	falarem	outras	línguas,	podendo	incorporar	 documentos	 traduzidos	 e	
+simplificados,	 a	exemplo	do	que	é	feito	no	Canadá,	já	que	é	importante	 ga-
+rantir que as informações e documentações sejam compreensíveis a todos os 
+atores envolvidos nos projetos.  2. Definir órgãos governamentais representativos que acompanhem os 
+projetos e assegurem o envolvimento correto e a garantia dos direitos das 
+comunidades locais,	 entre	eles,	o	direito	de	escolha	de	uma	instituição	repre -
+sentativa	da	comunidade	 e	de	uma	assistência	 jurídica	independente,	 cus-
+teada	pelo	projeto	ou	pelos	proponentes	 do	projeto,	como	a	existência	de	
+salvaguardas	pode	não	ser	suficiente	para	assegurar	seu	cumprimento.	
+
+
+--- PÁGINA 45 ---
+
+Apresentação Agradecimentos 1. Introdução2. Avaliação comparativa da aceitação de 
+compensações nos Sistemas de Comércio de 
+Emissões (ETS) de jurisdições selecionadas3. Requisitos para garantia de 
+qualidade e cobenefícios em 
+projetos de carbono4. Análise de benchmarking  de padrões 
+independentes de certificação de 
+carbono selecionados5. Considerações finais 
+e recomendaçõesLista de 
+acrônimosSumário 
+Executivo
+Suporte ao Governo Federal por meio da análise de um framework do mercado de carbono no Brasil45
+AnexosReferências  
+bibliográficasAnexos
+Critério Descrição
+1. Independência O	padrão	de	certificação	 deve	ter	processos	para	identificar	e	mitigar	conflitos	de	interesse,	garantir	independência	 dos	processos	de	desenvolvimento	 de	projetos	e	garantir	que	a	receita	não	
+seja exposta a preços no mercado.
+2. Governança O	padrão	deve	ter	procedimentos	 de	governança	 eficazes	e	ser	capaz	de	fornecer	provas	de	que	esses	processos	são	seguidos.	É	preciso	demonstrar	 a	estrutura	de	governança;	 demonstrar	 a	
+conformidade com leis e regulações na sua jurisdição; ter procedimentos publicamente disponíveis para controle de qualidade e procedimentos de avaliação de riscos baseados nas ISO 9001 e 
+ISO 31000.
+Além	disso,	o	padrão	deve	operar	de	forma	transparente	com	informações	disponíveis	publicamente.
+3. Registro O	padrão	deverá	estar	vinculado	a	um	cadastro	para	acompanhar	 a	emissão,	cancelamento	 e	retirada	de	créditos	de	carbono.	O	registro	pode	ser	operado	pelo	padrão	de	certificação	 ou	por	um	
+fornecedor	terceirizado.
+4. Verificação e Validação Todos	os	créditos	de	carbono	emitidos	pelo	padrão	de	certificação	 devem	passar	por	validação	e	verificação	 independente	 e	de	terceiros	por	uma	organização	 acreditada.	 Os	projetos	devem	ser	
+verificados	 com	um	nível	razoável	de	garantia,	conforme	definido	na	ISO	14064-3.	Adicionalmente,	 o	padrão	deve	ter	uma	lista	publicamente	 disponível	de	qualificações	 para	os	organismos	 de	
+validação	e	verificação	(OVV).
+5. Princípios dos Créditos de Carbono O padrão deve ter procedimentos em vigor para garantir que os seguintes princípios fundamentais de qualidade sejam atendidos: 1) unicidade; 2) realismo; 3) permanência; 4) adicionalidade; 5) 
+mensurabilidade.
+6. Impactos Ambientais e Sociais Todos	os	projetos	desenvolvidos	 no	âmbito	do	padrão	deverão	identificar	e	mitigar	eventuais	impactos	ambientais	 e	sociais	negativos.	O	padrão	deve	ter	regras	e	requisitos	disponíveis	 publica-
+mente	para	garantir	que	todos	os	projetos	identifiquem	 e	mitiguem	quaisquer	impactos	ambientais	 ou	sociais	potenciais.	 Essas	regras	e	requisitos	devem	incluir,	no	mínimo,	o	princípio	“No	Net	
+Harm”	cumprido	por	todos	os	projetos.
+7. Consultas às partes interessadas Durante	o	desenvolvimento	 do	P	padrão	e	as	operações	contínuas,	as	opiniões	das	partes	interessadas	 devem	ser	consideradas.	 Dessa	forma,	o	padrão	de	certificação	 deve	estabelecer	 a	defini-
+ção	das	partes	interessadas,	 um	período	mínimo	de	30	dias	para	consulta	pública	e	um	processo	pelo	qual	os	resultados	do	envolvimento	 das	partes	interessadas	 são	incluídos	em	documentos	
+que	passam	por	validação	e	verificação	ou	um	processo	definido	sobre	como	as	consultas	locais	devem	ser	conduzidas
+8. Escala O	padrão	deve	ter	presença	suficiente	no	mercado	para	ser	totalmente	endossado.	Isso	se	traduz	concretamente	em	um	mínimo	de:
+•	10+	projetos	registrados,	e
+• 100.000+ tCO2e emitidos.Quadro 8:	Critérios	da	ICROA	para	avaliação	dos	padrões	independentes	de	certificação	de	carbono
+Fonte: Adaptado de ICROA (2024).Fonte: Adaptado de ICROA (2024).Anexo 1 – Critérios de Qualidade Avaliados pela ICROA
