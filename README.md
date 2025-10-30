@@ -36,19 +36,6 @@ Para atualizar a base de conhecimento, clique no botão "🔄 Recarregar Documen
 Desenvolvido pela IETA Brazil Initiative 🌍
 ```
 
----
 
-## Checklist Atualizado
 
-**Arquivos que você deve ter agora:**
-```
-IETA_Bot/
-├── meeting_prep.py          ← ✅ Já tem
-├── chunk_documents.py       ← ✅ Criar agora
-├── requirements.txt         ← ✅ Já tem
-├── README.md               ← ✅ Atualizar
-├── .gitignore              ← ✅ Adicionar conteúdo
-└── documents/              ← ✅ Pasta
-
-    └── .gitkeep            ← Criar arquivo vazio
 
