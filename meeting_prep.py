@@ -2,10 +2,11 @@ import streamlit as st
 from pathlib import Path
 from PyPDF2 import PdfReader
 from docx import Document
+import urllib.parse  # NOVO: Para criar links do ChatGPT
 
 st.set_page_config(
-    page_title="IETA Prep Tools",
-    page_icon="🌍",
+    page_title="IETA Wizard",
+    page_icon="🧙",
     layout="wide"
 )
 
@@ -49,7 +50,7 @@ def load_all_documents():
     return all_content
 
 # Título e menu
-st.title("🌍 IETA Prep Assistant")
+st.title("🧙 IETA Wizard")
 
 # Menu de ferramentas
 tool_choice = st.radio(
@@ -264,19 +265,42 @@ BRIEFING:
                     help="Copie todo este texto e cole no ChatGPT ou Claude.ai"
                 )
                 
-                # Botões de ação
+                # NOVO: Botões de ação melhorados
+                # Encode do prompt para URL do ChatGPT
+                encoded_prompt = urllib.parse.quote(prompt[:2000])  # Limite de URL
+                
                 col_btn1, col_btn2 = st.columns(2)
                 
                 with col_btn1:
                     st.download_button(
-                        "📥 Baixar Prompt (.txt)",
+                        "📥 Baixar Prompt",
                         prompt,
-                        file_name=f"briefing_prompt_{organization.replace(' ', '_')}.txt",
+                        file_name=f"briefing_{organization.replace(' ', '_')}_{meeting_date}.txt",
                         use_container_width=True
                     )
                 
                 with col_btn2:
-                    st.info("💡 Cole no ChatGPT Plus ou Claude.ai para melhor resultado!")
+                    # Botão para abrir ChatGPT
+                    st.markdown(f"""
+                    <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
+                        <button style="
+                            width: 100%;
+                            height: 43px;
+                            padding: 0.5rem;
+                            background-color: #10a37f;
+                            color: white;
+                            border: none;
+                            border-radius: 0.5rem;
+                            cursor: pointer;
+                            font-size: 14px;
+                            font-weight: 500;
+                        ">
+                            🤖 Abrir no ChatGPT
+                        </button>
+                    </a>
+                    """, unsafe_allow_html=True)
+                
+                st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
 
 # ==============================================================================
 # PANEL PREP
@@ -463,12 +487,40 @@ PREPARAÇÃO:
                     height=400
                 )
                 
-                st.download_button(
-                    "📥 Baixar Prompt",
-                    prompt,
-                    file_name=f"panel_prep_{panel_title[:30].replace(' ', '_')}.txt",
-                    use_container_width=True
-                )
+                # NOVO: Botões melhorados para Panel Prep também
+                encoded_prompt = urllib.parse.quote(prompt[:2000])
+                
+                col_btn1, col_btn2 = st.columns(2)
+                
+                with col_btn1:
+                    st.download_button(
+                        "📥 Baixar Prompt",
+                        prompt,
+                        file_name=f"panel_{panel_title[:30].replace(' ', '_')}_{panel_date}.txt",
+                        use_container_width=True
+                    )
+                
+                with col_btn2:
+                    st.markdown(f"""
+                    <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
+                        <button style="
+                            width: 100%;
+                            height: 43px;
+                            padding: 0.5rem;
+                            background-color: #10a37f;
+                            color: white;
+                            border: none;
+                            border-radius: 0.5rem;
+                            cursor: pointer;
+                            font-size: 14px;
+                            font-weight: 500;
+                        ">
+                            🤖 Abrir no ChatGPT
+                        </button>
+                    </a>
+                    """, unsafe_allow_html=True)
+                
+                st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
 
 # Rodapé
 st.markdown("---")
