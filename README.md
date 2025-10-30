@@ -10,7 +10,7 @@ Ferramentas de preparação para reuniões e painéis da IETA Brazil Initiative.
 
 ## Como Usar as Ferramentas Principais
 
-1. Acesse o app: (http://localhost:8501/)
+1. Acesse o app: https://ieta-prep-tools.streamlit.app/
 2. Escolha a ferramenta (Meeting ou Panel)
 3. Preencha as informações
 4. Clique em "Gerar" e copie o prompt
@@ -51,3 +51,4 @@ IETA_Bot/
 └── documents/              ← ✅ Pasta
 
     └── .gitkeep            ← Criar arquivo vazio
+
