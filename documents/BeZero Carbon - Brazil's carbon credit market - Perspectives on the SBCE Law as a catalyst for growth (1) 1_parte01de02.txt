@@ -1,0 +1,1317 @@
+DOCUMENTO: BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1
+PARTE 1 de 2
+Páginas 1 a 15
+======================================================================
+
+
+--- PÁGINA 1 ---
+
+Perspectives on 
+the SBCE Law as a 
+catalyst for growthBrazil's carbon 
+credit market 
+
+--- PÁGINA 2 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHBeZero Carbon is a global 
+carbon ratings agency . Our 
+independent ratings, risk 
+tools and datasets equip 
+world-leading organisations 
+with the knowledge and 
+confidence to make better 
+climate decisions. Our aim 
+is to scale climate impact 
+through carbon markets.
+BeZero's expertise in Brazil 
+Our experience in Brazil is supported 
+by local partnerships with research 
+institutions, permanent analytical staff on 
+the ground, and site visits by our global 
+team. In 2023, we partnered with the 
+Earth Observation and Geoinformatics 
+Division at Brazil’s National Institute 
+for Space Research (INPE) to improve 
+carbon estimates in the Amazon and the 
+Amazon Environmental Research Institute 
+(IPAM) to support Brazilian postgraduates in carbon research. Our scientists in 
+Brazil have been published in top-tier 
+journals, including Nature and Science. 
+The expertise they bring to our project 
+analysis includes tropical forest ecology, 
+carbon mapping, forest biomass, remote 
+sensing, and marine conservation. Their 
+doctoral research includes quantifying 
+emissions from Amazonian forest fires, 
+the impact of fire on tropical savannah 
+vegetation, and land tenure issues in Brazil. 
+They have been affiliated with institutions 
+such as Brasília University, IPAM, INPE, the 
+National Institute of Amazonian Research, 
+UFPR, UNDP , and UNEP in a research, 
+lecturing or advisory capacity. 
+BeZero has assessed close to 50 nature 
+and tech-based projects in Brazil. 
+Our ratings analysis is trusted by 180+ 
+companies globally, including over a dozen 
+carbon project developers, investors and 
+buyers with headquarters and operations 
+in Brazil.ABOUT US
+ 3 2
+
+--- PÁGINA 3 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHForeword
+Executive summary 
+The pathway to a Brazilian national carbon 
+market law
+From law to leadership: Building a governance 
+framework with longevity
+Driving domestic credit demand: Brazil's first 
+national compliance scheme
+Article 6: Building a bridge to global 
+compliance demand
+Quality , trust and alignment: Overseeing 
+Brazil’s carbon credit supply
+Harnessing natural assets: Putting forests at 
+the heart of Brazil's carbon future
+Looking beyond the forests: New frontiers for 
+Brazil's carbon credit supply
+Conclusion0807
+10
+14
+18AcknowledgementsACKNOWLEDGEMENTS
+26
+34CONTENTS
+30
+ 122This report benefited from the insights of 
+a wide range of contributors across Brazil’s 
+carbon market community, including:
+Gabriel T rivelino & Paula dos Reis 
+Guilherme, Ambipar
+André Escada, Biomas
+Winston Fritsch, Centro Brasileiro de 
+Relações Internacionais (CEBRI – Brazilian 
+Center for International Relations)
+Malu Rosa, Conselho Empresarial 
+Brasileiro para o Desenvolvimento 
+Sustentável (CEBDS – Brazilian Business 
+Council for Sustainable Development)
+Pedro Carvalho, EcoSecurities
+Stephanie La Hoz Theuer , International 
+Carbon Action Partnership (ICAP)Itaú BBA Carbon Desk
+Juliana Marcussi, Laclima
+Caio Franco, Mombak
+406
+
+--- PÁGINA 4 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHForewordFOREWORD
+Executive summaryEXECUTIVE SUMMARY
+This report appears at a pivotal moment 
+in the redesign of Brazil’s development 
+strategy to address climate change. The 
+creation of the Sistema Brasileiro de 
+Comércio de Emissões (SBCE), following 
+years of parliamentary debate, represents 
+more than the dawn of a national carbon 
+market: it signals how large emerging 
+economies can align climate policy, 
+investment, and growth. The perspectives 
+captured here reflect a country not merely 
+responding to global pressures but actively 
+building an institutional framework that 
+could redefine the relationship between 
+development and decarbonisation.
+At the centre of these findings lies a 
+shared conviction: effective governance 
+will determine the SBCE’s success. Its 
+credibility, domestic and international, 
+depends on transparent institutions, 
+predictable policy signals, and coherent 
+coordination among ministries. As the 
+contributors to this report emphasize, a 
+rules-based and transparent architecture 
+is the essential guarantor of confidence in 
+Brazil’s evolving carbon economy.
+The envisioned compliance market 
+forms the system’s structural engine. By 
+creating domestic demand for emissions 
+allowances, it will establish a reference 
+carbon price and translate ambition into 
+measurable behaviour . Yet the project-
+based element of the SBCE remains 
+the heart of Brazil’s opportunity, where 
+innovation, investment, and international 
+collaboration can turn policy into tangible 
+outcomes.Unlocking Brazil’s vast climate potential 
+will require billions of new investment 
+in projects across natural and industrial 
+sectors. Carbon credits can help unlock 
+this. Stakeholders stressed that clear 
+rules, strong institutions, and credible 
+safeguards are essential for capital to flow, 
+and there are still tensions between state 
+intervention and market autonomy in 
+the discussion of implementation issues. 
+However , Brazil’s carbon markets will 
+depend less on mandates than on market 
+confidence to make carbon assets a real 
+incentive to transition investments.
+As COP30 in Belém approaches, Brazil 
+stands at the centre of global climate 
+diplomacy. The SBCE is integral to the 
+Government’s narrative of moving from 
+pledges to results in climate policy. 
+Progress on areas like governance and 
+Article 6 readiness could demonstrate that 
+Brazil’s carbon market is not only well-
+designed but operationally effective. The 
+SBCE thus embodies Brazil’s multilateral 
+statement of intent: the country now 
+treats carbon as a strategic asset: to value 
+its natural wealth, mobilise finance, and 
+strengthen its international standing.
+Winston Fritsch is T rustee Emeritus of CEBRI, Brazil’s leading 
+think tank on Climate Policy, and a Member of the Ad-hoc 
+Council of the COP 30 Presidency on Economics and Climate 
+Finance. He has been an academic economist, Secretary of 
+Economic Policy of the Brazilian Minister of Finance and has 
+a long experience as partner and chief executive of leading 
+financial institutions in Brazil.Through interviews with 12 market 
+insiders , we have ascertained a mood 
+of cautious optimism regarding the 
+potential of Brazil’s new national carbon 
+market law, the SBCE, to catalyse growth 
+in the country’s carbon credit market. 
+Interviewees told us that, with the right 
+governance structure in place, the SBCE 
+THEMEcould stimulate unprecedented domestic 
+demand for credits, connect Brazil to 
+international compliance demand via 
+Article 6, and drive up credit integrity 
+standards. The table below summarises 
+the insights from our interviews alongside 
+BeZero Carbon’s view across key thematic 
+areas that emerged.
+GOVERNANCEINSIGHTS SUMMARY
+Local experts: Governance should aim to embed the SBCE as a “state policy” | T ransition towards 
+independent governance is needed | Call for timely Article 6 eligibility decisions to unlock 
+investment.
+BeZero Carbon:  Embed private sector voices in governance design to ensure the ‘investability’ 
+focus is maintained.
+CAP-AND-TRADE Local experts:  Positive catalyst for domestic carbon credit demand | Growth impact will be 
+secondary to international compliance demand | Risk of low-integrity credits undermining cap-
+and-trade credibility.
+BeZero Carbon:  Introduce independent, project-specific ratings as the guardrail against low-
+integrity credits being used in the compliance setting .
+ARTICLE 6 Local experts:  Key route to monetise high-quality carbon credits globally | Cautious approach 
+on issuing corresponding adjustments needed for credibility, but further delays could erode 
+competitiveness.
+BeZero Carbon : Apply robust NDC risk modelling to unlock decisions on eligibility for 
+corresponding adjustments, and deliver investment at scale.
+OVERSEEING SUPPL Y Local experts:  Focus on alignment with international methodologies, with Brazilian adaptations, 
+and signal quality via CCPs and independent ratings | T ackle “beyond carbon” challenges, notably 
+land-tenure issues.
+BeZero Carbon: Methodological reform alone is insufficient: integrating project-specific ratings 
+will anchor Brazil’s reputation for quality and trust.
+FORESTRY Experts:  Reforestation is gaining momentum despite challenging payback times | Avoided 
+deforestation remains a “value-for-money” pathway | J-REDD+ could unlock transformational 
+credit volumes but depends on integrity safeguards.
+BeZero Carbon:  A diversified approach spanning ARR, project-REDD+, and J-REDD+ is vital, 
+backed by project-level transparency across carbon and “beyond carbon” factors.
+BEYOND FORESTRY Local experts:  Shift from renewable energy to industrial/waste projects | Agriculture is “the 
+sleeping giant” of mitigation potential | Engineered carbon removals represent a long-term 
+opportunity.
+BeZero Carbon:  Exploit ‘low-hanging fruit’ (e.g. waste, agriculture) and longer-term engineered 
+removals, with ratings as a tool to differentiate project-level integrity and guide investment.
+6 7WINSTON FRITSCH,                                                                                                                                         
+TRUSTEE EMERITUS OF CEBRI
+
+--- PÁGINA 5 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHBrazil’s new national carbon market law, 
+the Sistema Brasileiro de Comércio de 
+Emissões (SBCE), marks a turning point in 
+the country’s approach to climate policy. 
+Enacted into law in December 2024 after 
+years of debate, the SBCE establishes 
+the legal foundation for a national cap-
+and-trade system and defines how 
+Brazil’s extensive ecosystem of carbon 
+credit projects will fit into domestic and 
+international markets. In doing so, it 
+positions Brazil as one of the few countries 
+building a carbon market architecture 
+that connects compliance, voluntary, 
+and Article 6 mechanisms in a single 
+framework.
+Efforts to design a national carbon market 
+in Brazil began in the early 2010s through 
+voluntary initiatives and state-led pilots, 
+but momentum stalled amid political 
+and economic headwinds. Over time, 
+the growing participation of Brazilian 
+carbon projects in international voluntary 
+markets, maturing corporate net-zero 
+strategies, and the government’s renewed 
+focus on climate brought the issue back to 
+the policy agenda.
+The law’s eventual passage reflects a 
+convergence of domestic ambition and 
+external pressure. The role of the EU’s 
+Carbon Border Adjustment Mechanism 
+as an accelerant cannot be ignored. In a global economy moving toward carbon 
+accountability, countries without pricing 
+systems risk eroding competitiveness and 
+climate credibility. Brazil has responded 
+to this pressure by putting itself on a path 
+to its first national compliance carbon 
+scheme.
+The SBCE is designed as a hybrid system, 
+combining a national cap-and-trade 
+scheme with an integrated framework 
+for project-based carbon credits (see 
+Figure 1). The compliance scheme will 
+require large emitters to monitor and 
+report emissions, and address these by 
+purchasing allowances or eligible carbon 
+credits. The project-based side will 
+regulate the supply of credits, defining 
+eligibility for use in the domestic cap-and-
+trade system and for export under Article 
+6. While purely voluntary projects will 
+remain largely outside the SBCE’s direct 
+regulation, the system is expected to exert 
+influence through common standards 
+for transparency, registry alignment, and 
+methodological integrity. T ogether , these 
+elements create the structure for an 
+integrated carbon economy, one that can 
+price emissions, incentivise investment, 
+and channel finance toward a range of 
+mitigation activities.The approach and structure of this report
+Given our position as a carbon credit 
+ratings agency, this report focuses on 
+the project-based carbon element of 
+the SBCE. The cap-and-trade element 
+is discussed, but primarily through 
+the lens of its potential to create a new 
+demand source for Brazilian carbon 
+credits. The report explores how the SBCE 
+law’s implementation is likely to shape 
+investment, integrity, and governance 
+across the ecosystem, and what Brazil’s 
+approach means in the context of a rapidly 
+evolving global market.
+T o inform this analysis, we interviewed 
+senior representatives from 12 
+organisations active across Brazil’s carbon 
+landscape, including project developers, 
+financial institutions, corporates, NGOs, 
+and policy experts. Their perspectives 
+provide a ground-level view of how the 
+SBCE is being understood, interpreted, and 
+implemented.
+The report is structured around six key 
+themes that emerged from our interviews:From law to leadership: Building an SBCE 
+governance framework with longevity
+Driving domestic credit demand: Brazil’s 
+first national compliance scheme
+Article 6: Building a bridge to global 
+compliance demand
+Quality, trust and alignment: Overseeing 
+Brazil’s carbon credit supply
+Harnessing natural assets: Putting forests 
+at the heart of Brazil’s carbon future
+Looking beyond the forest: New frontiers 
+for Brazil’s carbon credit supply
+Each section distils what interviewees 
+told us: the points of consensus, the areas 
+of disagreement, and the insights that 
+reveal how the full carbon potential of one 
+of the world’s largest, most dynamic, and 
+most ecosystem-rich countries could be 
+unleashed. We supplement these insights 
+with data and our own view on the key 
+actions the Brazilian Government should 
+take as they implement the SBCE over the 
+coming years.The pathway to                                        
+a Brazilian national               
+carbon market lawSECTION 1FIGURE 1. ILLUSTRA TION OF THE SBCE’S KEY FEA TURES.
+8 9
+
+--- PÁGINA 6 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTH“the SBCE should be embedded as a 
+state policy rather than a government 
+programme” .
+Interviewees consistently stressed that 
+what matters most now is clarity and 
+transparency. The market’s credibility, 
+both domestically and internationally, 
+depends on consistent rules around 
+credit issuance, registry operations, and 
+oversight. A few participants emphasised 
+the need for alignment with international 
+best practice: not to copy other systems, 
+but to ensure compatibility with emerging 
+global norms. Others argued Brazil should 
+prioritise a model tailored to its national 
+circumstances, rooted in domestic policy 
+coherence. The underlying consensus 
+was that credibility will come from clear 
+processes and steady signals, rather than 
+speed.
+Several interviewees framed the current 
+pace not as a sign of delay, but as a 
+reflection of the task’s complexity, which 
+requires coordination across ministries, 
+state governments, and sectoral climate 
+plans. Several noted that the process 
+is already encouraging unprecedented 
+cooperation: “for the first time, Finance, 
+Environment, and Energy are sitting 
+around the same table to discuss carbon 
+market issues, which is progress in itself. ” Current status
+- The SBCE legislation left key 
+details regarding governance and 
+implementation to a series of decrees still 
+under development.
+- On 15th October 2025, responsibility 
+for implementation was transferred from 
+the Ministry of Finance to a newly created 
+Extraordinary Secretariat.
+- In the long-term, the law foresees an 
+independent, multi-tiered governance 
+model which would require new legislation 
+and budget allocation (see Figure 2).
+- The law foresees five phases 
+of implementation, with full 
+operationalisation likely in the early 2030s, 
+but with key decisions on the project-
+based carbon elements likely to be taken 
+by 2026/2027 (see Figure 3).
+Interview insights
+Across all interviews, governance emerged 
+as the defining test for Brazil’s new carbon 
+market. Interviewees described the 
+SBCE law as a “landmark framework” that 
+gives long-awaited legal clarity to carbon 
+trading. Yet most agreed that legislation is 
+only the first step. The real challenge lies 
+in building the institutions and rules that 
+will make the market credible, transparent, 
+and durable.There was widespread recognition 
+that the Ministry of Finance’s initial 
+leadership on implementation had given 
+the process important political weight 
+and economic coherence. Participants 
+said its involvement had anchored the 
+discussion in fiscal and macroeconomic 
+reality, a crucial signal to investors. Still, 
+most recognised that this represented a 
+transitional phase: “The market needs a 
+credible, long-term home” .
+Most expected the SBCE to operate 
+through the Extraordinary Secretariat 
+over the next few years, supported 
+by technical committees working on 
+the registry, compliance design, and 
+crediting methodologies. Many saw this 
+as a pragmatic approach: allowing the 
+Government to make progress while 
+acknowledging the fiscal reality of the 
+Brazilian system, whereby creating 
+a dedicated budget line for a new 
+organisation requires new legislation. 
+At the same time, several participants 
+underscored that full institutional 
+independence must remain a long-term 
+goal. As one noted, “Carbon pricing needs 
+to outlive administrations. ” While the 
+current administration has prioritised 
+climate action, future governments may 
+not. Hence, as one interviewee put it, From law to leadership: 
+Building a governance 
+framework with longevitySECTION 2
+Others, however , cautioned that Brazil 
+risks losing momentum and investor 
+confidence if tangible results are not 
+visible soon. They urged faster delivery on 
+the registry, sectoral coverage, and Article 
+6 rules, while others warned that rushing 
+could undermine integrity and coherence. 
+The prevailing view was that overlapping 
+mandates are natural at this stage, but 
+must be harmonised quickly; what matters 
+most is steady, visible progress that 
+demonstrates commitment while allowing 
+the institutional foundations to mature.
+A recurring theme was the need for 
+broad participation and accountability. 
+Some called for the creation of a multi-
+stakeholder council, bringing together 
+technical experts, private sector 
+representatives, and civil society, to 
+guide decision-making. Such a body, 
+they argued, would reinforce legitimacy 
+and help manage disputes before they 
+undermine confidence and investment.
+Participants also agreed that good 
+governance extends beyond formal 
+institutions. It must send a predictable 
+and coherent policy signal, reassuring 
+companies and investors that the market’s 
+rules and objectives will remain stable. 
+“Markets can adapt to almost anything 
+except uncertainty, ” one interviewee 
+observed. That sense of predictability, of "The SBCE should be embedded 
+as a state policy rather than a 
+government programme
+1
+10 11
+
+
+--- PÁGINA 7 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHSECTION 2
+FIGURE 3. PLANNED PHASES OF SBCE IMPLEMENT A TION.
+policy as an economic instrument rather 
+than a political variable, was seen as crucial 
+for both domestic engagement and 
+international credibility.
+Despite the challenges, interviewees 
+remained broadly optimistic. Most 
+saw the SBCE as Brazil’s opportunity 
+to demonstrate global leadership by 
+showing how a major emerging economy 
+can design a carbon market that is 
+both credible and inclusive. Several remarked that the decisions taken now 
+on governance will determine not just 
+the integrity of the market, but its role in 
+Brazil’s broader development strategy. As 
+one participant summarised, “It’s better to 
+take the time to build something durable 
+than to rush and rebuild later . ”
+FIGURE 2. ILLUSTRA TION OF THE PROPOSED LONG-TERM SBCE GOVERNANCE STRUCTURE.BeZero Carbon’s view
+Globally, there is a clear trend towards 
+integrating project-based carbon credits 
+into compliance schemes. A unique 
+feature of the SBCE is that this integration 
+is baked into the design of the legal 
+framework and governance structure from 
+the outset, rather than being retrofitted. 
+In this regard, the Brazilian Government’s 
+approach is to be commended, and offers 
+a clear learning opportunity for other 
+countries.
+A key risk, however , is that establishing a 
+complex governance structure that can 
+take a holistic view across carbon markets could take a significant amount of time, 
+resulting in lost investment opportunities 
+for the market. Brazil has huge potential to 
+provide credits for the supply-constrained 
+CORSIA market, but would need to issue 
+authorisations to projects quickly to meet 
+deadlines for the programme's first phase. 
+Outlining a role for private-sector voices in 
+the SBCE governance structure is key to 
+ensuring that decisions are geared towards 
+maximising investment opportunities for 
+the market.
+12 13https://www.in.gov.br/en/web/dou/-/decreto-n-12.677-de-15-de-outubro-de-2025-663086889 1
+
+--- PÁGINA 8 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHafter years of volatility in the voluntary 
+market. But others warned that this will 
+not, by itself, transform Brazil’s carbon 
+economy. “Compliance demand will help, 
+but it won’t be a game-changer , ” said 
+one market expert. The sentiment was 
+that the compliance scheme will create 
+structure and a degree of stable demand 
+for carbon credits, but that the key growth 
+opportunities will come from international 
+demand (see illustration of the potential 
+scale of domestic compliance demand in 
+Figure 4).
+Several participants noted that the cost of 
+compliance in the Brazilian cap-and-trade 
+system is likely to push buyers towards 
+lower cost credits, at least in the early 
+stages of the market. This could result in 
+a situation whereby lower cost industrial 
+emissions and REDD+ credits dominate 
+the domestic market while higher cost 
+credit types such as reforestation primarily 
+service the international market.
+While some private sector voices 
+expressed impatience with the pace of 
+regulation, the prevailing tone across 
+conversations was pragmatic. Interviewees 
+recognised that Brazil is attempting to 
+design its first national ETS in parallel with 
+building the administrative machinery to 
+run it: a complex process for any country. 
+“If the first compliance cycle is light, that’s 
+not failure, ” said one. “It’s calibration. ”Current status
+- The SBCE will create a national cap-
+and-trade mechanism regulating large 
+emitters.
+- The law provides that companies will 
+trade emission allowances (“CBEs”) and 
+may use a limited share of carbon credits 
+(“CRVEs”) to meet compliance obligations.
+- The specific sectoral coverage, caps, and 
+carbon CRVE limits are still being defined 
+through secondary regulation.
+- Around 5,000 companies are expected 
+to be covered in the first phase, including 
+the energy, industrial, and transport 
+sectors.
+Interview insights
+For most interviewees, the creation 
+of Brazil’s cap-and-trade compliance 
+scheme represents the core ambition of 
+the SBCE law: the moment when climate 
+policy begins to drive real economic 
+behaviour through mandatory pricing. The 
+consensus was that the law’s framework 
+is sound and that Brazil now has the 
+building blocks for a credible market. The 
+challenge, they said, lies in translating 
+that framework into a system that is both 
+pragmatic and ambitious: one that signals 
+long-term certainty without overwhelming 
+companies in its early years.Many emphasised that the Brazilian cap-
+and-trade system will start small by design, 
+giving time to build the infrastructure and 
+technical capacity needed for verification 
+and enforcement. Several compared the 
+approach to the early EU ETS phases, 
+where modest targets and pilot rules 
+helped build institutional confidence. 
+Interviewees stressed that investors and 
+companies need to understand the long-
+term trajectory, including how caps will 
+tighten and what proportion of carbon 
+credits will be allowed.
+Several pointed to the design of the rules 
+regarding carbon credit use as being 
+critical to the impact of the cap-and-
+trade system. Allowing the market to be 
+flooded with low-cost credits could make 
+compliance easier in the short term but 
+risk undermining environmental integrity 
+and international confidence. Others 
+argued for differentiated tiers for credits, 
+where higher-integrity credits could 
+attract premium pricing or priority use. 
+As one put it, “If everyone just buys the 
+cheapest tonne, the market will clear , but 
+credibility won’t. ”
+The expected carbon credit use under 
+the cap-and-trade was estimated to be 
+in the range of 10-30% of the total cap by 
+most interviewees. For project developers, 
+this offers a stable domestic market Driving domestic credit 
+demand: Brazil’s first national 
+compliance schemeSECTION 3
+There was also discussion of how to 
+ensure policy coherence with Brazil’s 
+Nationally Determined Contribution 
+(NDC) and broader climate strategy. 
+Several participants highlighted that the 
+ETS should be directly linked to sectoral 
+decarbonisation plans under the country’s 
+Plano Clima, ensuring that caps and credit 
+use align with long-term mitigation goals. 
+Others noted that, by embedding the 
+ETS within national planning, Brazil could 
+strengthen both investor confidence and 
+international credibility.
+A few participants saw Brazil’s gradual 
+approach as an asset. Early simplicity, they 
+argued, could attract participation and 
+establish a culture of compliance before 
+the system tightens. The aim should be to 
+build trust and competence first, ambition 
+later . As one observed, “You don’t measure 
+a market’s strength by how fast it starts, 
+but by how well it endures. ”
+Despite uncertainty around timing, there 
+was a clear sense that the direction of 
+travel is irreversible. The creation of a 
+compliance scheme marks a shift from 
+voluntary climate action to obligatory 
+emissions accountability. Several 
+interviewees described this as the real 
+transformation triggered by the SBCE: 
+turning carbon from a public relations 
+issue into a line item on corporate balance 
+sheets."If everyone just buys the 
+cheapest tonne, the market will 
+clear, but credibility won't
+2
+14 15
+
+
+--- PÁGINA 9 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHSECTION 3
+BeZero Carbon’s view
+The unique profile of Brazil’s greenhouse 
+gas emissions, currently dominated by 
+deforestation and agriculture, means that 
+it is right for the Government to allow a 
+higher proportion of project-based credits 
+to be used in the compliance setting than 
+is the case for international counterparts.
+What must be considered carefully is 
+how to design a market in which there 
+are strong guardrails in place against 
+low-integrity credits (i.e. those with a low 
+likelihood of delivering on their carbon 
+claim) being used to meet compliance 
+requirements.This is of particular concern in the 
+compliance setting, where participants 
+will be steered towards the lowest cost 
+pathway through the economic logic of the 
+market. We have argued that disclosure 
+of independent project-level ratings for 
+compliance-eligible credits can introduce 
+the much-needed incentive for buyers 
+to look beyond “lowest cost to deliver” . 
+This is something we’d advocate for the 
+Brazilian Government to consider as they 
+implement their cap-and-trade system in 
+the coming years.
+FIGURE 4.ESTIMA TION OF MAXIMUM ANNUAL CARBON CREDIT DEMAND UNDER THE SBCE CAP-AND-TRADE SYSTEM BY 
+2030. SOURCE FOR EMISSIONS PROJECTIONS: OBSERVA TÓRIO DO CLIMA & SEEG, 2024.  SOURCE FOR CAP-AND-TRADE 
+ASSUMPTIONS: BEZERO CARBON ESTIMA TES.3
+4
+5
+16 17 https://www.gov.br/mma/pt-br/composicao/smc/ plano-clima 2
+https:/ /bezerocarbon.com/insights/maximising-the-climate-impact-of-carbon-credits-in-compliance-schemes 3
+ https:/ /seeg.eco.br/wp-content/uploads/2024/12/Brasil2045_Bases_NDC.pdf 4
+Assuming the SBCE will cover 60% of emissions in eligible sectors, and that 20% of those emissions will be eligible to be covered by CRVEs 5
+
+--- PÁGINA 10 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHout, are already signing bilateral deals 
+and securing funding through Article 6 
+cooperation. Several participants argued 
+that Brazil’s challenge is not the absence 
+of an NDC, which is already clearly 
+defined, but the absence of analytical 
+work to understand how international 
+transfers might affect its delivery. Without 
+modelling these risks, they said, the 
+government is defaulting to inaction and 
+forgoing opportunities to attract finance 
+that could, in practice, accelerate NDC 
+implementation. With the proper analysis 
+in place, they argued, Brazil could identify 
+the space for high-value credit exports 
+that deliver net benefits to national 
+targets.
+A theme that surfaced repeatedly was 
+the need for clarity on institutional 
+responsibilities. Interviewees said 
+businesses are watching closely to 
+see how authorisation of exports will 
+work in practice: who signs them off, 
+how reporting will function, and how 
+developers can access the system. While 
+some expected a gradual rollout, others 
+urged the Government to publish a clear 
+roadmap. “Investors don’t mind waiting, ” 
+said one participant. “They just need to 
+know what they’re waiting for . ”
+There was broad agreement that Brazil’s 
+national registry should serve as the 
+operational bridge between domestic 
+credits eligible for use in the cap-and-
+trade and credits eligible for international Current status
+- Article 6 of the Paris Agreement enables 
+countries to trade carbon credits linked to 
+their national emissions accounts, allowing 
+international cooperation on mitigation 
+while ensuring that emission reductions or 
+removals aren’t double-counted.
+- Under the SBCE framework, Brazil 
+is developing a national system for 
+authorising and recording Article 6 credits, 
+opening up opportunities for project 
+developers to access demand sources 
+such as the CORSIA market.
+- Unlike some other major “supplier 
+countries” for the global carbon credit 
+market, Brazil has not yet concluded any 
+bilateral Article 6.2 agreements.
+Interview insights
+Almost all interviewees described the 
+prospect of defining Brazil’s engagement 
+with the Article 6 market as one of the 
+most exciting, and most complex, aspects 
+of the SBCE law. While views differed 
+on timing and ambition, there was 
+consensus that the long-term success 
+of Brazil’s carbon credit sector depends 
+on connecting its national system to 
+international compliance demand via 
+Article 6 in a credible, well-governed way. 
+Figure 5, showing recent credit issuance 
+by country under international voluntary registries and the CDM, indicates the huge 
+potential of Brazil to be one of the leading 
+players in the Article 6 market.
+Participants described Article 6 as 
+both a strategic and symbolic frontier . 
+Strategically, it could unlock significant 
+investment by enabling Brazil to export 
+high-quality credits for other countries 
+to use towards their national climate 
+targets, or within schemes like CORSIA. 
+Symbolically, it represents a test of Brazil’s 
+ability to translate domestic ambition into 
+global leadership.
+At the heart of the discussion was Brazil’s 
+approach to corresponding adjustments: 
+the mechanism ensuring that exported 
+credits do not count towards a country’s 
+own target. Most interviewees viewed the 
+government’s current stance as cautious: 
+no corresponding adjustments until the 
+Government determines the type and 
+scale of mitigation activities that can be 
+considered ‘over and above’ the NDC. 
+Some took this as a sign of responsibility 
+rather than hesitation. “It’s better to 
+move deliberately on corresponding 
+adjustments than to undermine trust in 
+the NDC by moving too soon, ” noted one 
+observer .
+However , some also warned that excessive 
+caution could cause Brazil to lose its 
+competitive advantage and miss out on 
+near-term investment opportunities. Other 
+countries in Latin America, they pointed Article 6: Building a bridge to 
+global compliance demandSECTION 4
+transfer under Article 6. Many emphasised 
+the importance of designing this registry 
+to meet a high standard of traceability 
+and transparency from day one. A 
+participant involved described the registry 
+as “the backbone of everything: if it’s 
+trusted, Brazil’s credits will be trusted. ” 
+Others added that interoperability with 
+international voluntary registries and 
+platforms will be essential for market 
+access.
+Views diverged on what kinds of activities 
+Brazil should prioritise for Article 6 export. 
+Many raised that Article 6 represents a 
+significant opportunity to channel finance 
+into the forestry sector: “Brazil’s clear 
+area of comparative advantage” . Some 
+specifically raised jurisdictional REDD+ 
+as a project category that Brazil could 
+leverage to provide a huge volume of 
+credits into the global market.
+Others highlighted that most Brazilian 
+projects under the Article 6 market’s 
+predecessor , the CDM, were not nature-
+based and that focusing only on the 
+forestry sector risks narrowing the 
+potential of Article 6 cooperation. Figure 
+6 is indicative of this, showing that the 
+vast majority of Brazilian projects that 
+have applied for transfer to PACM from 
+the CDM lie outside the forestry sector .  
+“If we only export forestry credits, ” said 
+one participant, “we’re missing half the "If everyone just buys the 
+cheapest tonne, the market will 
+clear, but credibility won't
+6
+18 19
+
+
+--- PÁGINA 11 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHSECTION 4
+FIGURE 5. RECENT CARBON CREDIT ISSUANCE (2020 - 2025, MILLIONS OF CREDITS) ON MAJOR INTERNA TIONAL 
+REGISTRIES BY POTENTIAL ARTICLE 6 SUPPLIER COUNTRIES.
+BeZero Carbon’s view
+Brazil has the potential to be one of 
+the largest suppliers of credits into the 
+Article 6 market. Caution on rushing into 
+decisions on corresponding adjustments 
+is justified. Our engagement with potential 
+Article 6 credit buyers has highlighted 
+that host country NDC risk is a major 
+concern, which is why we have developed 
+a framework to help stakeholders 
+understand the country's approach to 
+and progress towards meeting its NDC 
+targets, Article 6 readiness and carbon 
+market experience.  What is holding 
+the Government back is the absence of 
+detailed modelling on how credit exports 
+might affect NDC delivery. T o unlock the 
+scale of finance at stake, Brazil needs to move from caution to calculation: building 
+an analytical basis for decision-making 
+and accelerating the risk-assessment 
+process so that clear eligibility criteria can 
+be communicated to the market.
+The recent position taken by the Article 
+6 Supervisory Body on the permanence 
+standard for nature-based projects 
+indicates that, at the multilateral level 
+and at the level of individual Article 6 
+credit buyers, there is a push towards 
+the highest standards of environmental 
+integrity. This extends beyond standards 
+and methodologies, with early sovereign 
+buyers such as Switzerland commissioning 
+independent project-level assessments to 
+guide their decision-making and deliver 
+transparency.
+FIGURE 6.  NUMBER OF PROJECTS THA T HAVE REQUESTED TRANSITION FROM CDM TO PACM IN BRAZIL BY PROJECT TYPE. 
+SOURCE: UNEP-CCC ARTICLE 6 PIPELINE.
+the potential. ”
+Despite uncertainty about timing, there 
+was broad confidence that Brazil will be 
+a major player in Article 6 markets once 
+the architecture is ready. The country’s 
+combination of emissions-reduction 
+potential, existing activity through 
+voluntary carbon markets, and diplomatic 
+influence makes it uniquely positioned. 
+What interviewees stressed most was the 
+importance of coherence: rules for export, corresponding adjustments, and registry 
+systems must align seamlessly with 
+domestic policy. As one project developer 
+summed up, “If we build a bridge between 
+domestic and international markets, the 
+world will cross it. ”
+78
+9
+10
+20 21 https://www.ieta.org/visualising-article-6-implementation 6
+ https:/ /bezerocarbon.com/insights/introducing-bezeros-ndc-data-framework 7
+https://unfccc.int/sites/default/files/resource/In-meeting_Info%20Note_Compilation%20Annotated%20Agenda%20SBM18%20Reversals.pdf 8
+https:/ /bezerocarbon.com/insights/bezero-mandated-to-assess-article-6-2-credits-by-the-swiss-government9
+https:/ /unepccc.org/article-6-pipeline/ 10
+
+--- PÁGINA 12 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHdisclosure of ownership, vintage, and 
+retirements via this registry: “sunlight is 
+the best disinfectant” , as one put it.
+Interviewees raised the issue of how 
+Brazil will regulate carbon credit project 
+methodologies under the SBCE. Opinions 
+differed on whether the country should 
+create its own methodologies or adopt 
+existing ones from international standards 
+such as Verra. Most participants came 
+down in favour of adapting, rather than 
+reinventing, established methodologies, 
+arguing that alignment with recognised 
+standards would maintain investor 
+confidence and ensure international 
+compatibility. “You don’t gain credibility 
+by starting from scratch, ” said one 
+participant.
+Several added that adaptation of 
+methodologies could still allow space for 
+“tropicalisation”, refining methodologies to 
+better reflect Brazil’s ecological and social 
+realities, such as regional baselines or 
+land-use dynamics, without severing ties 
+to global frameworks. The prevailing view 
+was that Brazil should aim for recognition 
+rather than isolation: using its regulatory 
+framework to strengthen connection to 
+international markets, not to replace them.
+Linked to this was the question of how 
+carbon integrity will be signalled once the 
+SBCE is operational. Many participants Current status
+- Brazil is already one of the leading 
+suppliers to the global carbon credit 
+market, with over 800 projects registered 
+on major carbon credit registries.
+- Under the SBCE, regulatory oversight 
+will focus primarily on credits authorised 
+for domestic compliance use and 
+international transfers under Article 6.
+- While purely voluntary projects will 
+remain largely outside the SBCE’s direct 
+regulation, there is expected to be 
+alignment through a common registry and 
+methodological standards.
+- The Government’s key aims include 
+ensuring that methodologies are suitable 
+for the Brazilian context, that credits 
+are viewed as high integrity on the 
+international stage and to strengthen 
+governance around issues like land tenure.
+Interview insights
+If domestic and international compliance 
+demand represent Brazil’s carbon future, 
+international voluntary demand remains its 
+present. Every participant acknowledged 
+that, for now, the VCM continues to be the 
+main source of capital for climate projects 
+across the country. Yet almost all agreed 
+that the voluntary space must evolve: it needs clearer rules, higher standards, 
+and stronger links to national policy if it is 
+to remain credible and relevant once the 
+SBCE is operational.
+Interviewees described the VCM in 
+Brazil as being at a crossroads. Years 
+of expansion have brought valuable 
+experience, but also challenges of 
+quality, transparency, and trust. Several 
+participants said that the VCM’s reputation 
+suffered from early episodes of over-
+crediting, land-tenure disputes, and 
+uneven community engagement. “Brazil 
+has the right ingredients, ” one project 
+developer said, “but the recipe needs 
+refining.”
+The majority of interviewees agreed 
+that alignment between the VCM and 
+the SBCE will determine the market’s 
+next phase. While voluntary activity 
+will continue to operate independently, 
+most expected the national registry 
+and integrity framework defined under 
+the SBCE to influence which credits are 
+recognised, who can issue them, and how 
+they can be claimed.
+Stakeholders emphasised the need for 
+transparency and traceability. Many urged 
+that all credits generated in Brazil should 
+follow methodologies defined under the 
+SBCE framework and be recorded in the 
+national registry. Some argued for public Quality , trust and alignment: 
+Overseeing Brazil’s carbon 
+credit supplySECTION 5
+argued that the government should align 
+closely with global frameworks such as 
+the Integrity Council for the Voluntary 
+Carbon Market (ICVCM), to ensure 
+that methodologies are recognised as 
+meeting the minimum quality threshold 
+increasingly expected from buyers.
+Some also pointed to the growing role of 
+independent ratings agencies that assess 
+carbon integrity through project-level risk 
+assessment. Ratings agencies, they said, 
+can provide an extra layer of transparency 
+and discipline that complements public 
+regulation. One participant observed 
+that “the market listens to ratings: they’re 
+becoming the shorthand for trust. ” 
+Interviewees agreed that combining 
+regulatory oversight with market-based 
+signals such as ratings will give Brazil’s 
+voluntary market a stronger international 
+reputation. Figures 7-9 provide insight 
+from BeZero’s ratings of Brazilian projects 
+to date.
+Another recurring theme was the 
+importance of tackling “beyond carbon” 
+integrity issues, especially land tenure and 
+community rights. Several participants 
+said that disputes over ownership 
+and benefit-sharing had undermined 
+confidence in many nature-based 
+projects. Under the SBCE, they saw an 
+opportunity to fix this: by requiring clear "The market listens to ratings: 
+they're becoming the shorthand 
+for trust
+22 23
+
+
+--- PÁGINA 13 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHSECTION 5
+proof of land title, transparent revenue 
+distribution, and documentation of free, 
+prior and informed consent for projects on 
+indigenous and traditional lands.
+Some pointed to the provisions under 
+the SBCE law requiring the allocation of 
+50–80% of carbon credit project revenue 
+to local communities as a major step 
+forward. On the subject of how such a 
+provision would impact the revenue model 
+of project developers, one responded that: 
+“responsible developers already impose 
+such provisions internally, so the impact 
+should be limited” . Others cautioned that 
+these rules will only build trust if backed by BeZero Carbon’s view
+The Brazilian government is right to 
+focus on regulating to ensure that credits 
+generated under the SBCE and listed on 
+the national registry have the highest 
+chance of delivering on their carbon claim. 
+Analysis shows that buyers have steadily 
+but decisively moved towards higher 
+quality credits over recent years - as 
+indicated by both retirement trends  and 
+the divergence in price between higher- 
+and lower-rated credits from BeZero 
+Carbon.
+We strongly advise the Government not 
+to rely solely on methodologies as the key policy lever to deliver on its drive towards 
+integrity. Improved methodologies can 
+raise the bar on quality in aggregate, 
+but will always allow significant scope 
+for variation at the project level. Our 
+ratings clearly demonstrate that, within 
+a given methodology, there can be huge 
+differences between projects in terms of 
+the performance risk of issued credits. We 
+encourage the Brazilian Government to 
+endorse independent ratings as a tool for 
+market participants to assess project-level 
+risks, a step that other governments, such 
+as the UK, have taken.
+FIGURE 8. BEZERO CARBON RA TINGS DISTRIBUTION (% OF RA TED PROJECTS BY RA TING NOTCH) FOR PROJECTS IN BRAZIL 
+AND GLOBALL Y , OCTOBER 2025.
+FIGURE 9. FREQUENCY OF BEZERO CARBON RA TINGS (NUMBER OF PROJECTS) FOR BRAZILIAN PROJECTS BY PROJECT 
+SECTOR, OCTOBER 2025.
+robust verification and public disclosure at 
+the project-level.
+T aken together , these perspectives point 
+to a pragmatic evolution of Brazil’s carbon 
+credit market. Rather than reinventing 
+standards, stakeholders want the SBCE to 
+act as a quality anchor , setting clear rules 
+for transparency and social safeguards 
+while keeping Brazil plugged into 
+international frameworks. The consensus 
+across conversations was that this 
+approach would strengthen both domestic 
+credibility and international market access, 
+ensuring that Brazil’s carbon economy 
+grows on the twin foundations of trust and 
+alignment.11
+12 13
+24 25FIGURE 7 . THE BEZERO CARBON RA TING SCALE - BASED ON THE LIKELIHOOD OF CREDITS DELIVERING ON THEIR CLAIM TO 
+REPRESENT 1 TONNE OF CO2E REMOVED OR AVOIDED.
+ https:/ /bezerocarbon.com/insights/what-carbon-credit-retirements-tell-us-about-buyer-behaviour 11
+ https://www.fastmarkets.com/insights/redd-projects-show-broad-price-ratings-correlation-but-project-s 12
+https://unfccc.int/sites/default/files/resource/In-meeting_Info%20Note_Compilation%20Annotated%20Agenda%20SBM18%20Reversals.pdf 13
+
+--- PÁGINA 14 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTH"Everyone looks to Brazil for 
+forests; the question is whether 
+we lead only by size or also                       
+by standards
+particularly in the technology sector , as 
+key drivers of this trend in investment 
+towards ARR, as they seek removal credits 
+to meet their net-zero targets.
+However , participants also highlighted 
+the high costs and long payback periods 
+associated with reforestation. “We’re 
+betting on trees growing, not just not 
+being cut, ” said one developer , “but that 
+takes significant time and investment 
+before revenue starts to come in. ” 
+A few interviewees called for policy 
+differentiation or financial incentives 
+to ensure these projects remain viable, 
+warning that without such support, 
+removals could struggle to compete with 
+cheaper forms of avoided deforestation.Current status
+- Around one-third of Brazil’s net 
+greenhouse gas emissions come from the 
+land use, land-use change and forestry 
+sector , primarily driven by deforestation of 
+the Amazon, with a further third coming 
+from agriculture.
+- Credits generated from high-quality 
+forestry protection and restoration 
+projects are increasingly in demand from 
+buyers, and will feature across Brazil’s 
+strategy for domestic compliance credits, 
+Article 6 and voluntary markets.
+- The T ropical Forests Forever Facility 
+(TFFF), proposed by the Brazilian 
+Government for discussion at COP30, 
+aims to provide long-term, results-based 
+finance for forest conservation alongside 
+market-based mechanisms.
+Interview insights
+Interviewees across all categories, from 
+finance to civil society, agreed that 
+the forestry sector represents Brazil’s 
+comparative advantage and will be the 
+heart of its carbon credit market for years 
+to come (see Figure 10 for some illustrative 
+examples of forestry projects in Brazil). Yet 
+they were equally clear that the success of 
+this pillar will depend on how the country manages quality, equity, and diversification 
+within the vast landscape of forest-based 
+carbon.
+Most participants began from the same 
+premise: the scale of Brazil’s forest 
+potential is unmatched, but potential alone 
+does not translate into value. Many recalled 
+the country’s history of fragmented forest 
+initiatives: promising much on paper 
+but undermined by weak safeguards or 
+competing interests. The SBCE, they 
+said, offers a chance to reset the narrative 
+by embedding clear rules on integrity, 
+tenure, and benefit-sharing. “Brazil has the 
+credibility challenge and the credibility 
+opportunity in the same place: its forests, ” 
+said one participant.
+Many interviewees emphasised the 
+growing importance of reforestation 
+within Brazil’s carbon portfolio. Some 
+developers described this as the next 
+phase of the country’s forest story: moving 
+from protecting existing trees to actively 
+restoring degraded land. They noted 
+that afforestation, reforestation and 
+restoration (ARR) projects can deliver high 
+integrity credits that fit well with emerging 
+international preferences for carbon 
+removals rather than avoidance (Figure 
+10 shows price projections for nature-
+based removal and avoidance projects). 
+Several pointed to large corporate buyers, Harnessing natural assets: 
+Putting forests at the heart of 
+Brazil’s carbon futureSECTION 6
+At the same time, several made the case 
+for avoided deforestation as offering 
+strong “value for money. ” They argued 
+that, despite growing enthusiasm for 
+removals, preventing forest loss remains 
+the most cost-effective climate action 
+in Brazil. “Every hectare not cleared is 
+one you don’t have to replace later , ” one 
+participant observed. Some interviewees 
+cautioned that the reputational issues 
+from earlier projects (e.g. over-crediting, 
+tenure disputes, inconsistent baselines) 
+must be addressed through stricter 
+governance and transparency under 
+the SBCE. Yet, most agreed that with 
+robust safeguards, avoided deforestation 
+still represents an efficient and scalable 
+component of Brazil’s carbon strategy, 
+FIGURE 10. PRICE FORECASTS (USD PER CREDIT) 2025 – 2040 FOR NA TURE-BASED REMOVALS AND AVOIDANCE PROJECTS. 
+PRICE FORECASTS COME FROM FASTMARKETS' GLOBAL CARBON MODEL AUGUST 2025 RESUL TS AND REFLECT A SECTOR-
+WIDE AVERAGE PRICE.
+14
+17
+26 27
+
+
+--- PÁGINA 15 ---
+
+BRAZIL'S CARBON CREDIT MARKET: PERSPECTIVES ON THE SBCE LAW AS A CATALYST FOR GROWTHSECTION 6
+complementing rather than competing 
+with reforestation efforts.
+The discussions also frequently turned 
+to jurisdictional REDD+ (J-REDD+ ), which 
+some saw as the most promising pathway 
+to scale forest credits. Participants 
+highlighted ongoing progress in states 
+such as Acre and Pará, where regional 
+governments are developing systems 
+that integrate land registries, monitoring, 
+and benefit-sharing mechanisms. These 
+programs were described as “the testing 
+ground” for how national nesting under 
+the SBCE might operate in practice. 
+Several highlighted that, as J-REDD+ 
+projects are led by public authorities, 
+they circumvent many of the land tenure 
+issues that have stalled project-based 
+approaches.
+Several interviewees stressed the 
+enormous potential volume of credits 
+that J-REDD+ could generate once fully 
+established. One noted that the number 
+of credits projected from the Guyana 
+jurisdictional program is striking when 
+compared with Brazil’s vastly larger 
+territory. This implies that the potential 
+scale of issuance, if managed responsibly, 
+could be transformative for both supply 
+and finance. However, participants 
+were clear that such scale will require 
+unambiguous governance, particularly 
+with regard to interaction with project-
+level activities. Others also highlighted 
+concerns about the integrity of credits 
+issued under J-REDD+ methodologies, 
+referencing low ratings assigned by some 
+ratings agencies.BeZero Carbon’s view
+The SBCE framework should support a 
+range of pathways to protect and restore 
+Brazil’s forests. ARR, project-based REDD+ , 
+and jurisdictional REDD+ all have a part to 
+play: none is inherently ‘higher integrity’ 
+than the other . What matters is how a 
+particular intervention is delivered on the 
+ground and whether the assumptions 
+applied to calculate credit issuance and 
+mitigate risks are appropriate.
+The J-REDD+ sector has significant 
+potential in Brazil but is not without risks, 
+as highlighted by BeZero’s rating for the Guyana J-REDD+ project.  Credit buyers 
+are also increasingly aware of ‘beyond 
+carbon’ risks for nature-based projects. 
+Legal frameworks may reduce the impact 
+of such risks, but they may still emerge for 
+individual projects.
+The SBCE registry should mandate 
+the highest standard of project-level 
+information disclosure, empowering 
+buyers to scrutinise claims and enabling 
+actors like ratings agencies to provide 
+risk management services to the market 
+across both carbon and ‘beyond carbon’ 
+factors.
+FIGURE 11.  EXAMPLES OF ARR, REDD+ AND J-REDD+ CARBON CREDIT PROJECTS IN BRAZIL WITH INDICA TIVE PROJECT 
+LOCA TIONS.
+The role of the T ropical Forests Forever 
+Facility (TFFF) was also discussed. 
+Interviewees described it as a potentially 
+transformative complement to market-
+based finance: a mechanism that could 
+provide steady, results-based payments 
+for conservation in areas unsuitable for 
+crediting. Several viewed it as an answer to 
+the volatility of carbon prices and demand. 
+“Markets pay for performance, ” one noted, 
+“TFFF can pay for persistence. ” 
+What united all voices was a sense 
+of confidence in Brazil’s long-term 
+positioning. The country’s forest assets 
+give it a natural leadership role. The 
+challenge, they said, is to ensure that 
+leadership is exercised not just through 
+quantity but also through quality. 
+“Everyone looks to Brazil for forests; the 
+question is whether we lead only by size or 
+also by standards, ” said one participant.
+ 15
+16
+28 29 https://unfccc.int/sites/default/files/resource/BRA_BTR1_2024_ENG.pdf , pg 83. 14
+ https://bezerocarbon.com/insights/bezero-carbon-s-first-j-redd-rating 15
+ https:/ /bezerocarbon.com/insights/beyond-carbon-risk-assessment-methodology 16
+ https://www.fastmarkets.com/markets/carbon/ 17
