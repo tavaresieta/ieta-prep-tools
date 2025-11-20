@@ -2,7 +2,8 @@ import streamlit as st
 from pathlib import Path
 from PyPDF2 import PdfReader
 from docx import Document
-import urllib.parse  # NOVO: Para criar links do ChatGPT
+import urllib.parse
+import json
 
 st.set_page_config(
     page_title="IETA Wizard",
@@ -10,46 +11,131 @@ st.set_page_config(
     layout="wide"
 )
 
-# Função para carregar documentos COM MAIS CONTEÚDO
+# ============================================================================
+# FUNÇÕES DE KEYWORDS
+# ============================================================================
+
+@st.cache_data
+def load_keywords_metadata():
+    """Carrega metadata de keywords dos documentos"""
+    metadata_file = Path("keywords_metadata.json")
+    if metadata_file.exists():
+        with open(metadata_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+@st.cache_data
+def load_keyword_index():
+    """Carrega índice invertido de keywords"""
+    index_file = Path("keywords_metadata_index.json")
+    if index_file.exists():
+        with open(index_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+def get_available_keywords(keyword_index):
+    """Retorna lista de keywords disponíveis organizadas por categoria"""
+    
+    # Organização por categoria (ajuste conforme seu domínio)
+    keyword_categories = {
+        "📋 Regulação": [
+            "artigo-6.2", "artigo-6.4", "sbce", "cdm-transition", 
+            "compliance-market", "corresponding-adjustments", "mrv", 
+            "transparency", "baseline"
+        ],
+        "💼 Mercado": [
+            "ecora", "vcm", "voluntary-carbon-market", "certificação", 
+            "credito-carbono", "open-coalition", "financiamento", 
+            "tfff", "ecoinvest", "fundo-clima", "jredd", "cadtrust", 
+            "registry", "verificação"
+        ],
+        "🏭 Setores": [
+            "nbs", "nature-based-solutions", "floresta", "reflorestamento",
+            "biocombustiveis", "etanol", "biodiesel", "saf",
+            "energia", "renovaveis", "solar", "eolica", "hidro",
+            "cimento", "mineracao", "aviacao", "hard-to-abate",
+            "agricultura", "pecuaria", "uso-do-solo"
+        ],
+        "🌐 Conceitos": [
+            "integridade", "adicionalidade", "permanencia", "metodologia",
+            "escopo-1", "escopo-2", "escopo-3", "inventario",
+            "net-zero", "neutralidade", "compensacao", "remocao",
+            "co-beneficios", "sdgs", "comunidades-tradicionais"
+        ],
+        "🗺️ Geografia": [
+            "brasil", "amazonia", "cerrado", "mata-atlantica",
+            "america-latina", "global", "bilateral"
+        ]
+    }
+    
+    # Filtra apenas keywords que existem no índice
+    available_categories = {}
+    for category, keywords in keyword_categories.items():
+        available = [kw for kw in keywords if kw in keyword_index]
+        if available:
+            available_categories[category] = available
+    
+    return available_categories
+
+def get_documents_by_keywords(selected_keywords, keyword_index, metadata):
+    """
+    Retorna documentos filtrados pelas keywords selecionadas
+    Ordenados por relevância (número de keywords matched)
+    """
+    if not selected_keywords:
+        # Se nenhuma keyword selecionada, retorna todos
+        return list(metadata.keys())
+    
+    doc_scores = {}  # doc_id -> número de keywords matched
+    
+    for keyword in selected_keywords:
+        if keyword in keyword_index:
+            for doc_id in keyword_index[keyword]:
+                doc_scores[doc_id] = doc_scores.get(doc_id, 0) + 1
+    
+    # Ordena por relevância
+    sorted_docs = sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
+    
+    return [doc_id for doc_id, score in sorted_docs]
+
+# ============================================================================
+# FUNÇÃO PARA CARREGAR DOCUMENTOS (ADAPTADA)
+# ============================================================================
+
 @st.cache_data
 def load_all_documents():
-    """Carrega documentos com máximo conteúdo possível"""
+    """Carrega documentos TXT da pasta documents/"""
     docs_folder = Path("documents")
     all_content = {}
     
     if not docs_folder.exists():
         return {}
     
-    for file_path in docs_folder.iterdir():
-        if file_path.is_file():
-            try:
-                content = ""
+    for file_path in docs_folder.glob("*.txt"):
+        try:
+            content = file_path.read_text(encoding='utf-8')
+            
+            if content.strip():
+                # Remove extensão .txt para match com metadata
+                doc_id = file_path.stem
                 
-                if file_path.suffix.lower() == '.pdf':
-                    reader = PdfReader(file_path)
-                    for page in reader.pages:
-                        content += page.extract_text()
+                all_content[doc_id] = {
+                    'filename': file_path.name,
+                    'full_content': content,
+                    'size_kb': len(content) / 1024,
+                    'char_count': len(content),
+                    'filepath': str(file_path)
+                }
                 
-                elif file_path.suffix.lower() == '.docx':
-                    doc = Document(file_path)
-                    content = "\n".join([p.text for p in doc.paragraphs])
-                
-                elif file_path.suffix.lower() == '.txt':
-                    content = file_path.read_text(encoding='utf-8')
-                
-                if content.strip():
-                    all_content[file_path.name] = {
-                        'full_content': content,  # Conteúdo completo
-                        'size_kb': len(content) / 1024,
-                        'char_count': len(content)
-                    }
-                    
-            except Exception as e:
-                st.sidebar.warning(f"⚠️ Erro: {file_path.name}")
+        except Exception as e:
+            st.sidebar.warning(f"⚠️ Erro ao carregar {file_path.name}")
     
     return all_content
 
-# Título e menu
+# ============================================================================
+# TÍTULO E MENU
+# ============================================================================
+
 st.title("🧙 IETA Wizard")
 
 # Menu de ferramentas
@@ -59,11 +145,14 @@ tool_choice = st.radio(
     horizontal=True
 )
 
-# Sidebar
+# ============================================================================
+# SIDEBAR COM KEYWORDS
+# ============================================================================
+
 with st.sidebar:
     st.header("📊 Base de Conhecimento")
     
-    # BOTÃO DE RELOAD
+    # Botão de reload
     if st.button("🔄 Recarregar Documentos", use_container_width=True, type="primary"):
         st.cache_data.clear()
         st.success("✅ Base atualizada!")
@@ -71,39 +160,165 @@ with st.sidebar:
     
     st.markdown("---")
     
-    # Carregar documentos
+    # Carregar documentos e metadata
     documents = load_all_documents()
+    keywords_metadata = load_keywords_metadata()
+    keyword_index = load_keyword_index()
     
-    if documents:
+    if not documents:
+        st.error("❌ Nenhum documento encontrado!")
+        st.info("Adicione arquivos TXT na pasta 'documents/'")
+    else:
         st.success(f"✅ {len(documents)} documentos")
         
-        # Estatísticas
+        # Estatísticas gerais
         total_chars = sum(doc['char_count'] for doc in documents.values())
         total_kb = sum(doc['size_kb'] for doc in documents.values())
         
-        st.metric("Total de caracteres", f"{total_chars:,}")
-        st.metric("Tamanho total", f"{total_kb:.1f} KB")
-        
-        # Lista de documentos
-        with st.expander("📄 Ver documentos"):
-            for doc_name, doc_data in sorted(documents.items()):
-                st.text(f"• {doc_name}")
-                st.caption(f"  {doc_data['char_count']:,} chars")
-    else:
-        st.error("❌ Nenhum documento encontrado!")
-        st.info("Adicione arquivos PDF, DOCX ou TXT na pasta 'documents/'")
+        col1, col2 = st.columns(2)
+        with col1:
+            st.metric("Caracteres", f"{total_chars:,}")
+        with col2:
+            st.metric("Tamanho", f"{total_kb:.1f} KB")
     
     st.markdown("---")
-    st.caption("🌍 IETA Brazil Initiative")
+    
+    # ========================================================================
+    # FILTRO DE KEYWORDS
+    # ========================================================================
+    
+    st.header("🏷️ Filtrar por Keywords")
+    
+    # Verifica se há metadata de keywords
+    if keyword_index:
+        st.success(f"✅ {len(keyword_index)} keywords disponíveis")
+        
+        # Organiza keywords por categoria
+        keyword_categories = get_available_keywords(keyword_index)
+        
+        # Seleção de keywords
+        selected_keywords = []
+        
+        # Opção de usar keywords ou não
+        use_keywords = st.checkbox("Ativar filtro de keywords", value=False, 
+                                   help="Quando ativado, apenas documentos com as keywords selecionadas serão usados")
+        
+        if use_keywords:
+            st.info("👇 Selecione até 5 keywords para filtrar documentos")
+            
+            for category, keywords in keyword_categories.items():
+                with st.expander(category):
+                    for kw in keywords:
+                        doc_count = len(keyword_index.get(kw, []))
+                        if st.checkbox(f"{kw} ({doc_count} docs)", key=f"kw_{kw}"):
+                            if len(selected_keywords) < 5:
+                                selected_keywords.append(kw)
+                            else:
+                                st.warning("⚠️ Máximo de 5 keywords")
+            
+            # Mostra keywords selecionadas
+            if selected_keywords:
+                st.markdown("**Keywords ativas:**")
+                for kw in selected_keywords:
+                    st.markdown(f"🏷️ `{kw}`")
+                
+                # Calcula quantos docs serão usados
+                filtered_docs = get_documents_by_keywords(
+                    selected_keywords, keyword_index, keywords_metadata
+                )
+                st.metric("Documentos filtrados", len(filtered_docs))
+            else:
+                st.warning("Selecione pelo menos 1 keyword")
+        else:
+            st.info("Todos os documentos serão usados")
+            selected_keywords = []
+    else:
+        st.warning("⚠️ Metadata de keywords não encontrada")
+        st.info("Execute: `python keyword_extractor.py documents/ --index`")
+        use_keywords = False
+        selected_keywords = []
+    
+    st.markdown("---")
+    
+    # Lista de documentos
+    if documents:
+        with st.expander("📄 Ver documentos"):
+            for doc_id, doc_data in sorted(documents.items()):
+                # Mostra keywords do documento se disponível
+                if doc_id in keywords_metadata:
+                    doc_keywords = keywords_metadata[doc_id].get('keywords', [])
+                    st.text(f"• {doc_data['filename']}")
+                    st.caption(f"  🏷️ {', '.join(doc_keywords)}")
+                else:
+                    st.text(f"• {doc_data['filename']}")
+                st.caption(f"  {doc_data['char_count']:,} chars")
+    
+    st.markdown("---")
+    st.caption("🌐 IETA Brazil Initiative")
 
-# Main content
+# ============================================================================
+# VERIFICAÇÃO DE DOCUMENTOS
+# ============================================================================
+
 if not documents:
     st.warning("⚠️ Adicione documentos à pasta 'documents/' e clique em 'Recarregar Documentos'")
     st.stop()
 
-# ==============================================================================
+# ============================================================================
+# FUNÇÃO AUXILIAR: PREPARAR CONTEXTO FILTRADO
+# ============================================================================
+
+def prepare_filtered_context(documents, selected_keywords, keyword_index, keywords_metadata):
+    """
+    Prepara contexto apenas com documentos relevantes às keywords
+    """
+    # Se keywords ativas, filtra documentos
+    if selected_keywords:
+        relevant_doc_ids = get_documents_by_keywords(
+            selected_keywords, keyword_index, keywords_metadata
+        )
+        
+        if not relevant_doc_ids:
+            st.error("❌ Nenhum documento encontrado com essas keywords!")
+            return None, []
+    else:
+        # Sem filtro, usa todos
+        relevant_doc_ids = list(documents.keys())
+    
+    # Prepara contexto
+    docs_context = []
+    used_docs = []
+    
+    for doc_id in relevant_doc_ids:
+        if doc_id in documents:
+            doc_data = documents[doc_id]
+            content = doc_data['full_content'][:12000]
+            
+            # Info sobre keywords do documento
+            doc_keywords = ""
+            if doc_id in keywords_metadata:
+                kw_list = keywords_metadata[doc_id].get('keywords', [])
+                doc_keywords = f"\nKeywords: {', '.join(kw_list)}"
+            
+            docs_context.append(f"""
+{'='*70}
+DOCUMENTO: {doc_data['filename']}
+Tamanho: {doc_data['char_count']:,} caracteres{doc_keywords}
+{'='*70}
+
+{content}
+
+""")
+            used_docs.append(doc_data['filename'])
+    
+    # Limita contexto total
+    full_context = "\n".join(docs_context)[:80000]
+    
+    return full_context, used_docs
+
+# ============================================================================
 # MEETING PREP
-# ==============================================================================
+# ============================================================================
 
 if tool_choice == "🎯 Meeting Prep":
     st.markdown("### Preparação para Reuniões")
@@ -153,45 +368,37 @@ if tool_choice == "🎯 Meeting Prep":
         if not organization or not topics:
             st.error("⚠️ Preencha pelo menos Organização e Tópicos")
         else:
-            with st.spinner("📝 Preparando briefing com documentos completos..."):
-                
-                # Preparar contexto COM MUITO MAIS CONTEÚDO
-                docs_context = []
-                
-                for doc_name, doc_data in documents.items():
-                    # Pegar primeiros 12.000 caracteres de cada doc (era 2.500!)
-                    content = doc_data['full_content'][:12000]
+            # Verifica se keywords estão ativas mas nenhuma selecionada
+            if use_keywords and not selected_keywords:
+                st.error("⚠️ Você ativou filtro de keywords mas não selecionou nenhuma. Desative o filtro ou selecione keywords.")
+            else:
+                with st.spinner("🔍 Preparando briefing com documentos filtrados..."):
                     
-                    docs_context.append(f"""
-{'='*70}
-DOCUMENTO: {doc_name}
-Tamanho: {doc_data['char_count']:,} caracteres
-{'='*70}
-
-{content}
-
-""")
-                
-                # Limitar contexto total para não explodir (máx 80k chars)
-                full_context = "\n".join(docs_context)[:80000]
-                
-                # Ajustar seções por nível
-                if detail_level == "Rápido":
-                    sections = """
+                    # Prepara contexto filtrado por keywords
+                    full_context, used_docs = prepare_filtered_context(
+                        documents, selected_keywords, keyword_index, keywords_metadata
+                    )
+                    
+                    if full_context is None:
+                        st.stop()
+                    
+                    # Ajustar seções por nível
+                    if detail_level == "Rápido":
+                        sections = """
 1. 🎯 Objetivos Estratégicos (2-3 pontos)
 2. 💡 Posições IETA Relevantes (cite documentos específicos)
 3. 🗣️ 3 Talking Points Principais
 """
-                elif detail_level == "Padrão":
-                    sections = """
+                    elif detail_level == "Padrão":
+                        sections = """
 1. 🎯 Objetivos Estratégicos IETA
 2. 📊 Contexto sobre a Organização
 3. 💡 Posições IETA Relevantes (SEMPRE cite o documento fonte)
 4. 🗣️ 5 Talking Points Estratégicos
 5. ❓ 3-4 Perguntas Prováveis e Respostas
 """
-                else:  # Completo
-                    sections = """
+                    else:  # Completo
+                        sections = """
 1. 🎯 Objetivos Estratégicos IETA
 2. 📊 Contexto Detalhado sobre a Organização
 3. 💡 Posições IETA Relevantes (com citações literais dos documentos)
@@ -200,9 +407,20 @@ Tamanho: {doc_data['char_count']:,} caracteres
 6. ⚠️ Considerações Estratégicas (Oportunidades e Riscos)
 7. 📋 Action Items para Follow-up
 """
-                
-                # Criar prompt melhorado
-                prompt = f"""Você é um assistente especializado da IETA (International Emissions Trading Association) Brasil.
+                    
+                    # Info sobre filtro aplicado
+                    filter_info = ""
+                    if selected_keywords:
+                        filter_info = f"""
+IMPORTANTE: Esta reunião foi preparada usando APENAS documentos filtrados pelas seguintes keywords:
+{', '.join(selected_keywords)}
+
+Documentos utilizados ({len(used_docs)}):
+{chr(10).join([f"- {doc}" for doc in used_docs])}
+"""
+                    
+                    # Criar prompt
+                    prompt = f"""Você é um assistente especializado da IETA (International Emissions Trading Association) Brasil.
 
 REGRAS CRÍTICAS DE RESPOSTA:
 1. Use APENAS informações dos documentos fornecidos abaixo
@@ -212,6 +430,8 @@ REGRAS CRÍTICAS DE RESPOSTA:
 5. Priorize informações de Position Papers oficiais
 6. Quando múltiplos documentos mencionarem algo, sintetize mostrando convergências
 
+{filter_info}
+
 INFORMAÇÕES DA REUNIÃO:
 - Organização: {organization}
 - Data: {meeting_date}
@@ -219,7 +439,7 @@ INFORMAÇÕES DA REUNIÃO:
 - Tópicos: {topics}
 - Objetivos: {objectives if objectives else "Mapear oportunidades e alinhar posições"}
 
-DOCUMENTOS IETA COMPLETOS ({len(documents)} documentos, ~{len(full_context):,} caracteres):
+DOCUMENTOS IETA ({len(used_docs)} documentos selecionados, ~{len(full_context):,} caracteres):
 
 {full_context}
 
@@ -237,74 +457,76 @@ FORMATO:
 
 BRIEFING:
 """
-                
-                # Mostrar resultados
-                st.success("✅ Prompt gerado com documentos completos!")
-                
-                # Estatísticas
-                col_stat1, col_stat2, col_stat3 = st.columns(3)
-                
-                with col_stat1:
-                    st.metric("Documentos incluídos", len(documents))
-                
-                with col_stat2:
-                    st.metric("Caracteres no contexto", f"{len(full_context):,}")
-                
-                with col_stat3:
-                    st.metric("Tokens aproximados", f"{len(full_context)//4:,}")
-                
-                st.markdown("---")
-                
-                # Mostrar prompt
-                st.markdown("### 📋 Prompt Gerado (Copie e Cole no ChatGPT/Claude)")
-                
-                st.text_area(
-                    "Prompt completo:",
-                    prompt,
-                    height=400,
-                    help="Copie todo este texto e cole no ChatGPT ou Claude.ai"
-                )
-                
-                # NOVO: Botões de ação melhorados
-                # Encode do prompt para URL do ChatGPT
-                encoded_prompt = urllib.parse.quote(prompt[:2000])  # Limite de URL
-                
-                col_btn1, col_btn2 = st.columns(2)
-                
-                with col_btn1:
-                    st.download_button(
-                        "📥 Baixar Prompt",
+                    
+                    # Mostrar resultados
+                    st.success("✅ Prompt gerado!")
+                    
+                    # Estatísticas
+                    col_stat1, col_stat2, col_stat3 = st.columns(3)
+                    
+                    with col_stat1:
+                        st.metric("Documentos incluídos", len(used_docs))
+                    
+                    with col_stat2:
+                        st.metric("Caracteres", f"{len(full_context):,}")
+                    
+                    with col_stat3:
+                        st.metric("Tokens aprox.", f"{len(full_context)//4:,}")
+                    
+                    # Mostra keywords usadas
+                    if selected_keywords:
+                        st.info(f"🏷️ **Filtrado por keywords:** {', '.join(selected_keywords)}")
+                    
+                    st.markdown("---")
+                    
+                    # Mostrar prompt
+                    st.markdown("### 📋 Prompt Gerado (Copie e Cole no ChatGPT/Claude)")
+                    
+                    st.text_area(
+                        "Prompt completo:",
                         prompt,
-                        file_name=f"briefing_{organization.replace(' ', '_')}_{meeting_date}.txt",
-                        use_container_width=True
+                        height=400,
+                        help="Copie todo este texto e cole no ChatGPT ou Claude.ai"
                     )
-                
-                with col_btn2:
-                    # Botão para abrir ChatGPT
-                    st.markdown(f"""
-                    <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
-                        <button style="
-                            width: 100%;
-                            height: 43px;
-                            padding: 0.5rem;
-                            background-color: #10a37f;
-                            color: white;
-                            border: none;
-                            border-radius: 0.5rem;
-                            cursor: pointer;
-                            font-size: 14px;
-                            font-weight: 500;
-                        ">
-                            🤖 Abrir no ChatGPT
-                        </button>
-                    </a>
-                    """, unsafe_allow_html=True)
-                
-                st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
+                    
+                    # Botões de ação
+                    encoded_prompt = urllib.parse.quote(prompt[:2000])
+                    
+                    col_btn1, col_btn2 = st.columns(2)
+                    
+                    with col_btn1:
+                        st.download_button(
+                            "📥 Baixar Prompt",
+                            prompt,
+                            file_name=f"briefing_{organization.replace(' ', '_')}_{meeting_date}.txt",
+                            use_container_width=True
+                        )
+                    
+                    with col_btn2:
+                        st.markdown(f"""
+                        <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
+                            <button style="
+                                width: 100%;
+                                height: 43px;
+                                padding: 0.5rem;
+                                background-color: #10a37f;
+                                color: white;
+                                border: none;
+                                border-radius: 0.5rem;
+                                cursor: pointer;
+                                font-size: 14px;
+                                font-weight: 500;
+                            ">
+                                🤖 Abrir no ChatGPT
+                            </button>
+                        </a>
+                        """, unsafe_allow_html=True)
+                    
+                    st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
 
-# ==============================================================================
+# ============================================================================
 # PANEL PREP
-# ==============================================================================
+# ============================================================================
 
 elif tool_choice == "🎤 Panel Prep":
     st.markdown("### Preparação para Painéis")
@@ -375,58 +597,63 @@ elif tool_choice == "🎤 Panel Prep":
         if not panel_title or not panel_topic:
             st.error("⚠️ Preencha pelo menos Título e Tema do Painel")
         else:
-            with st.spinner("📝 Preparando material para painel..."):
-                
-                # Preparar contexto (mesmo sistema do Meeting Prep)
-                docs_context = []
-                
-                for doc_name, doc_data in documents.items():
-                    content = doc_data['full_content'][:12000]
+            if use_keywords and not selected_keywords:
+                st.error("⚠️ Você ativou filtro de keywords mas não selecionou nenhuma. Desative o filtro ou selecione keywords.")
+            else:
+                with st.spinner("🔍 Preparando material para painel..."):
                     
-                    docs_context.append(f"""
-{'='*70}
-DOCUMENTO: {doc_name}
-{'='*70}
-
-{content}
-
-""")
-                
-                full_context = "\n".join(docs_context)[:80000]
-                
-                # Ajustar por nível
-                if prep_level == "Básico":
-                    sections = """
+                    # Prepara contexto filtrado
+                    full_context, used_docs = prepare_filtered_context(
+                        documents, selected_keywords, keyword_index, keywords_metadata
+                    )
+                    
+                    if full_context is None:
+                        st.stop()
+                    
+                    # Ajustar por nível
+                    if prep_level == "Básico":
+                        sections = """
 1. 🎯 Mensagem Central (1 frase impactante)
 2. 💡 3 Pontos-Chave para Sua Fala
 3. 📊 2-3 Dados de Apoio dos documentos
 4. 🎤 Sugestão de Abertura
-5. 🔚 Sugestão de Fechamento
+5. 📚 Sugestão de Fechamento
 """
-                elif prep_level == "Intermediário":
-                    sections = """
+                    elif prep_level == "Intermediário":
+                        sections = """
 1. 🎯 Mensagem Central e Narrativa
 2. 💡 5 Pontos Principais Estruturados
 3. 📊 Dados e Evidências (com fontes)
 4. 🎤 Abertura Impactante
 5. 🗣️ Possíveis Perguntas do Moderador/Audiência
-6. 🔚 Fechamento Memorável
+6. 📚 Fechamento Memorável
 7. ⏰ Estrutura por Tempo ({duration})
 """
-                else:  # Avançado
-                    sections = """
+                    else:  # Avançado
+                        sections = """
 1. 🎯 Narrativa Estratégica Completa
 2. 💡 7-10 Pontos de Argumentação
 3. 📊 Dados, Evidências e Cases (citando documentos)
 4. 🎤 Múltiplas Opções de Abertura
 5. 🗣️ Banco de Q&A (10+ perguntas)
 6. 💬 Soundbites para Mídia/Redes
-7. 🔚 Variações de Fechamento
+7. 📚 Variações de Fechamento
 8. ⏰ Roteiro Minuto a Minuto
 9. 🎭 Gestão de Debates e Contra-argumentos
 """
-                
-                prompt = f"""Você é um coach de comunicação especializado em painéis sobre mercados de carbono para a IETA.
+                    
+                    # Info sobre filtro
+                    filter_info = ""
+                    if selected_keywords:
+                        filter_info = f"""
+IMPORTANTE: Esta preparação usa APENAS documentos filtrados pelas keywords:
+{', '.join(selected_keywords)}
+
+Documentos utilizados ({len(used_docs)}):
+{chr(10).join([f"- {doc}" for doc in used_docs])}
+"""
+                    
+                    prompt = f"""Você é um coach de comunicação especializado em painéis sobre mercados de carbono para a IETA.
 
 REGRAS CRÍTICAS:
 1. Use APENAS informações dos documentos IETA fornecidos
@@ -434,6 +661,8 @@ REGRAS CRÍTICAS:
 3. Foque em comunicação CLARA e IMPACTANTE
 4. Adapte ao tempo disponível ({duration})
 5. Considere o público: {audience if audience else "profissionais do setor"}
+
+{filter_info}
 
 PAINEL:
 - Título: {panel_title}
@@ -446,7 +675,7 @@ PAINEL:
 - Outros painelistas: {other_panelists if other_panelists else "Não informado"}
 - Mensagem-chave desejada: {key_message if key_message else "A definir com base nos documentos IETA"}
 
-DOCUMENTOS IETA ({len(documents)} documentos):
+DOCUMENTOS IETA ({len(used_docs)} documentos):
 
 {full_context}
 
@@ -465,64 +694,68 @@ DIRETRIZES:
 
 PREPARAÇÃO:
 """
-                
-                # Mostrar resultados
-                st.success("✅ Preparação estruturada!")
-                
-                col_stat1, col_stat2 = st.columns(2)
-                
-                with col_stat1:
-                    st.metric("Documentos", len(documents))
-                
-                with col_stat2:
-                    st.metric("Contexto", f"{len(full_context):,} chars")
-                
-                st.markdown("---")
-                
-                st.markdown("### 🎤 Prompt para Panel Prep")
-                
-                st.text_area(
-                    "Prompt completo:",
-                    prompt,
-                    height=400
-                )
-                
-                # NOVO: Botões melhorados para Panel Prep também
-                encoded_prompt = urllib.parse.quote(prompt[:2000])
-                
-                col_btn1, col_btn2 = st.columns(2)
-                
-                with col_btn1:
-                    st.download_button(
-                        "📥 Baixar Prompt",
+                    
+                    # Mostrar resultados
+                    st.success("✅ Preparação estruturada!")
+                    
+                    col_stat1, col_stat2 = st.columns(2)
+                    
+                    with col_stat1:
+                        st.metric("Documentos", len(used_docs))
+                    
+                    with col_stat2:
+                        st.metric("Contexto", f"{len(full_context):,} chars")
+                    
+                    if selected_keywords:
+                        st.info(f"🏷️ **Filtrado por keywords:** {', '.join(selected_keywords)}")
+                    
+                    st.markdown("---")
+                    
+                    st.markdown("### 🎤 Prompt para Panel Prep")
+                    
+                    st.text_area(
+                        "Prompt completo:",
                         prompt,
-                        file_name=f"panel_{panel_title[:30].replace(' ', '_')}_{panel_date}.txt",
-                        use_container_width=True
+                        height=400
                     )
-                
-                with col_btn2:
-                    st.markdown(f"""
-                    <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
-                        <button style="
-                            width: 100%;
-                            height: 43px;
-                            padding: 0.5rem;
-                            background-color: #10a37f;
-                            color: white;
-                            border: none;
-                            border-radius: 0.5rem;
-                            cursor: pointer;
-                            font-size: 14px;
-                            font-weight: 500;
-                        ">
-                            🤖 Abrir no ChatGPT
-                        </button>
-                    </a>
-                    """, unsafe_allow_html=True)
-                
-                st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
+                    
+                    # Botões
+                    encoded_prompt = urllib.parse.quote(prompt[:2000])
+                    
+                    col_btn1, col_btn2 = st.columns(2)
+                    
+                    with col_btn1:
+                        st.download_button(
+                            "📥 Baixar Prompt",
+                            prompt,
+                            file_name=f"panel_{panel_title[:30].replace(' ', '_')}_{panel_date}.txt",
+                            use_container_width=True
+                        )
+                    
+                    with col_btn2:
+                        st.markdown(f"""
+                        <a href="https://chat.openai.com/?q={encoded_prompt}" target="_blank">
+                            <button style="
+                                width: 100%;
+                                height: 43px;
+                                padding: 0.5rem;
+                                background-color: #10a37f;
+                                color: white;
+                                border: none;
+                                border-radius: 0.5rem;
+                                cursor: pointer;
+                                font-size: 14px;
+                                font-weight: 500;
+                            ">
+                                🤖 Abrir no ChatGPT
+                            </button>
+                        </a>
+                        """, unsafe_allow_html=True)
+                    
+                    st.info("💡 **Dica:** O botão ChatGPT abre com parte do prompt. Para prompt completo, copie da caixa acima!")
 
 # Rodapé
 st.markdown("---")
 st.caption("💡 **Dica:** Copie o prompt gerado e cole no ChatGPT Plus ou Claude.ai para melhores resultados!")
 st.caption("🔄 Use 'Recarregar Documentos' sempre que adicionar novos arquivos à pasta.")
+st.caption("🏷️ Use keywords para focar em documentos específicos sobre os temas da reunião/painel.")
