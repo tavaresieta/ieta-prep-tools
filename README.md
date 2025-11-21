@@ -31,6 +31,33 @@ Se você tem documentos muito grandes (50+ páginas):
 
 Para atualizar a base de conhecimento, clique no botão "🔄 Recarregar Documentos" na sidebar.
 
+## Configuração da API Key (Anthropic)
+
+Para usar funcionalidades que requerem a API da Anthropic (ex: `process_and_sync.py --keywords-only`):
+
+### No Streamlit Cloud:
+1. Acesse as configurações do app no Streamlit Cloud
+2. Vá em "Secrets" ou "Environment variables"
+3. Adicione: `ANTHROPIC_API_KEY` = `sua-chave-aqui`
+4. O app irá usar automaticamente
+
+### Para desenvolvimento local:
+**Opção 1 - Variável de ambiente (PowerShell):**
+```powershell
+$env:ANTHROPIC_API_KEY = "sua-chave-aqui"
+```
+
+**Opção 2 - Variável de ambiente permanente:**
+```powershell
+setx ANTHROPIC_API_KEY "sua-chave-aqui"
+```
+(Reinicie o terminal após usar `setx`)
+
+**Opção 3 - Arquivo .env (local apenas):**
+1. Crie um arquivo `.env` na raiz do projeto
+2. Adicione: `ANTHROPIC_API_KEY=sua-chave-aqui`
+3. O arquivo `.env` já está no `.gitignore` (não será commitado)
+
 ---
 
 Desenvolvido pela IETA Brazil Initiative 🌍
