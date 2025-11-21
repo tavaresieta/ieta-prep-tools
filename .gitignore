@@ -26,29 +26,14 @@ Thumbs.db
 # documents/*.pdf
 # documents/*.docx
 # documents/*.txt
-```
 
-**O que isso faz:**
-Diz ao Git para **ignorar** esses arquivos (não subir para GitHub)
-- Ambientes virtuais (pesados)
-- Arquivos temporários
-- Secrets/senhas
-- (Opcionalmente) documentos
+# Test files
+test_*.py
 
----
+# Installed packages list
+installed.txt
 
-## 2. SIM! Vamos adicionar o `chunk_documents.py`
-
-**Ótima ideia!** Isso vai ser útil para a equipe processar documentos grandes.
-
-### Estrutura atualizada:
-```
-IETA_Bot/
-├── meeting_prep.py          ← App principal
-├── chunk_documents.py       ← Script de chunking
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── documents/
-│   └── .gitkeep             ← Arquivo vazio para manter pasta
-└── utils/                   ← (opcional) pasta para helpers
+# Metadata and chunked documents (if they contain sensitive data)
+# metadata/
+# documentos_chunked/
+# documentos_grandes/
