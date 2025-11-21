@@ -32,6 +32,9 @@ CONFIG = {
     "documents_folder": r"C:\Users\maryb\OneDrive\Desktop\IETA_Tests\IETA_Bot\documents",
     "metadata_folder": r"C:\Users\maryb\OneDrive\Desktop\IETA_Tests\IETA_Bot\metadata",
     
+    # API Keys
+    "anthropic_api_key": "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",
+
     # GitHub
     "github_repo": r"C:\Users\maryb\OneDrive\Desktop\IETA_Tests\IETA_Bot",
     "auto_commit": True,
@@ -238,10 +241,25 @@ def extract_text_from_pptx(filepath: Path) -> str:
 # EXTRAÇÃO DE KEYWORDS
 # ============================================================================
 
+def _get_anthropic_client() -> anthropic.Anthropic:
+    """
+    Retorna cliente Anthropic garantindo que uma API key esteja disponível.
+    Pode ser definida via CONFIG["anthropic_api_key"] ou variável de ambiente
+    ANTHROPIC_API_KEY.
+    """
+    api_key = CONFIG.get("anthropic_api_key") or os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "ANTHROPIC_API_KEY não definida. Configure CONFIG['anthropic_api_key'] "
+            "ou exporte a variável de ambiente antes de usar --keywords-only."
+        )
+    return anthropic.Anthropic(api_key=api_key)
+
+
 def extract_keywords_with_claude(text: str, vocabulary: List[str], num_kw: int = 5) -> List[str]:
     """Extrai keywords usando Claude API"""
     try:
-        client = anthropic.Anthropic()
+        client = _get_anthropic_client()
         
         prompt = f"""Analise o texto e extraia as {num_kw} keywords mais relevantes.
 
