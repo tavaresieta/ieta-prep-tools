@@ -33,7 +33,7 @@ CONFIG = {
     "metadata_folder": r"C:\Users\maryb\OneDrive\Desktop\IETA_Tests\IETA_Bot\metadata",
     
     # API Keys
-    "ANTHROPIC_API_KEY" = "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"
+    # "anthropic_api_key": None,  # Set via ANTHROPIC_API_KEY environment variable or uncomment and set here
 
     # GitHub
     "github_repo": r"C:\Users\maryb\OneDrive\Desktop\IETA_Tests\IETA_Bot",

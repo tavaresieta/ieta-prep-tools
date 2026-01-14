@@ -18,7 +18,10 @@ st.set_page_config(
 @st.cache_data
 def load_keywords_metadata():
     """Carrega metadata de keywords dos documentos"""
-    metadata_file = Path("keywords_metadata.json")
+    # Tenta primeiro na pasta metadata/, depois na raiz
+    metadata_file = Path("metadata/keywords_metadata.json")
+    if not metadata_file.exists():
+        metadata_file = Path("keywords_metadata.json")
     if metadata_file.exists():
         with open(metadata_file, 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -27,7 +30,10 @@ def load_keywords_metadata():
 @st.cache_data
 def load_keyword_index():
     """Carrega índice invertido de keywords"""
-    index_file = Path("keywords_metadata_index.json")
+    # Tenta primeiro na pasta metadata/, depois na raiz
+    index_file = Path("metadata/keywords_metadata_index.json")
+    if not index_file.exists():
+        index_file = Path("keywords_metadata_index.json")
     if index_file.exists():
         with open(index_file, 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -184,59 +190,82 @@ with st.sidebar:
     st.markdown("---")
     
     # ========================================================================
-    # FILTRO DE KEYWORDS
+    # SELEÇÃO DE KEYWORDS (PRINCIPAL)
     # ========================================================================
     
-    st.header("🏷️ Filtrar por Keywords")
+    st.header("🔍 Selecionar Keywords para Filtrar Documentos")
+    st.markdown("**Selecione até 5 keywords das categorias abaixo. Os documentos correspondentes aparecerão automaticamente.**")
     
     # Verifica se há metadata de keywords
     if keyword_index:
-        st.success(f"✅ {len(keyword_index)} keywords disponíveis")
+        st.success(f"✅ {len(keyword_index)} keywords disponíveis em {len(keywords_metadata)} documentos")
         
         # Organiza keywords por categoria
         keyword_categories = get_available_keywords(keyword_index)
         
-        # Seleção de keywords
-        selected_keywords = []
+        # Cria lista plana de todas as keywords com contagem
+        all_keywords_flat = []
+        for category, keywords in keyword_categories.items():
+            for kw in keywords:
+                doc_count = len(keyword_index.get(kw, []))
+                all_keywords_flat.append(f"{kw} ({doc_count} docs)")
         
-        # Opção de usar keywords ou não
-        use_keywords = st.checkbox("Ativar filtro de keywords", value=False, 
-                                   help="Quando ativado, apenas documentos com as keywords selecionadas serão usados")
+        # Seleção múltipla de keywords (limitado a 5)
+        selected_keywords_raw = st.multiselect(
+            "Selecione até 5 keywords:",
+            options=all_keywords_flat,
+            max_selections=5,
+            help="Selecione keywords relevantes para sua reunião/painel. Os documentos que contêm essas keywords serão mostrados abaixo."
+        )
         
-        if use_keywords:
-            st.info("👇 Selecione até 5 keywords para filtrar documentos")
+        # Extrai apenas o nome da keyword (remove contagem)
+        selected_keywords = [kw.split(" (")[0] for kw in selected_keywords_raw]
+        
+        # Mostra keywords selecionadas
+        if selected_keywords:
+            st.markdown("**✅ Keywords selecionadas:**")
+            cols = st.columns(len(selected_keywords))
+            for i, kw in enumerate(selected_keywords):
+                with cols[i]:
+                    st.markdown(f"🏷️ **{kw}**")
             
-            for category, keywords in keyword_categories.items():
-                with st.expander(category):
-                    for kw in keywords:
-                        doc_count = len(keyword_index.get(kw, []))
-                        if st.checkbox(f"{kw} ({doc_count} docs)", key=f"kw_{kw}"):
-                            if len(selected_keywords) < 5:
-                                selected_keywords.append(kw)
-                            else:
-                                st.warning("⚠️ Máximo de 5 keywords")
+            # Calcula documentos filtrados
+            filtered_docs = get_documents_by_keywords(
+                selected_keywords, keyword_index, keywords_metadata
+            )
             
-            # Mostra keywords selecionadas
-            if selected_keywords:
-                st.markdown("**Keywords ativas:**")
-                for kw in selected_keywords:
-                    st.markdown(f"🏷️ `{kw}`")
+            st.markdown("---")
+            st.subheader(f"📚 Documentos Encontrados ({len(filtered_docs)})")
+            
+            if filtered_docs:
+                # Mostra lista de documentos encontrados
+                for idx, doc_id in enumerate(filtered_docs[:20], 1):  # Limita a 20 para não sobrecarregar
+                    if doc_id in keywords_metadata:
+                        doc_meta = keywords_metadata[doc_id]
+                        doc_keywords = doc_meta.get('keywords', [])
+                        # Calcula relevância (quantas keywords do documento foram selecionadas)
+                        relevance = len(set(doc_keywords) & set(selected_keywords))
+                        
+                        with st.expander(f"{idx}. {doc_meta.get('filename', doc_id)} (Relevância: {relevance}/{len(selected_keywords)})"):
+                            st.markdown(f"**Arquivo:** `{doc_meta.get('filename', doc_id)}`")
+                            st.markdown(f"**Keywords do documento:** {', '.join(doc_keywords) if doc_keywords else 'Nenhuma'}")
+                            st.markdown(f"**Tamanho:** {doc_meta.get('word_count', 0):,} palavras | {doc_meta.get('char_count', 0):,} caracteres")
                 
-                # Calcula quantos docs serão usados
-                filtered_docs = get_documents_by_keywords(
-                    selected_keywords, keyword_index, keywords_metadata
-                )
-                st.metric("Documentos filtrados", len(filtered_docs))
+                if len(filtered_docs) > 20:
+                    st.info(f"Mostrando 20 de {len(filtered_docs)} documentos. Use essas keywords no prompt para focar nos documentos mais relevantes.")
             else:
-                st.warning("Selecione pelo menos 1 keyword")
+                st.warning("⚠️ Nenhum documento encontrado com essas keywords. Tente selecionar outras keywords.")
         else:
-            st.info("Todos os documentos serão usados")
-            selected_keywords = []
+            st.info("👆 Selecione keywords acima para ver os documentos correspondentes")
+            filtered_docs = []
+        
+        use_keywords = len(selected_keywords) > 0
     else:
         st.warning("⚠️ Metadata de keywords não encontrada")
-        st.info("Execute: `python keyword_extractor.py documents/ --index`")
+        st.info("Execute: `python process_and_sync.py --keywords-only` para gerar keywords")
         use_keywords = False
         selected_keywords = []
+        filtered_docs = []
     
     st.markdown("---")
     
@@ -368,10 +397,6 @@ if tool_choice == "🎯 Meeting Prep":
         if not organization or not topics:
             st.error("⚠️ Preencha pelo menos Organização e Tópicos")
         else:
-            # Verifica se keywords estão ativas mas nenhuma selecionada
-            if use_keywords and not selected_keywords:
-                st.error("⚠️ Você ativou filtro de keywords mas não selecionou nenhuma. Desative o filtro ou selecione keywords.")
-            else:
                 with st.spinner("🔍 Preparando briefing com documentos filtrados..."):
                     
                     # Prepara contexto filtrado por keywords
@@ -597,10 +622,7 @@ elif tool_choice == "🎤 Panel Prep":
         if not panel_title or not panel_topic:
             st.error("⚠️ Preencha pelo menos Título e Tema do Painel")
         else:
-            if use_keywords and not selected_keywords:
-                st.error("⚠️ Você ativou filtro de keywords mas não selecionou nenhuma. Desative o filtro ou selecione keywords.")
-            else:
-                with st.spinner("🔍 Preparando material para painel..."):
+            with st.spinner("🔍 Preparando material para painel..."):
                     
                     # Prepara contexto filtrado
                     full_context, used_docs = prepare_filtered_context(

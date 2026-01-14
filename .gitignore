@@ -12,7 +12,9 @@ env/
 ENV/
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
+.streamlit/credentials.json
+# Allow .streamlit/config.toml to be committed
 
 # Secrets
 .env
