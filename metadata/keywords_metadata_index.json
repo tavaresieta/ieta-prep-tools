@@ -2,6 +2,7 @@
   "sbce": [
     "Apresentação IBP 14102025_parte01de02",
     "Apresentação IBP 14102025_parte02de02",
+    "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02",
     "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
@@ -10,217 +11,154 @@
     "Relatorio_ICC_UK_PACT-1_parte03de04",
     "Relatorio_ICC_UK_PACT-1_parte04de04"
   ],
-  "neutralidade": [
-    "Apresentação IBP 14102025_parte01de02"
-  ],
-  "integridade": [
+  "oil-and-gas": [
     "Apresentação IBP 14102025_parte01de02",
-    "Ecosystem Marketplace_State of the VCM_2024_parte01de03",
-    "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
-    "IETA_VCM-Guidelines.2025-Final_parte01de02"
-  ],
-  "artigo-6.2": [
-    "Apresentação IBP 14102025_parte02de02",
-    "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
-    "CM-TNC-Article-6-Explainer_parte01de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07",
-    "State and Trends of Carbon Pricing 2025 (1)_parte05de06"
-  ],
-  "hard-to-abate": [
     "Apresentação IBP 14102025_parte02de02"
   ],
-  "mrv": [
+  "ccs-ccus": [
+    "Apresentação IBP 14102025_parte01de02",
+    "Apresentação IBP 14102025_parte02de02"
+  ],
+  "hard-to-abate": [
+    "Apresentação IBP 14102025_parte01de02",
     "Apresentação IBP 14102025_parte02de02",
     "IATA Handbook_parte01de03",
     "IATA Handbook_parte02de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07"
+    "IATA Handbook_parte03de03"
   ],
-  "compliance-market": [
+  "compliance": [
     "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
-    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
-    "CM-TNC-Article-6-Explainer_parte01de03",
-    "IATA Handbook_parte03de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07",
-    "Relatorio_ICC_UK_PACT-1_parte02de04",
-    "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte04de06"
+    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
+    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
+    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03"
   ],
   "vcm": [
     "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
-    "CM-TNC-Article-6-Explainer_parte01de03",
-    "CM-TNC-Article-6-Explainer_parte03de03",
+    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
+    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02",
     "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
     "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
     "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03",
     "Ecosystem Marketplace_State of the VCM_2024_parte01de03",
     "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
+    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
     "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
     "IETA_VCM-Guidelines.2025-Final_parte01de02",
-    "State and Trends of Carbon Pricing 2025 (1)_parte04de06"
+    "IETA_VCM-Guidelines.2025-Final_parte02de02",
+    "Relatorio_ICC_UK_PACT-1_parte01de04",
+    "Relatorio_ICC_UK_PACT-1_parte02de04",
+    "Relatorio_ICC_UK_PACT-1_parte03de04",
+    "Relatorio_ICC_UK_PACT-1_parte04de04",
+    "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte03de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte04de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte05de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
   ],
-  "artigo-6.4": [
+  "article-6.2": [
     "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
     "CM-TNC-Article-6-Explainer_parte01de03",
     "CM-TNC-Article-6-Explainer_parte02de03",
-    "CM-TNC-Article-6-Explainer_parte03de03",
-    "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07",
-    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte05de06"
-  ],
-  "aviacao": [
-    "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
     "CM-TNC-Article-6-Explainer_parte03de03",
     "IATA Handbook_parte01de03",
     "IATA Handbook_parte02de03",
     "IATA Handbook_parte03de03"
   ],
-  "credito-carbono": [
+  "article-6.4": [
+    "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
+    "CM-TNC-Article-6-Explainer_parte01de03",
+    "CM-TNC-Article-6-Explainer_parte02de03",
+    "CM-TNC-Article-6-Explainer_parte03de03"
+  ],
+  "carbon-credits": [
+    "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted",
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02",
+    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
     "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
+    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03",
     "Ecosystem Marketplace_State of the VCM_2024_parte01de03",
-    "IATA Handbook_parte03de03",
+    "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
+    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
     "IETA_VCM-Guidelines.2025-Final_parte01de02",
     "IETA_VCM-Guidelines.2025-Final_parte02de02",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
     "Relatorio_ICC_UK_PACT-1_parte01de04",
-    "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte04de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
+    "Relatorio_ICC_UK_PACT-1_parte02de04",
+    "Relatorio_ICC_UK_PACT-1_parte03de04",
+    "Relatorio_ICC_UK_PACT-1_parte04de04"
   ],
-  "brasil": [
+  "interoperability": [
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
-    "IETABR_TechnicalWorkshop_Offsets_21072025_extracted"
-  ],
-  "amazonia": [
-    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02"
-  ],
-  "agricultura": [
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02",
-    "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
-    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
+    "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
+    "Relatorio_ICC_UK_PACT-1_parte01de04",
+    "Relatorio_ICC_UK_PACT-1_parte02de04",
+    "Relatorio_ICC_UK_PACT-1_parte03de04",
+    "Relatorio_ICC_UK_PACT-1_parte04de04"
   ],
-  "adicionalidade": [
-    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02",
-    "CM-TNC-Article-6-Explainer_parte02de03",
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03"
-  ],
-  "energia": [
+  "ratings": [
+    "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02",
     "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02"
+  ],
+  "unfccc": [
+    "CM-TNC-Article-6-Explainer_parte01de03",
+    "CM-TNC-Article-6-Explainer_parte02de03",
+    "CM-TNC-Article-6-Explainer_parte03de03"
   ],
   "corresponding-adjustments": [
     "CM-TNC-Article-6-Explainer_parte01de03",
-    "CM-TNC-Article-6-Explainer_parte03de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07",
-    "State and Trends of Carbon Pricing 2025 (1)_parte05de06"
-  ],
-  "cdm-transition": [
     "CM-TNC-Article-6-Explainer_parte02de03",
-    "State and Trends of Carbon Pricing 2025 (1)_parte05de06"
+    "CM-TNC-Article-6-Explainer_parte03de03"
   ],
-  "metodologia": [
+  "cop": [
+    "CM-TNC-Article-6-Explainer_parte01de03",
     "CM-TNC-Article-6-Explainer_parte02de03",
-    "CM-TNC-Article-6-Explainer_parte03de03",
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03",
-    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
-    "IATA Handbook_parte02de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
-    "Relatorio_ICC_UK_PACT-1_parte01de04",
-    "Relatorio_ICC_UK_PACT-1_parte04de04"
+    "CM-TNC-Article-6-Explainer_parte03de03"
   ],
-  "baseline": [
-    "CM-TNC-Article-6-Explainer_parte02de03",
-    "IATA Handbook_parte03de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07"
-  ],
-  "voluntary-carbon-market": [
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
+  "trends": [
     "Ecosystem Marketplace_State of the VCM_2024_parte01de03",
-    "Ecosystem Marketplace_State of the VCM_2024_parte02de03"
-  ],
-  "financiamento": [
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07",
+    "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
+    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
     "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte02de06"
-  ],
-  "floresta": [
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03",
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03",
-    "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
-    "Relatorio_ICC_UK_PACT-1_parte01de04",
-    "Relatorio_ICC_UK_PACT-1_parte02de04",
-    "Relatorio_ICC_UK_PACT-1_parte03de04",
+    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte03de06",
     "State and Trends of Carbon Pricing 2025 (1)_parte04de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte05de06",
     "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
   ],
-  "renovaveis": [
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03",
-    "Ecosystem Marketplace_State of the VCM_2024_parte02de03",
-    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
+  "aviation": [
+    "IATA Handbook_parte01de03",
+    "IATA Handbook_parte02de03",
+    "IATA Handbook_parte03de03"
   ],
-  "certificação": [
-    "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03",
+  "corsia": [
+    "IATA Handbook_parte01de03",
+    "IATA Handbook_parte02de03",
+    "IATA Handbook_parte03de03"
+  ],
+  "corresponding-adjusments": [
+    "IATA Handbook_parte01de03",
+    "IATA Handbook_parte02de03",
+    "IATA Handbook_parte03de03"
+  ],
+  "brazil": [
+    "IETABR_TechnicalWorkshop_Offsets_21072025_extracted",
     "Relatorio_ICC_UK_PACT-1_parte01de04",
     "Relatorio_ICC_UK_PACT-1_parte02de04",
     "Relatorio_ICC_UK_PACT-1_parte03de04",
     "Relatorio_ICC_UK_PACT-1_parte04de04"
+  ],
+  "claims": [
+    "IETA_VCM-Guidelines.2025-Final_parte01de02",
+    "IETA_VCM-Guidelines.2025-Final_parte02de02"
+  ],
+  "intergrity": [
+    "IETA_VCM-Guidelines.2025-Final_parte01de02",
+    "IETA_VCM-Guidelines.2025-Final_parte02de02"
   ],
   "net-zero": [
-    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
     "IETA_VCM-Guidelines.2025-Final_parte01de02",
-    "IETA_VCM-Guidelines.2025-Final_parte02de02",
-    "State and Trends of Carbon Pricing 2025 (1)_parte02de06"
-  ],
-  "compensacao": [
-    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
-    "IATA Handbook_parte01de03",
-    "IATA Handbook_parte03de03",
-    "Relatorio_ICC_UK_PACT-1_parte02de04",
-    "Relatorio_ICC_UK_PACT-1_parte04de04",
-    "State and Trends of Carbon Pricing 2025 (1)_parte03de06"
-  ],
-  "nbs": [
-    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
-    "State and Trends of Carbon Pricing 2025 (1)_parte02de06"
-  ],
-  "registry": [
-    "Ecosystem Marketplace_State of the VCM_2024_parte03de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07"
-  ],
-  "verificação": [
-    "IATA Handbook_parte01de03",
-    "IETA_VCM-Guidelines.2025-Final_parte01de02",
-    "Relatorio_ICC_UK_PACT-1_parte03de04"
-  ],
-  "inventario": [
-    "IATA Handbook_parte01de03",
-    "IATA Handbook_parte02de03",
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
-    "State and Trends of Carbon Pricing 2025 (1)_parte03de06"
-  ],
-  "escopo-1": [
-    "IETA_VCM-Guidelines.2025-Final_parte02de02"
-  ],
-  "escopo-2": [
-    "IETA_VCM-Guidelines.2025-Final_parte02de02"
-  ],
-  "escopo-3": [
     "IETA_VCM-Guidelines.2025-Final_parte02de02"
   ],
   "jredd": [
@@ -232,43 +170,47 @@
     "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
     "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07"
   ],
-  "governo": [
+  "nesting": [
     "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
     "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
     "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07"
+  ],
+  "nature-based-solutions": [
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07"
+  ],
+  "forest": [
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07",
+    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07"
+  ],
+  "ets": [
     "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
-    "State and Trends of Carbon Pricing 2025 (1)_parte03de06"
-  ],
-  "comunidades-tradicionais": [
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07"
-  ],
-  "indigena": [
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07"
-  ],
-  "uso-do-solo": [
-    "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07"
-  ],
-  "co-beneficios": [
-    "Relatorio_ICC_UK_PACT-1_parte02de04",
-    "Relatorio_ICC_UK_PACT-1_parte03de04",
-    "Relatorio_ICC_UK_PACT-1_parte04de04"
-  ],
-  "permanencia": [
-    "Relatorio_ICC_UK_PACT-1_parte03de04"
-  ],
-  "reflorestamento": [
-    "Relatorio_ICC_UK_PACT-1_parte04de04"
+    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte03de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte04de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte05de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
   ],
   "global": [
-    "State and Trends of Carbon Pricing 2025 (1)_parte01de06"
-  ],
-  "empresa-privada": [
-    "State and Trends of Carbon Pricing 2025 (1)_parte03de06"
-  ],
-  "remocao": [
-    "State and Trends of Carbon Pricing 2025 (1)_parte04de06"
-  ],
-  "bilateral": [
-    "State and Trends of Carbon Pricing 2025 (1)_parte05de06"
+    "State and Trends of Carbon Pricing 2025 (1)_parte01de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte02de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte03de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte04de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte05de06",
+    "State and Trends of Carbon Pricing 2025 (1)_parte06de06"
   ]
 }

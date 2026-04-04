@@ -1,0 +1,367 @@
+Emissions Trading in Practice
+MRV: Monitoring, Reporting and Verification
+Hari Gadde
+18 Oct 2023
+20.10.2023 2
+ICAP -PMR ETS Handbook
+20.10.2023 4•Be able to identify the regulated entities
+•Understand how to manage emissions reporting by regulated entities
+•Understand how to approve and manage the performance of verifiers
+•Know how to establish and oversee an ETS registry
+•Understand the design and implementation of the penalty and 
+enforcement approachLearning objectives
+
+20.10.2023 51.Developing  a legal framework
+2.Managing the reporting  cycle
+3.Managing the performance  of verifiers
+4.Designing  an enforcement  approach
+5.Developing  an ETS registryAgenda
+20.10.2023 6• Every country has some experience with MRV, not necessarily with tCO2
+• Environmental legislation and regulation by a competent authority (regulator) 
+• The need for permits to operate (approved by the competent authority) 
+• Operator ‘self -monitoring’ (as well as any ‘check -monitoring’ arranged by the competent authority) 
+• Operation and maintenance of emissions monitoring systems
+• QC/QA (Quality Control and Quality Assurance) 
+• Reporting 
+How do we transition from a system based on emission limit values to a system based on financial 
+incentive??
+A robust, reliable and transparent MRV is key for the successful operation of an ETS We are not starting from scratch...
+20.10.2023 7• Completeness : all emission sources and activities within the scope shall be reported. 
+• Consistency : Consistent methodologies shall be used over time 
+• Comparability : Methodologies have to be internally comparable between the covered participants
+• Transparency : Methodologies and assumptions are clearly explained, unambiguous and are 
+documented transparently 
+• Accuracy : Uncertainties must be reduced as far as practicable
+Complete monitoring and reporting with respect to the scope of the ETS and to emission sources and 
+source streams on installation or entity level are a prerequisite to guarantee for example that reduction 
+targets are not weakened e.g., by loopholes. 
+-Enforcing the regulation to that end is essential to create a robust ETSAny MRV should ensure...
+20.10.2023 8An ETS imposes constraints on the economic freedom of regulated entities, which is 
+why its introduction generally requires a formal mandate. In most jurisdictions, a firm 
+basis in statutory law is vital for the exercise of public authority.Role  of law in ETS design and implementation
+A robust legal framework includes:
+•Initial mandate authorizing the 
+establishment of the ETS
+•Legal operationalization of key 
+design parameters
+•Enforcement of compliance 
+obligations
+Overarching compliance and monitoring structure
+20.10.2023 9Each jurisdiction’s constitutional and broader legal framework will determine how the 
+ETS is legislated, who must be involved, and the timeline for implementationRole  of law in ETS design and implementation
+•Design features of an ETS 
+set out in formal statutory 
+law may be more resilient 
+to change but are also 
+harder to amend.
+•Technical guidance that 
+require frequent updating 
+(i.e., benchmarks or MRV 
+rules) are commonly 
+adopted in flexible 
+regulations
+California’s legislation AB 32 
+•Specifies the overall emissions reduction 
+target from the ETS and a high -level overview 
+of the features of the ETS —for example, the 
+start date and duration, the existence of an 
+auction system, and the development of 
+offsets
+•Provides authority to the California Air 
+Resources Board (CARB) to establish the 
+technical guidance and operational rules for 
+the ETS
+CARB Regulation
+•Inclusion thresholds for covered entities
+•Allowance allocation and auctions
+•Compliance and market monitoring
+•Cost containment
+•Use of offset creditsLegal framework in California
+
+20.10.2023 11Identifying and managing legal entities
+Identifying the regulated legal entities
+•Legal entities in an ETS are those that are responsible for emissions and 
+ensuring compliance with ETS legislation
+−Usually corporations, individuals or government entities responsible 
+for the installations and/or operations covered by the ETS
+•Two main approaches to identifying the regulated entities:
+1.Self-nomination by the entities that fall under the conditions of 
+coverage established in the regulation
+2.Regulator’s own research
+•Once identified, regulated entities are included on a public list for 
+transparency and clarity
+20.10.2023 12Identifying and managing legal entities
+Managing regulated entities over time
+•Businesses may open, close, or merge their operations, with implications on the 
+compliance requirements under an ETS
+•The regulator needs to establish rules and processes for managing part -year 
+emissions liabilities and compliance requirements
+•Most ETS regulators have a regular cycle for updating the list of regulated entities 
+and oblige entities to report material changes in their operationLeveraging existing reporting frameworks with regulated entities
+•Policy makers may benefit from building on existing regulatory relationships 
+with entities and with other government departments and industry 
+associations
+20.10.2023 13An ETS requires effective Monitoring 
+Reporting and Verification (MRV)
+•Monitoring involves emissions 
+quantification through calculation or 
+direct measurement
+•This must then be consolidated in an 
+emissions report
+•Typically, these reports are then verified
+by independent service providers 
+(verifiers) or through similar audit 
+processesManaging the reporting  cycle MRV in the EU ETS
+
+20.10.2023 14Establishing  monitoring  requirements
+•Monitoring guidelines must be available for each sector covered by the ETS . These 
+can draw upon a wide library of detailed methodologies , product and activity 
+descriptions , emissions factors, calculation models, and relevant assumptions
+•Different monitoring requirements will work best for different sectors and 
+different GHGs . Easy -to apply default calculation methods for small emitters, along 
+with complex monitoring requirements for larger emitters
+•Balance need for accurate data against the risk of gaming
+•Possible stepwise phase -in of more precise monitoring and reporting approaches, 
+starting with default factors followed by a carefully supervised transition to site -
+specific sampling and emission factor calculation
+20.10.2023 15Coverage of gases
+Scheme Method
+EU ETS •CO2 emissions; N2O and PFC only for selected industries 
+•Pure Downstream approach 
+•Covers largest share of Energy and Industrial emissions (about 45 % of 
+emissions) 
+California •CO2, CH4 and N2O emissions 
+•Combined Upstream / Downstream approach (upstream: suppliers of 
+natural gas and refinery products) 
+•Mechanism to avoid double counting: Natural gas delivered to covered 
+entities is subtracted from the emissions reported by gas suppliers 
+South Korea •CO2, CH4, PCF, SF6, HFC and N2O emissions 
+•Downstream approach
+20.10.2023 16Methods for determination of emissions
+CEMS: Continuous Emissions Measurement System
+NCV: Net Calorific Value
+EF: Emission Factor
+OF: Oxidation Factor
+CF: Conversion Factor
+20.10.2023 17Common terminology used in the MRV
+•Calorific Value: the amount of thermal energy released by a tonne , litre or cubic meter of a material during 
+complete combustion expressed in kJ/unit
+•Emission Factor: average rate of a specific GHG produced in relation relative to the activity data utilised
+expressed in tCO2e/kJ or tCO2e/t
+•Oxidation Factor: fraction of carbon which is oxidized during combustion
+•Carbon content: fraction of carbon in a unit of a material expressed in tC/t
+•Conversion Factor: the numerical factor to convert Carbon to CO2 according to the respective stoichiometry
+•Global Warming Potential Values: factor of how much heat a GHG traps in the atmosphere compared to CO2
+20.10.2023 18Requirements for calculation factors
+Scheme Method
+EU ETS •Material specific analysis of relevant source streams to derive calculation factors is required for 
+installations > 50,000t/a 
+•Minimum frequencies for sampling and analysis are defined for different types of source streams 
+•Strict quality requirements on laboratories (EN ISO / IEC 17025 or comparable standard) 
+•Establishment of an installation specific sampling plan is mandatory (to foster representativeness of 
+the samples taken) 
+•Standard factors only for installations <=50,000t/a or minor /de -minimis source streams and 
+commercial standard fuels: 
+•Based on IPCC 2006 (Tier 1) 
+•Country specific values (Tier 2a) 
+•Oxidation Factor: Application of 1 for all categories required
+California •Monthly material specific analysis of relevant source streams to derive calculation factors is required 
+for process emissions (non -combustion) 
+•Fuel specific default values for combustion processes (TIER 1/partly TIER 2) allowed 
+•Minimum frequencies for sampling and analysis are defined for higher TIERs 
+•No requirements on laboratories but plausibility of factors used is checked during verification 
+20.10.2023 19Methods for determination of emissions
+Scheme Method
+EU ETS •Calculation is the dominating method 
+•CEMS mandatory for N2O -emissions and catalytic crackers in refineries 
+•Estimation only under the following conditions: 
+•de-minimis source streams 
+•Source streams with biomass fraction =>97% 
+•Conservative estimation required
+California CEMS in some cases under state regulation (e.g. Acid Rain Program) 
+mandatory
+20.10.2023 21Example of annual emissions monitoring in a hard 
+coal power plant
+
+20.10.2023 22Addressing uncertainty
+Scheme Method
+EU ETS •Uncertainty requirements linked to TIER approach 
+•Highest Tier requirement: maximum uncertainty 1.5% 
+•Uncertainty calculation simplified under the following conditions: 
+•Devices under national metrological control 
+•Calibrated devices 
+•Calibration standards and guidelines to calculate uncertainty of devices 
+•CEMS quality assurance according to ISO 14181 
+California •For combustion processes, type of data source linked to TIER approach (no 
+uncertainty values): 
+•Tier 1 + 2: company records 
+•Tier 3: calibrated flow meters, fuel billing meters or tank drops 
+(gaseous and liquid fuels) 
+•Tier 4: CEMS
+20.10.2023 23To summarize..
+
+20.10.2023 24Establishing  reporting  requirements
+Decide on type 
+of information 
+to report, 
+frequency of 
+reporting and 
+storage of 
+recordsMap accessible 
+data and needs 
+for additional 
+information 
+from regulated 
+entitiesCollect 
+additional 
+activity data to 
+facilitate a later 
+shift to 
+benchmarking 
+or OBAEnsure 
+consistency 
+through the 
+standardization 
+of reportsAlign reporting 
+times with 
+business cycles 
+and compliance 
+periodsUse synergies 
+with existing 
+reporting 
+obligations in 
+order to avoid 
+duplicationsEstablish IT 
+platforms for 
+electronic 
+reporting to cut 
+down time and 
+errors
+20.10.2023 25Examples of deadlines for preparation of ER and 
+verification statements
+Source: Report on Essential elements of robust MRV Systems and Analysis of their Relevance for Linking Emissions Trading Sche mes, German Environment Agency
+20.10.2023 26Examples of use of IT within reporting process
+Source: Report on Essential elements of robust MRV Systems and Analysis of their Relevance for Linking Emissions Trading Sche mes, German Environment Agency
+20.10.2023 27Procedural considerations
+Phased implementation
+•Jurisdictions could establish mandatory reporting before an ETS , to allow entities 
+to adapt to the MRV framework
+•Regulators can adopt a learning -by-doing approach , e.g., by first implementing 
+MRV on large emission sources or simpler methodologies
+Case -by-case technical decisions
+•A technical panel or advisory committee can support the regulator in the 
+interpretation and technical decision -making on a case -by-case basis
+Managing disclosure of sensitive data
+•The benefits of public disclosure of emissions and broader (market) transparency 
+in the ETS need to be balanced with the objective to protect commercially 
+sensitive information
+20.10.2023 28Establishing  verification  requirements
+Quality assurance used by regulators comes in three forms:
+1.Self-certification , where the reporting entity makes a formal assertion of the 
+accuracy of its emissions report, often combined with auditing requirements
+2.External review by program administrators , review by the government’s program 
+administrators
+3.External review by third -party verification, in this case the review is done by a 
+qualified/accredited third partyVerification occurs when an independent party reviews an emissions report and assesses that the 
+reported information is an appropriate estimate of emissions, based on the available data
+In practice, many jurisdictions use more than one / all these approaches. 
+20.10.2023 29Accreditation procedures in different schemes
+
+20.10.2023 30Managing the performance of verifiers
+Accrediting third -party verifiers
+•Possible to involve local and international accreditation bodies for training and 
+accreditation of verifiers
+•Draw from standards , e.g., by the CDM Executive Board and the International 
+Organization of Standardization (ISO)
+Balancing risks and costs in the verification process
+•Provide verifiers with guidelines and checklists
+•Self-certification for all reports, with legal liability assigned for false reporting
+•Randomized samples for third -party verification
+•Stricter reviews for sectors prone to non -compliance
+•Reducing the frequency of reviews or verification
+20.10.2023 31Establishing  verification  requirements
+Source: Report on Essential elements of robust MRV Systems and Analysis of their Relevance for Linking Emissions Trading Sche mes, German Environment Agency
+20.10.2023 321.Ambiguity in the legal status of relevant policies and regulations;
+2.Unclear requirements on the content of monitoring plans;
+3.Lack of consistency and harmonization in the monitoring and reporting guidelines; and
+4.Lack of information technology (IT).Challenges with MRV
+20.10.2023 33Example of MRV approaches
+
+20.10.2023 34Designing an enforcement approach
+A credible enforcement regime with appropriate penalties is needed to 
+ensure full compliance across the ETS
+•Penalties should incur a substantial additional cost compared to the cost of 
+complying with the ETS
+•Emitting in excess of the number 
+of allowances surrendered
+•Misreporting or not reporting 
+emissions or other data before 
+the deadline
+•Failing to provide accurate or 
+providing false information •“Naming and shaming ” publishing names of noncompliant entities
+•Fines (fixed or set pro -rata) 
+•“Make -good requirements ”: Buying allowances from the market or 
+borrowing them from their future allocation
+•Further measures , e.g., restrict approvals of new construction 
+project, performance evaluation for state -owned companies, and 
+credit recordsNoncompliance that carry penaltiesPenalties
+20.10.2023 35Examples of penalties for non -compliance
+
+20.10.2023 36Developing an ETS registry
+•Units are recorded and monitored i n an ETS registry 
+•Keeps track of the allowance transactions in the market
+•At the end of each compliance cycle, regulated entities 
+surrender allowances via the registry to the ETS regulator  
+
+20.10.2023 37Setting up an ETS registry
+Create a legal framework  
+•Address  interdependencies  with  tax, accounting , property  and financial  legislation  
+•Identify  the legal nature  of the allowances and designate  legal duties  
+Create an institutional  framework  
+•Determine  the scope  of responsibility  for the registry  administrator  
+•Terms of use for registry  users  
+Functional  and technical  requirements  
+•Work with  suitable  IT systems  
+•Address  system  risks  and options  
+•Establish  traceability  procedures  
+
+20.10.2023 38Preventing fraud
+Technical measures and regulatory instruments are needed to ensure the integrity of 
+the ETS registry and to minimize the risk of unauthorized use for criminal purposes 
+such as fraud and theft of allowances.
+•Two-factor authentications and session time -outs
+•Limitation of the registry’s opening hours to working 
+hours to facilitate intervention in case of misuse
+•Password or other protection of sensitive operations 
+(for example, transfers)
+•Emergency stop functions, block accounts, and 
+reverse operations
+•Independent security audits of registry providers.Technical security measures
+•Authority of the registry administrator to 
+refuse operations
+•Continuous supervision of daily 
+transactions by the market monitoring 
+authority
+•Cooperation between registry 
+administrator and authorities that carry out 
+criminal investigationsRegulatory instruments
+20.10.2023 39Examples of fraud
+•Incidents  of fraud  and cyber -attacks  led to the introduction  
+of a system -wide  registry  in the EU ETS 
+−Phishing : Account holders  in Germany and Romania had 
+their  allowances stolen  after replying  to a fraudulent  mail 
+− Hacking : EU Allowances were  stolen  from  national 
+registries  in 5 member  countries and trading  needed  to be 
+halted
+•Enhanced security  measures  for account  opening , transaction  
+and registry  oversight  help  minimize  risks  
+
+20.10.2023 44•Crucial to create general framework legislation that is legally binding and of a 
+sufficiently high legal status to facilitate legal enforcement of the MRV
+•Clear rules on the content of the monitoring plan and development of templates
+•Implement regulations that include specific requirements on monitoring and reporting
+•Evolve gradually towards an integrated IT systemSummary
+20.10.2023 45
+20.10.2023 47
+
+20.10.2023 48
