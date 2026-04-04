@@ -135,7 +135,10 @@ def suggest_keywords_claude(text: str, n: int = 10) -> list[str]:
         return []
 
     client = anthropic.Anthropic(api_key=api_key)
-    vocab_str = ", ".join(KEYWORD_VOCABULARY)
+    # usa vocabulário customizado se existir
+    vocab_file = META_FOLDER / "vocabulary.json"
+    vocab = json.loads(vocab_file.read_text(encoding="utf-8")) if vocab_file.exists() else KEYWORD_VOCABULARY
+    vocab_str = ", ".join(vocab)
 
     prompt = f"""Você é um especialista em mercados de carbono e clima.
 Analise o texto abaixo e retorne EXATAMENTE duas seções em JSON:
@@ -319,12 +322,126 @@ with col_h2:
 
 st.markdown("---")
 
-# ── Três abas principais ──────────────────────────────────────────────────────
-tab_upload, tab_keywords, tab_search = st.tabs([
+# ── Quatro abas principais ────────────────────────────────────────────────────
+tab_overview, tab_upload, tab_keywords, tab_search = st.tabs([
+    "📋  Visão Geral",
     "📤  Upload & Processamento",
     "🏷️  Keywords & Validação",
     "🔍  Busca por Texto",
 ])
+
+# =============================================================================
+# ABA 0 — VISÃO GERAL
+# =============================================================================
+with tab_overview:
+    st.markdown("### Visão Geral da Base")
+
+    metadata = load_metadata()
+
+    col_esq, col_dir = st.columns([1, 1], gap="large")
+
+    # ── Coluna esquerda: keywords por documento ───────────────────────────────
+    with col_esq:
+        st.markdown("#### Keywords por documento")
+        st.caption("Edite diretamente — uma keyword por linha. Salve ao terminar.")
+
+        if metadata:
+            # Monta texto editável: "nome_arquivo: kw1, kw2, kw3"
+            linhas = []
+            for doc_id, doc in sorted(metadata.items(), key=lambda x: x[1].get("filename", x[0])):
+                kws = ", ".join(doc.get("keywords", []))
+                linhas.append(f"{doc.get('filename', doc_id)}: {kws}")
+            texto_inicial = "\n".join(linhas)
+
+            texto_editado = st.text_area(
+                "Um documento por linha  —  `nome_arquivo.txt: kw1, kw2, kw3`",
+                value=texto_inicial,
+                height=480,
+                key="overview_docs",
+            )
+
+            if st.button("💾 Salvar alterações dos documentos", use_container_width=True, type="primary"):
+                erros = []
+                # Constrói mapa filename -> doc_id
+                fname_to_id = {v.get("filename", k): k for k, v in metadata.items()}
+
+                for linha in texto_editado.strip().splitlines():
+                    linha = linha.strip()
+                    if not linha:
+                        continue
+                    if ":" not in linha:
+                        erros.append(f"Linha ignorada (sem ':'): {linha}")
+                        continue
+                    fname, _, kws_raw = linha.partition(":")
+                    fname = fname.strip()
+                    kws = [k.strip() for k in kws_raw.split(",") if k.strip()]
+
+                    doc_id = fname_to_id.get(fname)
+                    if not doc_id:
+                        # tenta pelo stem
+                        doc_id = fname_to_id.get(fname + ".txt") or Path(fname).stem
+                        if doc_id not in metadata:
+                            erros.append(f"Documento não encontrado: {fname}")
+                            continue
+
+                    metadata[doc_id]["keywords"] = kws
+                    metadata[doc_id]["processed_date"] = datetime.now().isoformat()
+
+                save_metadata(metadata)
+                st.cache_data.clear()
+                if erros:
+                    for e in erros:
+                        st.warning(e)
+                st.success("✅ Keywords salvas!")
+                st.rerun()
+        else:
+            st.info("Nenhum documento com metadata ainda.")
+
+    # ── Coluna direita: vocabulário padrão ───────────────────────────────────
+    with col_dir:
+        st.markdown("#### Vocabulário padrão")
+        st.caption("Edite a lista mestre de keywords. Uma por linha.")
+
+        # Carrega vocabulário customizado se existir, senão usa o padrão do código
+        vocab_file = META_FOLDER / "vocabulary.json"
+        if vocab_file.exists():
+            vocab_atual = json.loads(vocab_file.read_text(encoding="utf-8"))
+        else:
+            vocab_atual = KEYWORD_VOCABULARY
+
+        vocab_texto = "\n".join(sorted(vocab_atual))
+
+        vocab_editado = st.text_area(
+            "Uma keyword por linha",
+            value=vocab_texto,
+            height=480,
+            key="overview_vocab",
+        )
+
+        if st.button("💾 Salvar vocabulário", use_container_width=True):
+            novas = [k.strip() for k in vocab_editado.splitlines() if k.strip()]
+            novas = sorted(set(novas))  # deduplica e ordena
+            vocab_file.write_text(json.dumps(novas, ensure_ascii=False, indent=2), encoding="utf-8")
+            st.success(f"✅ Vocabulário salvo com {len(novas)} keywords!")
+            st.rerun()
+
+        st.markdown("---")
+        # Estatísticas rápidas
+        from collections import Counter
+        todas_kws = []
+        for d in metadata.values():
+            todas_kws.extend(d.get("keywords", []))
+        contagem = Counter(todas_kws)
+
+        st.markdown("#### Keywords mais usadas na base")
+        if contagem:
+            for kw, n in contagem.most_common(15):
+                fora = "⚠️" if kw not in vocab_atual else ""
+                st.markdown(f"`{kw}` — {n} doc(s) {fora}")
+            if any(kw not in vocab_atual for kw in contagem):
+                st.caption("⚠️ = keyword usada em documentos mas não está no vocabulário padrão")
+        else:
+            st.info("Nenhuma keyword atribuída ainda.")
 
 # =============================================================================
 # ABA 1 — UPLOAD
