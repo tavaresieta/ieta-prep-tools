@@ -1,0 +1,931 @@
+CBAM:  
+A Compliance 
+Guide for Manufacturers  
+& Exporters
+An end-to-end guide to CBAM implementation, 
+compliance requirements and cost exposure in 2026
+March 2026
+www.carbonchain.com
+
+CarbonChainCBAM: A Compliance Guide for Manufacturers & Exporters Introduction2Jack is a technical specialist in CarbonChain’s carbon team, with a background in environmental science 
+and experience as an environmental advisor specialising in carbon. He focuses on carbon accounting, emissions analysis, and CBAM, helping organisations navigate regulatory complexity and deliver credible, decision-ready carbon data.
+Publishing Date: 18 March 2026About the Author
+Carbon Specialist,  
+CarbonChainJack Laing
+
+www.carbonchain.com
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction 3I’ve worked in supply chain operations for over two decades. Regulations come and go but CBAM is different.
+I’ve never seen anything of this scale unfold so quickly, or with such direct commercial consequence. Under 
+CBAM, carbon data has moved decisively from the margins of ESG reporting into the core of commercial decision-making. It now sits squarely within cost of goods sold, directly influencing landed price and margin in ways procurement teams can no longer treat as peripheral.
+This shift is amplified by how default values work. They’re punitive by design. Where importers cannot obtain 
+verified, installation-level emissions data, they must fall back on EU-published default intensities, and those defaults are deliberately conservative. In steel alone, the spread between lower and higher default intensities can translate into very significant cost differentials at prevailing carbon prices. In practice, that differential can outweigh freight advantages or marginal price discounts. Two products that look identical on a technical specification sheet are no longer commercially interchangeable once CBAM is applied.
+The supply chain implications are subtle but profound. EU buyers increasingly require verified, installation-
+specific data from upstream producers to avoid default exposure, yet many producers are still building the monitoring systems, data controls and verification pathways CBAM demands. Verification itself cannot be completed until after the production year closes, and accredited capacity is finite. That creates structural timing pressure running through global supply chains that won’t resolve itself easily.
+The result is not administrative friction. It is a gradual re-segmentation of markets. Producers who can 
+provide timely, verified emissions data gain a structural commercial advantage. Those who cannot may find themselves priced on conservative assumptions regardless of their actual performance, a compounding disadvantage as carbon prices rise toward 2034.
+CBAM is not a transient disclosure regime. It is embedded in EU re-industrialisation policy and trade 
+architecture, with expansion into downstream goods already signalled from 2028. Carbon efficiency and data credibility are becoming competitive variables in their own right. For importers, procurement strategy must now integrate carbon data quality, verification risk and carbon price volatility alongside traditional commercial metrics. And the companies building that capability now are not early adopters. They’re simply ahead of the curve that everyone else is about to hit.
+Installation-level carbon accounting is now a condition of market access. If you’re manufacturing or exporting 
+CBAM goods, this report is for you.Executive Summary
+Co-founder & CEO,  
+CarbonChainAdam Hearne
+CBAM has become the price of access to the EU. Producers 
+able to provide timely, verified emissions data gain a structural commercial advantage.
+CarbonChainCBAM: A Compliance Guide for Manufacturers & Exporters Introduction4Table Of Contents
+Click to navigate the report.
+01 CBAM Basics  .............................................................................................................................................................................................................................  6
+What Is CBAM?  .......................................................................................................................................................................................................................................  7
+EU Carbon Border Adjustment Mechanism Scope of Coverage  .........................................................................................................................................  8
+CBAM Timeline .........................................................................................................................................................................................................................................  9
+How CBAM Mirrors The EU ETS  .....................................................................................................................................................................................................  10
+Actuals Or Defaults?  ............................................................................................................................................................................................................................  11
+Who Is Impacted  ...................................................................................................................................................................................................................................  12
+Why CBAM Is Challenging For Producers  ..................................................................................................................................................................................  13
+Case study: From 12-Page Spreadsheets to Streamlined CBAM Reporting  ..............................................................................................................  14
+Case study: Scaling CBAM Reporting — From Manual Complexity to a Single Source of Truth  ........................................................................  15
+02 Industry & Country Specific Benchmarks  .....................................................................................................................................................  16
+Default Values: Steel – Hot Rolled Coil  .........................................................................................................................................................................................  17
+Default Values: Ferro-Nickel  .............................................................................................................................................................................................................  18
+Default Values: Urea  ............................................................................................................................................................................................................................  19
+Default Values: Aluminium  ................................................................................................................................................................................................................  20
+The Real Cost Of Default Values  ....................................................................................................................................................................................................  21
+CBAM Doesn’t Bill You – The Market Does  ................................................................................................................................................................................  22
+Case study: Installation Scenario - Actual vs. Default values  ............................................................................................................................................  23
+Case study: Installation Scenario - Data Sharing  ...................................................................................................................................................................  24
+CBAM Bills Will Stack Up  ..................................................................................................................................................................................................................  25
+03 Calculating Your CBAM Cost Exposure  ..........................................................................................................................................................  26
+How Much Is CBAM Going To Cost?  .............................................................................................................................................................................................  27
+CBAM Cost Calculator  ........................................................................................................................................................................................................................  28
+Choosing Your Benchmark  ................................................................................................................................................................................................................  29
+Calculating Benchmarks At The Installation-Level  ................................................................................................................................................................  30
+Calculating Emissions At The Installation-Level  ......................................................................................................................................................................  31
+Calculating Benchmarks At The Installation-Level  ................................................................................................................................................................  31
+What CBAM Ready Data Looks Like  ...........................................................................................................................................................................................  32
+What Does This Mean For Market Participants?  ....................................................................................................................................................................  33
+04 Verification, Accreditation & Data Integrity  ...............................................................................................................................................  34
+Who Will Be Authorised To Verify?  ...............................................................................................................................................................................................  35
+How Does CBAM Verification Work?  ...........................................................................................................................................................................................  36
+What Are The Verification Timeline Implications?  ..................................................................................................................................................................  37
+Be CBAM Ready With Confidence  ................................................................................................................................................................................................  38
+05 CBAM As A Commercial Edge  ................................................................................................................................................................................  39
+How To Gain Competitive Edge With CBAM  ............................................................................................................................................................................  40
+CarbonChain Connect  .........................................................................................................................................................................................................................  41
+Why CarbonChain Is The Best Solution  ......................................................................................................................................................................................  42
+06 Key Changes In CBAM ....................................................................................................................................................................................................  43
+Key Aspects of CBAM That Have Changed  ..............................................................................................................................................................................  44
+Anti-Circumvention Initiatives  .........................................................................................................................................................................................................  45
+Temporary Decarbonisation Fund  .................................................................................................................................................................................................  45
+UK CBAM Preparation & Reporting  ..............................................................................................................................................................................................  46
+EU & UK Emissions Trading System Linkage  ............................................................................................................................................................................  47
+07 CBAM Producer Readiness Checklist  ...............................................................................................................................................................  48
+10 Step Readiness Checklist  ............................................................................................................................................................................................................  49
+What Producers Need To Do Now  ................................................................................................................................................................................................  50
+Bonus Resources  ...................................................................................................................................................................................................................................  51
+www.carbonchain.com
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction 5We decided to write this producer-facing report because the market 
+conversation around CBAM has focused disproportionately on importers, while underestimating how fundamentally it will reshape the competitive position of producers selling into Europe. 
+From 2026 onwards, carbon intensity is no longer a peripheral 
+sustainability metric but a direct input into landed cost, procurement strategy and supplier selection, and yet many producers continue to treat CBAM as an administrative request rather than a structural commercial variable. Across the market, we see persistent gaps between what EU buyers now require, what producers believe is compliant, and what is in fact verification-ready under ETS-aligned rules. With UK CBAM at our heels, it’s important to get ahead on  
+what expectations are, what is unacceptable and how to improve your data management and emissions strategy, aligning it with the new world order.
+We also find that confusion between EPDs, LCAs and CBAM 
+methodologies remains widespread, and the financial implications of default values are not fully appreciated. Furthermore, verification concerns are chronic and many producers lack awareness of the complexities and intricacies of obtaining verification over their data.
+This report is therefore intended as a practical guide for producers 
+who want to compete, not merely comply, using credible, installation-level carbon data as a source of commercial advantage in the European market.Why We Decided To Write A 
+Guide For Producers
+Product Manager &  CBAM Lead, 
+CarbonChainNick Ogilvie
+If you’re a producer of CBAM goods 
+anywhere in the world, this is the only report you need to read; whether you’re ready to comply, still checking exposure of your supply chains or forecasting future cost.
+CarbonChain6
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM Basics
+CBAM Basics
+01
+www.carbonchain.com 7
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsCBAM is the EU’s carbon border policy, designed to ensure that carbon-intensive imports face a fair, 
+equivalent carbon price to goods produced inside the EU under the EU Emissions Trading System (EU ETS). CBAM aims to prevent carbon leakage, protect the competitiveness of EU industries and encourage adoption of lower carbon production globally.
+CBAM started with a transitional reporting period, but in 2026 it becomes fully operational: importers must 
+calculate emissions and surrender CBAM certificates.
+It has three core objectives:1. Prevent carbon leakage: stopping production from shifting to countries with weaker climate rules.
+2. Protect EU industry: levelling the carbon-cost playing field.
+3. Accelerate global decarbonisation: rewarding lower-emission producers worldwide.
+The UK is introducing its own CBAM from 1 January 2027. It aligns with the EU in principle but will have: What Is CBAM? 
+UK CBAM will follow a similar structure. It is scheduled to come into effect from 2027, with details 
+still emerging. Both regimes share the same goal: a fair and transparent carbon price on imported goods. its own in-scope goods list  its own carbon benchmark system 
+its own reporting and price-setting  its own link to the UK ETS 
+Don’t forget to check out our Bonus Resources section at the end of the document  
+for further reading!UK CBAM Guide EU CBAM Guide
+CarbonChain8
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsEU Carbon Border Adjustment Mechanism  
+Scope of Coverage
+Phase 1 — Current CBAM Sectors
+Proposed Expansion of Scope — from 1 Jan 2028
+~180 new product categories · ~7,500 additional importers · CO₂ & PFC emissions
+The European Commission published a proposal on 17 December 2025 to expand CBAM scope 
+downstream, covering manufactured goods with embedded carbon from Phase 1 materials. If adopted, the expansion would apply from 1 January 2028. Both CO₂ and PFC emissions will be reportable where relevant, bringing around 7,500 additional importers into scope across ~180 new CN categories.IN FORCE
+PROPOSED
+Category Example products CN Chapter Codes
+Steel Products Pipes, tubes, fittings, rails for structural steel across a wide range of categories.7301, 7302, 7303, 7304, 7305, 7306, 7307, 7308, 7309, 7310, 7312, 7314, 7318
+Combined Metal Grills, nettings, fences, caps, lids, engine pistons, furnace burners, fridge/freezers, winches, elevators.7314, 7317, 7415, 8302, 8309, 8408, 8413, 8416, 8418, 8419, 8420, 8421
+Broad Machinery Industrial robots, tamping / lifting machines, machinery parts, washers/dryers, agricultural machinery.8424, 8425, 8426, 8427, 8428, 8430, 8431, 8432, 8450, 8451, 8454, 8464, 8474, 8479
+Vehicles & Parts Motors, transformers, gears, radiators, suspension, wheels, vehicle bodies, trailers, chassis, motor vehicles.8501, 8504, 8515, 8704, 8706, 8707, 8708, 8716, 9018, 9401, 9403Sector Sub-Categories
+       Iron and Steel  Sintered Ore (1) Pig Iron (10) FeMn (4) FeCr (7)
+FeNi (1) DRI (3) Crude Steel (50) Iron & Steel Products (553)
+       Aluminum Unwrought Al (8) Al Products (74)
+       Fertilisers Nitric Acid (1) Urea (3) Ammonia (3) Mixed  
+Fertilisers (26)
+       Cement Calcined Clay (1) Cement Clinker (1) Cement (3) Aluminous  
+Cement (1)
+       Electricity Electricity (1)
+       Hydrogen Hydrogen (1)
+www.carbonchain.com 9
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsCBAM Timeline
+Transitional period came into effect mandating quarterly reporting 
+for importers, annual for installationsOCTOBER 2023
+Installations looking to use actual values in calculations should organise and complete a pre-verification process to ready themselves for full verification in 2027JUNE-SEPT 2026
+Latest date declarants (importers of CBAM goods) can submit their declarations for the 2026 period30 SEPTEMBER 2027
+CBAM expansion comes into force. Downstream products are now in scope including vehicles, combined metal products and many more goods1 JANUARY 2028Mandatory actual data reporting requirement, penalty implication for non-compliance by declarantsJULY 2024
+Verification of embedded emissions and installation- specific benchmarks can begin.
+UK CBAM comes into force.1 JANUARY 2027
+Installations producing CBAM goods must be recording, collating and 
+calculating emissions inline with the EU CBAM rules and must have a monitoring methodology1 JANUARY 2026
+Official Q1 CBAM certificate pricing is released.7 APRIL 2026
+Definitive period begins. Your down-stream customers are now incurring CBAM obligations1 JANUARY 2026
+CarbonChain10
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsCBAM is designed to mirror the EU Emissions Trading System by applying an equivalent carbon price to 
+imported goods. The objective is to ensure that imported products face a carbon cost comparable to goods produced within the EU.
+In simplified terms, CBAM liability is calculated as total embedded emissions associated with the imported 
+goods minus a free allocation adjustment and minus any recognised carbon price already paid in the country of origin. Each of these components is governed by detailed technical rules set out in EU legislation and implementing acts.
+Embedded emissions are calculated by adding the emissions of precursors (input materials) that an 
+installation purchases to produce its products with the emissions that installation creates in production.
+CBAM liability is calculated using embedded emissions figures minus the CBAM benchmark. These 
+benchmarks are derived from EU ETS benchmarks and are specific to product categories, production routes, and in some cases product composition. Embedded emissions may be calculated using either actual values or default values. Actual values rely on verified installation-level data, while default values rely on assumptions based on CN codes, country of origin, and default production routes.
+The free allocation adjustment (benchmark) reduces CBAM liabilities in the early years to reflect the 
+continued allocation of free allowances to EU producers under the ETS. This adjustment declines over time as free allowances are phased out, meaning the effective carbon price faced by importers increases steadily from 2026 onwards.How CBAM Mirrors The EU ETS
+EU Emissions 
+Trading SystemCBAM
+www.carbonchain.com 11
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsActuals Or Defaults?
+Actual Values Default Values
+Actual values can only be used where an 
+installation has provided you with verified installation data (in early 2027), covering the 2026 intensity of the products you have imported in 2026.Default values must be used by the importer when they are unable to obtain verified actual data from your supplier; or you do not have provenance information on the imported CBAM goods.
+The EU has provided country-level default intensity values, and CN-code level benchmarks, per production route. Each countries’ default intensity informs the production route required to be selected. If no country-level data is available, you must select “Other Countries and Territories” intensities (punitive).Default values are not estimates – they are penalties for missing data
+CarbonChain12
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsCBAM coverage depends on your location, the goods you import or export, the TARIC codes involved and 
+your annual tonnage. The rules differ for importers, installations and traders. At its core, CBAM applies to goods imported into the EU that would have paid a carbon price if they had been produced inside the EU under the EU Emissions Trading System. If you are involved in supplying, selling, or importing these goods into the EU, CBAM is already relevant to you. Who Is Impacted
+Importers  
+and Declarants
+Traders and 
+IntermediariesInstallations  
+and Producers
+Other  
+StakeholdersEU-based buyers importing in-scope 
+goods. Required to collect actual emissions from suppliers, calculate CBAM cost, and report via the CBAM Registry
+Entities moving goods into or through the 
+EU who may be responsible for CBAM declarations depending on contract structure and delivery terms.Non-EU producers supplying in-scope goods to the EU. Required to provide actual emissions data to customers so they can calculate exposure. From 2026 actual values are essential.
+Consultants, auditors, procurement teams, 
+downstream producers and logistics providers increasingly affected by customer requests for emissions data.
+www.carbonchain.com 13
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsWhy CBAM Is Challenging For Producers
+01 Supplier data complexity
+Many producers don’t understand how to prepare CBAM-compliant data. Templates vary, terminology is 
+confusing, and calculations are difficult.
+02 Complex methodologies
+Embedded emissions must be constructed using verified inputs, energy sources, precursors, and additive manufacturing steps. 
+03 Free Allocation
+Calculating the appropriate free allocation can be confusing and time consuming to get right. The alternative is to use default values and these punish producers.
+05 Verification pressure
+Installations must undergo a strict verification process to use actual data requirements; and importers must maintain a defensible declaration audit trail.
+04 Data quality issues
+EPDs ≠ CBAM. LCAs ≠ CBAM. 
+Many producers are unsure what counts as compliant CBAM data, and confuse EPDs and LCAs with CBAM.
+CarbonChain14
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsVoice of the customer
+From 12-Page Spreadsheets to  
+Streamlined CBAM Reporting
+Like many producers navigating CBAM (Carbon 
+Border Adjustment Mechanism) reporting requirements, this aluminium supplier had been working with the EU’s standard reporting spreadsheet — a 12-page document that turned every installation report into an hours-long exercise in manual data entry.
+The core pain points were clear:• No scalability. Managing multiple installations 
+across different customers meant starting from scratch with each new report. 
+• High error risk. Manually filling the same fields repeatedly left room for missed cells and transposed figures.
+• Time cost. The process was laborious  
+and repetitive, pulling focus away from core operations.
+CarbonChain’s Installation module replaced the sprawling spreadsheet with a streamlined workflow: data is captured once and generates verification-ready reports in minutes
+Key outcomes for this supplier:• Eliminated reliance on the 12-page EU 
+reporting spreadsheet
+• Reduced time spent per installation report significantly
+• Produced clean, consistent, and comparable carbon data trusted by buyers and verifiersThe Challenge:  
+Death by Spreadsheet
+The Solution:  
+Installation Reports That 
+Actually WorkThe feedback from this aluminium supplier 
+reflected not just the satisfaction with a new tool, but genuine relief at having a process that finally made sense for the way they work. CarbonChain’s installations module works for the full CBAM workflow, and manufacturers and exporters of CBAM goods are at the heart of it.The Result
+That was so much easier and 
+better… CarbonChain has just simplified it. The EU system with the spreadsheet is 12 pages long… it’s just so long-winded.  
+But the Installations Module is so much easier!
+~ Aluminium supplierALUMINIUM  
+SUPPLIER IN  
+THE UK
+www.carbonchain.com 15
+CBAM: A Compliance Guide for Manufacturers & Exporters 01 CBAM BasicsThe most meaningful measure of a solution isn’t 
+what a customer says during a demo — it’s what they do afterwards.
+Within weeks of adopting the platform, this 
+company was recommending CarbonChainto peers in their own industry. When another aluminium installation began looking for a CBAM reporting solution, they referred them directly to CarbonChain.
+CarbonChain eliminated the need 
+to rebuild spreadsheets or reports for our individual customers and it is so easy to do this on their new platform. The information is right, verification ready and data is flowing reliably through our supply chain!
+~ Aluminium supplierVoice of the customer
+Scaling CBAM Reporting — From Manual 
+Complexity to a Single Source of Truth
+As a significant producer shipping into the EU, this 
+company faced a reporting challenge common across the industry: how do you manage CBAM compliance efficiently when you’re operating multiple installations, tracking intricate production processes, and serving customers who all require verification-ready data?
+The limitations of conventional approaches like 
+spreadsheets, PDFs, ad hoc systems — compound quickly at scale:
+• Duplication of effort. Every customer request 
+meant rebuilding reports from scratch
+• Consistency risk. No single source of truth made it difficult to ensure data aligned across different reports and recipients.
+• Quarterly burden. Manual data entry consumed significant time each reporting period, with accuracy always at risk.The Challenge:  
+CBAM Complexity at Scale
+CarbonChain’s Installation module gave this manufacturer something fundamentally different: a centralised emissions data workflow that connects directly to customer-facing reporting.
+Key outcomes for the company:
+• Eliminated the need to rebuild spreadsheets or 
+reports for individual customers
+• Established a single, consistent data source across all installations
+• Produced clean, comparable, verification-ready carbon data that flows reliably through their supply chainThe Solution: One Platform,  
+One Source of Truth WorkThe Result:  
+Confidence Enough to RecommendALUMINIUM  
+SUPPLIER  
+IN THE  
+MIDDLE EAST
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+Industry 
+& Country Specific Benchmarks
+02
+www.carbonchain.com 17
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific Benchmarks
+Default Values  
+Steel – Hot Rolled Coil
+HRC - 72083700 Default Intensity Cost at 80 EUR/tCO2
+Indonesia 9.0530 694.55
+Kazakhstan 5.8190 403.49
+India 4.7080 303.50
+South Africa 4.5540 289.64
+Other Countries and Territories 4.4540 280.64
+Russia 3.7730 219.35
+Uzbekistan 3.5310 197.57
+China 3.5056 195.28
+Algeria 3.3000 176.78
+Australia 3.2670 173.81
+Mexico 3.0250 152.03
+Argentina 2.8490 136.19
+Colombia 2.8160 133.22
+Ukraine 2.7309 125.57
+Türkiye 2.6703 120.11
+United Kingdom 2.6620 119.36
+New Zealand 2.6620 119.36
+Serbia 2.6510 118.37HRC default values imply a CBAM cost range of ~€120 - €700/t at €90/tCO₂, creating an immediate and 
+material spread between low- and high-emissions origins. 
+This cost differential is large enough to reshape trade flows, disadvantaging BF-BOF exporters such as 
+Indonesia, India and China unless verified mill data is provided. 
+As a result, the market is likely to see repricing, contract renegotiations and accelerated sourcing shifts 
+toward lower-CBAM or data-transparent producers rather than purely lowest-FOB suppliers.KEY RISKS
+Notable omissions of HRC country defaults: Malaysia, UAE 
+CarbonChain18
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksDefault Values  
+Ferro-Nickel
+Ferro-nickel default values hit Indonesia and China (~€400/t) who are the dominant global and EU-relevant 
+suppliers of FeNi for stainless production and see them facing materially higher default exposure than alternative origins. 
+Given the EU’s heavy reliance on Indonesian ferro-nickel via stainless and precursor trade flows, these 
+defaults risk embedding a significant CBAM premium into the EU stainless cost base where verified producer data is unavailable. 
+This is likely to increase demand for lower-default or data-verified FeNi (e.g. Canada, South Korea,  
+UAE at ~€135/t), tightening supply options and reinforcing the strategic value of traceable, low-emissions 
+nickel units.KEY RISKS
+FeNi - 72026 Default Intensity Cost at 80 EUR/tCO2
+China 6.765 399.13
+Indonesia 6.765 399.13
+Other Countries and Territories 4.415 187.63
+Canada 3.828 134.80
+United Arab Emirates 3.828 134.80
+South Korea 3.828 134.80
+Australia 3.828 134.80
+Viet Nam 3.828 134.80
+Colombia 3.828 134.80
+Singapore 3.828 134.80
+Egypt 3.828 134.80
+Türkiye 3.828 134.80
+Georgia 3.828 134.80
+United States 3.828 134.80
+India 3.828 134.80
+www.carbonchain.com 19
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksDefault Values  
+Urea
+Urea default values sees major EU-facing suppliers such as Egypt, Algeria and Russia sitting at the lower 
+end of the default spectrum, while higher-default origins such as China are materially less competitive. 
+The EU’s urea import mix - historically, dominated by Egypt, Russia and Algeria, and increasingly shaped 
+by tariffs - is already shifting trade flows toward Central Asian and alternative non-Russian sources. 
+As a result, CBAM defaults reinforce a structural preference for North African and gas-advantaged 
+producers, while increasing the compliance and pricing risk for new or transitional suppliers where verified emissions data is not readily available.KEY RISKS
+Urea - 31021019 Default Intensity Cost at 80 EUR/tCO2
+Honduras 4.6864 342.63
+Ghana 3.7168 255.36
+China 2.8785 179.91
+Cambodia 2.7573 169.01
+Other Countries and Territories 2.7470 168.08
+Viet Nam 141.74 141.74
+South Africa 2.3836 135.37
+United States 2.3129 129.01
+India 2.2422 122.65
+Trinidad and Tobago 1.6261 67.20
+Morocco 1.5150 57.20
+Russia 1.4847 54.47
+Algeria 1.4241 49.02
+Egypt 1.4039 47.20
+United Kingdom 1.2726 35.38
+CarbonChain20
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksDefault Values  
+Aluminium
+Aluminium default values see China, Mozambique (for now) and South Africa - all relevant suppliers to the 
+EU - facing meaningfully higher default exposure than Middle Eastern, US and Canadian producers. 
+As the EU relies heavily on Gulf-origin aluminium (UAE, Bahrain, Saudi Arabia at ~€60/t or below), the 
+defaults reinforce a structural competitiveness gap that favours hydro- and gas-powered smelters with lower implied emissions. 
+The result is likely to be greater price and sourcing volatility, as aluminium prices become increasingly 
+sensitive not just to LME and energy dynamics but also to CBAM default exposure where verified smelter-level data is not secured.KEY RISKS
+Aluminium - 7601 Default Intensity Cost at 80 EUR/tCO2
+Mozambique 3.5178 191.73
+China 3.3000 172.13
+South Africa 2.5943 108.62
+Russia 2.3760 88.97
+Canada 2.1560 69.17
+Kazakhstan 2.0570 60.26
+Bahrain 2.0570 60.26
+United Arab Emirates 2.0570 60.26
+Egypt 2.0570 60.26
+India 2.0570 60.26
+United Kingdom 2.0570 60.26
+Bosnia and Herzegovina 1.8700 43.43
+Saudi Arabia 1.8700 43.43
+Qatar 1.8700 43.43
+Brazil 1.8700 43.43
+Tajikistan 1.8700 43.43
+United States 1.8700 43.43
+Azerbaijan 1.8700 43.43
+Cameroon 1.8700 43.43
+Malaysia 1.8700 43.43
+Australia 1.8700 43.43
+Türkiye 1.8700 43.43
+Other Countries and Territories 2.4230 93.20
+www.carbonchain.com 21
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksThe Real Cost Of Default Values
+Steel Default Values 
+vs EU Benchmark 
+(BF/BOF route, tCO₂e/t)
+Default values are allocated 
+by country – certain countries are extremely high default values.  0.0China 3.17 (+131%)EU Benchmark (1.37 tCO2e/t)
+India 2.90 (+112%)
+Indonesia 2.80 (+104%)
+Russia 2.45 (+79%)
+South Korea 2.10 (+53%)
+Japan 2.0 (+46%)
+Brazil 1.85 (+35%)
+Thailand 1.65 (+20%)
+0.5 1.5 2.5 3.5 1.0 2.0 3.0 4.0Why are default values so high
+Anti-circumvention design
+Escalating penalty markupsWorst case scenarioDefault values are intentionally punitive to ensure importers cannot avoid paying for the actual 
+emissions of production
+A 10% mark up in default values in 2026, rising to 30% in 2028 onwards. Intentionally encouraging 
+producers to report actual values
+When actual data is not sourced, the regulatory assume the worst performing production route The goal of default values is to encourage producers to report actual data and to ensure importers cannot 
+avoid paying for the emissions of production by using default values to under report.
+As a producers of CBAM goods entering the European Union, your products will be taxed at a higher rate if 
+you do not report actual values and obtain verification over these numbers.
+CarbonChain22
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksCBAM Doesn’t Bill You – The Market Does
+01 Your facility
+02 Buyers CBAM cost
+03 Price negotiation 
+04 Avoidable competitive lossEmbedded emissions are set by your process. No verified data = default values applied by the EU - 
+calibrated against the worst performing plants globally.
+Your EU buyer must purchase CBAM certificates equal to your embedded emissions × EUA price × CBAM 
+factor. Defaults produce the highest possible bill.
+Buyers model CBAM into total landed cost.  
+Higher CBAM exposure = lower price offered for your product, or the buyer switches supplier entirely.
+A producer with lower CBAM exposure - because they provide verified data can undercut your landed cost. 
+
+www.carbonchain.com 23
+CBAM: A Compliance Guide for Manufacturers & Exporters02 Industry & Country Specific Benchmarks
+Installation Scenario
+Actual vs. Default values
+Non-EU flat steel producer supplying EU importers across EU and 
+competing for contracts against mills from multiple non-EU regions.
+EU buyers were applying CBAM default values to all non-EU sourcing. 
+The producer’s genuine emissions performance was invisible and their products were priced in the same bracket as the highest-carbon mills in its region, despite operating well below the default value threshold.
+One EU importer agreed to use installation-verified data if the producer 
+could supply it. The producer partnered with CarbonChain to define the installation boundary, implement a monitoring plan and calculate actual embedded emissions.
+Switched from default (3.5 tCO₂e/t) to actuals (1.9 tCO₂e/t) — reported 
+carbon intensity fell 45%.
+EU buyer’s CBAM cost exposure for that supply line dropped Producer secured a preferential supply agreement with price terms 
+reflecting the verified emissions advantage.
+A second EU buyer subsequently requested installation data from the 
+same facility, the commercial case was self-evident.
+Have a similar scenario? Speak to our experts!
+Confidence in actual values converted production efficiency into a commercial edge.Customer
+The problem
+The Action
+The Result
+Key takeaway  PRODUCER CASE STUDY
+CarbonChain24
+CBAM: A Compliance Guide for Manufacturers & Exporters02 Industry & Country Specific Benchmarks
+Have a similar scenario? Speak to our experts!Installation Scenario
+Data Sharing
+All six EU buyers now access the same live, verified dataset via 
+CarbonChain Connect. No manual outputs, no email chains, no formatting work per buyer.
+Declaration discrepancies fell to zero. Every buyer works from the 
+same source, with a traceable link to the dataset, eliminating the version drift that caused the prior filing error.
+Two new buyers were onboarded in under 30 minutes each, added to 
+the Data Sharing Module with no additional data preparation required from the producer.Urea fertiliser producer exporting to six EU importers across four member states, managing all CBAM emissions calculations and buyer data requests through a series of Excel workbooks.
+Six buyers meant six manually maintained spreadsheet outputs. Each 
+reformatted separately, each resent individually whenever production data changed. When one importer filed a CBAM declaration from a superseded version, the discrepancy took three weeks to resolve. The problem was not the data. It was having no single source of truth to share it from.
+The producer migrated to CarbonChain Connect. Production data, 
+fuel consumption, and process emissions are now entered once in the Installations Module, with CBAM methodology applied automatically. Each EU buyer was added to the Data Sharing Module and received access to the same live, verified dataset. Customer
+The problem
+The Action
+The Result
+The Excel was never the problem. Every new buyer was a new maintenance burden. 
+CarbonChainConnect breaks that cycle — update once, share everywhere, automatically.Key takeaway  PRODUCER CASE STUDY
+www.carbonchain.com 25
+CBAM: A Compliance Guide for Manufacturers & Exporters 02 Industry & Country Specific BenchmarksCBAM Bills Will Stack Up
+Source: Fastmarkets carbon
+Iron and Steel faces a CBAM bill of €29 billion in 2035, with Chinese products making  
+up €5.3 billion
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+CBAM Basics
+01
+Calculating 
+Your  
+CBAM Cost Exposure
+03
+www.carbonchain.com 27
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost Exposure
+How Much Is CBAM Going To Cost?
+Emissions Factor = the supplier’s calculated direct embodied emissions intensity of their CBAM goods.
+CBAM Benchmark & Phase-in Rate = the free allocation adjustment (benchmark), which decreases at the 
+rate of the phase-out of the free allowances under the EU ETS.
+Carbon price paid overseas = the carbon price already paid overseas covering a proportion of the 
+emissions intensity of the CBAM goods. This is deducted in order to determine the net CBAM obligation.
+CBAM Certificate price = in 2026, the quarterly-average closing price of the EU ETS price.
+Try the calculator- x x- =tCO2/t   
+(Emissions 
+Factor)CBAM Benchmark   
+(tCO2/t)Phase-in  
+(% phase-in rate)€/tCO2  
+(CBAM price)tCO2/t  
+(Carbon price paid overseas)€/t 
+(CBAM cost/ tonne of material)
+CarbonChain28
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureCBAM Cost  
+Calculator
+Try the calculatorCBAM Cost  
+Calculator
+Instant
+Cost ClaritySupplier
+ComparisonPlatform
+Integration
+Model CBAM costs per ton 
+in seconds across suppliers, 
+CN codes, and countries of 
+origin. Replace slow Excel 
+spreadsheets with instant 
+scenario planning from 
+2026–2034.
+Compare emissions 
+intensity and cost impact 
+between suppliers in one 
+click. Understand worst-
+case default costs when 
+supplier data is missing or 
+incomplete.
+Connect seamlessly to 
+CarbonChain’s Supplier 
+Catalogue, Data Management 
+workflows, and CBAM 
+reporting ecosystem. Your 
+entry point to comprehensive 
+CBAM management.
+www.carbonchain.com 29
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureChoosing Your Benchmark
+Defaults
+Simple Goods
+Installation SpecificFor all goods, we have CN code-level “all-in” default value benchmarks (Column B). These are also at the 
+production process-level, and, in some cases, are available for 2026-8 and 2028-30 periods.
+For simple goods (no input precursors) we now have benchmarks at the production-level (e.g. primary 
+aluminium, ferroalloys, some fertiliser products). With actual data: CBAM can now be priced. 
+Steel products are all complex goods. 
+Installations using actual data are required to calculate an “installation specific” benchmark. Based on the 
+production at site, the consumed precursors and the production route of the product.  EU default values
+Product-level data
+Site-level data
+CarbonChain30
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureCalculating Benchmarks  
+At The Installation-Level
+For simple goods  
+(no precursors):For complex goods  
+(goods with precursors):
+SEFA  
+(Specific Embedded Free Allocation)SEFA  
+(Specific Embedded Free Allocation)
+Installation-specific benchmarkSFA  
+(Specific Free Allocation  
+(Process-level specific free allocation  
+(Column A of Annex)))∑ (mi * SEFAiy) + SFA
+Sum of mass index-adjusted (mi) precursor 
+benchmarks (SEFA)
+installation’s process specific benchmark (SFA)= =
+=
++ e.g. Primary aluminium  
+e.g. Aluminium products  Installation-specific emissions
+Benchmark
+SFA (Annex Column A&B)
+Installation-specific emissions 
+and benchmarkInstallation-specific emissionsWeighted average precursorPrecursor  
+01Precursor  
+02Precursor  
+03
+SFA  
+Annex Column A
+SEFA  
+installation
+Σm i x SEFA iy+
++ +=
+= =
+www.carbonchain.com 31
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureCalculating Emissions At The Installation-Level
+Primary Aluminium (Unwrought) Example
+Calculating Benchmarks At The  
+Installation-Level
+EAF-DRI Steel Coil Production Example
+Alumina
+PelletsPre-baked Anodes
+LimeOther materials and fuels
+Other materials and fuelsPrimary smelting
+Direct reductionForming
+EAFUnformed Aluminium
+DRI
+ScrapsAluminium products
+Crude steel
+Steel productsPrimary Al  
+(with pre-baked Anodes)
+EAF 
+(using DRI)Benchmark Emissions Intensity
+Unwrought aluminium  
+Mi: 1.00 t/t  
+Benchmark: 1.464 tCO2/t  
+Mass-adjusted: 1.464Unwrought aluminium  
+Mi: 1.00 t/t  
+Direct Emissions Intensity: 
+1.90 tCO2/t  
+Mass-adjusted: 1.90
+Product-level benchmark:  
+1.423 * 1 =  
+1.423 tCO2/t Product-level intensity:  
+1.90*1 =  
+1.90 tCO2/t
+CBAM Cost per ton in Euros =  
+[1.90 – (1.423*0.975)] * 90 = 46.13
+Benchmark Emissions Intensity
+Iron Ore Pellets  
+Mi: 1.55 t/t  
+Benchmark: 0.086 tCO2/t  
+Mass-adjusted: 0.133 tCO2/Iron Ore Pellets  
+Mi: 1.55 t/t  
+Direct Emissions Intensity: 0.17 tCO2/t  
+Mass-adjusted: 0.26 tCO2/
+DRI 
+Mi: 1.075 t/t  
+Benchmark: 0.295 tCO2/t  
+Mass-adjusted: 0.317DRI 
+Mi: 1.075 t/t  
+Direct Emissions Intensity: 0.55 tCO2/t  
+Mass-adjusted: 0.59
+Flat rolling  
+Mi: 1.03 t/t  
+Benchmark: 0.044  
+Mass-adjusted: 0.045Flat rolling  
+Mi: 1.03 t/t  
+Direct Emissions Intensity : 0.09  
+Mass-adjusted: 0.09
+Product-level benchmark:  
+1.55*0.086 + 1.075*0.295 + 
+1.03*0.044 = 0.495 tCO2/t  Product-level benchmark:  
+1.55*0.17 + 1.075*0.55 + 1.03*0.09 = 0.95 tCO2/t
+CBAM Cost per ton in Euros  =  
+[0.95 – (0.495*0.975)]*90 = 42.06
+CarbonChain32
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureWhat CBAM Ready Data Looks Like
+01 Installation level boundaries
+02 Activity data, energy and precursors
+03 Monitoring systems, not one-off calculations
+04 Free Allocation & Carbon Price AdjustmentData is required per facility — not per company, country or sector average
+Every data point must carry a unit, period, measurement source, and the proof to evidence this through a verification process 
+A verifier must trace every figure back to a meter, calibration record, and QA/QC log.
+Installations may offset CBAM liability against a domestic carbon price, but must follow a defined calculation process to qualifyAn “installation” is a specific site with defined coordinates and a documented physical boundary.
+Production volumes: tonnes per goods type and CN code for the full annual reporting period.
+One-off calculations cannot demonstrate measurement frequency or data gap management.
+Installations must calculate and communicate your installation specific free allocation.Continuous capture detects process deviations before they distort annual reported emissions.
+Applicable territories may deduct a carbon price that has already been paid from the final 
+CBAM obligation.Validation checks, data flows, responsible people and source systems.Direct emissions in scope: combustion + process reactions occurring within the physical boundary.
+Process emissions: from chemical reactions.All relevant processes within that boundary are included, partial coverage is not permitted.
+Fuel consumption: type, quantity, net calorific value, and carbon content per fuel stream.
+Monitoring systems produce a continuous audit trail: meter logs, calibration certs, anomaly records.
+Based on precursor volumes, production routes, scrap rates and your production process.Precursor goods (e.g. pig iron, ammonia, alumina) carry their own embedded emissions from their source installation.
+Precursor carbon: tCO₂e/t for each carbon-carrying input must be tracked separately, not aggregated.
+www.carbonchain.com 33
+CBAM: A Compliance Guide for Manufacturers & Exporters 03 Calculating your CBAM Cost ExposureWhat Does This Mean For Market Participants?
+Country & production-process specific benchmarks
+Many actual benchmarks will now be installation-specific
+Verification burden increases furtherThe benchmarks are provided on a CN code and production-process basis for steel and aluminium products.
+The default emissions intensity values will also be provided on a CN code and production process  
+basis, where applicable. Default value emissions intensities will be significantly punitive to reduce the  
+risk of circumvention.
+Benchmarks for simple goods manufacturers (with no precursors) are now available at the CN code level.Benchmarks for complex goods manufacturers (goods with precursors) are calculated at the  
+installation-level based on the weighted average precursor benchmark mix and the on-site production 
+process-related benchmark. 
+Verification takes place over the embedded emissions intensity of the production, as expected, as well  
+as now the benchmark calculation for that installation.
+This was hinted at via the materiality assessment which is expected to be set at 5% of the embedded 
+emissions or the free allocation adjustment (benchmark).
+If using actual data, you can model expected installation-level benchmarks for producers today to estimate costs.
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+CBAM Basics
+01
+Verification, 
+Accreditation & Data Integrity
+04
+www.carbonchain.com 35
+CBAM: A Compliance Guide for Manufacturers & Exporters 04 Verification, Accreditation & Data Integrity
+Who Will Be Authorised To Verify?
+From 2026, the use of actual emissions values under CBAM is conditional on verification by an accredited 
+verifier. The EU has introduced a dedicated delegated regulation specifying the conditions for granting accreditation to CBAM verifiers, the scope of their activities, and the mechanisms for oversight and withdrawal of accreditation.
+Who can verify CBAM data?
+In practice, verification introduces several operational constraints. Verifier capacity is limited, particularly 
+for installations located outside the EU. Verification of emissions data for a given reporting year cannot be completed until the production year has ended, which creates timing pressure for importers seeking to declare actual values. Where emissions data cannot be verified in accordance with CBAM rules, importers are required to fall back on default values, regardless of whether data exists internally.
+These constraints mean that access to accredited verifiers and the readiness of supplier data systems 
+become critical risk factors. Early engagement with suppliers and verifiers is essential to avoid unplanned reliance on default values.
+What this means operationally• Verifier capacity is constrained
+• Site visits cannot occur until post-2026 production
+• Importers relying on actual values must secure verifier  
+access earlyOnly EU-accredited legal entities
+Accreditation governed by a new CBAM-specific delegated regulationAlignment with EU ETS verifier competence requirements
+Failure to verify = forced fallback to default values, even if data exists
+ Risk Area
+CarbonChain36
+CBAM: A Compliance Guide for Manufacturers & Exporters 04 Verification, Accreditation & Data IntegrityHow Does CBAM Verification Work?
+Objective of verification
+Outcome of verificationProcedure to obtain
+Pre-engagementProvide reasonable assurance that data is complete, accurate and compliant
+Verification plan01
+0402
+0503
+06
+07Information intakeEnsure operators are following CBAM monitoring methodology and have  
+functioning data flow and controls
+Execution (on-site visit)Analysis (strategic + risk)Confirm actual emissions can be used for declarations
+Review
+Report issued
+Verified actual 
+emissionsUnresolved misstatements or non-conformanceNo verification or failed verification
+Data of actual emissions 
+can be used in importers declaration.Data cannot be used and default values apply.Data cannot be used and default values apply.
+www.carbonchain.com 37
+CBAM: A Compliance Guide for Manufacturers & Exporters 04 Verification, Accreditation & Data IntegrityWhat Are The Verification Timeline Implications?
+CarbonChain brings >6 years of experience in performing carbon accounting across actors 
+in commodity supply chains and is here to support your installations with their full EU CBAM compliance2026 first year data, 
+estimates to key customers
+Q3 2026 “interim audit”  
+and communication to market
+Early 2027  
+verification of data and precursors2026 annual emissions intensity data is the first CBAM data set. Goods manufactured in 2025 but 
+imported in 2026 will be subject to the 2026 emissions-related cost.
+Installations should ensure a monitoring methodology and strong systems are in place to 
+demonstrate emissions accounting robustness.
+Verification is critical when it comes to the successful operation of the EU CBAM, as is the same 
+under the EU ETS.
+Ensuring a verifier is lined up for your on-site verification (mandatory in 2026) is a critical next step 
+for producers looking to ensure their customers can use actual data for their reporting.
+Verification over both the emissions intensity of the products and the free allocation adjustment for 
+the installation is required to be performed.
+This could have significant impact on far-downstream complex goods manufacturers, likely 
+resulting in default value usage due to delays in obtaining verified data from upstream suppliers.
+CarbonChain38
+CBAM: A Compliance Guide for Manufacturers & Exporters 04 Verification, Accreditation & Data IntegrityCarbonChain and SGS can deliver a CBAM workflow that combines CarbonChain’s automated product-
+level emissions calculations with SGS’s independent pre-verification services.
+This solution streamlines CBAM compliance for importers and suppliers by directly connecting accurate 
+emissions data with third-party pre-verification.
+Who benefits:  
+Importers, intermediaries, and manufacturers that need precise carbon accounting and pre-verification for 
+their CBAM submissions.Be CBAM Ready With Confidence
+• One seamless workflow: activity-level      data carbon footprinting      pre-verification
+• Multi-regulation compliance and pre-verification support (e.g. CBAMs, GHG Protocol reporting)
+• Reduced carbon-related supplier engagement burden and data validation 
+• EU CBAM Definitive Period pre-verification disclosures to customers
+• Get ready for the next CBAM reporting cycle with confidence, reducing compliance riskJoint Value Proposition for Clients:What CarbonChain 
+ProvidesWhat SGS  
+Provides
+CBAM & Product Carbon Footprint 
+calculations for commodity supply chains
+Installation-level data preparation, MRV 
+workflows and verification-ready reporting
+Scalable digital infrastructure for 
+declarants and manufacturers+15 years track record as EU ETS verifier
+Global presence and expertise in CBAM  
+pre-verification Independent third-party verifier for 
+corporate inventories and product footprints
+
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+CBAM Basics
+01
+CBAM As A 
+Commercial Edge
+05
+CarbonChain40
+CBAM: A Compliance Guide for Manufacturers & Exporters 05 CBAM As A Commercial EdgeHow To Gain Competitive Edge With CBAM
+01 Avoid default values
+02 Pre-verification03 Installation-level benchmarks
+05 Communication
+06 Monitoring methodology04 Engage your supply chainFalling back on default values from certain countries of origin will be significantly costly, and in many cases 
+commercially unviable. Provide actual data wherever possible.
+Downstream customer  s and importers want confidence that their supply chain will pass verification. 
+Provide them with this by undertaking a pre-verification.Benchmarks must be prepared at the CBAM goods-level per installation where you are intending to use 
+actual values. Ensure your suppliers are preparing these now.
+Customers and impor  ters need to price in CBAM now. Communicating effectively with your customers 
+builds trust. Start with provisional numbers and communicate your plan for 2026 and 2027.
+Your installation will be required to complete a monitoring methodology to get verified. Start this ASAP 
+and obtain help if you need. Once developed, let your customers know you are ready for verification.CBAM costs take into account, your emissions and your suppliers emissions. Ensuring your suppliers understand CBAM and are reporting correctly gives customers confidence.
+www.carbonchain.com 41
+CBAM: A Compliance Guide for Manufacturers & Exporters 05 CBAM As A Commercial EdgeCarbonChain 
+Connect
+Data Sharing 
+ModuleSupplier
+Catalogue Module
+Shared directory of producers 
+and verified datasetsBuilt-in methodology, benchmark checks, and aligned outputsReduces availability risk and verification anxietyRequest, track, and share 
+datasets securely
+One-click follow-ups and 
+permissioned access
+Full audit trail across upstream 
+and downstream parties
+The control centre for 
+CBAM data exchange
+A trusted source of 
+installation-level CBAM data
+Prepare once. 
+Reuse everywhere.Producer-facing workflow for 
+installation data
+Guided, verification-aligned 
+outputs
+Respond faster when EU 
+buyers request CBAM dataInstallations
+ModuleCarbonChain 
+Connect
+Linking producers and importers through a shared 
+infrastructure for trusted, installation-level CBAM data — 
+reducing friction on both sides of the request.
+Book a demo
+CarbonChain42
+CBAM: A Compliance Guide for Manufacturers & Exporters 05 CBAM As A Commercial EdgeWhy CarbonChain Is The Best Solution
+VVVVv
+Trust & Validation
+2,200+ 8.5M t
+13.5M€950M
+3.89B 3,500+SGS-validated methodologies aligned with GHG Protocol
+ISO 27001-certified business
+Prepare emissions and benchmark calculations for 1 installation
+Controlled data-sharing with downstream customers
+Unlimited installation data sets upload
+Guided, verification-aligned workflow
+CBAM Cost Calculator (Default Values) Are you a manufacturer or importer, looking for easy CBAM 
+compliance? Try our Installations Module. 
+Monitoring Methodology and  
+pre-verification workflows available!
+CBAM Declarations done Goods Cleared
+PCFs GeneratedPenalties Avoided
+Tonnes CO₂ Tracked Suppliers on Platform
+CarbonChain’s efficient solution to CBAM reporting not only met our 
+declaration needs but also helped educate our team, removed manual workload and prepared us for future reporting periods.
+Compliance Officer,  
+Steelforce Group
+Oxana Dyupina
+Try for free
+
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+CBAM Basics
+01
+Key Changes 
+In CBAM
+06
+CarbonChain44
+CBAM: A Compliance Guide for Manufacturers & Exporters 06 Key Changes In CBAMKey Aspects of CBAM That Have Changed
+New emissions methodologyDefault values are higher
+Installation-level benchmarks
+Significant verification barriers 
+EU carbon priceScope of goods to be expandedFalling back on default values from certain countries of origin will be significantly costly, and in many cases 
+commercially unviable. Check before you take on this risk.
+The Commission updated the emissions methodology and scope of calculations for some CBAM goods. 
+Ensure your suppliers are aware of these changes.
+Benchmarks must be prepared at the CBAM goods-level per installation where you are intending to use 
+actual values. Ensure your suppliers are preparing these now.
+Verification will require rigorous monitoring processes to be in place at installations. Importers should not 
+rely on actual values without clear evidence of verification readiness.
+EUAs hit a high of €87/tCO2, with bullish signs ahead for 2026 as supply tightens. Hedging will be a core 
+risk management activity for CBAM-impacted participants.From 1 January 2028, downstream goods will be included in the scope of EU CBAM. The complete list of goods is still to be confirmed, but it will be extensive.
+www.carbonchain.com 45
+CBAM: A Compliance Guide for Manufacturers & Exporters 06 Key Changes In CBAMAnti-Circumvention Initiatives
+Pre-Consumer Scrap
+MonitoringSafeguards
+AgilityPre-consumer scrap is set to be included 
+as a precursor CBAM good for both steel and aluminium goods. Scrap imports remain out of scope.
+The EC intends to acquire new market 
+intelligence and databases to assess risks of circumvention relating to resource shuffling and other practices.The EC increases powers with regards to review of misclassification or under-declaration of CBAM goods to ensure importers are captured.
+The EC will ensure operational agility and flexibility to quickly identify and eliminate circumvention practices that are identified by market participants.
+Temporary Decarbonisation Fund
+The CBAM Temporary Decarbonisation Fund is intended to use part of the revenue generated from the sale of CBAM certificates to support decarbonisation efforts for installations producing within the Union and exporting outside the EU. The intention of the fund is to avoid the leakage risk that arises from the increase in costs that installations will incur and aim to help them remain competitive on the international stage.
+Who it Impacts: EU-based manufacturers in facing high CBAM costs.  
+Funding Source: The EU will allocate 25% of revenues collected from the CBAM import tax (in 2026-2027) 
+specifically to this fund.  
+Strategic Goal: To help European industries remain competitive in global export markets against foreign rivals who do not pay carbon taxes.  
+The Key Condition: Companies do not receive automatic rebates; they must use this fund to decarbonise their operations.  
+CarbonChain46
+CBAM: A Compliance Guide for Manufacturers & Exporters 06 Key Changes In CBAMUK CBAM Preparation & Reporting
+EU CBAM UK CBAM
+CBAM goodsIron & steel, aluminium, cement, 
+fertilizer, hydrogen, electricityIron & steel, aluminium, cement, fertiliser, hydrogen
+TimelineTransitional period until  
+end of 2025Comes into force on 1st January 2027, no transitional periodDefinitive period from  
+1 January 2026
+Scope of emissionsDependent on product: Direct, (Indirect), PrecursorsAll products: Direct and Precursors only
+Financial obligationsSurrender of CBAM certificates (based on weekly EUA price) to cover imported emissionsPayment of UK CBAM tax liability based on import volume and a UK CBAM rate established at the goods-level
+Minimum threshold>50 tonnes, aggregate per EORI per year£GBP 50,000 (monetary-threshold), rolling 12-month basis
+Default valuesPermitted but designed to be punitivePermitted until at least 2031; expect to also be punitive
+Reporting frequencyQuarterly until definitive period, annual from Definitive Period onwards.Annual in first year, followed by quarterly returns from 2028
+
+www.carbonchain.com 47
+CBAM: A Compliance Guide for Manufacturers & Exporters 06 Key Changes In CBAMEU & UK Emissions Trading System Linkage
+• Following the end of the Brexit transition period, the UK left the EU ETS and established its own, 
+separate, UK ETS. The UK ETS is similar, but not identical to the design of the EU ETS.
+• 19 May 2025 UK- EU Summit: Announcement to link EU and UK ETS. ‘Common understanding’. Market commentators expect a linkage to occur at the earliest in 2028/9.
+• Draft EU CBAM legislation includes power to create exemption for goods originating from a jurisdiction with a linked carbon pricing scheme (section 14). No countries initially included here.
+• If the EU and UK link their ETS systems then there would be no reporting obligation for goods originating from the UK or EU under both EU and UK CBAM, as an effective carbon price has already  
+been paid.
+EU ETS UK ETS
+CBAM: A Compliance Guide for Manufacturers & Exporters Introduction
+CBAM Basics
+01
+CBAM
+ProducerReadinessChecklist
+07
+49
+CBAM: A Compliance Guide for Manufacturers & Exporters 07 CBAM Producer Readiness Checklist www.carbonchain.com
+10 Step Readiness Checklist
+02 Scope & Product Identification (CN Codes)01 Understand how CBAM  applies to your business
+04 Monitoring methodology documentation
+05 Precursor and input material analysis06 Data collection07 Emissions calculation and allocation08 Reporting and communication09 Verification Readiness10 Ongoing Monitoring03 Installation boundary and process definition
+CBAM compliance is a complex process involving many levels of collaboration. 
+We are hearing daily from producers who are confused about how to scope and collect data. CarbonChain Connect can help you store your data, and empower you to share it with importers you do business with – in a single click. CBAM is here to stay, and it’s in your interest to upskill rapidly and choose a service provider that helps you keep your competitive edge for doing business with EU and UK.
+Co-founder & COO,  
+CarbonChain
+Roheet Shah
+
+CarbonChain50
+CBAM: A Compliance Guide for Manufacturers & Exporters 07 CBAM Producer Readiness ChecklistWhat Producers Need To Do Now
+Develop a monitoring methodology now
+Calculate actuals to avoid default penalties
+Secure pre verification in Q3 2026CBAM requires a formal, documented monitoring methodology covering installation boundaries, activity 
+data, energy inputs, and precursor materials. This must be in place before verification can proceed in  
+early 2027.
+Without a robust, auditable methodology, verifiers cannot sign off on actual emissions data. Ensure your 
+plan covers all production processes within the installation boundary and maps correctly to your CBAM 
+goods and CN codes.
+Default values carry a 10% mark-up in 2026, rising to 30% by 2028. For many origins this creates 
+commercially unviable exposure — up to €694/t for Indonesian steel.
+Producers must calculate installation-level actual emissions and prepare installation-specific benchmarks 
+now to protect margins and remain competitive.
+Pre-verification is a critical step in building a robust CBAM process and giving your supplier’s confidence in 
+your emissions values.
+Provided by an independent third party, pre-verification will highly gaps and inconsistencies in your process 
+which can be corrected before 2027.
+51
+CBAM: A Compliance Guide for Manufacturers & Exporters 07 CBAM Producer Readiness Checklist www.carbonchain.comBonus Resources
+The European Commission’s 
+ResourcesCarbonChain  
+Resources
+• EU Commission’s CBAM Explainer
+• Cement Sector
+• Hydrogen Sector
+• Aluminium Sector
+• Fertilizer Sector
+• Iron & Steel Sector• CBAM Cost Calculator
+• CBAM Supplier Catalogue
+• Steelforce streamlines CBAM reporting
+• TFG Article on CBAM
+• Summary of UK CBAM
+• CarbonChain LearnHub
+• Summary of EU CBAM
+• CarbonChain Connect
+Contact Us Website LinkedIn ©CarbonChain 2026. All rights reserved

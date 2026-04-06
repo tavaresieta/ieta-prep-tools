@@ -1,0 +1,1016 @@
+July 2024 © 2024 International Institute for Sustainable Development   |   IISD.org   
+Global 
+Dialogue on 
+Border Carbon 
+Adjustments 
+The case of Brazil
+IISD REPORT
+
+IISD.org     iiGlobal Dialogue on Border Carbon Adjustments: The case of Brazil
+© 2024 International Institute for Sustainable Development  
+Published by the International Institute for Sustainable Development
+This publication is licensed under a Creative Commons Attribution-
+NonCommercial-ShareAlike 4.0 International License .
+International Institute for Sustainable Development
+The International Institute for Sustainable Development (IISD) is 
+an award-winning, independent think tank working to accelerate 
+solutions for a stable climate, sustainable resource management, 
+and fair economies. Our work inspires better decisions and sparks 
+meaningful action to help people and the planet thrive. We shine a light 
+on what can be achieved when governments, businesses, non-profits, 
+and communities come together. IISD’s staff of more than 200 people 
+come from across the globe and from many disciplines. With offices in 
+Winnipeg, Geneva, Ottawa, and Toronto, our work affects lives in more 
+than 100 countries.
+IISD is a registered charitable organization in Canada and has 501(c)(3) 
+status in the United States. IISD receives core operating support from 
+the Province of Manitoba and project funding from governments inside 
+and outside Canada, United Nations agencies, foundations, the private 
+sector, and individu als.
+Global Dialogue on Border Carbon Adjustments: The case of Brazil     
+July 2024
+Written by CINDES – Centro de Estudos de Integração e 
+Desenvolvimento
+Photo: iStockHead Office
+111 Lombard Avenue, Suite 325
+Winnipeg, Manitoba
+Canada R3B 0T4
+Tel: +1 (204) 958-7700
+Website:  iisd.org
+X-TWITTER: @IISD_news
+IISD.org     
+ iii
+Global Dialogue on Border Carbon Adjustments: The case of BrazilTable of Contents
+1.0 Introduction  .................................................................................................................................................................... 1
+2.0 Context  ............................................................................................................................................................................. 3
+2.1 What Is a BCA?  ............................................................................................................................................................................. 3
+2.2 Why Have BCAs Become a Relevant Topic in the International Agenda?  ................................... 4
+2.3 Brazil’s In-Country Process and its Objectives  ................................................................................................... 6
+3.0 The Expected Impacts of EU’s CBAM in Brazil and the Risks of BCA Diffusion to its 
+Jurisdictions  ........................................................................................................................................................................... 7
+3.1 The Relevance of the EU Market for CBAM-Affected Products  ............................................................. 7
+3.2 Brazil’s Relevance as a Supplier to the European Market and Its Main Competitors  ......10
+4.0 Reactions and Responses by the Main Stakeholders  ............................................................................ 14
+4.1 Response by the Brazilian Government  ................................................................................................................. 14
+4.2 Responses by the Business Sector  ............................................................................................................................ 14
+5.0 The Dialogues in Brazil: Stakeholders’ main concerns and stances  ............................................... 18
+5.1 The First Dialogue: Main statements from stakeholders  .......................................................................... 18
+5.2 The Second Dialogue: Key design elements of BCAs, principles and best practices,  
+and implementation issues  ....................................................................................................................................................... 19
+6.0 The Financial Sector Role: A work in process…  .......................................................................................... 23
+7.0 BCAs as a Public Issue in Brazil: A limited debate  .................................................................................. 25
+References  ............................................................................................................................................................................ 27
+IISD.org     
+ iv
+Global Dialogue on Border Carbon Adjustments: The case of BrazilList of Figures
+Figure 1. Chapter 26 products exports distribution (average participation 2020–2022)  ................ 8
+Figure 2. Chapter 72 products exports distribution (average participation 2020–2022) .................. 9
+Figure 3. Chapter 73 product export distribution (average participation 2020–2022)  ....................... 9
+Figure 4. Chapter 76 products exports distribution (average participation 2020–2022)  ............. 10
+List of Tables
+Table 1. Brazilian exports of CBAM products – EU (average 2020–2022)  ................................................... 8
+Table 2. The world’s main exporters of CBAM-affected products in the iron, steel, and 
+aluminum sectors ....................................................................................................................................................................................... 11
+Table 3. EU’s main suppliers of the CBAM-affected products in the iron, steel, and aluminum 
+sectors  ................................................................................................................................................................................................................ 11
+Table 4. Relative exposition to the CBAM index for the iron and steel sector: Brazil and  
+its main competitors in the EU  ....................................................................................................................................................... 12
+Table 5. Relative exposition to the CBAM index for the aluminum sector: Brazil and its main 
+competitors in the EU  ............................................................................................................................................................................ 13
+List of Boxes
+Box 1. CNI’s submission to the European Commission on July 11, 2023: Brief summary  ................. 15
+Box 2. CNI recommendations for the design of new BCAs  ...................................................................................... 16
+Box 3. Interview with Joaquim Levy: Summary notes  .................................................................................................. 23
+IISD.org     
+ 1
+Global Dialogue on Border Carbon Adjustments: The case of Brazil1.0 Introduction
+The European Union’s (EU’s) pioneering Carbon Border Adjustment Mechanism (CBAM) 
+is not an accident of policy. Several other countries are considering adopting border carbon 
+adjustment, and more will inevitably do so. 
+With societies increasingly demanding climate change mitigation actions from their 
+governments, any country or jurisdiction that responds by implementing carbon pricing will 
+have to grapple with deploying a level playing field to their emissions-intensive, heavily traded 
+sectors—steel, aluminum, chemicals, plastics, cement, fertilizers, etc. 
+Where the policy response involves protection like a border carbon adjustment (BCA), as it 
+has in the EU, there are three sorts of risks for developing countries:
+• First, regimes could be established without care to harmonize requirements, with 
+exporters having to report and certify carbon emissions to different standards in 
+multiple export markets. 
+• Second, such regimes may not consider the circumstances of developing country 
+exporters, who may lack access to finance for low-carbon capital investments, who 
+may never have been required to establish greenhouse gas (GHG) accounting regimes, 
+and who may be situated in countries with low capacity to support their low-carbon 
+transitions.
+• Third, such regimes may be deliberately crafted to shut out exports from developing 
+countries and other exporters. 
+With the leadership of the International Institute for Sustainable Development and the 
+support of the Laudes Foundation, this project aims to lower each of those risks by crafting an 
+internationally agreed list of best practices in this novel area of policy making. 
+This initiative aims to build a global dialogue on BCAs, drawing in stakeholder and investor 
+perspectives to influence the shape of government policy toward effective and equitable 
+climate mitigation. This process begins with national dialogues in five countries, including 
+Canada and the United Kingdom (countries in the process of adopting their own BCA 
+mechanisms) and Brazil, Vietnam, and Trinidad and Tobago (countries potentially affected by 
+the effects of BCAs on their exports). 
+In Brazil, the dialogues were coordinated by Centro de Estudos de Integração e 
+Desenvolvimento (CINDES) and benefited from cooperation with the National 
+Confederation of Industry (CNI). Brazil was the first country to conclude the national 
+dialogue, and this report gathers the main findings of the initiative.
+This report is organized into seven sections. Section 2 sets out the scene, discussing the 
+context, the relevance of the topic, and the organization of the dialogues in Brazil. Section 
+3 assesses the expected impacts of the EU’s CBAM in Brazil and the risks of BCA diffusion 
+to other jurisdictions, using data to illustrate the findings. Section 4 summarizes the main 
+reactions of stakeholders to the topic of the EU’s CBAM. Section 5 details the stances 
+undertaken by stakeholders participating in the dialogues regarding the main components of 
+IISD.org     
+ 2
+Global Dialogue on Border Carbon Adjustments: The case of BrazilCBAM. It is followed by a small sixth section summarizing the views of the financial sector on 
+the topic. Section 7 presents some final thoughts about the debate in Brazil and stakeholders’ 
+views on what the following steps should be.
+IISD.org     
+ 3
+Global Dialogue on Border Carbon Adjustments: The case of Brazil2.0 Context
+2.1 What Is a BCA?
+A BCA is an attempt to make imported goods bear the same carbon costs that domestic 
+goods must bear. It is usually aimed at energy-intensive, trade-exposed (EITE) sectors such 
+as steel, aluminum, cement, fertilizers, plastics, and chemicals. Within those sectors, the focus 
+is upstream on basic and semi-processed materials. Those domestically produced goods, 
+being energy-intensive, will feel the pinch of any carbon pricing, but since they are trade-
+exposed, their producers will find it difficult to pass along any carbon costs to consumers since 
+international competitors may not face similar costs.
+That prospect risks carbon leakage, which can happen through the relocation of firms to other 
+jurisdictions, through the loss of market share to foreign producers, or through the diversion 
+of greenfield investment to other jurisdictions. Evidence is mixed on the existence of carbon 
+leakage, but it is widely agreed that the risk of leakage will increase as carbon prices become 
+more meaningful.
+There is not a single type of BCA; rather, the final result and impacts will depend strongly on 
+choices made about policy options during the elaboration process. Some of the basic choices 
+include the following:
+• Will it assess a levy on imports only, or will it also rebate carbon costs to exports?
+• What goods/sectors will it cover? How far up and down will the value chain extend in 
+covered sectors?
+• How will embodied emissions be estimated at the border? Actual data? Assumed 
+defaults? If the latter, can the defaults be challenged?
+• What GHG emissions will be covered? Possibilities include direct (scope 1) emissions, 
+emissions from purchased electricity (scope 2), or various types of scope 3 emissions 
+(e.g., from purchased input goods or from the transport of goods).
+• What price will be put on embodied emissions?
+• Will it exempt states from coverage based on national-level criteria like climate 
+ambition or development status?
+• Will the BCA charge be lowered to account for a carbon price paid in the country of 
+export? What about non-price-based climate policies?
+• What will be done with the revenues? Will any be transferred to the affected countries 
+or producers?
+The underlying climate policy instrument will determine many of these policy choices. For 
+example, if the instrument (a carbon tax or an emissions trading system [ETS] regulation) 
+only covers direct (scope 1) emissions, then the likely choice for a BCA would be to cover the 
+same emissions.
+IISD.org     
+ 4
+Global Dialogue on Border Carbon Adjustments: The case of BrazilIn the abstract, it is impossible to say whether BCAs are effective, fair, and legal; this can only 
+be done in the context of a specific BCA. The answers will depend fundamentally on how the 
+BCA in question finally manifests due to the abovementioned choices.
+The implication is that BCAs have the potential to be an instrument in line with national 
+and international legal obligations that focus just on environmental protection. Still, it also 
+can potentially be a protectionist instrument focused on unfairly and illegally disadvantaging 
+foreign producers.
+BCAs present fundamental challenges for countries considering its use as a policy tool and for 
+those facing the prospect of such a tool being used by their trading partners.
+For countries like Brazil that are facing the prospect of BCAs in their trading partners, the 
+challenges include, as a starting point, how best to support their exporters in understanding 
+and complying with BCA provisions with the least possible impairment of competitiveness.
+At a higher level, the challenges include how to influence the policy and design choices 
+made by their trading partners—that is, how to ensure that their realities and concerns 
+are considered. As part of that challenge, a key issue is how to help ensure that if there are 
+multiple BCA regimes, their various institutions, measurements, and reporting protocols are 
+not divergent, needlessly forcing exporters to conform to different requirements in regimes 
+aimed at the same objectives. Another aspect of that challenge is the question of what 
+norms to use in assessing and critiquing BCA regimes and proposals. Trade law offers one 
+benchmark by which some aspects of a BCA regime can be judged, but it is not particularly 
+helpful in answering many relevant design questions. 
+The critical starting-point questions to answer in each country, as part of an effort to address 
+the possibility that trading partners will adopt BCAs, are:
+• What are the country’s sectoral vulnerabilities to foreign BCAs? What are the potential 
+impacts?
+• What options and channels exist to influence the adoption or design of foreign BCAs?
+• What principles or best-practice standards could be used as benchmarks to judge the 
+design choices made by foreign designers in elaborating a BCA regime?
+2.2 Why Have BCAs Become a Relevant Topic in the 
+International Agenda?
+BCAs become a hot topic in trade and environment policy circles. The proximate reason is 
+the coming into law of the EU’s CBAM in May 2023 and its enforcement in October 2023. 
+Starting in January 2026, CBAM will impose charges on upstream goods in the iron and steel, 
+aluminum, cement, and fertilizer sectors (as well as on electricity imports), forcing them to 
+purchase emissions allowances as if they had been produced under the EU ETS.
+But the underlying reasons are more fundamental. As the science around climate change 
+becomes more unequivocal, the impacts of climate change are increasingly felt, the cost of 
+low-carbon technologies comes down, and governments are under increasing pressure to act. 
+IISD.org     
+ 5
+Global Dialogue on Border Carbon Adjustments: The case of BrazilAs countries ramp up their climate ambition, some will impose costs on producers in EITE 
+sectors. If they do, they will be forced to consider how to protect those sectors from leakage: 
+the increase in GHG emissions in other jurisdictions in response to climate policies in an 
+implementing jurisdiction. With no plan to address leakage, policy-makers risk the political 
+fallout from fostering deindustrialization rather than decarbonization. BCAs are one of only a 
+few tools dedicated to this end, so it will be increasingly considered. 
+The result is a flurry of interest in BCAs:
+• Canada and the United Kingdom, both countries with carbon pricing regimes, have 
+completed formal public consultations on what BCA might look like in their countries 
+(Department of Finance, 2021; United Kingdom, 2023a), and the United Kingdom 
+has announced that it will implement a BCA as of 2027 (United Kingdom, 2023b).
+• Japan’s 2020 Green Growth Strategy called for the consideration of BCAs, though 
+there has been no public consideration since that time (Ministry of Economy, Trade 
+and Industry, 2020). 
+• In Australia, as part of the country’s keystone climate regulation reform, the Safeguard 
+Mechanism, the government is undertaking a review of policy options to address 
+carbon leakage, explicitly including BCAs (Department of Climate Change, Energy, 
+the Environment and Water, n.d., 2023).1
+• The United States has repeatedly announced its intention to put a BCA regime in 
+place, starting with President Biden’s presidential campaign and continuing with 
+announcements in the U.S. Trade Representative’s 2021 Annual Report . Several failed 
+legislative attempts at carbon pricing and BCAs have gone by the board since then, 
+but a recent bill by Senator Cassidy is seeking bipartisan support by proposing border 
+carbon charges without  a domestic carbon price.2
+More broadly, BCAs are part of a larger trend to consider the carbon content of traded goods, 
+reflected in guidelines for green government procurement, deforestation-free products rules, 
+private sector low-carbon requirements for upstream value chains, and proposals such as the 
+U.S.–EU Global Arrangement on Sustainable Steel and Aluminum and various versions of 
+a climate club.3
+In short, we are seeing increasing interest in tools like BCAs as a part of the inevitable policy 
+response to worsening climate change. The upshot is that we will surely see more such tools 
+in use in the coming years, more traded goods, and more sectors covered. While the current 
+trends weigh heavily toward use by high-income countries, that may change; many emerging 
+developing countries have strong industrial sectors and plans for climate ambition of their own.
+1 See https://www.dcceew.gov.au/sites/default/files/documents/safeguard-mechanism-reforms-factsheet-2023.pdf
+2 See: https://www.congress.gov/bill/118th-congress/senate-bill/3198/text
+3 A climate club is a coalition of countries intending to adopt stringent climate change mitigation policies. William 
+Nordhaus proposed that countries willing to adopt these policies should create a club, introduce carbon pricing 
+among member states, and impose fees on imported goods from countries that are not part of the club nor adopt 
+similar carbon pricing mechanisms (Nordhaus, 2015).
+IISD.org     
+ 6
+Global Dialogue on Border Carbon Adjustments: The case of Brazil2.3 Brazil’s In-Country Process and its Objectives
+In Brazil, the dialogue process was structured based on two workshops, which gathered the 
+main stakeholders of the “BCA issue.” For each workshop, CINDES prepared documents and 
+materials that were previously distributed to those who could confirm their attendance. After 
+each workshop, CINDES prepared a report synthesizing the debates and conclusive remarks 
+and recommendations. At the end of the second workshop, the participants were asked to fill 
+out a short feedback questionnaire to assess the dialogues’ main impacts and identify possible 
+next steps or follow-up actions. The first workshop was held in a hybrid format, while the 
+second was in-person. 
+The two workshops were organized through a partnership between CINDES and CNI, who 
+shared the coordination of tasks for the event, including identifying the stakeholders to invite 
+and issuing invitations, among other responsibilities. 
+CNI provided the venues and infrastructure for the workshops, while CINDES contributed 
+to the list of invitees and the technical content for the meeting. The first event was held in a 
+hybrid format, with in-person and virtual participation from interested parties. 
+The project’s first workshop took place on the afternoon of September 21, 2023, at the 
+headquarters of CNI in Brasília, with significant participation from federal government 
+agencies and representatives of business associations in the steel, aluminum, chemical, glass, 
+and oil sectors, even though some of these sectors are not currently covered by the scope of 
+the EU’s CBAM. 
+The absence of invited representatives from the financial and workers’ confederations is 
+an indicator that CBAM has not yet received attention on their policy agendas, which is 
+unsurprising for those following Brazil’s economic and political landscape and discussions 
+about trade policy. Labour unions generally do not get involved in the debate related to trade 
+policy except to support businesses’ demands for protection. In a similar vein, the private 
+financial sector’s interest in trade policy arises when trade matters are perceived as a source 
+of risks or opportunities for their clients. In Brazil, concerns related to CBAM/BCAs do not 
+seem to have reached that level yet.
+The second meeting, held in São Paulo on November 23, 2023, at CNI local offices, 
+involved only non-governmental stakeholders (business organizations and companies 
+from industrial sectors potentially affected by BCAs, think tanks, and representatives of 
+the academia). Its objective was to formulate proposals and recommendations so that 
+mechanisms such as the EU CBAM consider the interests of the main actors involved and/
+or those impacted by the mechanism.
+IISD.org     
+ 7
+Global Dialogue on Border Carbon Adjustments: The case of Brazil3.0 The Expected Impacts of EU’s CBAM 
+in Brazil and the Risks of BCA Diffusion to 
+its Jurisdictions
+To Brazil, the primary concern raised by CBAM relates to its systemic impacts on the 
+international trade regime. Its unilateral nature and the prospects of its diffusion to various 
+national jurisdictions, each with its own models and technical standards, can bring about 
+diversions and distortions in global trade, with adverse effects on economic growth and 
+consumer welfare.
+3.1 The Relevance of the EU Market for CBAM-
+Affected Products
+Considering the products within the scope of the EU’s CBAM—the only BCA for which 
+rules have already been disclosed—it is estimated that just over USD 3 billion of Brazilian 
+exports in 2022 would be affected by the mechanism. The share of Brazilian exports covered 
+by CBAM in the country’s GDP is only 0.15%, indicating that as long as the mechanism is 
+limited to the European bloc’s market, its effects on the Brazilian economy will be limited.4
+Exports of products included in CBAM accounted for an average of 5.8% of Brazil’s 
+total exports to the world over the past 3 years (2020–2022). The European Union 
+accounted for approximately 10% of the total Brazilian exports of these products to the 
+world, with the average value exported to the EU during this period equivalent to 0.6% of 
+Brazil’s total exports.
+Products in the iron and steel sector account for almost all the Brazilian exports affected by 
+the European mechanism: 92% of the value of exports of the product group, with aluminum 
+coming in second at 3% of the total, always considering the average of the previous 3 years. 
+Therefore, the analysis of the impacts of CBAM, in its current configuration, in Brazil should 
+focus on this subset of products.
+The EU is not a significant destination for Brazilian exports of those products, as shown 
+in Table 1. For iron and steel products, the European bloc represents 10.7% of the total 
+products exports in Chapter 72—cast iron, iron, and steel—by far, the most relevant in export 
+value and 6.3% for products in Chapter 73 (works of cast iron, iron, or steel).
+Cement exports are negligible in terms of value, with Brazilian trade being more intense with 
+neighbouring countries. In the case of hydrogen, a product in Chapter 28 (inorganic chemicals 
+products), exports are still incipient. However, there is a significant investment movement in 
+the country, most of which is aimed at the European market and is being developed to meet 
+the regulations imposed by the bloc. Finally, in the case of fertilizers, Brazil is a net importer 
+of the product, which is essential for the country’s large agricultural production.
+4 All the figures relating to Brazilian exports are official data, extracted from http://comexstat.mdic.gov.br/pt/home
+IISD.org     
+ 8
+Global Dialogue on Border Carbon Adjustments: The case of BrazilTable 1. Brazilian exports of CBAM products – EU (average 2020–2022)5
+Chapter DescriptionValue, free on board 
+(USD)EU’s participation in 
+the total exports
+25 Salt, sulphur, earth and stones, 
+plaster, lime, and cement70,656,884.33 42.87%
+26 Ores, slag, and ashes 298,486,685.67 10.34%
+28 Inorganic chemical products 10,952,163.00 25.12%
+31 Fertilizers 913,739.67 0.44%
+72 Cast iron, iron, and steel 1.130,279,958.33 10.68%
+73 Works of cast iron, iron, or steel 70,541,212.67 6.28%
+76 Aluminum and its works 54,127,963.33 5.22%
+Source: Comex Stat, 2023.
+Figures 1 to 4 show the geographical distribution of the Brazilian exports of these products, 
+aggregated by the Harmonized System (HS) chapters, but considering only the ones 
+affected by the CBAM.
+Figure 1. Chapter 26 products exports distribution (average participation 2020 –2022)
+Source: Comex Stat, 2023.
+5 The numbers refer to the exports of goods within the chapters that are under the scope of the EU CBAM. 40.3%
+Other13.7%
+Argentina
+13.0%
+United States
+12.5%
+China
+10.3%
+European Union10.1%
+EgyptSouth Korea 9.8%
+Japan 9.7%
+Trinidad & Tobago 5.1%
+Libya  2.6%
+United Arab Emirates 2.0%
+Other  11.1%Ores, slags, and ashes
+IISD.org     
+ 9
+Global Dialogue on Border Carbon Adjustments: The case of BrazilFigure 2. Chapter 72 products exports distribution (average participation 2020–20 22)
+Source: Comex Stat, 2023.
+Figure 3. Chapter 73 product export distribution (average participation 2020–2022 )
+Source: Comex Stat, 2023. 21.31%
+OtherCanada  3.56%
+Peru 2.05%
+Türkiye 2.04%
+Chile  1.82%
+Bolivia  1.59%
+Other  10.25%
+5.57%
+Mexico
+7.75%
+China
+10.68%
+European Union47.73%
+United States
+6.96%
+ArgentinaCast Iron, iron, and steel
+5.3%
+United Arab Emirates6.1%
+Uruguay 6.3%
+European Union9.6%
+Argentina48.1%
+Other24.6%
+United StatesParaguay 4.4%
+China  3.6%
+Chile  3.3%
+Mexico  3.1%
+Canada  3.1%
+Other  30.6%Works of cast iron, iron or steel
+IISD.org     
+10
+Global Dialogue on Border Carbon Adjustments: The case of BrazilFigure 4. Chapter 76 products exports distribution (average participation 2020–2 022)
+Source: Comex Stat, 2023. 
+Although the EU is not a relevant destination for Brazilian exports of the main products 
+affected by CBAM, if the trend of imposing BCAs spreads to other markets like the United 
+States and Japan, the threats to Brazilian exports could become more significant. The graphs 
+above show that the United States absorbs nearly 50% of Brazilian Chapter 72 exports 
+and 25% of Chapter 73 exports. For aluminum, the greater risk is that Japan may impose 
+a BCA, as the country accounts for 30% of Brazilian foreign sales of the product. Among 
+other countries considering the adoption of BCAs, only Canada appears as one of the top 
+10 destinations for Brazil’s steel exports, but even it has low participation (around 3% of 
+Chapters 72 and 73 exports). The United Kingdom and Australia are not even among the 
+relevant destinations for Brazil’s exports of BCA-targeted goods.
+3.2 Brazil’s Relevance as a Supplier to the European 
+Market and Its Main Competitors
+Except for iron agglomerates and concentrates (Chapter 26 of the HS), of which Brazil is the 
+second-largest global exporter, Brazil is not a primary originator of global imports of the set 
+of products under CBAM, as shown in Table 2. The main iron and steel sector suppliers are 
+China, EU countries, Japan, South Korea, and the United States. Brazil’s main competitors in 
+aluminum are China, Europe, Canada, the United States, and India.5.2%
+European Union
+19.2%
+Argentina29.4%
+Japan22.3%
+OtherMexico  3.7%
+Paraguay 3.3%
+Colombia  3.3%
+Switzerland 2.7%
+Uruguay 2.2%
+Other  7.1%
+7.7%
+Chile 
+16.1%
+United StatesAluminum and its works
+IISD.org     
+11
+Global Dialogue on Border Carbon Adjustments: The case of BrazilTable 2. The world’s main exporters of CBAM-affected products in the iron, steel, and 
+aluminum sectors
+26 – Ores, slag, 
+and ashes72 – Cast iron, 
+iron, and steel73 – Works of 
+cast iron, iron, or 
+steel76 – Aluminum 
+and its works
+1st South Africa China China China
+2nd Brazil European Union European Union European Union
+3rd Canada Japan United States Canada
+4th Ukraine Germany South Korea United States
+5th European Union South Korea Japan India
+Brazil (15th) Brazil (19th) Brazil (24th)
+Source:  World Integrated Trade Solution, 2023.
+As seen in Table 3, the list of Brazil’s main competitors in the EU market is somewhat 
+different from what is observed worldwide. Regarding iron and steel products, Brazil has 
+Russia, China, Türkiye, Canada, and the United Kingdom among its main competitors. 
+Brazil’s main competitors in the European market in aluminum are Norway, China, Türkiye, 
+and Russia, although Brazil is an insignificant supplier to the EU.
+Table 3. EU’s main suppliers of the CBAM-affected products in the iron, steel, and 
+aluminum sectors
+26 – Ores, slag, 
+and ashes72 – Cast iron, 
+iron, and steel73 – Works of 
+cast iron, iron, or 
+steel76 – Aluminum 
+and its works
+1st Canada Russia China Norway
+2nd Russia Türkiye Türkiye China
+3rd Ukraine India United Kingdom Türkiye
+4th Brazil Ukraine Other Asian 
+nationsRussia
+5th Russia South Korea Switzerland Iceland
+Brazil (9th) Brazil (26th) Brazil (41st)
+Source: World Integrated Trade Solution, 2023.
+The World Bank’s Relative CBAM Exposure Index is designed to identify countries with high 
+exposure to the EU CBAM using carbon emission intensity and exports of products subject to 
+the mechanism. According to the methodology adopted by the World Bank Index, “assuming 
+a carbon price of $100 per metric ton, the index measures the additional cost of CBAM 
+certificates for exporters compared to the average EU producer, adjusted for the proportion of 
+IISD.org     
+12
+Global Dialogue on Border Carbon Adjustments: The case of Brazilexports to the EU market. It recognizes cost changes in the EU market, where EU producers 
+bear emissions costs, allowing relatively clean exporters to gain competitiveness despite the 
+obligation to purchase certificates” (World Bank 2023).
+Table 4 gathers information on Brazil’s Relative CBAM Exposure Index and its main 
+competitors in the EU market for iron and steel products. Compared to its competitors, 
+Brazil is less vulnerable than China, Russia, and Türkiye in terms of the Relative CBAM 
+Exposure Index, which is influenced by both GHG emission intensity and the importance of 
+the EU market for each country’s exports. Türkiye has a lower emission intensity than Brazil 
+but is more dependent on the European bloc for its exports. Canada has a similar emission 
+intensity to Brazil, but the European market is even less relevant there compared to Brazil. 
+The United Kingdom has a negative relative exposure index, which means the country may 
+benefit from CBAM, as its emission intensity for iron and steel products is lower than that 
+observed in EU countries.
+Table 4. Relative exposition to the CBAM index for the iron and steel sector: Brazil and 
+its main competitors in the EU
+EU’s participation in the total 
+exports of the sector (%)Emissions intensity 
+GHG (kg/USD)Relative exposition 
+to CBAM
+Brazil 12.3 0.37 0.00262
+EU  - 0.16 -
+China 8.8 0.52 0.00313
+Russia 29.3 0.61 0.01320
+Türkiye 43.2 0.27 0.00457
+Canada 1.5 0.38 0.00034
+United 
+Kingdom66.4 0.13 -0.0024
+Source: World Bank, 2023. 
+Note: Data on the EU’s share of Brazil’s total exports are slightly different from those presented by 
+Comex Stat, as they refer to 2019 and are taken from the World Bank’s World Integrated Trade Solution 
+database.
+A similar exercise was carried out for the aluminum sector (see Table 56). In this sector, 
+Brazil’s vulnerability vis-à-vis its competitors in the European market is relatively low due 
+to the limited share of the bloc in Brazilian exports. However, the GHG emission intensity 
+in Brazil’s aluminum production is significantly higher than that of its main competitors. 
+Norway, the main supplier to the EU, will not be affected by CBAM, as it is a member of 
+the European Free Trade Association (EFTA) and therefore has an ETS linked to the EU’s, 
+6 The results of the exercises presented in Tables 4 and 5 should be taken with caution since they are based on 
+emission data from 2014. Additionally, the data source is GTAP 10, which provides emissions data aggregated by 
+sectors, which may not exactly match the products incorporated in CBAM.
+IISD.org     
+13
+Global Dialogue on Border Carbon Adjustments: The case of Brazilmaking it exempt from the mechanism’s scope. China and Russia are more exposed to CBAM 
+due to the higher share of their exports going to the EU, although they have lower emission 
+intensity indices than Brazil. Finally, Türkiye has an emission intensity similar to that of EU 
+countries and is, therefore, less vulnerable.
+Table 5. Relative exposition to the CBAM index for the aluminum sector: Brazil and its 
+main competitors in the EU
+EU’s participation in the total 
+exports of the sector (%)Emissions intensity 
+GEE (kg/USD)Relative exposition 
+to CBAM
+Brazil 2.5 0.67 0.00151
+EU  - 0.07 -
+Norway 93.7 0.43 -
+China 13.2 0.28 0.00284
+Türkiye 61.6 0.08 0.00078
+Russia 40.0 0.13 0.00271
+United 
+Kingdom66.4 0.13 -0.0024
+Source: World Bank, 2023.
+Note: The data on the EU’s share of Brazil’s total exports are slightly different from those presented by 
+Comex Stat, as they refer to 2019 and are taken from the World Bank’s World Integrated Trade Solution 
+database.
+In general, the brief analysis conducted here suggests that while the European CBAM is 
+not expected to have significant economic impacts on Brazil, its potential spread to markets 
+in other developed countries could lead to a loss of competitiveness for some sectors of the 
+Brazilian industry in relevant export markets (namely the United States for steel and Japan for 
+aluminum). Therefore, it is important to assess the design of the mechanism adopted by the 
+EU and seek to influence the different designs CBAM may take in other jurisdictions.
+IISD.org     
+14
+Global Dialogue on Border Carbon Adjustments: The case of Brazil4.0 Reactions and Responses by the Main 
+Stakeholders 
+The Brazilian government—and some business organizations in the country, including 
+the CNI and five other sectoral associations—have sought to influence the design of the 
+mechanism by responding to public consultations opened by the EU in various stages 
+of regulation development, as well as those opened by the governments of the United 
+Kingdom and Canada. 
+4.1 Response by the Brazilian Government
+The Brazilian government has expressed its concerns about the distortive nature of CBAM 
+regulations within the World Trade Organization and other multilateral forums. The main 
+arguments presented by Brazilian representatives relate to concerns that CBAM may violate 
+the principles of non-discrimination laid out in the General Agreement on Tariffs and Trade, 
+as the measure introduces differential treatment between nations (mainly EU member states, 
+EFTA countries, and countries outside the bloc).
+Among the points raised by the Brazilian government’s statements, the following stand out: 
+• The mechanism, which will integrate the EU ETS, should be effectively “equivalent” 
+to the one imposed on domestic production. The analysis of alleged equivalence 
+should consider various aspects: scope, emissions calculation method, certificate 
+pricing, operator transferability, certificate validity period, compliance administrative 
+burden, verification rigour, and penalties, among others. 
+• All products covered by CBAM should be, in fact, equivalent to those subject to the 
+ETS when produced in the EU. 
+• The emissions certification process by operators should be simple and efficient, and 
+there should be no systematic recourse to the default value that constitutes de facto 
+discrimination against imported goods in cases where the operator does not provide 
+the necessary information to quantify their emissions.
+There is also the argument of a possible violation of the principle of common but 
+differentiated responsibilities in international environmental law, which determines 
+that nations will have different roles in combating climate change depending on their 
+individual conditions. 
+4.2 Responses by the Business Sector
+CNI has played a leading role in fostering awareness within the Brazilian business sector of 
+the challenges and implications that could derive from the CBAM initiative for the country’s 
+exports. It has also sought to influence the design of the mechanism by responding to public 
+consultations opened by the EU and other countries considering the adoption of BCAs.  
+IISD.org     
+15
+Global Dialogue on Border Carbon Adjustments: The case of BrazilThe statements made by CNI regarding the European CBAM incorporate both general issues 
+and various specific concerns, including some at the sectoral level. There is some overlap 
+between the issues raised by the government and those presented by CNI, although the latter 
+has significantly advanced in the detail of its concerns.
+Box 1. CNI’s submission to the European Commission on July 11, 
+2023: Brief summary
+Comparability of the Calculation of Embodied Emissions for CBAM-Covered 
+Products and Similar EU Products:  To improve consistency and comparability of data 
+between CBAM-covered products and similar EU products concerning direct and 
+indirect embodied emissions, it is important to clarify the similarities and differences 
+between the monitoring reporting, and verification (MRV) methodologies under the 
+EU ETS and CBAM.
+Comparability of Administrative Burdens and Compliance Costs between CBAM-
+Covered Products and Similar EU Products:  To ensure transparency and comparability 
+between imported products covered by CBAM and similar EU products, it is necessary to 
+clarify the similarities and differences in administrative burdens and compliance costs 
+for imported products subject to CBAM and EU products subject to ETS.
+Comparability of Carbon Costs Incurred under CBAM and EU ETS:  To ensure 
+transparency and comparability between costs incurred under CBAM and those already 
+incurred in the EU for the production and sale of products under EU ETS, the EU should 
+disclose compensation provided for indirect costs for products listed in Annex I of the 
+CBAM Regulation, preferably at the 8-digit HS code level.
+Role of International Standards:  The implementation regulation should recognize the 
+importance of internationally recognized and widely used frameworks for measuring 
+and managing GHG emissions, such as the GHG Protocol, ISO standards, and national 
+MRV systems. The EU should accept as equivalent all relevant international standards 
+for calculating embodied emissions, even if these methodologies differ from those 
+prescribed in Article 4 of the draft implementation regulation.
+Role of National Accreditation Bodies in Third Countries:  It is important that the EU 
+accept entities accredited by other countries and clarify procedures for cooperation 
+with national accreditation bodies in third countries for verifying embodied emissions. 
+This option can eliminate unnecessary and duplicate costs, time, and resources.
+Use of Default Values:  The EU should clarify when default values will be made available 
+for each tariff code and country and whether they can be reported in the CBAM report 
+in accordance with the structure of Annex I of the draft implementation regulation.
+Indirect Emissions: During the transition period, the calculation of indirect emissions 
+should be open to different methodologies to ensure equivalent coverage and the 
+accuracy of data on emissions in third countries.
+IISD.org     
+16
+Global Dialogue on Border Carbon Adjustments: The case of BrazilCarbon Capture:  The restrictions required by CBAM in point B.8.2 of Annex III of the 
+draft implementation regulation may hinder the accounting of CO2 removals using 
+carbon capture, storage, and utilization technologies in hard-to-abate industries 
+considering long-term implementation of these technologies.
+Requirements for Laboratory Analyses:  The CBAM Regulation does not allow results 
+of in-house chemical analyses to be used to determine emissions quantification 
+parameters, such as carbon content. The regulation requires independence, recommends 
+ISO 17025 accreditation for all parameters, and defines a high-frequency sampling 
+plan in accordance with point B.5.4 (Requirements for Laboratory Analyses) of Annex 
+III of the draft implementation regulation. These requirements are extremely restrictive 
+compared to the current MRV methodologies practiced by the Brazilian industry.
+Source: CNI, 2023.
+The statements provided by the other sectoral business organizations (representing the steel, 
+aluminum, glass, and energy sectors) are in line, although less comprehensive and detailed, 
+with those presented by CNI.
+In addition to providing input during two phases of public consultations on the European 
+CBAM, CNI contributed positions to public consultations regarding the potential adoption 
+of BCAs by the governments of Canada and the United Kingdom. In these cases, the industry 
+representation’s stance was more generic, focusing on issues related to principles that should 
+be adhered to by such mechanisms.
+Box 2. CNI recommendations for the design of new BCAs
+CNI believes that the adoption of any mechanism by countries to prevent carbon 
+leakage should take into account the following principles. They should
+• be preceded by transparent and open debates throughout all stages of 
+development so that all stakeholders, including affected trading partners, can 
+comment and express their views, including about the implementation and 
+operation of the measure;
+• be discussed in international organizations such as the World Trade Organization 
+(WTO) and Organisation for Economic Co-operation and Development as an 
+effort to avoid unilateral implementation and promote a collective solution; be 
+informed by exhaustive technical analysis assessing the impacts of certain 
+measures not only on the environment but also on potential economic outcomes; 
+and be compatible with WTO rules and the Paris Agreement;
+• respect the principles agreed upon in the Paris Agreement and the United 
+Nations Framework Convention on Climate Change (UNFCCC), including the 
+principles of equity (Article 2.2 of the UNFCCC) and common but differentiated 
+responsibilities (Article 3.1 of the UNFCCC);
+• not constitute means of arbitrary or unjustifiable discrimination or a disguised 
+restriction on international trade, in accordance with Article 3.5 of the UNFCCC;
+IISD.org     
+17
+Global Dialogue on Border Carbon Adjustments: The case of Brazil• not aim to protect domestic companies over foreign companies;
+• not restrict imports or discriminate against goods based on processes and 
+production methods;
+• consider the natural resources and energy mix of foreign countries; 
+• consider the possibility of providing specific administrative and capacity-
+building support to governments, civil society organizations, and producers in 
+third countries;
+• ensure that the emission-reduction efforts and policies of other countries and 
+foreign companies are taken into account when establishing any mechanism, 
+even if these efforts are not related to carbon pricing; and
+• avoid the risk of trade diversion of certain carbon-intensive products to 
+third countries.
+Besides the Brazilian government and industry business associations, there were only a 
+few pieces of feedback provided by individual academics, which were very much in line 
+with the profile of the statements presented in response to the EU’s public consultations 
+on CBAM aspects.
+IISD.org     
+18
+Global Dialogue on Border Carbon Adjustments: The case of Brazil5.0 The Dialogues in Brazil: Stakeholders’ 
+main concerns and stances
+As mentioned in Section 2.3, the dialogues in Brazil were organized in two workshops. Five 
+government representatives from different policy-making areas and stakeholders from the 
+business sector and civil society organizations participated in the first one. Government 
+authorities were invited to present their views and the official stances of Brazil related to 
+the BCA issue. The second workshop was held in São Paulo, with the aim of deepening the 
+discussion among non-government stakeholders on the specificities of BCAs. Government 
+authorities did not participate in this event.
+5.1 The First Dialogue: Main statements from stakeholders
+While maintaining a certain level of generality, government representatives shared some 
+criticisms of the European CBAM discriminatory aspects, such as the short transition and 
+adaptation period granted to exporting countries and the choice not to consider scope 
+2 emissions in the steel sector. This consideration would benefit the Brazilian industry, 
+which relies heavily on renewable energy sources. There were also broader criticisms of the 
+methodology adopted by the European Commission for calculating GHG emissions.
+Concerns were also raised about the risk that the phasing out of free emission allowances—as 
+CBAM is gradually introduced while public support for energy consumption by European 
+industry continues—could lead to subsidies for domestic producers in the EU. It was also 
+argued that the mechanism does not feature compensations for the non-carbon-price-based 
+“climate efforts” made by exporting countries.
+Despite these points of concern and criticism toward the CBAM, during the workshop, 
+government representatives emphasized the acknowledgement that this mechanism is part of 
+an international trade trend that is here to stay and will evolve through expanding its coverage 
+and adopting other mechanisms that link trade to the environmental and climate agenda. This 
+perception led government representatives to three general considerations (not exclusively 
+related to the introduction of CBAM):
+• The first relates to the systemic risks stemming from unilateral initiatives like CBAM: 
+risks for global trade, multilateral rules, and Brazilian interests, such as fragmentation 
+and distortion of the “map” of comparative advantages due to these initiatives.
+• The second concern relates to the need to bring the discussion of these topics to 
+forums, such as the bi-regional negotiations with the EU and the upcoming G20 
+meeting in Rio de Janeiro in 2024, to reach negotiated and “constructive” solutions.
+• The third consideration relates to the fact that BCAs present a new and enduring 
+challenge to the traditional stance of Brazilian trade diplomacy, which has been to 
+reject the association between the two agendas (i.e., trade and environment), often 
+perceived as a protectionist strategy by developed countries. In this sense, Brazil 
+must move beyond a purely defensive stance in the trade and climate agenda and, 
+IISD.org     
+19
+Global Dialogue on Border Carbon Adjustments: The case of Brazilmore generally, in discussions about the green transition. This entails seizing external 
+opportunities associated with the positive outcomes of the new government’s climate 
+policy and Brazil’s comparative advantages in renewable energy sectors, among others.
+At the project’s first workshop, the CNI representatives emphasized the need for Brazilian 
+companies to prepare and adapt so they can face an international scenario in which 
+decarbonization issues will impact the trade agenda in the coming years. CNI agrees with the 
+government condemning the instrument but considers that the Brazilian authorities should 
+contribute to alerting companies that this is an irreversible trend and that they need to adapt.
+In this regard, their representatives pointed out that Brazil is not doing its “homework” in 
+carbon pricing policy: the ETS has yet to be implemented, and the country lacks a data 
+monitoring system for emissions. On the domestic front, CNI will develop a manual with 
+detailed information about the CBAM mechanism to distribute to companies.
+Furthermore, according to CNI’s perspective, it would be necessary to consider that it 
+is still possible to influence the design of the European CBAM, as several issues related 
+to implementing the mechanism have not yet been defined. The country would need 
+to discuss proposals to reduce the adaptation costs so that its companies can comply 
+with the mechanism.
+Among other business representatives, the only notable intervention at the first workshop was 
+a question addressed to the government about Brazil’s potential adoption of a CBAM. The 
+question was raised by a representative from the steel industry, but according to information 
+obtained from the CNI, the chemical sector also supports Brazil’s adoption of CBAM.
+Finally, among the representatives of civil society organizations and academia in the first 
+dialogue, the only intervention—made by a think tank representative focused on the climate 
+agenda—was to advocate that mechanisms like CBAM strengthen their climate ambition, 
+including scope 3 emissions. This proposal goes against those presented by the government 
+and business sectors, which is not surprising given the priorities of the specific think tank.
+5.2 The Second Dialogue: Key design elements of BCAs, 
+principles and best practices, and implementation issues
+One objective of the second workshop was to discuss the foreseeable impacts of BCA and 
+likely adaptative measures to be adopted by companies in emission-intensive sectors in Brazil 
+as a response to the mechanism.
+As for the expected impacts, the main concerns mentioned by participants were the diversion 
+of exports to markets that do not impose BCAs and the loss of competitiveness due to 
+increased costs as a result of the CBAM charge and compliance-related costs. Representatives 
+of the chemical sector pointed out the likelihood of gaining competitiveness, as production in 
+Brazil has lower emissions than its competitors in the world market.
+As for the adjustments required to adapt to the new regulation, the emphasis was on engaging 
+with the Brazilian government for negotiations with countries that adopt BCAs, implementing 
+measures to enable emission MRV practices in line with the requirements of importing 
+IISD.org     
+20
+Global Dialogue on Border Carbon Adjustments: The case of Brazilcountries, and sectoral coordination to influence the definition of standards in international 
+organizations. Surprisingly, the option related to investments in clean technologies was only 
+marginally referred to.
+These issues were explicitly addressed by the second workshop through three questions 
+presented to the participants:
+• Which critical elements in the design of BCAs are the most relevant for exporters in 
+your sector?
+• Which principles and best practices would you like to see incorporated in the BCAs?
+• How should BCAs be implemented? 
+The participants identified the scope of emissions and the method for calculating the 
+incorporated emissions as the main critical elements in the design of BCAs. A second block 
+of options was well behind the first two but also received the attention of the participants: 
+the administrative costs due to the need to comply with the BCAs and the destination of the 
+revenues collected by BCAs.
+Beyond the ranking of the main critical elements in the design of BCAs, the discussions on 
+this issue, as well as on principles and best practices, focused on the following themes: 
+• Emissions scope:  One of the participants’ main concerns regarding the design of 
+BCAs is the scope of emissions covered by the mechanism. Brazil has one of the 
+cleanest electricity matrices in the world. If only direct emissions are considered, as 
+happens with the EU CBAM, then the energy-intensive sectors lose one of their main 
+comparative advantages. This is the case in the iron, steel, and aluminum sectors 
+in Brazil. Even though these sectors are the most affected by the absence of scopes 
+2 and 3 in the EU CBAM, there was a consensus that the three scopes should be 
+incorporated into the BCA design if the purpose of the implementing jurisdiction is to 
+reduce GHG emissions.
+• Calculation of embedded emissions:  According to participants, the calculation 
+methodology should be science-based. BCAs should seek standardization and 
+interoperability among different methodologies and certification schemes. No 
+technology, including carbon capture, utilization, and storage, should be excluded. 
+Implementing jurisdictions should seek to coordinate or harmonize their BCA 
+requirements, taking into account several existing initiatives in carbon clubs, as well as 
+other international sectoral forums. It is essential to avoid fragmentation.
+• Coverage of trade flows: The question of whether the BCA’s design should foresee 
+granting some sort of rebate of the carbon price paid by domestic producers at the 
+point of export was very controversial. Although this could make sense from the 
+point of view of export competitiveness, it would make the BCA an unequivocal trade 
+measure with the risk of being incompatible with the WTO. This would transform 
+BCA into an anti-environmental measure, promoting exports and fostering the 
+triangulation of carbon. As the EU’s products are more carbon-intensive than many 
+of its competitors from other countries, granting rebates for exports would mean an 
+incentive to European producers to seek other markets that do not impose BCAs 
+IISD.org     
+21
+Global Dialogue on Border Carbon Adjustments: The case of Brazilwithout having to pay the carbon price. This would represent a carbon leakage. EU’s 
+products could end by competing with domestic products in some jurisdictions that 
+adopt carbon pricing but not a BCA.
+• Geographic scope and exemptions:  This issue was considered very controversial. 
+Developing countries would be disproportionally affected by BCAs. The absence 
+of special treatment for developing and least developed countries would violate the 
+“common but differentiated responsibilities” principle. While recognizing that the 
+imposition of BCAs’ costs on developing countries’ exports is unfair, participants 
+shared their concerns that an exemption would represent a violation of WTO rules 
+and a risk of carbon leakage. The participants’ recommendation to deal with this issue 
+is that developed countries implementing BCAs use the collected revenues to finance 
+technological adaptation in developing countries.
+• Credit for domestic policies:  Although participants agreed that it would be fair 
+that BCAs’ design guarantees credit for the non-carbon-price-based costs that 
+exporters already face in complying with domestic climate change policies, they 
+also acknowledged how difficult it would be to implement this kind of provision.  
+Furthermore, this mechanism would benefit developed countries, which tend to have 
+more stringent regulations regarding climate change.
+• Role of the WTO and multilateral organizations:  Participants suggested that 
+WTO members agree to commit to notifying all domestic policies involving subsidies 
+to the decarbonization process. Multilateral organizations should seek to develop 
+methodologies to quantify the costs incurred by companies to comply with domestic 
+regulations related to decarbonization.
+• Use of collected revenues:  Participants’ main concern regarding the collection 
+of revenues is related to the destination of these resources. If revenues are used to 
+finance technology adaptation in domestic industries in countries applying BCAs, 
+it will increase the competitiveness gap vis-à-vis exporting companies from other 
+jurisdictions. As mentioned, the main recommendation is that developed countries 
+that implement BCAs use the collected revenues to finance technological adaptation in 
+countries negatively affected by BCAs.
+• Administrative costs:  Compliance with CBAM regulations implies administrative 
+costs that increase importation prices, jeopardizing the competitive position 
+of exporting countries. Implementing jurisdictions should seek to streamline 
+administrative procedures to avoid unnecessary bureaucratic costs. They should 
+guarantee that the bureaucratic burden involved in BCAs is comparable with those 
+demanded by national ETS regulations.
+As for the implementation of BCAs, the main recommendation is that it should be preceded 
+by public consultations and transparent debates at all stages. Trade partners affected by 
+the mechanism should have the opportunity to present their concerns and points of view 
+regarding the new regulations.
+BCA design should be discussed in multilateral forums, such as the WTO and Organisation 
+for Economic Co-operation and Development, to avoid unilateralism and fragmentation. 
+These discussions should be informed by deep technical analysis to assess the impacts of new 
+IISD.org     
+22
+Global Dialogue on Border Carbon Adjustments: The case of Brazilregulations on the environment, as well as on the economy of affected parties. BCAs should 
+not constitute any means of arbitrary discrimination or any disguised barrier to trade.
+During the transition period, no penalties should be applicable to soften the adjustment costs 
+in the production chains affected by BCAs.
+Finally, implementing jurisdictions should offer capacity building to developing 
+countries’ government authorities, companies, and civil society organizations to cope with 
+new regulations. 
+IISD.org     
+23
+Global Dialogue on Border Carbon Adjustments: The case of Brazil6.0 The Financial Sector Role: A work in 
+process…
+Although invited, financial sector representatives did not participate in the workshops. BCAs 
+do not seem to have entered the radar of the Brazilian banks, even in the case of Banco 
+Nacional de Desenvolvimento Econômico e Social (BNDES), the main federal development 
+balk, according to its representative at the first workshop.  
+The BNDES representative noted that while the bank considers environmental aspects 
+in financing companies, it does not have an explicitly defined climate policy. The ongoing 
+development of a sustainability taxonomy within the federal government could lead the bank 
+to adopt criteria and metrics (including emissions calculations) that solidify its climate policy.
+The role of the financial sector in supporting decarbonization was an issue proposed for 
+debate in the second workshop. Y et the question did not generate much discussion, and the 
+only recommendation presented was very generic, referring to BNDES setting new financial 
+instruments to support lowering emissions in the production processes. 
+In an effort to fill the information gap as far as the role of the financial sector is concerned, 
+CINDES has interviewed a former minister of finance and former president of BNDES, 
+Joaquim Levy.7 The main extracts of this interview are presented in Box 3.
+Box 3. Interview with Joaquim Levy: Summary notes
+The first challenge Brazilian companies must face is appropriately calculating carbon 
+emissions. The financial sector in Brazil is already seeking to contribute to this end, 
+commissioning technical studies to help their clients improve their environmental, social, 
+and governance initiatives and comply with emission MRV practices. 
+Brazil recently passed new federal legislation that adopts sustainability reporting rules, 
+following International Financial Reporting Standards S1 and S2 (International Financial 
+Reporting Standards, 2023). Comissão de Valores Mobiliários (Brazil’s equivalent 
+to the U.S. Securities and Exchange Commission) issued Resolution 193, making it 
+compulsory for public companies to follow these standards. They are starting with 
+voluntary disclosure of sustainable aspects by companies, with greater transparency, 
+standardization, and comparability. Levy believes this will help Brazilian companies be 
+better prepared to comply with emission MRV practices. 
+7 Joaquim Levy is currently the Director of Economic Strategy and Relations with the Market at Banco Safra. He 
+is a former minister of finance and president of BNDES (National Development Bank). He is a columnist at Valor 
+Econômico , Brazil’s most prestigious daily economic journal. His articles are often dedicated to climate change, 
+carbon markets, and environmental issues.
+IISD.org     
+24
+Global Dialogue on Border Carbon Adjustments: The case of BrazilAny technological adaptations will demand investment. The main question is whether 
+companies will invest in clean technology without subsidies from the Brazilian 
+government. The huge subsidies incorporated into green industrial policies in the United 
+States and the EU created an unlevel playing field for Brazilian companies. Brazil has 
+severe constraints in government spending capacity, and although it is possible that 
+BNDES will provide some low-cost credit, resources will be limited.
+The financial sector will finance the decarbonization transition through capital markets. 
+But it is not clear which will be the most likely technological route to decarbonization in 
+the iron-steel and aluminum sectors—the most impacted by BCAs in Brazil. While the 
+scenario remains unclear, the main actions are related to improving the accountability 
+of environmental, social, and governance initiatives. At the end of the day, financing the 
+decarbonization of production chains in Brazil will depend on the assessment of their 
+competitiveness and regulations in international markets.  
+The impacts of BCAs on the Brazilian steel sector are a matter of concern. This sector 
+is already facing the challenges of the existing overcapacity in the world market. 
+Overcapacity is stimulating the adoption of trade barriers, particularly the increase of 
+import tariff rates in the United States. The steel sector in Brazil is complaining about 
+the diversion of Chinese steel from other countries to the Brazilian market. BCA is an 
+additional risk factor for this sector in Brazil.
+IISD.org     
+25
+Global Dialogue on Border Carbon Adjustments: The case of Brazil7.0 BCAs as a Public Issue in Brazil: A 
+limited debate 
+As the process of BCA dialogues in Brazil has shown, BCAs and their implications for Brazil’s 
+exports could hardly be referred to as a “hot topic” in the trade and foreign policy debate. 
+This situation is owed to two different factors, one related to general features of the Brazilian 
+tradition in trade and foreign policy, and one associated with the specific characteristics of the 
+BCA as a trade-related mechanism.
+The first factor is made explicit in the reactions of federal government policy-makers, some of 
+whom participated in the project’s first workshop. These reactions were essentially defensive, 
+pointing to the supposedly illegal or unfair characteristics of BCAs. While government 
+representatives repeatedly recognized that the mechanism is irreversible and signals a change 
+in the era of trade policy, the federal government representatives’ defensive stance does not 
+help to progress toward a pragmatic perspective of preparing and adapting companies to an 
+unavoidable reality, as has been recommended by the CNI representatives. This broad factor 
+is also evidenced by the fact that the trade policy agenda in Brazil sees very limited debate in 
+civil society organizations beyond business sector associations. 
+The trade agenda, in general, and specifically regarding the BCA theme, seems to be distant 
+from the concerns of actors like the private financial sector and labour unions. Industrial 
+workers’ unions only engage through their leadership when supporting business demands 
+for protection.
+In the case of civil society organizations, very few think tanks include trade in their agenda. 
+Among think tanks and non-governmental organizations focused on the climate and 
+environmental agenda, there is a prevailing anti-trade bias (in the name of environmental 
+protection), and there are few—if any—resources allocated to the trade, environment, and 
+climate agenda. In academia, the topic mobilizes a few trade and international law experts, but 
+it does not generate significant interest.
+This configuration of positions predates the discussion of the CBAM in Brazil and is reflected 
+in any trade-related debate. The government and the industrial sector usually take a defensive 
+stance, while other sectors and organizations show limited interest. Discussions on the 
+negotiations of the Free Trade Area of the Americas at the beginning of the century and the 
+Mercosur–EU agreement were exceptions, as they were able to mobilize non-governmental 
+organizations more widely and, to a lesser extent, labour unions.
+A second factor explaining the lack of interest of many different stakeholders in the “BCA 
+debate” is that the mechanism—at least the EU’s, the only one in force currently—is 
+likely to have highly concentrated impacts in just one sector and limited effects on overall 
+exports. In addition, debating BCA is quite complex, requiring a considerable degree of 
+“technical” content.
+IISD.org     
+26
+Global Dialogue on Border Carbon Adjustments: The case of BrazilIn such a context, the BCA dialogues in Brazil were able to gather different stakeholders, 
+including some who were still far from the debate, and offer technical information on the 
+mechanism that is useful in helping the different stakeholders identify the specific challenges 
+that BCAs pose to their organizations.   
+Concerning possible next steps, the participants in the second workshop pointed out the 
+need to conduct studies to quantify the costs for Brazilian exporters of adopting the BCAs. It 
+was also suggested that efforts should be made to establish contact with organizations from 
+other developing countries to create joint initiatives to face the challenges introduced by 
+this mechanism.
+IISD.org     
+27
+Global Dialogue on Border Carbon Adjustments: The case of BrazilReferences
+Comex Stat. (2023). Brazilian foreign trade statistics.  Ministry of Industry, Trade and Services. 
+https://comexstat.mdic.gov.br/en/home  
+Department of Climate Change, Energy, the Environment and Water. (n.d.). Australia’s 
+carbon leakage review.  Australian Government. https://www.dcceew.gov.au/climate-change/
+emissions-reduction/review-carbon-leakage  
+Department of Climate Change, Energy, Environment and Water. (2023). Safeguard 
+mechanism reforms.  Australian Government. https://www.dcceew.gov.au/sites/default/files/
+documents/safeguard-mechanism-reforms-factsheet-2023.pdf  
+Department of Finance. (2021, August 5). Exploring border carbon adjustments for Canada.  
+Government of Canada. https://www.canada.ca/en/department-finance/programs/
+consultations/2021/border-carbon-adjustments/exploring-border-carbon-adjustments-
+canada.html
+International Financial Reporting Standards. (2023). IFRS S1 general requirements for disclosure 
+of sustainability-related financial information.  https://www.ifrs.org/issued-standards/ifrs-
+sustainability-standards-navigator/  
+Ministry of Economy, Trade and Industry. (2020). Green growth strategy through achieving 
+carbon neutrality in 2050.  Government of Japan. https://www.meti.go.jp/english/policy/
+energy_environment/global_warming/ggs2050/index.html    
+National Confederation of Industry. (2023, July 11). Feedback by the Brazilian National 
+Confederation of Industry (CNI) on the draft implementing regulation for CBAM proposed by 
+the European Commission.  https://ec.europa.eu/info/law/better-regulation/have-your-say/
+initiatives/13873-EU-Green-Deal-reporting-obligations-during-the-transitional-period-of-
+the-carbon-border-adjustment-mechanism/F3430338_en  
+Nordhaus, W . (2015). Climate clubs: Overcoming free-riding in international climate policy. 
+American Economic Review, 105  (4), 1339–70. https://ycsg.yale.edu/sites/default/files/files/
+nordhaus-climate-clubs.pdf   
+United Kingdom. (2023a, June 23). Addressing carbon leakage risk to support decarbonisation.  
+GOV .UK. https://www.gov.uk/government/consultations/addressing-carbon-leakage-risk-
+to-support-decarbonisation   
+United Kingdom. (2023b, December 18). Factsheet: UK Carbon Border Adjustment Mechanism.  
+GOV .UK. https://www.gov.uk/government/consultations/addressing-carbon-leakage-risk-
+to-support-decarbonisation/outcome/factsheet-uk-carbon-border-adjustment-mechanism
+United States Trade Representative. (2021). 2021 trade policy agenda and 2020 annual report 
+of the President of the United States on the Trade Agreements Program.  United States Trade 
+Representative.  https://ustr.gov/sites/default/files/files/reports/2021/2021%20Trade%20
+Agenda/Online%20PDF%202021%20Trade%20Policy%20Agenda%20and%202020%20
+Annual%20Report.pdff  
+IISD.org     
+28
+Global Dialogue on Border Carbon Adjustments: The case of BrazilWorld Integrated Trade Solution. (2023). Trade statistics by country/region.  https://wits.
+worldbank.org/countrystats.aspx?lang=en
+World Bank. (2023). Relative CBAM Exposure Index.  https://www.worldbank.org/en/data/
+interactive/2023/06/15/relative-cbam-exposure-index
+©2024 The International Institute for Sustainable Development  
+Published by the International Institute for Sustainable DevelopmentHead Office
+111 Lombard Avenue, Suite 325  
+Winnipeg, Manitoba  
+Canada R3B 0T4 Tel: +1 (204) 958-7700  
+Website:  www.iisd.org  
+Twitter: @IISD_news
+iisd.org

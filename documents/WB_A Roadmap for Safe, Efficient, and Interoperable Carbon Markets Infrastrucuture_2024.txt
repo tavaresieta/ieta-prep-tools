@@ -1,0 +1,1248 @@
+A Roadmap for Safe, Efficient, and  
+Interoperable Carbon Markets Infrastructure
+Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized
+Priority Area
+2 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Acknowledgements
+This roadmap has been prepared by the Carbon 
+Markets Infrastructure Working Group (CMI WG) 
+convened by the World Bank. The CMI WG members 
+include: Air Carbon Exchange, B3 – Brazilian Stock 
+Exchange, Climate Action Data Trust (CAD Trust), 
+CME Group, Climate Market Strategy & Infrastructure 
+Group (CMSI), Ecoregistry, Global Carbon Council 
+(GCC), Global Carbon Market Utility (GCMU), Gold 
+Standard, Indian Energy Exchange (IEX), Integrity 
+Council for the Voluntary Carbon Market (ICVCM), 
+Intercontinental Exchange, International Swaps 
+and Derivatives Association (ISDA), International 
+Standards Organization (ISO), Johannesburg Stock 
+Exchange (JSE), Nasdaq, Philip Lee LLP, Puro Earth, 
+S&P Global, Sylvera, US Treasury, Verra, World Bank, 
+and Xpansiv.
+The International Organization of Securities 
+Commissions (IOSCO) Secretariat participates as an 
+observer. 
+The CMI WG welcomes engagement from relevant 
+stakeholders interested in joining and contributing to 
+these ongoing efforts.Rights and attributions
+© 2024 International Bank for Reconstruction and 
+Development / The World Bank
+1818 H Street NW, Washington, DC 20433  
+Telephone: 202-473-1000
+Internet: www.worldbank.org
+The findings, interpretations, and conclusions 
+expressed in this work do not necessarily reflect 
+the views of the World Bank, its Board of Executive 
+Directors, or the governments they represent.
+The World Bank does not guarantee the accuracy of 
+the data included in this work. The boundaries, colors, 
+denominations, and other information shown on any 
+map in this work do not imply any judgment on the 
+part of the World Bank concerning the legal status of 
+any territory or the endorsement or acceptance of 
+such boundaries.
+Rights and permissions
+The material in this work is subject to copyright. 
+Because the World Bank encourages dissemination of 
+its knowledge, this work may be reproduced, in whole 
+or in part, for noncommercial purposes as long as full 
+attribution to this work is given.Attribution
+Please cite the work as follows: The World Bank; 
+Carbon Markets Infrastructure Working Group. 2024. 
+“A Roadmap for Safe, Efficient, and Interoperable 
+Carbon Markets Infrastructure,” Washington, DC. 
+Third-party content 
+The World Bank does not necessarily own each 
+component of the content contained within the work. 
+The World Bank therefore does not warrant that the 
+use of any third-party-owned individual component 
+or part contained in the work will not infringe on 
+the rights of those third parties. The risk of claims 
+resulting from such infringement rests solely with you. 
+If you wish to reuse a component of the work, it is 
+your responsibility to determine whether permission 
+is needed for that reuse and to obtain permission 
+from the copyright owner. Examples of components 
+can include, but are not limited to, tables, figures, or 
+images. 
+Any queries on rights and licenses, including 
+subsidiary rights, should be addressed to World Bank 
+Publications, The World Bank Group, 1818 H Street 
+NW, Washington, DC 20433, USA; fax: 202-522-2625; 
+e-mail: pubrights@worldbank.org.
+Design:  Simpelplus (www.simpelplus.de) 
+Copyediting: EpsteinWords (www.epsteinwords.com) CMIWG.ORG
+Priority Area
+3 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Table of  
+Contents
+Priority Area
+4 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+List of Figures
+Figure 1 Key challenges and recommendations to strengthen  
+ carbon market infrastructure 7
+Figure 2 Scope of the Carbon Markets Infrastructure  
+ Working Group 10
+Figure 3 Priority areas identified by the Carbon Markets  
+ Infrastructure Working Group 11
+Figure 4 Preliminary framework for ecosystem mapping 14 
+Figure 5 Connecting key data initiatives in carbon markets 28List of Tables
+Table 1 CMI WG member organizations 8
+Table 2 Identified bottlenecks in ecosystem governance  
+ within carbon markets infrastructure 18
+Table 3 Key concepts within information security 20
+Table 4 Key elements of transaction integrity 21
+Table 5 Identified bottlenecks in information security  
+ and transaction integrity 23
+Table 6 Identified bottlenecks in data and systems  
+ interoperability 27
+Priority Area
+5 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Abbreviations and acronyms
+ABC Anti-bribery and corruption 
+AML  Anti-money laundering 
+CAD Trust  Climate Action Data Trust
+CFTC  Commodity Futures Trading Commission
+CMI WG  Carbon Markets Infrastructure Working Group 
+COP28  28th annual Conference of the Parties of the  
+ United Nations Framework Convention on Climate Change
+COP29 29th annual Conference of the Parties of the  
+ United Nations Framework Convention on Climate Change 
+ICVCM  Integrity Council for the Voluntary Carbon Market 
+IIF  Institute of International Finance 
+IOSCO International Organization of Securities Commissions
+ISO International Organization for Standardization
+IT Information technology
+KYC  Know your customer MFA  Multi-factor authentication 
+MRV Monitoring, reporting, verification 
+SBSTA The Subsidiary Body for Scientific and Technological Advice,  
+ a subsidiary of the United Nations Framework Convention on  
+ Climate Change
+TC Technical committee
+TSVCM  Taskforce on Scaling Voluntary Carbon Markets 
+UNFCCC  United Nations Framework Convention on Climate Change  
+VVBs  Validation and verification bodies 
+Priority Area
+6 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Foreword
+Carbon markets can be a crucial channel for climate finance in developing 
+countries, where resource needs far exceed available funding. High integrity 
+carbon markets help mobilize capital, deliver measurable emissions reductions, 
+and bridge investment gaps. Beyond environmental benefits, these markets enable 
+projects that generate jobs and direct financial flows to communities. 
+At COP28, the World Bank released its carbon markets engagement roadmap, High 
+Integrity, High Impact: The World Bank Engagement Roadmap for Carbon Markets. 
+This roadmap outlines our ambition to unlock the potential of high-integrity carbon 
+markets by supporting countries in generating carbon credits and by deepening 
+partnerships to address key barriers to market expansion. 
+To scale effectively, carbon markets need safe, efficient, and interoperable 
+infrastructure. This entails (1) defining the roles and responsibilities of market 
+infrastructure players—from registries to trading venues and exchanges, (2) 
+implementing robust systems to ensure information security and transaction 
+integrity, thereby preventing fraud, money-laundering and double counting, and 
+(3) establishing common data frameworks and systems interoperability to enable a 
+globally connected market. 
+This nascent market is evolving rapidly and organically. The Paris Agreement gives 
+countries flexibility in structuring their national carbon market infrastructure. What 
+has emerged as a result is an agile yet fragmented landscape with inconsistent 
+terminology and unclear governance over roles and responsibilities. Building safe, efficient, and interoperable systems requires collaboration among 
+governments, regulators, standards bodies, infrastructure providers, philanthropies, 
+and nonprofit organizations. Following the roadmap launch, the World Bank 
+convened the Carbon Markets Infrastructure Working Group (CMI WG) to bring 
+diverse stakeholders together, identify critical bottlenecks, prioritize actions, and 
+develop guidelines to inform the creation of safe, efficient, and interoperable 
+carbon markets infrastructure. The inaugural output from this initiative is the 
+Roadmap for a Safe, Efficient, and Interoperable Carbon Markets Infrastructure. 
+The recent UN climate negotiations in Bonn (SB60) laid the groundwork for 
+advancing Article 6 discussions at COP29 in Baku, with parties signaling readiness 
+to engage constructively. COP29 presents a vital opportunity to resolve remaining 
+issues, including decisions on the international registry systems interoperability, 
+and related technical, functional, and data requirements—key elements for 
+operationalizing Article 6 under the Paris Agreement.
+Addressing bottlenecks in carbon market infrastructure is one piece of a broader 
+landscape that includes environmental, financial, and social integrity. However, 
+carbon market infrastructure is the backbone and arteries of market activity. 
+Tackling these bottlenecks head-on and early on is essential for the market to 
+develop on strong foundations. Decisions made today will shape our capacity to 
+scale these markets, mobilize climate finance, and achieve impactful emissions 
+reductions.
+Hania Dawood 
+Practice Manager, Climate Finance and Economics,  
+World Bank 
+Priority Area
+7 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+   Challenges
+   RecommendationsFIGURE 1
+Key challenges and 
+recommendations to strengthen 
+carbon market infrastructureExecutive summary 
+A well-structured and high-integrity carbon market has 
+the potential to mobilize essential financing for climate 
+action, especially in developing countries. Achieving 
+scale will require secure, efficient, and interoperable 
+infrastructure that fosters the growth and reliability of 
+these markets.
+This Roadmap for a Safe, Efficient, and Interoperable 
+Carbon Market Infrastructure 2024 identifies 
+critical bottlenecks relating to market infrastructure. 
+Left unaddressed, these bottlenecks will impede 
+scalability. These consist of i) lack of clarity in 
+ecosystem governance structures emerging out of 
+ambiguity in roles, liabilities, and governance structures, 
+which may cause confusion and inefficiencies, ii) lack 
+of documentation of current standards and market 
+practices related to information security and transaction 
+integrity measures, which undermines stakeholder trust 
+in the market, and iii) insufficient data and systems 
+interoperability, which hinders exchange of information. 
+This roadmap outlines the bottlenecks and priority action 
+areas identified by the CMI WG. These action areas will 
+be developed into three guidance notes and released 
+by June 2025 to coincide with the 62nd sessions of 
+United Nations Framework Convention on Climate 
+Change (UNFCCC) Subsidiary Body for Scientific and 
+Technological Advice (SBSTA).
+Clarify ecosystem 
+governance—covering 
+terminologies, roles, and 
+functions—to identify 
+gaps, including 
+blurred liability and 
+accountability 
+chains
+ Develop an inventory and 
+recommendations for 
+implementing robust 
+standards and 
+best practices in 
+information security 
+and transaction 
+integrity
+Provide targeted 
+capacity-building 
+and resources 
+to countries for 
+the development 
+and deployment 
+of carbon market 
+infrastructure Develop 
+recommendations 
+for the adoption of 
+standardized data 
+taxonomies aligned 
+with global policies; 
+and stocktake 
+and consolidate 
+ongoing initiatives for 
+a unified approach 
+to interoperability 
+across carbon 
+markets                    Lack of clarity  
+              in terminologies and    
+           governance structures  
+      across the carbon markets    
+     infrastructure  
+  ecosystem  
+Lack of  
+  interoperability  
+   of data and  
+         systems Insufficient  
+documentation of  
+standards and practices  
+related to information  
+   security and  
+     transaction  
+        integrity 
+  
+?
+            Insufficient     
+                           knowledge,  
+     capacity, and  
+                   resources in  
+            emerging economies  
+to develop and deploy  
+carbon markets  
+infrastructure
+ 
+Priority Area
+8 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Carbon Markets  
+Infrastructure Working Group
+Objectives and members 
+For carbon markets to be effective in increasing decarbonization, they must 
+operate with transparency, integrity, stability, accountability, and principles  
+of orderly functioning. High Integrity, High Impact: The World Bank Engagement 
+Roadmap for Carbon Markets released by the World Bank in December 2023 
+called for common frameworks shaping governance across the ecosystem of 
+principles-setters, independent standards, registries, validation and verification 
+bodies (VVBs), and rating agencies; connecting markets through interoperability 
+between different registries and trading platforms along with transparent and 
+integrated market-level data; harnessing digital technologies and scaling their use, 
+for example in measuring, reporting, and verifying emissions and reductions, which 
+could provide a much-needed boost to the market; and building capacity through 
+robust policy frameworks for carbon market infrastructure which in turn are 
+matched with better technical and institutional capacity at the country level.1 
+The CMI WG was established to address these goals: to identify key 
+bottlenecks that hinder the security, efficiency, and interoperability of carbon 
+market infrastructure, as well as outlining priority areas for action to address 
+these challenges in the medium and long term. The entities listed in Table 1 
+participated in the series of meetings and consultations beginning in June 2024, 
+which contributed to the development of this report; the CMI WG welcomes 
+new members who wish to join and contribute to the ongoing discussions and 
+workstreams.TABLE 1
+CMI WG Member Organizations
+CMI WG Member Organizations
+Climate Action Data Trust (CAD Trust)
+CME Group
+Climate Market Strategy &  
+Infrastructure group (CMSI)
+Ecoregistry
+Global Carbon Council (GCC)Air Carbon Exchange
+Intercontinental Exchange B3 – Brazilian Stock Exchange
+Observer: International Organization of 
+Securities Commissions (IOSCO) SecretariatGlobal Carbon Market Utility (GCMU)
+Gold Standard
+Integrity Council for the Voluntary  
+Carbon Market (ICVCM)International Swaps and Derivatives  
+Association (ISDA)
+International Standards Organization (ISO)
+Nasdaq
+Philip Lee LLP
+Puro Earth
+S&P Global
+Sylvera
+US Treasury
+Verra
+World Bank
+XpansivJohannesburg Stock Exchange (JSE)
+Indian Energy Exchange (IEX)
+Priority Area
+9 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Scope of work
+CMI WG discussions and contributions draw on key principles and standards 
+from leading reports and frameworks—such as those produced by ICVCM, 
+IOSCO, the Commodity Futures Trading Commission (CFTC), and the Institute 
+of International Finance (IIF). For instance, the report of the IIF’s Taskforce on 
+Scaling Voluntary Carbon Markets (TSVCM) called for robust data infrastructure 
+to scale voluntary markets, prevent double counting, and ensure seamless data 
+exchange, particularly by achieving interoperability between carbon registries 
+and trading platforms.2 The IOSCO Consultation Report 2023 (CR0623) outlines 
+crucial considerations for building resilient voluntary carbon markets, focusing 
+on open access, market integrity, transparency through publicly available data, 
+interoperability, and strong governance frameworks.3 Additionally, the CFTC’s 
+Call for Inputs 2024 (RIN 3038-AF40) proposes standards for voluntary carbon 
+credit derivative contracts, aimed at establishing a regulated market with clear 
+requirements for transparency and market integrity.4 These existing initiatives are foundational to the work of the CMI WG. 
+Further, the CMI WG recognizes that public policy is crucial in defining the 
+market architecture of carbon markets and therefore CMI WG aims to cover 
+developments across both compliance and voluntary carbon markets. The CMI 
+WG has engaged and continues to have planned engagements with relevant 
+government counterparts across several emerging economies to capture the 
+challenges and necessary solutions to strengthen infrastructure across national 
+carbon markets. These considerations ensure that the group’s efforts build on and 
+align with other efforts to establish best practices and support the creation of a 
+secure, transparent, and efficient carbon market infrastructure ecosystem through 
+multistakeholder dialogue and collaboration. 
+CMI WG discussions and contributions draw 
+on key guidelines and standards such as those 
+developed by ICVCM, IOSCO, CFTC, and IIF.
+Priority Area
+10 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Carbon Markets Infrastructure Working Group
+Objectives of Working GroupStandardization, efficiency, and 
+unification of market infrastructureEnhance access to streamlined  
+solutions for market infrastructureIncrease capacity-building and  
+technical assistance support Elevate investor confidence  
+and mobilize private sector
+Identified Bottlenecks and Priority Areas of Action
+Priority AreasPriority Area I
+Ecosystem GovernancePriority Area II
+Information Security and  
+Transaction IntegrityPriority Area III
+Data and Systems Interoperability
+Overarching 
+BottlenecksConflicting roles, responsibilities, and functions across  
+the carbon market infrastructure ecosystemPoor documentation and inadequate knowledge of  
+current standards and practices related to information  
+security and transaction integrity Lack of interoperability of data and systems across  
+carbon markets value chain, combined with the absence  
+of a well-defined integrated marketplace architecture
+Underlying  
+IssuesInconsistent 
+terminologies 
+and technical 
+definitions Overlapping 
+roles and 
+responsibilitiesPotential  
+conflict of 
+interests and 
+weak incentive 
+structuresAsymmetry of 
+information 
+and knowledge 
+between market 
+actorsLack of robust 
+safeguards for 
+transaction 
+integrityRisks of 
+inadequate 
+information 
+security  
+measuresFragmented 
+data formats and 
+standardsIncompatible 
+system 
+architectureLimited  
+cross-platform 
+communication
+OutputsGuidance Note on Ecosystem Governance for Carbon 
+Markets InfrastructureGuidance Note on Information Security and  
+Transaction Integrity for Carbon MarketsGuidance Note on Data and Systems Interoperability  
+for Carbon MarketsFIGURE 2 
+Scope of the Carbon Markets Infrastructure Working Group
+Priority Area
+11 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+The CMI WG identified and prioritized three critical 
+areas for action, targeting key bottlenecks across the 
+carbon market value chain:FIGURE 3 
+Priority areas identified by the Carbon Markets Infrastructure Working Group
+A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure 
+Priority Area I
+Ecosystem Governance
+Establish clear, consistent terminol-
+ogies and frameworks; identify the 
+roles and responsibilities of entities 
+across value chain stages to ensure 
+accountability, transparency, and 
+effective coordination among all 
+market participantsPriority Area III
+Data and Systems 
+Interoperability
+Enhance data harmonization and 
+systems integration, enabling seam-
+less exchange of information across 
+platforms to enhance interopera-
+bility, transparency, and scalability 
+within the carbon markets
+These three priority action areas are closely interwoven, targeting systemic bottlenecks within the carbon  
+markets infrastructure ecosystem, including fragmentation, information asymmetry, and unclear accountability. 
+Progress in these areas hinges on effective collaboration and alignment among stakeholders to develop a resilient  
+and robust market infrastructure essential for sustainable carbon markets.Priority Area II
+Information Security and 
+Transaction Integrity 
+Strengthen the security of infor-
+mation systems and ensure the 
+integrity of transactions, reducing 
+the risks of fraud and enhancing 
+trust through robust standards 
+such as MFA and KYC/AML/ABC 
+programsPriority Area I:   
+Ecosystem Governance
+Priority Area II:
+Information Security and 
+Transaction Integrity
+Priority Area III:  
+Data and Systems 
+Interoperability
+MFA-multifactor authentication; KYC-know your customer; 
+AML-anti-money laundering; ABC-anti-bribery and corruption
+Priority Area
+12 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Outputs and outcomes
+This roadmap is the first output of the CMI WG. It lays out the critical bottlenecks 
+and priority areas and recommendations for building safe, efficient, and 
+interoperable carbon market infrastructure identified in discussions. It also features 
+a dynamic, evolving mapping of the carbon markets ecosystem, which will be 
+updated throughout the work on priority area I. 
+The bottlenecks outlined in this roadmap focus on highlighting priority 
+areas that demand the stakeholder community’s attention within the market 
+infrastructure space. It establishes a foundation for the CMI WG’s future agenda, 
+which consists of developing comprehensive guidance notes that delve deeper 
+into each identified priority area. These detailed guidance notes are scheduled for 
+release in June 2025, when the 62nd sessions of the UNFCCC SBSTA will occur.
+• Guidance Note on Ecosystem Governance for Carbon  
+Markets Infrastructure 
+• Guidance Note on Transaction Integrity and Information  
+Security for Carbon Markets 
+• Guidance Note on Interoperability of Data and Systems  
+for Carbon MarketsThe CMI WG seeks to offer practical, 
+actionable guidance to accelerate progress in 
+building a reliable, high-impact carbon market 
+infrastructure capable of delivering meaningful 
+climate outcomes. 
+Priority Area
+13 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Priority area I  
+Ecosystem governance
+Scope
+Priority area I of the CMI WG centers on mapping and clarifying current 
+ecosystem governance within carbon markets, with an emphasis on identifying 
+key entities and functions within market infrastructure. 
+The bottom-up nature of carbon markets under the Paris Agreement has 
+created complexity and allowed for a diverse set of requirements for policy 
+and regulatory frameworks and carbon market infrastructure at both national 
+and international levels. This has led to a fragmented ecosystem, marked by 
+inconsistencies in terminologies and ambiguous governance over stakeholder 
+roles, responsibilities, and functions. As a result, the chain of liability and 
+accountability across the carbon market value chain has become unclear. 
+Additionally, the growing number of participants has heightened the risk of errors 
+and fraud, underscoring the urgent need for transparent, reliable infrastructure 
+and standardized digital systems to support the effective functioning of carbon 
+markets.The CMI WG conducted a preliminary ecosystem mapping, which can be 
+found here as a living and evolving resource. It includes a comprehensive list 
+of terminologies, technical definitions, functionalities, and entities, covering all 
+stages of the carbon cycle process (both pre- and post-issuance). This mapping 
+effort is a first step to establishing a common understanding of the components 
+of the carbon market infrastructure ecosystem, and will it help stakeholders assess 
+potential inconsistencies, overlaps, and conflicts of interest across the value chain. 
+Figure 4 provides a visual representation of the framework and mapping.
+The following infographic (Figure 4) maps the main entities in the carbon markets 
+infrastructure and their respective functionalities. Entities are categorized by their 
+roles in pre-issuance, post-issuance, and regulatory and governance functions. The 
+top row of the infographic displays a sequential list of functionalities progressing 
+from pre-issuance to post-issuance. Each functionality is associated with a set 
+of entities classified by their roles and degree of involvement, whether direct or 
+indirect, in implementing each function. For detailed information and specific 
+examples, please refer to the aforementioned preliminary ecosystem mapping. 
+Priority Area
+14 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Clustering Functionalities and Entities
+Functionalities Entities
+Issuance
+Authorization
+Labeling
+First transfer
+Trading
+Settlement/clearing/fulfilment
+Retirement/cancellation
+ReportingFunctionalities: Post-issuance/post-trade/secondary
+    Post trade infrastructure1. Project developer
+2. Register/Accounting and tracking registry
+3. Registry with transaction functionality
+4. Infrastructure providers
+5. Multilateral organizations
+6. Carbon crediting program/standard setters
+7.Verification and validation body/certification bodies/ 
+third party auditors  Entities: Pre-issuance
+    8.       Methodology validator
+25. Standardized contract hosts
+26. Demand-side integrity standards
+27. Supply-side integrity standards
+28. Carbon accounting standard setters
+29. Financial regulators
+30. Market regulators
+31. Financial accounting standard setters
+32. UNFCCC
+33. UNFCCC  Entities: Regulatory/governance
+   33.      National governmentsMethodology creation
+Project design and development
+Validation
+Due diligence/KYC & AML verification
+Information security
+Registration
+Project implementation
+Measurement, reporting, and verification
+Third-party verification/review  Functionalities: Pre-issuance/primary
+    Certification9. Data aggregation
+10. Data reconciliation/mapping
+11. Data analytics
+12. Traders
+13. Primary market trading infrastructure: Auction platforms
+14. End user
+15. Brokers
+16. Retail aggregators/traders
+17. Secondary market trading infrastructure: Exchange
+18.Secondary market trading infrastructure:  
+Over the counter market
+19. Post trade infrastructure: Clearing house
+20. Trade repository
+21. Carbon credit rating
+22. Carbon insurance
+23. Disclosure regulation  Entities: Post-issuance
+   24.      Web3 platformFIGURE 4 
+Preliminary framework for ecosystem mapping 
+Priority Area
+15 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Mapping Functionalities (Pre-Issuance) to Entities
+FunctionalityMethodology 
+creationProject design 
+and developmentValidationDue diligence/
+KYC & AML 
+verification Information 
+securityRegistrationProject 
+implementationMeasurement, 
+reporting, and 
+verification Third-party 
+verification/reviewCertification
+Pre-issuance 
+entity
+Regulatory/ 
+governance 
+Entity6. Carbon crediting 
+program/standard 
+setters
+7. Verification and 
+validation body (VVB)
+8. Methodology 
+validator1. Project developer
+5. Multilateral 
+organizations
+6. Carbon crediting 
+program/standard 
+setters7. Verification  
+and validation body 
+(VVB)2. Register/  
+accounting and  
+tracking registry
+3. Registry with 
+transaction 
+functionality 
+4. Infrastructure 
+providers2. Register/  
+accounting and  
+tracking registry 
+3. Registry with 
+transaction 
+functionality 
+4. Infrastructure 
+providers2. Register/  
+accounting and  
+tracking registry 
+3. Registry with 
+transaction 
+functionality 
+6. Carbon  
+crediting program/  
+standard setters1. Project developer7. Verification  
+and validation body 
+(VVB)7. Verification  
+and validation body 
+(VVB)6. Carbon  
+crediting program/ 
+standard setters
+27. Supply-side 
+integrity standards
+33. UNFCCC 27. Supply-side 
+integrity standards6. Carbon crediting 
+program/standard 
+setters
+33. National 
+governments29. Financial  
+regulators
+33. National 
+governments33. National 
+governments6. Carbon crediting 
+program/standard 
+setters
+32. UNFCCC33. National 
+governments6. Carbon crediting 
+program/  
+Standard setters
+33. National 
+governments6. Carbon crediting 
+program/  
+Standard setters
+33. National 
+governments32. UNFCCC
+UNFCCC to play a role where applicable. May not have a role to play in case of certification under VCM 
+Priority Area
+16 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Mapping Functionalities (Post-Issuance) to Entities
+See Legend here1. Project developer
+3. Registry with 
+transaction  
+functionality
+6. Carbon crediting 
+program/ 
+standard setters1. Project developer
+2. Register/accounting 
+and tracking registry
+3. Registry with 
+transaction  
+functionality6. Carbon crediting 
+program/  
+standard setters1. Project developer
+3. Registry with 
+transaction functionality
+6. Carbon crediting 
+program/ 
+standard setters4. Infrastructure  
+providers
+6. Carbon crediting 
+program/ 
+standard setters4. Infrastructure  
+providers 2. Register/Accounting 
+and tracking registry 
+3. Registry with 
+transaction  
+functionality 1. Project developer4. Infrastructure  
+providers
+13. Auction  
+platforms
+23. Disclosure  
+regulation12. Traders
+13. Primary market  
+trading infrastructure: 
+Auction platforms
+14. End user
+15. Brokers
+16. Retail aggregators/ 
+traders21. Carbon credit rating
+22. Carbon insurance13. Primary market  
+trading infrastructure: 
+Auction platforms12. Traders
+13. Primary market  
+trading infrastructure: 
+Auction platforms
+14. End user
+15. Brokers
+16. Retail aggregators/ 
+traders
+17. Exchange
+18. Over the Counter 
+market
+20. Trade repository
+24. Web3 platform14. End user
+19. Post trade 
+infrastructure:  
+Clearing house14. End user
+23. Disclosure  
+regulation14. End user
+23. Disclosure  
+regulation
+33. National  
+governments9. Data aggregation
+10. Data reconciliation/ 
+mapping
+11. Data analytics
+21. Carbon credit rating
+22. Carbon insurance
+27. Supply-side  
+integrity standards
+32. UNFCCC
+33. National  
+governments26. Demand-side  
+integrity standards
+32. UNFCCC
+33. National  
+governments27. Supply-side  
+integrity standards
+32. UNFCCC32. UNFCCC
+33. National  
+governments24. Standardized  
+contract hosts
+25.  Demand-side  
+integrity standards
+28. Financial regulators
+29. Market regulators
+32. National  
+governments24. Standardized  
+contract hosts
+28. Financial  
+regulators26. Demand-side  
+Integrity standards
+32. UNFCCC
+33. National  
+governments28. Carbon accounting 
+standard setters
+29. Financial regulators
+30. Market regulators
+31. Financial accounting 
+standard setters
+32. UNFCCC
+33. National  
+governments29. Financial  
+regulators
+30. Market regulators
+32. UNFCCC
+33. National  
+governmentsAuthorization Labelling First transfer Trading Settlement/ 
+clearing/fulfilmentRetirement and 
+cancellationReportingPost-trade 
+infrastructureIssuance
+Pre-issuance 
+entity
+Post- 
+issuance 
+entity
+Regulatory/ 
+governance 
+Entity
+Role of actors will change as negotiations around ‘first transfer’ are finalised. The stage at which the first transfer takes place will affect the entities involved
+Priority Area
+17 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+State of play
+The CMI WG’s ecosystem mapping builds on and is informed by prior efforts. 
+These include the 2021 TSVCM report and the World Economic Forum’s 2023 
+report Scaling Voluntary Carbon Markets. TSCVM’s map categorized participants 
+into three main groups: supply-side actors, demand-side actors, and market 
+intermediaries.5 The World Economic Forum identified key players and their 
+roles within the voluntary carbon market and highlighted the core functionalities 
+across the market, focusing on the interconnectedness of entities and their 
+contributions to scaling the market.6 The CMI WG has also drawn on the growing 
+body of work that provides technical definitions of processes and functionalities 
+related to carbon asset creation, thereby clarifying and formalizing the processes 
+that underlie carbon asset creation and trading. These include IOSCO’s analyses 
+offering standardized definitions and frameworks for understanding how voluntary 
+and compliance carbon markets operate, which address critical components like 
+market oversight, transparency, and integrity.7 As well a recent ICVCM report 
+introduces widely accepted definitions for key market functions, establishing 
+essential criteria for carbon credits.8 The ecosystem mapping effort by the CMI WG takes a step further, offering a 
+more granular and comprehensive scope by delving into detailed entities and 
+functionalities with laid-down definitions. Further, this effort goes beyond the 
+core stages of the carbon asset creation process, encompassing sub-stages 
+of both pre- and post-issuance phases, establishing a foundational analytical 
+framework. It also includes an assessment of potential bottlenecks (Table 2) 
+in the carbon market infrastructure ecosystem, providing a basis for assessing 
+potential overlaps, gaps, and conflicts of interest. This will enable stakeholders to 
+better understand and address inefficiencies within the current carbon markets 
+infrastructure.
+The ecosystem mapping effort by the CMI WG 
+takes a step further, offering a more granular 
+and comprehensive scope by delving into 
+detailed entities and functionalities with laid-
+down definitions.
+Priority Area
+18 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+A lack of consistent terminologies and definitions is creating confusion. For instance, a carbon crediting registry might be referred to as the “register,” “issuance registry,” 
+or “transaction registry,” leading to ambiguity about its specific functions. Similarly, the term “monitoring, reporting, and verification (MRV) system” is applied to systems 
+encompassing various standards and processes across both national and project levels. There is a need for more standardized and precise terminology to reduce confusion 
+and enhance clarity.Inconsistent  
+terminologies and 
+technical definitions
+Overlapping roles and 
+responsibilities Roles and responsibilities within carbon market infrastructure often overlap significantly among entities, leading to potential inefficiencies. For instance, registries may 
+be managed at the national level by individual countries, centralized under the UNFCCC, or operated by independent standard bodies, exchanges, and other infrastructure 
+providers. Additionally, multiple actors frequently perform similar functions—such as issuance, tracking, verification, certification, and retirement of credits—resulting in 
+redundancy and blurred lines of accountability.
+Potential conflicts 
+of interest and weak 
+incentive structuresConflicts of interest and weak incentive structures pose significant challenges to the carbon market’s integrity and credibility. Without the right safeguards, financial 
+motivations and misaligned responsibilities could undermine the rigor of project validation, risking environmental outcomes. For instance, if project developers select and pay 
+VVBs, these bodies may feel pressured to deliver favorable assessments to secure repeat business. Similarly, fee structures based on credit volume could incentivize quantity 
+over quality, potentially allowing projects to pass with insufficient scrutiny if robust safeguards are lacking. Limited accreditation and enforcement for VVBs could also lead to 
+inconsistent validations if weak oversight allows underperforming VVBs to operate without consequence, eroding trust and threatening the market’s long-term sustainability. 
+While some standards bodies and market actors have implemented mitigation measures, universal adoption across all standards operating in the market is necessary to ensure 
+consistency and integrity.TABLE 2
+Identified bottlenecks in ecosystem governance within carbon markets infrastructure
+Roles and responsibilities within carbon market 
+infrastructure often overlap significantly among 
+entities, leading to potential inefficiencies and 
+blurred lines of accountability
+Priority Area
+19 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Way forward
+The next stage of the CMI WG’s work in this priority area is to develop a detailed 
+guidance note to enhance clarity and foster a common understanding of 
+ecosystem governance within the carbon market infrastructure. This guidance 
+note will build upon initial ecosystem mapping efforts, offering a comprehensive 
+assessment and laid-down technical definitions for entities and functionalities 
+across the lifecycle from pre-issuance to post-issuance. The guidance note will be 
+based primarily on three efforts: 
+• Diagnostic assessment of governance structures: Building on the framework 
+established in the preliminary ecosystem mapping (Figure 4), the guidance note 
+will present a diagnostic assessment of roles and responsibilities, identifying 
+potential overlaps, gaps, conflicts of interest, and issues within accountability 
+and liability chains. Based on these findings, it will provide actionable 
+recommendations to address identified challenges.• Incorporation of technical deep dives and stakeholder consultations: 
+The guidance note will be shaped by comprehensive technical deep dives 
+and consultations with CMI WG members, subject-matter experts, and 
+practitioners, ensuring a well-rounded and evidence-based approach.
+• Integrating findings into capacity-building and technical assistance for 
+countries: Findings from this workstream will inform the development of 
+capacity-building and technical assistance activities, tailored to address the 
+diverse capacities and requirements across different markets. This targeted 
+support will contribute to a cohesive and resilient carbon market infrastructure.
+Building on the framework established in the 
+preliminary ecosystem mapping, the guidance 
+note will present a diagnostic assessment, 
+identifying potential overlaps, gaps, and 
+conflicts of interest.
+Priority Area
+20 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Data protectionSafeguarding information from unauthorized access, disclosure, 
+alteration, or destruction. 
+EncryptionProtecting the confidentiality of data both in storage and during 
+transmission. 
+Access controlConducing authentication (verifying identity) and authorization 
+(granting/restricting permissions based on roles or needs).
+Data retentionPolicies and procedures for secure storage, archiving, and/or 
+deleting data in compliance with legal, regulatory, or business 
+requirements.
+Monitoring systems  
+securityContinuous oversight and improvement regarding security related 
+to activities/systems deployed to detect, prevent, and respond to 
+security incidents to identify potential threats or breaches.
+Maintaining audit  
+trailsRecording and preserving logs of all significant actions or events 
+within an information system which can be used for compliance, 
+forensic investigations, and ensuring accountability.Priority area II  
+Information security and  
+transaction integrity
+Scope
+Priority area II of the CMI WG consists of strengthening information security 
+and transaction integrity in carbon markets. As with any nascent market, carbon 
+markets depend on robust information security and transaction integrity to build 
+trust, ensure reliability, and establish credibility. 
+Ensuring information security in carbon markets involves safeguarding 
+data associated with carbon credits and transactions from unauthorized 
+access, manipulation, or breaches. This entails implementing comprehensive 
+cybersecurity measures, governed by well-defined policies and standards, to 
+protect sensitive information and uphold market integrity. Additionally, it requires 
+a commitment to continually advancing the maturity of security controls, adapting 
+to evolving threats, and ensuring resilience across the market infrastructure.
+ TABLE 3
+Key concepts within information security
+Priority Area
+21 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Know your  
+customer KYC processes are designed to 1) verify the identities of their clients 
+and individuals with significant control (e.g., beneficial owners and 
+directors) and 2) assess the risk associated with clients. These 
+processes help prevent fraud and financial crimes, ensuring that only 
+legitimate participants engage in carbon market transactions.
+Anti-money  
+laundering AML procedures and regulations are designed to prevent criminals from 
+disguising illegally obtained money as legitimate. This requires financial 
+institutions to monitor and report suspicious activities.
+Anti-bribery and  
+corruption ABC policies and practices prevent bribery, corruption, and fraud 
+within organizations. They ensure that business dealings are conducted 
+ethically and in compliance with anti-corruption laws.Transaction integrity in carbon markets refers to ensuring that transactions 
+between buyers, sellers, and intermediaries occur within a trusted, secure, 
+and compliant carbon markets infrastructure environment. This involves strict 
+adherence to regulatory standards such as KYC, AML, and ABC programs, which 
+help verify the legitimacy of market participants and prevent illegal activities. 
+Transaction integrity requires clearly defined roles and responsibilities for all parties 
+involved, establishing accountability across the transaction process. It also entails 
+ensuring the authenticity of carbon credits and the validity of each transaction, 
+preventing issues like fraud or double counting, which could undermine the 
+credibility of the market.
+Given that countries are at different stages in developing their carbon market 
+infrastructure, information security and transaction integrity measures must be 
+tailored to specific needs, capacities, and regulatory environments. TABLE 4
+Key elements of transaction integrity
+As with any nascent market, carbon markets 
+depend on robust information security and 
+transaction integrity to build trust, ensure 
+reliability, and establish credibility.
+Priority Area
+22 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+State of play
+As carbon markets face increasing scrutiny from regulators and stakeholders, both 
+information security and transaction integrity have become crucial components for 
+ensuring compliance, mitigating risks, and maintaining trust in the market.
+Currently, there is limited information and documentation on existing standards 
+and market practices for information security within carbon markets. In this 
+context, information security means protecting sensitive data related to carbon 
+credits and transactions from unauthorized access, tampering, or misuse. This 
+includes ensuring that information about who owns carbon credits, how they are 
+traded, and the details of each transaction are kept secure and private. Robust 
+information security helps prevent fraud and builds trust among participants, 
+making the carbon market a safer and more reliable place for buying and selling 
+carbon credits.
+There are two primary frameworks that organizations have begun to adopt 
+to navigate regulatory demands and build trust in the rapidly evolving carbon 
+market. These frameworks are the CIS Controls (formerly the SANS Top 20 Critical 
+Security Controls) and the US National Institute of Standards and Technology 
+(NIST) Cybersecurity Framework. 9 Both provide a structured approach to assessing 
+cybersecurity maturity and identifying critical gaps, aligning with industry best 
+practices and effectively mitigating cybersecurity risks. These frameworks are 
+often incorporated into broader audits, such as Service and Organization Controls 
+2 (SOC 2) audits, which emphasize information security, confidentiality, and 
+privacy.In connection with Priority Area I – Ecosystem governance, as the carbon 
+market scales and stakeholder roles and responsibilities become more defined, 
+establishing clear lines of accountability for information security and transaction 
+integrity will be essential. Clearly identifying those responsible for safeguarding 
+data and ensuring secure transactions is crucial to upholding market integrity and 
+fostering participant confidence.
+As carbon markets face increasing scrutiny from 
+regulators and stakeholders, both information 
+security and transaction integrity have become 
+crucial components for ensuring compliance, 
+mitigating risks, and maintaining trust in the 
+market.
+Priority Area
+23 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Knowledge gaps in current  
+standards and practices related  
+to information security and  
+transaction integrity Poor documentation on current security and regulatory standards and market practices in carbon markets hampers efforts to prevent fraud, ensure 
+transparency, and build trust. Adopting frameworks such as the International Organization for Standardization/International Electrotechnical Commission (ISO/
+IEC) 27001 for information security, complying with the EU’s General Data Protection Regulation (GDPR), and following IOSCO and CFTC guidelines can address 
+these gaps by improving data security, risk management, and overall confidence in the carbon market‘s infrastructure.
+Asymmetry of information  
+and knowledge between actorsGovernments, business actors, and infrastructure providers often lack equal access to information regarding robust standards and best practices for 
+implementing information security and transaction integrity measures effectively. This uneven distribution of knowledge can lead to inconsistencies in 
+security practices, increased vulnerability to cyber threats, and challenges in establishing trust across the carbon market ecosystem. As a result, misaligned 
+expectations and gaps in compliance may arise, complicating efforts to achieve cohesive, secure, and transparent market operations.
+Lack of robust safeguards 
+for transaction integrityThe lack of transaction integrity safeguards in carbon markets poses a serious challenge, enabling fraudulent activities—such as issuing fake credits or 
+double counting—to go unchecked. For instance, without identity verification (e.g., KYC), unauthorized or fraudulent actors can participate in the market, 
+while insufficient AML measures allow illicit funds to flow through carbon credit transactions. Additionally, weak anti-corruption controls (e.g., ABC) can lead to 
+compromised project validations, where validators might be incentivized to issue credits for projects with questionable environmental impact.TABLE 5
+Identified bottlenecks in information security and transaction integrity 
+Risks of inadequate information  
+security measuresInadequate information security in carbon markets exposes specific vulnerabilities in key activities, such as credit issuance, transaction tracking, and 
+verification processes. For example, if security measures are weak, unauthorized parties could manipulate or falsify data in carbon credit registries, potentially 
+resulting in fraudulent credits entering the market. Additionally, during transactions, cyberattacks targeting trading platforms could lead to data breaches or 
+financial theft, undermining confidence in the market’s reliability. In verification stages, insecure handling of project data might allow tampering with emissions 
+data or validation reports, compromising the integrity of carbon credits. Such security lapses not only pose financial and reputational risks but also erode the 
+environmental impact and credibility of carbon markets.
+Priority Area
+24 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Way forward
+The next stage of the CMI WG’s work in this priority area is to develop a detailed 
+guidance note aimed at enhancing the understanding of robust standards and best 
+practices related to information security and transaction integrity within carbon 
+markets infrastructure. It will document current standards and market practices—
+specific areas such as information security and data protection as well as MFA, 
+KYC, AML, and ABC standards will be addressed. It will be based primarily on three 
+efforts:
+• Actionable recommendations for implementing robust information 
+security and transaction integrity measures: The guidance note will 
+deliver comprehensive recommendations to establish robust safeguards for 
+information security and transaction integrity.
+• Incorporation of technical deep dives and stakeholder consultations: 
+The guidance note will be shaped by comprehensive technical deep dives 
+and consultations with CMI WG members, subject-matter experts, and 
+practitioners, ensuring a well-rounded and evidence-based approach.• Integrating findings into capacity-building and technical assistance for 
+countries: Findings from this workstream will inform the development of 
+capacity-building and technical assistance activities, tailored to address the 
+diverse capacities and requirements across different markets. This targeted 
+support will contribute to a cohesive and resilient carbon market infrastructure.
+The CMI WG’s guidance note will deliver 
+guidance on implementing robust safeguards 
+for information security and transaction 
+integrity.
+Priority Area
+25 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Priority area III  
+Interoperability of data and systems
+Scope
+Priority area III of the CMI WG is based on the recognition that data and systems 
+interoperability in carbon markets is critical to building cohesive and efficient 
+market infrastructure. As highlighted by IOSCO and ICVCM, 10 interoperability 
+within carbon markets requires unified data protocols and compatible systems 
+across registries to support transparent transactions and seamless data flow across 
+platforms and jurisdictions. Effective interoperability is essential for transparent 
+and efficient data sharing among registries, tracking and reporting platforms, and 
+verification bodies, ensuring accurate information is accessible across the market.
+Carbon markets currently face significant data fragmentation, with 
+inconsistencies across data sources, registries, and reporting standards. This 
+fragmentation—resulting from diverse methodologies, incompatible systems, 
+and varying levels of technology adoption—often isolates essential data, such as 
+verification of mitigation outcomes, ownership, and emissions reductions. This 
+siloed information complicates efforts to ensure transparency and accuracy in 
+tracking carbon credits.In the pre-issuance phase, data fragmentation and interoperability issues arise 
+due to inconsistent standards for primary data provision across project registries. 
+Diverse validation and verification protocols, along with varying data collection 
+methods (e.g., satellite imagery vs. ground-based measurements), hinder data 
+alignment and make it challenging to aggregate information across projects. 
+This lack of standardization limits stakeholders’ ability to assess project quality 
+uniformly and complicates scaling across regions. In the post-issuance phase, 
+fragmentation impacts the tracking and transfer of carbon credits across multiple 
+registries. Incompatible registry systems, where credits issued in one registry 
+cannot be seamlessly tracked in another, create transparency and traceability 
+issues. This makes it difficult to link voluntary and compliance markets, among 
+other issues. Further, limited real-time data integration affects market participants, 
+as delays between registries and trading platforms impact data on credit 
+availability, ownership, and use, reducing market liquidity. Disparate reporting 
+standards also complicate oversight, as varying timelines across registries impede 
+consistent performance assessment.
+ICVCM, IOSCO, TSVCM,3 the World Bank, and other key entities have issued 
+recommendations to enhance interoperability across both pre- and post-
+issuance stages. Recommendations for the pre-issuance phase emphasize the 
+need for standardized data collection and verification through digital monitoring, 
+reporting, and verification tools and unified metadata standards to ensure accuracy 
+from the start. For the post-issuance phase, recommendations focus on creating 
+a metadata layer to integrate registry data and prevent double counting, alongside 
+establishing universal tracking infrastructure supported by open application 
+programming interface (APIs) and industry-wide data standards to enable 
+seamless data exchange. Enhanced cybersecurity measures are also recommended 
+to maintain data integrity across platforms.
+Priority Area
+26 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+State of play
+In recent years, several multi-stakeholder initiatives have emerged to address 
+different aspects of interoperability, focusing on common taxonomies, 
+infrastructure linkages, and preventing potential risk of double counting. Several 
+examples include:
+• Climate Action Data Trust is a not-for-profit initiative that operates a decen-
+tralized metadata platform that links, aggregates, and harmonizes carbon credit 
+registry data to enhance transparent accounting in alignment with Article 6 
+of the Paris Agreement. Founded in 2022 by the World Bank, the International 
+Emissions Trading Association, and the government of Singapore, CAD Trust 
+builds on the World Bank’s Climate Warehouse program. Its data model and 
+work program are governed through a collaborative structure involving both 
+governments and the private sector.11
+• A data model for carbon markets has been submitted to ISO/Technical 
+Committee (TC) 322/ad-hoc group (AHG) 3 on Sustainable Finance using the 
+CAD Trust data model as a foundation.12 This proposed ISO standard seeks 
+to harmonize data fields, formats, and models across different registries. If 
+approved, the project will be developed in close collaboration with ISO TC 
+68 (Financial Services)13 and the Financial Information Exchange (FIX) Trading 
+Protocol to facilitate accurate financial transaction data transfer within the 
+global financial markets’ ecosystem,14 including links to data interchange 
+standards like ISO 20022, which provides a unified framework for financial 
+transactions, and the draft ISO working draft (WD) 14060 Net Zero Draft 
+Standard. • Carbon Data Open Protocol was launched in September 2024 by Sylvera. This 
+initiative aims to develop an open-source data protocol for carbon credits. It 
+will be overseen by an independent industry committee featuring principles and 
+policy as well as technical working groups, and it is intended to promote greater 
+transparency and accessibility within the carbon market.
+• Integrity Council for the Voluntary Carbon Market is a not-for-profit, 
+independent governance body dedicated to establishing and upholding global 
+standards for high integrity in the voluntary carbon market. Beginning in late 
+2024, the ICVCM launched its Continuous Improvement Work Program to 
+drive advancements in market transparency, standardization, and scalability, 
+strengthening the voluntary carbon market’s credibility and accessibility.15
+• Emerging guidance on the Centralized Accounting and Reporting Platform 
+and Agreed Electronic Format for reporting Article 6 transactions, and the 
+development of an International Registry under the UNFCCC are shaping a 
+global framework for transparency. These advancements establish standardized 
+processes for data exchange, with significant impacts on infrastructure 
+operators worldwide.
+• Science Based Targets Initiative and the Voluntary Carbon Markets Integrity 
+Initiative are independent initiatives designed to promote best practices for 
+carbon credit use and support the harmonization of carbon credit data. 
+Priority Area
+27 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+TABLE 6
+Identified bottlenecks in data and systems interoperability 
+Lack of common  
+data frameworksAbsence of universally accepted data frameworks, leading to fragmented data exchange  
+and reduced transparency.
+Incompatible data formats  
+and inconsistent standardsDiverse data formats and standards across platforms make integration and data comparison 
+difficult, causing inefficiencies.
+Fragmentation due to disparate  
+registry and MRV systemsIndependent registry and MRV systems create data fragmentation, complicating data 
+alignment and leading to information gaps.
+Lack of data standardization  
+and fungibilityLack of standardized data management reduces fungibility across systems, complicating  
+the transfer and integration of credits.
+Double counting risksWithout unified tracking mechanisms, there’s a high risk of credits being double counted, 
+impacting market credibility.
+Inconsistent pre-issuance standardsDiverse validation and verification protocols and data collection methods pre-issuance 
+hinder data alignment across projects.
+Incompatible post-issuance  
+tracking systemsCredits issued in one registry may not track seamlessly in another, causing transparency  
+and traceability challenges.
+Limited real-time data integrationDelays in data synchronization between registries and trading platforms limit real-time 
+access to credit availability and ownership.
+Disparate reporting standardsVarying reporting timelines and standards across registries impede consistent oversight  
+and accurate performance assessment.Carbon markets currently 
+face significant data 
+fragmentation, with
+inconsistencies across data 
+sources, registries, and 
+reporting standards.
+Priority Area
+28 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Way forward
+The next stage of the CMI WG’s work in this priority area is to develop a detailed 
+guidance note aimed at strengthening the interoperability of data and systems 
+within carbon markets. The guidance note will deliver actionable recommendations 
+to encourage the adoption of standardized data taxonomies and frameworks. This 
+guidance will provide strategies for aligning data and systems  interoperability 
+efforts with global policies, including Article 6 of the Paris Agreement, to ensure 
+that reporting processes meet international standards. It will be based primarily on 
+two efforts:
+• Stocktaking and coordination of existing initiatives: To avoid duplication 
+and fragmentation, the guidance note will stocktake and consolidate current 
+initiatives addressing data and systems interoperability. This will ensure that 
+all efforts are strategically coordinated, supporting a unified approach to 
+interoperability across carbon markets (Figure 5).
+• Technical deep dives and stakeholder consultations: The CMI WG will 
+conduct technical deep dives and consultations with members, subject-matter 
+experts, and practitioners to understand and address challenges in data use 
+and accounting. Insights from these discussions will inform the guidance 
+note, ensuring it reflects a balanced and expert-informed perspective on 
+interoperability.FIGURE 5 
+Connecting key data initiatives in carbon markets 
+ICVCM WP7Other data initiatives 
+(e.g., Sylvera, BeZero 
+Carbon)
+CAD Trust
+ISO/TC 322/AHG 3
+Priority Area
+29 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Conclusion
+This roadmap and the forthcoming guidance notes aim to provide practical, 
+actionable guidance to stakeholders navigating the complex challenges and 
+opportunities currently facing carbon market infrastructure. Their objective 
+is to accelerate progress in developing a reliable, high-impact carbon market 
+infrastructure that delivers meaningful climate outcomes. 
+Long term, the objective of these workstreams is to enhance carbon markets 
+infrastructure, ensuring its scalability and effectiveness through achieving the 
+following goals:
+• Accelerating standardization, efficiency, and unification of digitally enabled 
+market infrastructure: This effort aims to establish minimum service standards 
+and common frameworks that improve interoperability and support seamless 
+transactions, ultimately strengthening trust and participation across the carbon 
+market ecosystem.
+• Increasing access to secure, robust, and harmonized market infrastructure 
+solutions: By providing streamlined, reliable solutions, this approach will enable 
+better management of carbon assets and facilitate broader engagement in 
+carbon markets, mobilizing essential financial resources.• Enhancing capacity building and technical assistance: Strengthening 
+stakeholders’ skills and knowledge will equip them to develop and deploy 
+systems aligned with international standards, promoting smooth operations and 
+greater transparency within carbon markets.
+• Elevating investor confidence and mobilizing the private sector: Through 
+standardized processes, data accuracy, and secure, interoperable systems, 
+these efforts will reduce market risks, build trust, and foster a stable 
+environment, encouraging active private sector participation.
+The objective is to accelerate progress in 
+developing a reliable, high-impact carbon 
+markets infrastructure that delivers meaningful 
+climate outcomes.
+Priority Area
+30 A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastructure
+Endnotes
+10 The Integrity Council for the Voluntary Carbon Market, Core Carbon Principles,  
+ Assessment Framework and Assessment Procedure, 2024.  
+ https://icvcm.org/wp-content/uploads/2024/02/CCP-Book-V2-FINAL-6Feb24-compressed.pdf.  
+ The Board of the International Organization of Securities Commissions, Voluntary Carbon Markets  
+ Consultation Report, IOSCO, 2023.  https://www.iosco.org/library/pubdocs/pdf/IOSCOPD749.pdf.
+11  Climate Action Data Trust, “CAD Trust Data Dashboard,” n.d.  
+ https://climateactiondata.org/data-dashboard.
+12 ISO/TC 322 is the technical committee responsible for the development of ISO standards  
+ relating to sustainable finance. Sustainable finance is considered by ISO/TC 322 to mean financing,  
+ as well as related institutional and market arrangements, that support progress to achieving  
+ the United Nations Sustainable Development Goals and addressing climate change. International  
+ Organization for Standardization, “ISO/TC 322,” n.d. https://committee.iso.org/home/tc322.
+13 Technical Committee 68 (ISO/TC 68) is responsible for creating global standards for the financial  
+ services industry. TC 68 is responsible for standards that cover core banking, capital markets  
+ including asset management, payments, credit card processing, and information security aspects  
+ specific to financial services.  The committee is organized into three subcommittees: SC2  
+ Information Security), SC8 (Reference Data), and SC9 (Information Exchange). International  
+ Organization for Standardization, “ISO/TC 322,” n.d. https://committee.iso.org/home/tc322.
+14 FIX Trading Community, “Financial Information Exchange (FIX®) Protocol,” 2024.  
+ https://www.fixtrading.org/what-is-fix.
+15 Integrity Council for the Voluntary Carbon Market, “Our Continuous Improvement Work Programs,” n.d.  
+ https://icvcm.org/continuous-improvement-work-programs.1 World Bank, High Integrity, High Impact: The World Bank Engagement Roadmap for  
+ Carbon Markets, 2024. License: CC BY-NC 3.0 IGO. http://hdl.handle.net/10986/42016.
+2 Institute of International Finance, Taskforce on Scaling Voluntary Carbon Markets, 2021.  
+ https://www.iif.com/Portals/1/Files/TSVCM_Report.pdf.
+3 The Board of the International Organization of Securities Commissions, Voluntary Carbon Markets  
+ Consultation Report, IOSCO, 2023 https://www.iosco.org/library/pubdocs/pdf/IOSCOPD749.pdf.
+4 Commodity Futures Trading Commission, Guidance Regarding the Listing of Voluntary Carbon  
+ Credit Derivative Contracts, RIN 3038-AF40, 2023.
+5 Institute of International Finance, Taskforce on Scaling Voluntary Carbon Markets (TSVCM):  
+ Terms of Reference (ToR) for the New Governance Body, 2021.  
+ https://www.iif.com/Portals/1/Files/TSVCM_TOR.pdf.
+6 World Economic Forum in collaboration with Bain & Company, Scaling Voluntary Carbon Markets:  
+ A Playbook for Corporate Action, 2023.  
+ https://www3.weforum.org/docs/WEF_Scaling_Voluntary_Carbon_Markets_2023.pdf.
+7 The Board of the International Organization of Securities Commissions, Voluntary Carbon Markets  
+ Consultation Report, IOSCO, 2023. https://www.iosco.org/library/pubdocs/pdf/IOSCOPD749.pdf.  
+ The Board of the International Organization of Securities Commissions, Compliance Carbon  
+ Markets, 2023. https://www.iosco.org/library/pubdocs/pdf/IOSCOPD740.pdf.
+8 The Integrity Council for the Voluntary Carbon Markets, “The Core Carbon Principles,” n.d.  
+ https://icvcm.org/core-carbon-principles.
+9 Center for Internet Security, “The 18 CIS Critical Security Controls,” n.d.  
+ https://www.cisecurity.org/controls/cis-controls-list. National Institute of Standards and  
+ Technology, “Cybersecurity Framework 2.0,” 2024. https://www.nist.gov/cyberframework.
+CMIWG.ORG

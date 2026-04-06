@@ -1,0 +1,94 @@
+May 20, 2025Theory and PracticeCoordinating Carbon 
+Pricing Across 
+Jurisdictions
+
+2
+Carbon pricing adoption continues to grow…
+…But the ambition and design across jurisdictions is heterogenous
+Source: World Bank. State and Trends of Carbon Pricing 2024. https://hdl.handle.net/10986/41544  
+0%5%10%15%20%25%
+2000 2005 2010 2015 2020% of global emissionsLegend: ETS Overlap Carbon tax
+
+3
+Linking allows entities regulated under ETSs to use allowances 
+from one or more other systems for compliance purposes 
+A jurisdiction can consider linking based on two 
+dimensions of choice:
+1. the direction of flow of allowances 
+2. whether there is a need for restrictions
+Choosing linking partners needs to account for 
+variation in economic characteristics
+Politically and 
+institutionally easierMore economically 
+advantageousOnce partners choose to link, there are 4 
+design options available
+Source: Emissions Trading in Practice, Second Edition: A Handbook on Design and Implementation. World Bank and ICAP. 2021. 
+https://hdl.handle.net/10986/35413  Similar economic 
+characteristics Different economic 
+characteristicsScenario
++ +
+4
+Why link ETSs?
+Gains from trade and broadening and diversifying the abatement pool can support the design objectives of an 
+ETS, but this also present risks
+Source: Emissions Trading in Practice, Second Edition: A Handbook on Design and Implementation. World Bank and ICAP. 2021. 
+https://hdl.handle.net/10986/35413  
+5
+Linking requires a level of alignment between ETSs
+Alignment important for system robustness, environmental ambition, and to manage potential negative spillovers
+Source: Emissions Trading in Practice, Second Edition: A Handbook on Design and Implementation. World Bank and ICAP. 2021. https://hdl.handle.net/10986/35413  
+6
+Examples of linking ETSs
+Source: Emissions Trading in Practice, Second Edition: A Handbook on Design and Implementation. World Bank and ICAP. 2021. 
+https://hdl.handle.net/10986/35413  Characteristics Timing
+California and Québec 
+(current)Two -way link; Separate caps; Similar design features; 
+Joint auction and registry system2014 — link established
+and avoid carbon leakage).
+EU and Australia 
+(past; planned but never 
+took effect)Eventual two -way link with one -way start (EU allowances 
+usable); Separate caps; Some design features were in 
+process of alignment2012 — Agreement reached; 
+2014 — Australia repeals its Carbon Price, ending 
+discussion
+EU and Norway 
+(past; active between 2005 
+and 2012)One -way link (2005 –2007) → two -way (2008 –2012); 
+Common cap; Similar design features; Separate auctions 
+and registry systems2005 — One -way link starts; 
+2008–2012 — Two -way operational; 
+2012 — Norway incorporated into EU ETS
+EU and Switzerland 
+(current)Two -way link; Separate caps; Similar design features 
+post -alignment; Separate auctions 2020 — Link enters into force
+RGGI  (current) 2009 — Operations beginMultilateral link; States join/leave; Common cap; Similar 
+design features; Joint auctions; Same registry system
+Tokyo and Saitama 
+(current)2011 — Link operational at Saitama ETS launchTwo -way link; Separate caps; Similar design features; 
+Separate auction mechanisms and registry systems
+7
+Other proposals for multilateral cooperation 
+Alternate  proposals have emerged to promote ambition, reduce spillovers, and address cross -border issues
+Climate Clubs
+International 
+minimum carbon 
+price
+Sectoral initiativesProposed by Scope/membership Approach
+Stiglitz (2017)
+Nordhaus (2017)
+IMF (2021)
+ICAO (intl. aviation) and 
+IMO (intl. shipping)Originally G7, now 45+ 
+member countries
+Focused on largest global 
+GHG emitters
+N/AAimed at addressing transnational 
+GHGsMembers agree common standards, 
+such as potential steel intensity 
+benchmarks to support decarbon -
+ization  and avoid carbon leakage.
+Countries would agree to pay a floor 
+price of $25 –$75 per ton of carbon 
+depending on their level of 
+economic development

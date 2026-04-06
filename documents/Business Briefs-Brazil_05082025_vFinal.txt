@@ -1,0 +1,44 @@
+BRAZIL ETS AT A GLANCE
+
+MAJOR DEVELOPMENTS 
+In 2024, Brazil took a decisive step by approving Law No. 15.042/2024, which formally establishes a national regulated carbon market, known as the Sistema Brasileiro de Comércio de Emissões (SBCE). This framework provides the legal basis for mandatory emissions trading, robust MRV protocols, penalties for non-compliance, among other key regulatory and operational instruments.
+Since the beginning of 2025, Brazil has been implementing the first of five planned phases under the SBCE Roadmap. This phase, lasting twelve to twenty-four months, is dedicated to setting up the market’s managing authority and establishing clear institutional arrangements for coordination with other relevant agencies, with a transitional body expected to guide this governance architecture in the short term. A technical-scientific advisory committee will provide guidance and ensure transparency throughout this process. Successful completion of this phase will translate the legal framework into clear technical rules for the subsequent implementation of pilot activities and the gradual transition to a fully operational market with binding emissions caps.
+A technically significant mandate under Article 56 of Law 15.042/2024 – later amended by Law 15.076/2024 – requires insurers, pension entities, capitalization companies, and legal reinsurers to allocate at least 0.5% of their annual technical reserves and provisions in environmental assets (namely, those classified as carbon credits, according to the Law) or through investment funds earmarked for such assets. This requirement establishes a recurring, institutional demand stream, with the potential to allocate BRL7–9 billion to carbon credits or related funds, according to estimates by SUSEP, the sector's regulatory agency. While the sector has raised concerns regarding market liquidity and constitutional compliance, the provision is poised to enhance demand-side stability. 
+Brazil’s updated Nationally Determined Contribution (NDC) underlines the urgency of operationalizing the SBCE: national emissions are projected to reach approximately 1.32 gigatonnes CO₂ equivalent in 2025 and must decline to around 1.20 gigatonnes by 2030, with a conditional pathway to 0.85 gigatonnes by 2035 if supported by international finance and technology transfer. The regulated market is a central instrument for closing this gap in a cost-effective manner, mobilizing private capital toward high-quality emissions reductions and large-scale low-carbon technologies.
+This year’s regulatory push is framed by Brazil’s strategic objective to present concrete progress at COP30, to be hosted in Belém in November 2025. Attention will also focus on ensuring interoperability between Brazil’s voluntary and compliance carbon market frameworks, as well as on the mechanisms for linking the domestic system to international carbon markets, particularly through the operationalization of Article 6 of the Paris Agreement.
+The full design, milestones, and institutional steps for the SBCE are outlined in the official Roadmap released by the Brazilian government.
+MARKET COMMENTARY
+The SBCE’s offset mechanism offers significant potential to channel private sector capital into cost-effective natural climate solutions (NCS) such as forest conservation, reforestation, agroforestry, and restoration of degraded lands, as well as low-carbon technologies and eligible mitigation activities. By allowing regulated entities to partially meet their compliance obligations through the purchase of verified offsets, the system creates a direct financial incentive for investment in emission reductions beyond the industrial core, particularly in land-use sectors where mitigation costs are often lower and co-benefits (e.g., biodiversity, water security, local livelihoods) are high. Given Brazil’s vast natural ecosystems and carbon-rich biomes, especially in the Amazon and Cerrado, a well-governed offsets market under the SBCE could unlock large-scale climate finance for both innovative low-carbon production technologies and NCS projects, while also supporting the participation of indigenous and traditional communities in the carbon economy, provided that robust safeguards, MRV standards, and benefit-sharing mechanisms are firmly in place.  
+Brazil’s voluntary carbon market is poised to play an increasingly strategic role in global decarbonization efforts, with its vast natural assets, project maturity, and growing policy alignment positioning the country as a key supplier in the years ahead.  Below are the projected voluntary carbon credit issuances in Brazil by project sector through 2050, aggregating data from 11 major standards—including Verra (VCS), CDM, ART, Cercarbono, and others—as well as unregistered carbon dioxide removal (CDR) projects. The forecast is standard-agnostic and based on modeled market dynamics. 
+
+Figure 1 - Total Forecast Issuances in the Voluntary Carbon Market in Brazil, by project sector.
+Source: AlliedOffsets
+Furthermore, one critical aspect to the successful implementation of the SBCE is the efficiency in the publication and availability of data within national inventories, not only to ensure transparency and environmental integrity, but also to enable regulated companies to plan their compliance strategies and allocate resources effectively. Clear, timely, and accessible information, especially on the current emission level per sector, is crucial for companies to forecast compliance costs, design mitigation projects, or engage in secondary market transactions with predictability. Delayed data releases or lack of regulatory clarity can create uncertainty, distort carbon prices, and undermine investments in energy efficiency, innovation, and nature-based solutions. Therefore, the success of the SBCE will also depend on a robust, reliable data infrastructure that responds to the operational needs of market participants.
+Brazil also hosts great potential to supply Internationally Transferrable Mitigation outcomes (ITMOs), either for use under Article 6.2 of the Paris Agreement or other international uses, such as the Carbon Offsetting Scheme for International Aviation (CORSIA). CORSIA is a global initiative to cap aviation emissions at 2019 levels, implemented in three phases: a pilot phase (2021–2023), a first phase (2024–2026), and a mandatory phase (2027–2035) for most international routes. To comply, airlines must purchase eligible emissions units from ICAO-approved programs, which must meet stringent criteria for additionality, permanence, robust MRV, and avoidance of double counting, thus requiring corresponding adjustments from host countries, similar to Article 6.2’s ITMOs. As per TNC’s “Article 6 Explainer”, total cumulative demand for ITMOs by both buying countries and airlines compliant to CORSIA shall reach 685 MtCO₂e by 2030.
+According to estimates by AlliedOffsets, the chart below presents forecasted issuances of Brazilian carbon credits potentially eligible under the first phase of CORSIA, broken down by purchasability year through 2031. All credits must undergo corresponding adjustments to qualify, meaning that while these projections reflect potential supply, actual eligibility will depend on formal government authorization and proper registry procedures for adjustment.
+
+Figure 2 - Forecast CORSIA First Phase-Eligible issuances in Brazil.
+Source: AlliedOffsets
+USEFUL LINKS
+Carbon Market – Ministry of Finance
+Lei 15.042/2024
+Lei 15.076/2024
+Plano Clima 
+Brazil’s Nationally Determined Contribution (2024)
+REFERENCES
+ICAP Fact Sheet - Brazilian Emission Trading System 
+Article 6 Explainer
+Capital Reset - Seguradoras terão que destinar R$ 9 bi para créditos de carbono.
+AUTHORS
+IETA staffer
+Job title, IETA
+email
+Juliana Damasceno
+Executive Manager, ACX Brasil
+juliana@acx.net 
+Fundile Maphanga
+Policy Lead, AlliedOffsets
+fundi.maphanga@alliedoffsets.com
+Daniel Blum
+Carbon Policy Analyst, AlliedOffsets
+daniel.blum@alliedoffsets.com 

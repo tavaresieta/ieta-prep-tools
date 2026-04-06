@@ -1,0 +1,241 @@
+SBCE, Governance and MRV : 
+Technical Insights for CCS in BrazilJoin us at ieta.org
+Mariana Tavares, Policy Advisor –Rio de Janeiro , March 11, 2026
+2
+The SBCE Blueprint: Phases, Instruments and Governance Bodies 
+SBCE Implementation  Phases  and Roadmap  
+Phase 1
+(2025 -26)Phase 2
+(2027)Phase 3
+(2028 -29)Phase 4
+(2030…)Phase 5
+(Post NAP 1)
+Drafting of the Law's 
+Implementing 
+RegulationsOperationalization, 
+by operators, of the 
+instruments for 
+emissions reportingOperators will be 
+subject solely to the 
+obligation of ( i) 
+submitting a 
+monitoring plan and (ii) 
+presenting an 
+emissions and GHG 
+removals reportEntry into force of 
+the first National 
+Allocation Plan, with 
+free distribution of 
+CBEs and launch of 
+the SBCE asset 
+marketFull implementation 
+of the SBCE
+SBCE Instruments  
+CBEs
+(“Allowances”) CRVEs 
+(Offsets)Carbon 
+Credits•Rights to emit 1 tCO₂ e
+•Granted or auctioned 
+by the Governing Body 
+to regulated operators•Certificates of having 
+reduced or removed 1 tCO₂e
+•Generated according to an 
+accredited methodology 
+•Registered inSBCE`s
+Central Registr y•Instruments representing 
+the reduction or removal of 
+1 tCO₂e
+•Certified by private entities
+•External to SBCE`Possible conversion if requirements are met and if actively sought byagents
+3
+The SBCE Blueprint: Governance Bodies
+Interministerial Committee on Climate 
+Change –CIM 
+Guidelines for the SBCE, approval of the National 
+Allocation Plan (PNA), conditions for the 
+authorization of ITMOs, among others.
+Managing Body
+Definition of regulated entities; proposal of the 
+NAPs; accreditation of methodologies for 
+generating CRVEs; definition of CRVE limits in 
+periodic cycles; definition of MRV requirements 
+and procedures; management of the SBCE 
+Central Registry, among others.
+Permanent Technical Advisory Committee
+Recommendations on NAP criteria, accreditation 
+of methodologies for generating offsets, and 
+allocation of resources from SBCE revenues .
+Regulatory Affairs Chamber
+Composed of representative entities from 
+regulated sectors. Consultation on the PNA, 
+emissions cap, MRV, and others.National REDD+ Commission -CONAREDD+
+(now under DIMER)
+Criteria for accrediting methodologies for 
+generating offsets; information on REDD+ projects 
+and programs; avoidance of double counting.Designated National Authority
+Authorization for the international transfer of 
+mitigation outcomes (ITMOs) for the purposes of 
+Article 6 of the Paris Agreement.
+Information flows and collaboration between entitiesConditions and criteria for ITMOs
+Securities and Exchange Commission (CVM)
+Responsible for regulating the trading of SBCE 
+assets on financial and capital markets. CVM is 
+alto granted powers to regulate the use of financial 
+products other than SBCE securities. 
+National Agency of Petroleum, Natural Gas 
+and Biofuels (ANP)
+Responsible for specifying biofuels and regulating 
+all CCS activities, classifiable as emission 
+reductions or removals and potential carbon sinks 
+under the SBCE. All CCS stages require ANP 
+authorization. 
+4
+Legal Backbone: Regulatory Framework
+Lei 15.042/2024 
+Lei 14.993/2024 •ANP as main authority to authorize and supervise CO₂geological capture , transport 
+and storage
+•Sets minimum technical criteria for CCS project operations ,including well integrity, 
+injection protocols and site characterization
+•Defines inspection and enforcement powers for non -compliant operations•May recognize geological storage as an eligible reduction and removal activity 
+within Brazil's carbon market. In -value chain removals will be accounted for 
+entities’ net GHG inventory
+•Provides the legal basis for generating CRVEs. 
+•Mandates centralized asset registration to prevent double counting
+•ANP governs the physical operation (what goes underground and how)
+•Lei 15.042 governs the market recognition (what comes out as a tradeable asset)
+•The dual competency structure ANP for technical oversight, governing body for market integrity —
+requires aligned protocols. This is a joint leadership opportunity in shaping Brazil's CCS regulatory 
+model
+5
+CBEs, CRVEs and the Integrity Criteria
+Two parallel value tracks for CCS activities within SBCE: 
+In-value chain emission reductionVerified removals (CRVEs)
+•Hard -to-abate industries (cement , steel, petrochemicals, 
+aviation ) can use CCS to reduce emissions across their 
+value chain
+•Eligible scope includes process emissions, not only 
+energy -related sources (critical for sectors where 
+electrification alone is insufficient )•Geostorage CCS, BECCS and DAC projects 
+physically remove CO₂ from the atmosphere, 
+generating high integrity offsets –subject to 
+methodology approval.
+•Growing structural demand from sectors with net -
+zero commitments that cannot fully abate internally
+Removal Offsets Are Not Automatically CRVEs 
+•Verified emission reductions in the voluntary environment are notautomatically converted into CRVEs
+•SBCE’s Governing Body will outline a set of specific methodologies / project types that must satisfy minimum integrity criteria —currently 
+under development, expected first half of 2026
+•Even credits from approved methodologies will undergo a validation process before entering he SBCE environment. 
+Carbon Accounting Fundamentals:Carbon Accounting footnote: 
+All assets must be registered in the governing body's centralized system prior to issuance, with additionality demonstrated a nd double counting 
+prevented across the SBCE, voluntary markets and national GHG inventories simultaneously.
+
+6
+CBEs, CRVEs and the Integrity Criteria
+(a) shows emission reductions by CCS ; (b) shows net removals including a quotient of 
+emission reductions/ avoidance , which can 
+occur where emissions exist in the baseline 
+scenario but not in the project scenario(c) shows the situation for most eCDR
+activities where they are undertaken solely for 
+climate mitigation purposes.
+7
+CBEs, CRVEs and the Integrity Criteria
+Multiple international bodies have developed their own principles andframeworks,
+each addressing methodology design, MRV standards andaccounting rules .
+▪ICVCM’s Core Carbon Principles (CCPs)
+oOne ofthevoluntary carbon market’s benchmark forhigh-integrity credits, organized
+across three categories, governance, emissions impact andsustainable development .
+oCCS andeCDR methodologies currently under assessment orapproved include those
+from Verra/VCS (DAC andBECCS modules), Puro .earth ,Isometric, Gold Standard and
+ACR,covering geological storage insaline aquifers, depleted reservoirs and, inselect
+cases, enhanced oilrecovery .
+▪Article 6.2and6.4oftheParis Agreement
+oInboth mechanisms, units must bemeasured inCO₂-equivalent calculated in
+accordance with IPCC methodologies1.
+oGCS activities must contribute tothehost country's NDC and/or long-term lowemission
+development strategy (LT-LEDS) tobeeligible forcrediting
+oParties must address permanence risk, social impact .For6.4,methodologies and
+projects must follow thePACM Removals Standard .
+ IETA’s Geostorage andCarbon Crediting handbook, updated
+Sep. 2025. Access here or with the QR Code below.
+1. 2006 IPCC Guidelines for CO₂ transport and storageBrazil is sovereign to design its set of integrity criteria, but CRVE 
+methodologies designed with awareness of international principles will 
+be more seamlessly interoperable , enabling liquidity and attracting 
+domestic and foreign demand .
+
+8
+MRV Benchmarks and Reversal Risk
+Brazil's MRV Institutional Structure:
+▪The Sub-Secretariat for Implementation holds the mandate to develop MRV norms for all regulated activities 
+and emission sources. Responsibilities include drafting sector -specific monitoring protocols ; overseeing 
+compliance with reporting obligations; auditing verification bodies
+▪Year-one priorities: MRV rules finalized, operators prepared, and a reporting system prototype under testing .
+▪The MRV process follows three mandatory steps:
+1.Monitoring Plan Operators submit a monitoring plan for each commitment period , subject to prior approval by the 
+governing body, following prescribed models and deadlines
+2.Annual Emissions Report Operators submit annual GHG emissions and removals reports in accordance with the 
+approved monitoring plan
+3.Central Registry Validated data is entered into the SBCE Central Registry in each operator's dedicated account
+9
+SBCE Coverage and MRV Initial Guidelines 
+SBCE Coverage
+Covered Entities
+Covered Emissions
+Establishment, company or 
+installation 
+Direct or indirect emissions
+GHGs to report
+Emissions thresholds
+Source categoryConsolidated by equity participation, 
+financial or operational control.
+Decision to cover emissions from 
+scopes 1, 2 and 3 awaiting regulation 
+Carbon dioxide (CO₂), methane (CH₄), 
+nitrous oxide (N₂O), sulfur hexafluoride 
+(SF₆), HFCs and PFCs, others.
+Above 10,000 tCO₂e (reporting) and 25,000 
+tCO₂e (obligations), with the possibility of raising 
+the threshold based on the cost -effectiveness of 
+the regulation and other criteria.
+All entities within a given source 
+category (sector / subsector) are 
+required to report their emissions. 
+10
+SBCE Coverage and MRV Initial Guidelines 
+How emissions 
+are quantified
+Calculation -based 
+approaches
+Direct measurement 
+approaches
+Emission Factor
+Approach
+Mass Balance 
+Approach
+Applies a coefficient to activity data –fuel consumed, 
+material processed. Factors can be default or site -specific. 
+Simpler to implement, lower cost, lower precision.
+Best for: Combustion, fugitive emissions, waste
+Tracks the net GHG flow in and out of a facility or process. 
+Used where emissions cannot be linked to individual inputs 
+via a factor or where the product contains embedded 
+carbon not released as CO2. 
+Best for: Chemical processes, embedded carbon
+Instrument quantify GHGs at the exact point of release 
+using continuous or periodic monitoring systems. Highest 
+precision, required for geological storage. 
+Best for: Stacks, Injection points, wellheads. 
+11
+The road ahead: price signals from the SBCE and next steps
+SBCE Phase Triggers 
+•Phase II opens the pilot window: voluntary reporting, no compliance penalty, ideal timing to establish 
+operational baselines and submit methodology drafts to the governing body
+•Phase III creates real demand: mandatory MRV and compliance obligations
+•The critical trigger is the governing body's definition of sectoral caps: without a cap, there is no scarcity, and 
+without scarcity there is no price signal strong enough to justify CAPEX -intensive projects (BECCS, DAC, 
+but also ARR)
+The Carbon Price Signal -Viability Threshold s:
+•The SBCE has not yet defined a penalty rate or price floor. BECCS and DAC require either a significantly 
+higher price or complementary policy support. 
+•Price predictability over a 10 –15 year horizon matters as much as price level, investors need policy 
+durability, not just a favourable spot price .

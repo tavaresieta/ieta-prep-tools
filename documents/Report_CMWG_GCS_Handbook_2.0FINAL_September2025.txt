@@ -1,0 +1,2900 @@
+Geostorage and Crediting Version 2.0
+September 2025
+GEOSTORAGE AND
+CARBON CREDITING V2.0
+A COMPREHENSIVE HANDBOOK ON METHODOLOGICAL 
+DESIGN, SAFEGUARDING AND ACCOUNTING 
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 2
+ EXECUTIVE SUMMARY
+ TECHNICAL SUMMARY
+01 INTRODUCTION  
+ 1. 1 BACKGROUND   
+ 1.2 ABOUT THIS UPDATE
+02 C ARBON CREDITING AND GEOLOGICAL CARBON STORAGE (GCS)  
+ 2. 1 GEOSTORAGE AND CREDITING 
+ 2.2 PROJECT-BASED ACCOUNTING PRINCIPLES 
+ 2.3 METHODOLOGICAL COMPONENTS
+03 METH ODOLOGIES AND PROTOCOLS FOR GCS: A SYNTHESIS  
+ 3. 1 REVIEWED STANDARDS 
+ 3.2 S YNTHESIS OF CURRENT METHODOLOGIES
+04 S AFEGUARDING AND ACCOUNTING - GCS UNDER THE PARIS AGREEMENT  
+ 4. 1 GEOSTORAGE AND RISK 
+ 4.2 SAFEGUARDING 
+ 4.3 ACCOUNTING
+05 ANNEX - IP CC 2006 GUIDELINES AND GCSPg 04
+Pg 06
+Pg 14
+Pg 16
+Pg 20
+Pg 34
+Pg 44
+SINCE 1999 IETA HAS BEEN THE LEADING VOICE OF BUSINESS ON AMBITIOUS MARKET-BASED CLIMATE CHANGE SOLUTIONS AND DRIVING NET ZERO. IETA ADVOCATES FOR TRADING SYSTEMS FOR EMISSIONS 
+REDUCTIONS AND REMOVALS THAT ARE ENVIRONMENTALL Y ROBUST, FAIR, OPEN, EFFICIENT, ACCOUNTABLE AND CONSISTENT ACROSS NATIONAL BOUNDARIES. REPRESENTING MORE THAN 300 LEADING IN -
+TERNATIONAL ORGANISATIONS, IETA IS A TRUSTED PARTNER IN DEVELOPING INTERNATIONAL POLICIES AND MARKET FRAMEWORKS TO REDUCE GREENHOUSE GAS EMISSIONS AT THE LOWEST COST WHILE 
+BUILDING A CREDIBLE PATH TO NET ZERO EMISSIONS. SEE WWW.IETA.ORG FOR MORE INFORMATION.
+DESIGN: HITMAN CREATIVE MEDIA INC.
+MAKING NET ZERO POSSIBLE 3PREPARED WITH THE SUPPORT OF: 
+CARBON COUNTS.ACRONYMS
+AND ABBREVIATIONS  PG 49
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 4
+IN 2021, IETA WITH PARTNERS SET OUT TO DEVELOP BEST PRACTICE GUIDANCE FOR CREDITING GEOLOGICAL CAR -
+BON DIOXIDE (CO2) STORAGE (GCS) ACTIVITIES WITHIN CARBON MARKETS. TO INFORM THE PROGRAMME, EXPE -
+RIENCES WITH CARBON CAPTURE AND STORAGE (CCS) AND ENGINEERED CARBON REMOVALS (ECDR) IN CARBON 
+MARKETS WERE REVIEWED AND SYNTHESIZED. ANAL YSIS THEREIN PROVIDED THE FOUNDATIONAL BASE FOR IE -
+TA’S FLAGSHIP CARBON MANAGEMENT PUBLICATION: HIGH-LEVEL CRITERIA FOR CARBON GEOSTORAGE ACTIVI -
+TIES, LAUNCHED IN DECEMBER 2022.
+In follow up, in April 2024 IETA published a meth -
+odologies and safeguards synthesis paper in the form of IETA’s Handbook for Geostorage and Car -
+bon Crediting (version 1.0).
+1 Since that time, new 
+methodologies and updates to existing method-ologies have been produced, and new issues and methodological concerns are being tackled. This prompted IETA and its members to implement a refresh of the original handbook.
+This new edition—the Handbook for Geostor -
+age and Carbon Crediting 2.0—provides an up-
+to-date go-to reference source for practitioners and policymakers seeking to understand cur -
+rent practices, commonalities and differences in scope, expectations and approaches for meth-odological design, safeguards, measurement, reporting and verification (MRV) and accounting for CCS and eCDR technologies. EXECUTIVE SUMMARY
+Methodologies and protocols under these stan -
+dards are assessed and synthesized in the fol-lowing contexts:
+• Applicability conditions
+• Project boundary 
+• Baseline scenario and baseline emissions
+• Determination of additionality
+• Project and leakage emissions
+• Non-permanence and carbon reversal, covering:
+• Upfront quality assurance and quality control
+• Liability for short-term (operational) and longer-term (post-injection) leaks
+• Environmental and social impacts and sustainability.A summary table highlighting the scope, cov -
+erage and approaches within the current GCS standards ecosystem is provided.
+Safeguarding and accounting principles, prece -
+dents and practice for GCS established under the 
+UNFCCC, Kyoto Protocol and the Paris Agree -
+ment are also reviewed and assessed. 
+The Handbook highlights important linkages be -
+tween methodologies, safeguards and account -
+ing for GCS operations and the origination and 
+trading of credits in the era of the Paris Agree -
+ment.
+
+Methodologies and/or protocols from the following standard setters are reviewed:2
+01.  Independen t crediting 
+programmes (ICPs)02.  Domes tic crediting 
+or certification 
+programmes03.  International  
+crediting & accounting methodologies
+• ACR
+• Verra/Verified Carbon 
+Standard (VCS)
+• Global Carbon Council (GCC)
+• Gold Standard
+• Puro.earth
+• Isometric• Environment and Climate Change Canada (ECCC)
+• Alberta Emissions Offset System
+• British Columbia Emissions Offset
+• European Union (EU) Carbon Removal and Carbon Farming certification (CRCF)
+• British Standards Institute (BSI; with input from UK Government, Department of Net Zero and Energy Security)• UNFCCC Clean Development Mechanism (CDM)
+• 2006 IPCC Guidelines for National Greenhouse Gas Inventories (IPCC)
+MAKING NET ZERO POSSIBLE 5GEOSTORAGE CREDITING BUILDS ON STANDARDS FROM LEADING PROGRAMMES—INDEPENDENT, DOMESTIC, AND INTERNATIONAL—TO ENSURE INTEGRITY , SAFEGUARDS, AND CONSISTENCY ACROSS CARBON MARKETS.
+TECHNICAL SUMMARY
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 6
+MAKING NET ZERO POSSIBLE 7
+BACKGROUND
+In 2021, IETA alongside key partners, policymak -
+ers and stakeholders set out to develop best 
+practice guidance for crediting geological car -
+bon dioxide (CO2) storage (GCS) activities within carbon markets. 
+Development of the principles and criteria was 
+structured around the following questions:
+1. How do existing protocols address various 
+methodological aspects relating to GCS?
+2. What priorities could be established through common principles for crediting of GCS activities?
+3. What additional safeguards are needed in GCS methodologies relative to other types of crediting standards?
+4. What high-level criteria can guide the development of these safeguards?
+T o inform the programme, experiences with car -
+bon capture and storage (CCS) and engineered 
+carbon removals (eCDR) in carbon markets were reviewed and synthesized. Analysis therein pro -
+vided the foundational base for IETA’s flagship carbon management publication: High-Level Cri-teria for Carbon Geostorage Activities, launched in December 2022.
+In follow up, in April 2024, IETA published a meth -
+odologies and safeguards synthesis paper in the 
+form of IETA’s Handbook for Geostorage and Carbon Crediting (version 1.0).
+3
+Since then, new methodologies, updates to ex -
+isting methodologies and new methodological topics have emerged in discourses around CCS (fossil CO2 capture and geological storage) and eCDR (bioenergy with CO2 capture and geolog-ical storage; BECCS, and direct air capture with geological storage; DACCS). In particular, key areas of the BECCS and DACCS supply chains have been subject to closer methodological scru -tiny. These developments prompted IETA and its 
+members to embark on a round of updates to the Handbook for Geostorage Crediting 1.0.
+This new edition—the Handbook for Geostorage 
+and Carbon Crediting 2.0—seeks to capture and assess the current state of play for methodolo -
+gies and protocols applicable to crediting and quantifying/certifying GCS project activities. The review encompasses 13 standard setters (see above) and at least 30 methodologies, protocols and related documents.
+In keeping with the first handbook (v1.0), two 
+core parts are presented: (i) a synthesis of cur -
+rent methodologies and protocols (Section 3); 
+and (ii) a review of safeguarding and accounting 
+principles, precedents and practice for method -
+ological design and MRV under the UNFCCC and 
+Paris Agreement, including under Article 6, the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) and in account -
+ing towards nationally determined contributions 
+(NDCs; Section 4). A summary of principles and 
+design features for GCS crediting and account -
+ing is also included (Section 2).
+METHODOLOGIES AND PROTOCOLS: 
+A SYNTHESIS
+The current suite of methodologies and protocols 
+share many design similarities but also contain 
+subtle differences and some divergences in ap -
+proaches. 
+Only minor differences exist across methodolog -
+ical components such as baseline and addition -
+ality, and few if any unique issues are posed for 
+GCS technologies in these respects. 
+Conversely, wider differences can be seen in 
+technical scopes and applicability conditions, 
+the spatial and temporal accounting boundaries 
+(including leakage effects), and the approaches taken to manage the risk of carbon reversals, es -pecially over the longer-term. These main differ -
+ences relate to: (i) the types of GCS activities that 
+may apply the methodology; (ii) the locations in 
+which an eligible GCS project activity may be de -
+veloped, operated and closed; (iii) the sources of 
+emissions and removals that should be account -
+ed for within the methodological framework; and (iv) the approach to quality assurance and quality 
+control (QA/QC) and the legal, regulatory and technical requirements applied to GCS site de -
+velopment, operation, closure, post-injection and over the longer term.
+TECHNICAL SCOPE: BOUNDARY , BASELINE 
+AND ADDITIONALITY
+ACR (v1. 1.) is unique in covering fossil CCS, DAC, 
+and currently only storage in conjunction with 
+active injection of CO2 for enhanced oil recovery 
+(EOR).
+4 The Global Carbon Council (GCC) meth-
+odology also applies to the capture of a variety of potential CO2 sources (fossil, bio, DAC), although it excludes storage via EOR. Verra/VCS takes a 
+modular approach that aims to cover a wide suite 
+of GCS technologies, but has so far only pub -
+lished modules for DAC, CO2 capture from bio -
+energy (BEC), and storage in saline aquifers and depleted hydrocarbon reservoirs. Isometric also 
+uses modules to account for different eCDR and 
+GCS configurations including BEC and DAC and various storage options including saline aquifers.
+Gold Standard, Puro.earth, Isometric, Environ -
+ment and Climate Change Canada (ECCC), the 
+European Union (EU) and the British Standards 
+Institute (BSI) all apply exclusively to carbon re -
+moval and eCDR (either or both of BECCS and DACCS). Verra/VCS, alongside Puro.earth, GCC and EU are the only methodologies that explicitly 
+encompass CO2 capture from waste-to-energy 
+facilities (WtECCS). Alberta and British Columbia offset protocols are fairly agnostic to the source 
+of CO2 streams sent to GCS, suggesting wide applicability.THE HANDBOOK FOR 
+GEOSTORAGE AND CARBON CREDITING 2.0 CAPTURES THE CURRENT STATE OF PLAY ACROSS 13 STANDARD SETTERS AND MORE THAN 30 METHODOLOGIES, SETTING OUT PRINCIPLES FOR CREDIBLE GCS CREDITING AND ACCOUNTING.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 8
+Variations exist in the scope of CO2 storage 
+types covered. ACR (v1. 1) applies only to EOR. All other methodologies include saline aquifer stor -
+age and, with the exception of Isometric, storage 
+in depleted hydrocarbon reservoirs. Only Puro.
+earth and Isometric are explicit in covering GCS 
+via in situ mineralisation,
+5 whereas the approach 
+may be implicitly eligible under others (e.g. Gold Standard, Verra/VCS, EU or BSI). Alberta Envi -
+ronment and Protected Areas (AEPA), lead min-
+istry for Alberta’s Emissions Offset System, ap -
+plies two separate methodologies: one for EOR and one for saline aquifer storage. GCC, Gold 
+Standard, Puro.earth, Isometric, ECCC and EU all explicitly exclude EOR, while Gold Standard is an 
+exception in explicitly not accepting GCS under 
+the seabed. 
+Broad technical applicability can pose higher 
+complexity for boundary setting and baseline 
+considerations. In the case of fossil CCS, the 
+wide array of potential alternative technologies that could be used to deliver the same underlying 
+service means more baseline approaches can be 
+relevant. In these respects, both ACR and GCC apply either performance- or standards-based 
+approaches to baseline emissions, reflecting 
+the wide set of CO2 capture situations that are 
+covered. Conversely, Verra/VCS, Puro.earth, 
+Isometric, EU and BSI—with their limitation to eCDR—generally assume that all captured and 
+stored CO2 (i.e. removed) is additional and there-
+fore apply a baseline of zero (i.e. there would be no removals in the absence of the registered ac -
+tivity). Most methodologies covering BECCS en-compass the additional complexity of addressing 
+upstream emissions associated with the source 
+of the biomass (especially the leakage risk posed by land use change; see below). Methodologies 
+covering DACCS similarly consider the upstream 
+emissions and leakage risks of low carbon or renewable energy procurement (see below). 
+For both BECCS and fossil CCS, the scope of 
+emissions to be counted as project emissions depends on whether the baseline scenario is an 
+existing facility (i.e. retrofit of CO2 capture) or a new build (i.e. greenfield site). The methodologies 
+from Verra/VCS, GCC, Puro.earth and Isometric 
+all consider that, for retrofits, some of the same 
+emissions sources will exist in the baseline sce -
+nario and therefore may be excluded from project 
+emissions. 
+Nearly all methodologies require additionality 
+demonstration. Most use variations upon the 
+regulatory surplus test, financial additionality 
+test and the common practice test, drawing from 
+methodological approaches developed under 
+the CDM. Some refer directly to existing CDM tools (e.g. GCC, Gold Standard). Some also apply 
+a performance standard (e.g. ACR, Isometric).
+TECHNICAL SCOPE: WIDER BOUNDARIES 
+AND LEAKAGE MITIGATION FOR ECDR SUP -
+PL Y CHAINS
+Growing demands to credit or certify only the 
+net removals or net negativity of eCDR activities has pushed standard setters towards full lifecycle 
+emissions accounting, widening activity account -
+ing boundaries and enhancing methods to miti-
+gate leakage effects.
+The boundary of eCDR methodologies from Puro.
+earth, Isometric, ECCC, EU and BSI incorporate 
+a wide range of spatial and temporal emissions, 
+variously including emissions associated with 
+materials supply, plant/facility construction, facil -
+ity decommissioning and monitoring emissions. 
+Gold Standard, Puro.earth and BSI require land 
+use change emissions from project site develop -
+ment to be considered, while Isometric includes a ‘counterfactual storage’ scenario in the baseline 
+that could encompass land use change emis -
+sions. Puro.earth, Isometric and ECCC require the emissions from project monitoring to be in-
+cluded.Some standards applicable to fossil CCS also 
+take lifecycle emissions into account. GCC and 
+Alberta include materials consumption and up -
+stream emissions from fuel production. Alber -
+ta includes emissions from well drilling, but not 
+other construction emissions (as does ECCC 
+for DACCS). ACR (v2.0) will adopt an inclusive 
+approach towards relevant up- and downstream 
+emissions sources.
+Emissions and leakage effects driven by the 
+demand for materials and energy to run eCDR facilities are also increasingly featured in meth -
+odologies. Particular attention has been on (i) the 
+sustainability of the biomass used for BECCS 
+(given concerns over activity shifting and direct 
+and indirect land use change (dLUC/iLUC) ef -
+fects); and, (ii) the carbon intensity of electricity and heat used to power DAC facility (including 
+the potential displacement of previous users of 
+low carbon intensity or renewable electricity and 
+heat, i.e. market leakage).METHODOLOGIES DIVERGE 
+WIDEL Y ON ELIGIBLE CO2 STORAGE TYPES — WITH SOME INCLUDING SALINE AQUIFERS AND DEPLETED RESERVOIRS, WHILE OTHERS EXPLICITL Y EXCLUDE EOR OR SEABED STORAGE.
+GROWING DEMANDS 
+FOR INTEGRITY IN ECDR CREDITING ARE DRIVING FULL LIFECYCLE ACCOUNTING, WITH STRICTER BOUNDARIES TO CAPTURE UPSTREAM EMISSIONS, LAND USE CHANGE, AND LEAKAGE RISKS.
+MAKING NET ZERO POSSIBLE 9
+Methodologies and protocols from Verra/VCS, 
+Gold Standard, Puro.earth, Isometric, ECCC, EU and BSI all consider these factors in similar ways 
+according to the following: 
+• BECCS: requirements to check or otherwise 
+certify the sustainability and traceability of the 
+biomass used and only allow removals to be 
+counted when specified criteria are fulfilled.6
+• DACCS: requirements to count the carbon 
+intensity of electricity used at a DAC facility 
+using a relevant emission factor (e.g. electricity 
+grid average or marginal factor) unless it 
+can be shown to be generated from low- or 
+zero-emissions power plants that are: (i) located on-site (behind-the-meter); and/or (ii) 
+acquired from offsite, procured under either 
+a ‘green’ power purchase agreement or a wheeling agreement. The ‘spatial correlation’,
+7 
+‘temporal correlation’8 and ‘additionality’9 
+of power procurement are also emerging 
+methodological features. The use of waste 
+heat is also a typical pre-requisite.
+Isometric and Verra/VCS also consider market leakage effects of materials used for CO2 cap -
+ture (e.g. chemicals and other raw materials to 
+capture CO2).
+QUALITY ASSURANCE AND QUALITY
+CONTROL (QA/QC): STORAGE SITEREGULATION AND PERMITTING
+The handling of non-permanence and the allo -
+cation liability in the event of a carbon reversal,
+10 
+especially over the longer-term beyond the end 
+of crediting and post CO2 injection, is among the 
+most challenging aspects of GCS methodologi -
+cal design. 
+Standard setters need assurances that the en-
+vironmental integrity of the credits or certifica -
+tions that they issue for GCS activities today do 
+not become compromised by the reversal of the 
+emission reduction or removal effect due to fu -ture leakage of stored CO2. In all cases, there is 
+a need to decouple that residual risk from the is -
+sued credits to ensure equivalence and fungibility 
+with other units in carbon markets. 
+Drawing from historical precedents and les -
+sons-learned (see box: Carbon removals, geos -
+torage and reversal risks below), most standard 
+setters apply some combination of upfront quality assurance and quality control (QA/QC) require -
+ments on GCS operations. Commonly this is implemented through a requirement for dedicat -
+ed GCS legal and regulatory frameworks to be present in the host country. Such regimes, which primarily exist only in OECD countries today, can 
+provide assurances that systems are in place to oversee GCS site selection, design, responsible 
+operation, effective closure, and also establish 
+long-term monitoring and liability arrangements in the event of future CO2 leaks (carbon reversal) 
+from the GCS site. Usually such requirements are covered by local permitting processes imple -
+mented by the government or its mandated agen -
+cy/authority.ENSURING THE LONG-
+TERM INTEGRITY OF GCS CREDITS HINGES ON ROBUST QA/QC FRAMEWORKS, LEGAL REGIMES, AND SAFEGUARDS AGAINST CARBON REVERSAL RISKS.Most types of climate mitigation actions permanently prevent the formation and at -
+mospheric release of CO2. In contrast, CCS and CDR respectively avoid atmospheric CO2 emissions from point sources or re -
+move CO2 that is already in the atmosphere by capturing it and transferring it to en-hanced geological carbon reservoirs. This poses a residual risk that stored CO2 may be released from storage back to the atmo -
+sphere, impacting surrounding ecosystems, communities, the climate system and the environmental integrity of policies under which reduction or removals are counted and/or traded (carbon reversal).
+Under the Kyoto Protocol, the absence of 
+emission limitation or reduction targets for developing countries meant CDM host countries faced no direct climate liability if carbon removal or CCS activities leaked CO2 back to the atmosphere. Such con -
+cerns led Kyoto Protocol signatory Parties to establish, in 2003, the use of temporary or long-term certified emission reductions (tCER/lCER) units for removals by affor -
+estation and reforestation (A/R) CDM ac -
+tivities. Both tCERs or lCERs expired after fixed periods of time, with the acquiring Party thereafter responsible for their re-placement. However, the temporary credit approach to A/R proved unpopular in car -
+bon markets. 
+T o avoid the applying the same, unpopular, 
+tCER/lCER approach to CCS, Parties to the Kyoto Protocol, in 2011, instead agreed to establish various safeguards for under -
+taking CCS as CDM project activities. The safeguards sought to establish robust, high quality, permanent GCS by setting require-ments for national laws and regulations to guide and oversee storage site selection, operation, closure and post injection, and for liability arrangements to be agreed between buyer and seller country Party upfront for the remediation of any carbon reversal. A buffer pool was also included. 
+The regulatory safeguards established for 
+GCS sites under the CDM mirrored require -
+ments established in OECD countries over proceeding years (e.g. in dedicated CCS legislation in Australia, the European Union, U.S. and Canada). Such regulatory align-ment helped build confidence and trust in the quality of credits originating from GCS activities located in any jurisdiction, thereby supporting market fungibility and avoid the use of temporary credits.CARBON REMOVALS, GEOSTORAGE AND REVERSAL RISKS
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 10
+At the methodological level, the most practical 
+means to implement QA/QC requirements for 
+GCS sites in methodologies and protocols is by restricting their geographical applicability to juris -
+dictions with dedicated GCS regulations. Some standard setters therefore explicitly limit juris -
+dictional coverage: AEPA protocols apply only in Alberta; British Columbia protocols apply only to BC; ECCC applies only to Canadian provinc -
+es; EU applies only to European Union member states; ACR (v1. 1) is only applicable in the U.S and Canada. 
+Other methodologies and protocols imply de 
+facto restrictions by only allowing projects per -
+mitted under, for example, EU or US laws,
+11 yet, 
+often also including terms such as “or equivalent/similar requirements, procedures etc.”, implying some flexibility. This type of de facto geographi -
+cal restriction with flexibility is applied by Verra/VCS, Puro.earth and Isometric. Each of these ICPs specifies technical and/or legal guidance/expectations regarding the prevailing local reg -
+ulatory and permitting conditions, implying a re-quirement for specific GCS site permits (e.g. the Verra/VCS GCS Requirements;
+12 Isometric Saline 
+Aquifer module;13 Puro.earth Geological Storage 
+Methodology14).
+Gold Standard and GCC also provide substan-tial technical guidance on matters such as site selection, well design, operation, post-injection and closure, but appear less prescriptive as to the type of permit. The technical guidance is rather oriented towards filling gaps in local (host country) legal regimes so that some form of gen -
+eral permit(s) could be issued to GCS projects in circumstances where dedicated GCS laws and regulations are locally absent.BUFFERS AND NON-PERMANENCE
+RISK TOOLS: ADDRESSING SHORT- TO
+MEDIUM-TERM REVERSAL LIABILITY
+T o insure against the impact of short-term car -
+bon reversals during the operational phase and 
+into post-injection/post crediting phases of GCS 
+projects, most standard setters employ a buffer pool,
+15 including ACR, Verra/VCS, Gold Standard, 
+GCC, Isometric, ECCC and British Columbia. The EU and BSI indirectly apply a buffer pool through 
+related national GCS regulations. 
+The size of individual project contributions to the 
+buffer pool range from, potentially, around 2.5% 
+(Gold Standard) up to 16.4% (British Columbia). In 
+the case of Verra/VCS, Gold Standard and British 
+Columbia, the exact level of buffer contribution is 
+determined from a risk rating established though 
+a non-permanence risk assessment. For others, 
+the buffer is fixed (e.g. ACR applies a 10% ‘ERT 
+Reserve’ contribution unless insurance coverage 
+is provided;
+16 GCC and CDM both apply a 5% 
+withholding; Isometric is de facto fixed at 2% for 
+GCS sites). Access to the buffer pool can depend 
+on whether a specific reversal event is consid -
+ered intentional/unintentional or unavoidable/
+avoidable. For Isometric and ACR, the buffer re -
+serve is project specific.
+Neither Puro.Earth nor Alberta applies a buffer 
+pool. The former requires replacement of any units determined to have leaked to the atmo -
+sphere, while the latter applies a fixed contribu -
+tion of the credits generated by activities to be “retired to the atmosphere” (ranging 0.5-1%).
+SAFEGUARDS AND ACCOUNTING
+Most standard setters are implementing mea-
+sures to manage carbon reversals from the GCS 
+at the level of project proponents. However, unlike 
+the Kyoto Protocol, where CO2 reversals from CDM activities would not affect any host country 
+targets (box: Carbon removals, geostorage and 
+reversal risks above and Box 6), all Parties to the 
+Paris Agreement must pledge ambitious climate 
+action in their nationally determined contribu -
+tions (NDCs), which usually includes some form of emission limitation or reduction target. 
+As such, countries hosting GCS sites will be ac -
+countable in respect of their NDC for any CO2 
+emissions resulting from storage leaks (carbon 
+reversal). In addition, there remains a need to en -
+sure that crediting is limited to only high quality, 
+permanent, GCS activities, that the surrounding environment and communities are effectively 
+protected, and that carbon reversals are ade-
+quately addressed. 
+The situation calls for strong safeguards to en -
+sure high quality, high environmental integrity, 
+crediting of CCS and eCDR activities under Arti -
+cle 6 of the Paris Agreement.
+SAFEGUARDS FOR CREDITING
+UNDER ARTICLE 6
+Drawing upon principles, precedents and prac -
+tice from the CDM, safeguarding requirements 
+underpinning the hosting of creditable GCS ac -
+tivities can include:
+a. P olitical support for the technology. 
+b. L egal and regulatory safeguards to robustly 
+govern GCS sites, including site leaks, which 
+are implementable over the long-term.
+c. En vironmental and social safeguards that 
+require comprehensive and thorough risk and safety assessment, including potential 
+impacts on human health and ecosystems.
+Mechanisms under Article 6.2 and Article 6.4 of 
+the Paris Agreement are assessed in respect of 
+these safeguards. ROBUST SAFEGUARDS 
+ARE ESSENTIAL TO ENSURE HIGH-QUALITY , PERMANENT, AND ACCOUNTABLE GCS CREDITING. VARIOUS METHODS ARE CONSIDERED BY STANDARD SETTERS INCLUDING QUALITY ASSURANCE ON PROJECT DEVELOPMENT AND INSURANCE APPROACHES SUCH AS BUFFERS
+MAKING NET ZERO POSSIBLE 11
+Article 6.2 (cooperative approaches): the follow -
+ing applies in respect of (a) above:
+a. A ctivities must contribute towards 
+implementation of a host country’s NDC, 
+implying GCS technologies must be included within Parties’ NDCs and/or long-term low emission development strategy (L T-LEDS) 
+to be eligible for crediting. Inclusion in these 
+national policy documents, alongside the requirement for authorisations of resulting credits, will be indicative of political support 
+for GCS approaches.
+In respect of (b) and (c) above, Parties participat -
+ing in cooperative approaches must submit an 
+Initial Report and Regular Information that, among 
+others, describes how the Party will:
+a. Minimis e the risk of non-permanence and 
+how, when carbon reversals occur, ensure 
+that these are addressed in full.
+b. Minimis e and, where possible, avoid 
+negative environmental and social impacts and ensure consistency with its sustainable 
+development objectives.
+Article 6.4 (the Paris Agreement Crediting Mech -
+anism; PACM): the following applies in respect of 
+(a), (b) and (c) above:
+a. P arties must indicate publicly the types 
+of activity that the Party would consider 
+approving/authorising, and approve and authorise project activities noting how they contribute to the achievement of its NDC, etc.
+b. M ethodologies and projects must follow 
+the Standard: Requirements for activities 
+involving removals under the Article 6.4 
+mechanism (PACM Removals Standard),17 
+covering monitoring and reporting, 
+post-crediting period monitoring and 
+reporting, addressing reversals, reversal 
+risk assessment, a reversal risk buffer pool 
+account, and remediation of reversals. Additional tools will also apply.
+c. Pr oject activities must be assessed using 
+the A6.4 Sustainable Development T ool, 
+which will include specific annexes for CDR 
+activities.
+In the case of both Article 6.2 and Article 6.4, the 
+respective units of internationally transferred mit -
+igation outcomes (ITMOs) or Article 6, paragraph 
+4 emission reductions (A6.4ERs) must be:18
+“…measured in CO2-equivalent calculated in 
+accordance with the methodologies and metrics 
+assessed by the IPCC and adopted by the 
+CMA…” 
+Article 6.2 or PACM activities involving GCS 
+should therefore follow the methodological guid -
+ance for CO2 transport and storage set out in Volume 2, Chapter 5 of the 2006 IPCC Guidelines 
+for National Greenhouse Gas Inventories (2006 IPCC Guidelines). The 2006 IPCC Guidelines 
+suggests a range of good practice regulatory 
+safeguards relating to site selection, risk assess -
+ment etc. (see Box 5 and Annex A) that can also 
+support the fulfilment of item (b) above.
+A variety of standards are anticipated to be eligi -
+ble to issue Article 6.2 compliant credits to GCS 
+activities, posing open questions as to how Initial 
+Reports will recognise and integrate the variety 
+of approaches taken to manage long-term per -
+manence. Consideration of liability for remediat -
+ing carbon reversals in conjunction with relevant standards is also likely to be feature for bilateral agreements governing cooperative approaches 
+that encompass GCS.
+Equally, some uncertainty persists over whether national approvals will form part of the Article 6.4 
+rulebook in the PACM removals standards, tools 
+or methodologies. The exclusion of host country roles in the PACM Draft Standard: Addressing 
+non-permanence/reversals suggests that they 
+will not be engaged in matters such as the ap -proaches to long-term monitoring, addressing 
+liability for remediating carbon reversals, or ac-
+cessing the PACM buffer account.
+The T echnical Advisory Body of the Carbon Off -
+setting and Reduction Scheme for International 
+Aviation (CORSIA) has so far excluded methodol -
+ogies or protocols involving GCS or enhanced re-
+movals from inclusion as CORSIA Eligible Emis -
+sion Units (CEEUs). 
+ACCOUNTING IN RESPECT OF NDC s
+The approaches to include and count GCS activ -
+ities under NDCs is reviewed, and measures to 
+avoid double counting of the mitigation outcomes 
+are discussed. 
+The Handbook highlights important linkages 
+between methodologies, safeguards and ac -
+counting for GCS operations and the origination 
+and trading of credits and other units in the Paris 
+Agreement era.UNDER ARTICLES 6.2 
+AND 6.4, GCS ACTIVITIES MUST ALIGN WITH HOST COUNTRY NDCs, DEMONSTRATE 
+SAFEGUARDS AGAINST REVERSALS, AND APPL Y IPCC METHODOLOGIES AND METRICS
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 12STANDARD SETTER SOURCE COVERAGE, SCOPE AND STRUCTURE STORAGE COVERAGE
+Name Type Purpose CCS DACCS BECCS WtECCS Jurisdiction ModularSaline 
+AquiferDepleted 
+O&G fieldsEORIn situ 
+mineraliz'nSub-
+seabedGeostorage Regulation
+ACR ICP C✅✅✅✅➖US, CA ➖➖✅✅LP 
+(US Class II/VI or CA equiv)
+Verra/VCS ICP C➖✅✅✅✅✅✅Global ✅✅✅✅✅✅LP + TG 
+(GCS Requirements)
+GCC ICP C✅✅✅✅✅✅✅✅Global ✅✅✅✅❌LP(g) + TG 
+(GCC CO2 Geo Guidance)
+Gold Standard ICP C ✅✅Global ✅✅✅✅❌➖❌LP(g) + TG 
+(GS4GG T ool 03)
+Puro.Earth ICP C ✅✅✅✅✅✅Global ✅✅✅✅❌✅✅LP + LG 
+(T able 1)
+Isometric ICP C ✅✅✅✅➖Global ✅✅✅✅ ❌✅✅LP + TG 
+(CO2 Storage Modules)
+Env & Clim 
+Change Canada (ECCC)Govt. 
+(Dom.)C
+✅✅CA ✅✅✅✅❌✅✅LP 
+(Provincial permit)
+AlbertaGovt. 
+(Dom.)C✅✅✅✅✅✅AB ✅✅✅✅✅✅LP  
+(AB D065)
+British ColumbiaGovt. 
+(Dom.)C✅✅✅✅B.C. ✅✅✅✅✅✅LP 
+(B.C. OGAA, PNGA, ERAA)
+European Union (EU)Govt. 
+(Dom.)Q
+✅✅✅✅✅✅EU-27 ✅✅✅✅❌➖LP  
+(MS Storage Permit)
+British Stds Inst (BSI)Govt. 
+(Dom.)Q
+✅✅✅✅❌UK  
+(primary) ✅✅✅✅ ➖LP 
+(UK Storage Permit)
+Clean Dev Mech (CDM)Govt.  
+(Intl.)C  
+(old)✅✅Non-Annex I 
+(Developing) 
+Country✅✅✅✅✅✅LP + LG 
+(Participation Requiremnts)
+IPCCGovt.  
+(Intl.)Q 
+(NGHGI) ✅✅⭕⭕✅✅✅✅Global ⭕⭕✅✅✅✅✅✅LP + TG 
+(QA/QC checks)
+✅✅ ⭕⭕ ❌ ➖ Covered Partially Covered Explicitly Excluded Under Consideration; Unclear Acronyms and abbreviations - Pg 49
+MAKING NET ZERO POSSIBLE 13METHODOLOGICAL APPROACHESPROJECT EMISSIONS COVERAGE ACROSS THE 
+LIFECYCLE & SUPPL Y CHAINLEAKAGE ESTIMATION/
+MITIGATION COVERAGE
+NameLifecycle 
+emissionsAdditionality Baseline ReversalsLong-term 
+monitoringConstruct. 
+emissionsLand use 
+changeDecomm. 
+emissionsMaterials 
+consumedWaste 
+disposalMonitoring 
+emissionsBiomass 
+sourcingEnergy 
+sourcingMaterials 
+sourcing
+ACR ❌RS, PS P / SB*, R
+(≤10%)L TM-HC ⭕⭕ ➖ ➖
+Verra/VCS ✅✅RS, FA, CPP , LUC 
+(R/NB)B(r) (d)
+(≤7%)L TM-HC 
+(o/i)(r) ✅✅ ✅✅ ✅✅✅✅ ✅✅✅✅✅✅
+GCC ⭕⭕RS, FA, CP 
+(TOOL 01)P / S  
+(R/NB)B
+(5%)L TM-HC ✅✅ ⭕⭕
+Gold Standard ⭕⭕RS, FA, CP 
+(TOOL 01/02)P / S, 
+LUCB(r) 
+(2.5-8.5%)L TM-HC 
+(o/i) ✅✅ ✅✅ ❌ ✅✅ ⭕⭕
+Puro.Earth ✅✅RS, FAP , LUC 
+(R/NB)CC, R L TM-HC ✅✅ ✅✅ ✅✅ ✅✅✅✅✅✅✅✅✅✅❌
+Isometric ✅✅RS, FA, 
+CP , PSP , CS  
+(R/NB)B(r) (d) 
+(2%)L TM-HC ✅✅ ✅✅ ✅✅ ✅✅✅✅✅✅✅✅✅✅✅✅
+Env & Clim 
+Change Canada (ECCC) ✅✅RS P"B 
+(3%)"L TM-HC ⭕⭕ ❌ ✅✅ ✅✅ ✅✅
+Alberta ⭕⭕RS  
+(TIER/Flex)"PCC (d)
+(0.5-1%)L TM-HC ⭕⭕ ❌ ✅✅✅✅
+British Columbia RS, FA, PAP 
+(zero)B(r)
+(≤16.44%)L TM-HC
+European Union 
+(EU) ✅✅P 
+(zero)B* L TM-HC ✅✅ ✅✅ ✅✅✅✅ ✅✅✅✅
+British Stds Inst 
+(BSI) ✅✅P B* L TM-HC ✅✅ ✅✅ ✅✅ ✅✅✅✅ ✅✅✅✅➖
+Clean Dev Mech (CDM)RS, FA, CP 
+(TOOL 01/02)P / SB
+(5%)L TM-HC (o)
+IPCC L TM-HC
+✅✅ ⭕⭕ ❌ ➖ Covered Partially Covered Explicitly Excluded Under Consideration; Unclear Acronyms and abbreviations - Pg 49
+01 INTRODUCTION
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 14
+1. 1 BACKGROUND
+In 2021, IETA and partners19 launched a process 
+to establish common principles, safeguard crite -
+ria and accounting standards for the treatment of 
+geological storage of carbon dioxide (CO2; here -
+after, “GCS”) within carbon markets, covering 
+CO2 captured from any of fossil (“CCS”), biogen -
+ic (“BECCS”) or direct air (“DACCS”) sources.20
+ 
+Using IETA’s global reach and market convening 
+power, the initiative brought together key actors 
+into a discussion around the levels of assurance 
+needed for GCS methods to offer effective cli -
+mate mitigation. That work programme conclud -
+ed with the launch, in December 2022, of IETA’s 
+High Level Criteria for Crediting Carbon Geostor -
+age.21 
+The foundational analysis informing IETA’s High 
+Level Criteria for GCS subsequently provided the 
+base for IETA’s Handbook for Geostorage and 
+Carbon Crediting (version 1.0), launched in April 
+2024.221.2 ABOUT THI S UPDATE
+Since publication of IETA’s Handbook for Geos -
+torage and Crediting 1.0, new methodologies, re -
+visions to existing methodologies, and new meth-odological topics have emerged in discourses around CCS and eCDR. In particular, key areas in the BECCS and DACCS supply chains have been subject to closer methodological scrutiny. 
+These developments prompted IETA and its 
+members to embark on a round of updates to the Handbook version 1.0. This new edition (version 2.0) includes the following:
+Section 2 presents background information on 
+methodological principles and accounting proto -
+col design for GCS activities.Section 3 provides a synthesis of current meth -
+odologies and protocols that are applicable to 
+various CCS and eCDR activities involving GCS.
+Section 4 considers the safeguards and ac-
+counting for CCS and eCDR and the interface 
+between project-level crediting and the reporting of emissions and removals by countries in pursuit of NDCs and the Paris Agreement goals. Annex A includes a summary of the treatment of 
+CCS, BECCS and GCS within the 2006 IPCC 
+Guidelines for National Greenhouse Gas Invento -
+ries (2006 IPCC Guidelines), a key document un-derpinning MRV, governance and accounting of GCS related mitigation activities under the Paris Agreement. 
+IETA’S HANDBOOK FOR GEOSTORAGE AND CARBON CREDITING 2.0 BUILDS ON GLOBAL CRITERIA AND EVOLVING METHODOLOGIES TO STRENGTHEN SAFEGUARDS, ACCOUNTING, AND CLIMATE INTEGRITY FOR CCS AND ECDR.
+MAKING NET ZERO POSSIBLE 15
+02 C ARBON CREDITING AND
+ GE OLOGICAL CARBON STORAGE
+ (GCS)
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 16
+MAKING NET ZERO POSSIBLE 17
+2. 1 GE OSTORAGE AND CREDITING
+Capture and geological storage of CO2 presents 
+some unique methodological features compared 
+to other types of project-based activities and 
+methodologies: principally, most types of climate 
+mitigation technologies avoid the formation of 
+CO2 by replacing emissive activities with lower 
+emitting substitutes performing a similar func -
+tion. Conversely, activities involving GCS either 
+reduce/avoid atmospheric CO2 emissions from 
+point sources (CCS) or remove CO2 that is al -
+ready in atmospheric stocks (eCDR) through the 
+engineered capture and injection of CO2 into 
+geological formations. 
+Implementation of CCS and the eCDR methods 
+considered in this handbook enhance geological 
+carbon reservoirs by directly returning carbon 
+from where it came (fossil CCS), removing it from 
+atmospheric stock (DACCS) or transferring it 
+from biogenic stock in the Earth’s fast carbon cy -
+cle into the slow (geological) carbon cycle (BEC -
+CS). Undertaking these activities may increase the formation of CO2 due to the energy and ma-
+terials requirements for the capture, transport 
+and storage of CO2. It therefore remains vital that:
+1. Monitoring and accounting boundaries are 
+appropriately drawn so as to consider the full 
+range of GHG effects arising from a specif -
+ic GCS activity (i.e. to avoid leakage effects that can arise when emissions attributable to 
+the activity occur outside the activity bound -
+ary and are not appropriately recorded), and
+2. The captured CO2 injected into an enhanced 
+geological reservoir remains in place for a 
+significant (permanent) period of time in or -
+der not to reverse the ongoing effectiveness of the initial climate change mitigation effect 
+(i.e. the risk of non-permanence and carbon 
+reversal; see Section 4).
+In respect of (1) above, there is an increasing fo -
+cus on the full GHG effects—including the risk of leakage effects occurring outside the direct 
+control of the project operator—with enhanced 
+interest in precisely determining, crediting and/or certifying only the net removal or net negativity achieved by eCDR activities (Box 1).
+In respect of (2) above, standard setters, in es -
+tablishing methodologies, must seek reasonable 
+assurance (hereafter referred to as Quality As -
+surance and Quality Control or “QA/QC”) that the environmental integrity of any credits that they issue to GCS project operators today will not be -
+come compromised by the future reversal of the emission reduction or removal effect after cred -
+iting has ended. Furthermore, the residual risk of future carbon reversal in an underlying project 
+activity should be decoupled from issued credits 
+to allow for equivalence and fungibility with other units in carbon markets derived from other types of activities.
+The handbook considers the unique methodolog -
+ical components for CCS and eCDR—including 
+boundaries, leakage, non-permanence and liabil -
+ity for remediating carbon reversal—alongside the more conventional aspects of project-based methodologies (e.g. applicability, baselines, ad-ditionality etc) and summarises how they are implemented within existing methodologies and protocols. BUYERS AND STANDARD SETTERS ARE INCREASINGL Y CALLING FOR FULL ACCOUNTING OF LIFECYCLE EMISSIONS TO ENSURE THAT THE FULL ECDR SUPPL Y CHAIN GHG EFFECTS ARE ACCOUNTED FOR WITHIN ISSUED CREDITS CLIMATE BENEFITS ARE NOT REVERSED.
+Buyer and suppliers of eCDR credits are in -
+creasingly mindful of the potential adverse 
+side effects of emissions intensive supply 
+chains and are calling for full value chain ac-
+counting to ensure projects and credits are 
+of high quality and integrity. 
+Buyers such as Carbon Direct and Microsoft 
+(2024), for example, require that projects seeking funding under the Microsoft CDR 
+Program deliver net negativity by, inter alia, 
+accounting for and reporting “…all GHG emis -
+sions associated with a CDR project using repeatable and verifiable GHG quantification methods”…[involving]…“the use of cradle-to-grave life cycle assessments (LCAs) and/or models that accurately estimate CDR, 
+calibrated by periodic direct measurement.” 
+(Carbon Direct and Microsoft, 2024. p. 11). 
+Other buyer groups engaged in CDR cred-it purchases echo similar sentiments (e.g. Frontier includes a purchase criterion of ‘net 
+negativity’). 
+On the supplier side, standard setters are 
+implementing wide accounting boundaries 
+and sometimes requiring LCA-style GHG as -
+sessment in support of CDR activity certifi -cation. The European Union carbon removal 
+and carbon farming certification regulation 
+(CRCF), for example, requires that quantifi -
+cation of carbon removal takes account of, 
+inter alia, the associated GHGs covering “…
+the increase in direct and indirect GHG emis -
+sions over the entire lifecycle of the activity which are attributable to its implementation, including indirect land use change” (Article 
+4). Puro.earth and Isometric require cradle-
+to-grave GHG assessments prior to registra -
+tion, and ongoing ex post monitoring of the 
+identified lifecycle components.BOX 1 - GROWING DEMANDS FOR NET NEGA TIVITY FROM eCDR
+Notes and sources: Carbon Direct and Microsoft 2024. Criteria for High-Quality Carbon Dioxide Removal: 2024 edition ( https:/ /www.carbon-direct.com/research-and-reports/crite -
+ria-for-high-quality-carbon-dioxide-removal);   Frontier ( https:/ /frontierclimate.com/apply ); Regulation (EU) 2024/3012 of the European Parliament and of the Council of 27 November 
+2024 establishing a Union certification framework for permanent carbon removals, carbon farming and carbon storage in products; Isometric protocols typically refer to a “cradle-to-
+grave GHG Statement…encompassing the GHG emissions relating to the activities outlined within the system boundary”, which is similar to a LCA.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 18
+2.2 PRO JECT-BASED ACCOUNTING
+ PRINCIPLES
+Emission reductions or net removals by project 
+GCS activities can be calculated as:Standards, methodologies, protocols and re -
+lated modules and tools for carbon crediting prescribe approaches for data collection and processing for use as inputs within this general accounting framework. 
+The carbon accounting under three different 
+GCS project activity circumstances is visual-
+ised schematically below (Figure 1).
+2.3 METH ODOLOGICAL COMPONENTS
+Key terms and definitions.  The unique nature of 
+GCS activities means some specific terms and definitions need to be clearly and carefully for -
+mulated to ensure their use is consistent with 
+international standards and other best practice. Applicability/eligibility conditions. The specific circumstances, attributes and other conditions that apply to activities wishing to use a given 
+methodology. For GCS related activities, these 
+can include the eligible sources of CO2 being 
+captured (e.g. which types of CO2 and from 
+which sectors, both of which have implications 
+for baseline selection; see below), the modes 
+of transport, the allowable geological storage 
+media (e.g. deep saline formations; depleted 
+hydrocarbon fields; eligibility for enhanced oil 
+recovery) and restrictions on the utilisation/
+beneficial use of CO2 for purposes other than 
+geological storage (e.g. CO2 for manufacture 
+of chemicals). Specific restrictions on the geo-
+graphical setting can also be applied.THE HANDBOOK OUTLINES 
+HOW CCS AND eCDR MUST ADDRESS LEAKAGE, NON-PERMANENCE, AND LIABILITY —WHILE APPL YING CLEAR PROJECT-BASED ACCOUNTING PRINCIPLES TO ENSURE FUNGIBILITY IN CARBON MARKETS.NRp = BEp – (ME/Rp + PEp + LEp) 
+Where;NR = Net reductions / Net removals
+23 (tCO2 or tC)
+BE = Baseline emissions/flux (tCO2 or tC)ME/R = Measured emissions or measured (gross) 
+removals (tCO2 or tC)
+PE = Project (or Activity) emissions (tCO2 or tC)LE = Leakage emissions (tCO2 or tC)p = relevant measurement period
+(e.g. 1 year)EQUA TION 1Source: adapted from IEAGHG 2024. Mea-
+surement, Reporting and Verification (MRV) for Carbon Dioxide Removals (CDR) in the context of both project-based approaches and national greenhouse gas inventories. IEA Greenhouse Gas R&D Programme, TR 2024-09, October 2024, https:/ /doi.org/10.62849/2024-09 . 
+Notes: (a) shows emission reductions by CCS; (b) shows net removals including a quotient of emission reductions/avoidance (the blue wedge), which can occur where emissions exist in the baseline scenario but not in the project scenario (e.g. waste-to-en -
+ergy with CCS, which co-captures biogenic 
+and fossil CO2 originating from mixed waste 
+streams); (c) shows the situation for most 
+eCDR activities where they are undertaken solely for climate mitigation purposes (i.e. zero emission or removals in the baseline).FIGURE 1 - PROJECT-BASED ACCOUNTING (SCHEMA TIC)
+a.
+ b.
+ c.
+Project boundary. Describes all the emission 
+sources to be included across the project chain 
+(capture, transport, storage) deemed to be under 
+the control of the project participant(s) and that are significant and reasonably attributable to the 
+project activity. Can include temporal as well as 
+physical boundaries.
+Storage site characterisation and selection. 
+Outlines the steps required to characterise and 
+select the proposed GCS site in order to demon-
+strate, among others, that there is sufficient ca -
+pacity to store the intended mass/volume of CO2 over the lifetime of the operation, injectivity to ac -
+cept CO2 at the required rate, and containment to 
+ensure that the CO2 will not leak from the storage 
+reservoir(s).
+Baseline. The procedures and options to estab -
+lish the baseline scenario, and the methodology 
+for calculating baseline emissions against which 
+reductions and/or removals arising from the ac -
+tivity are quantified. 
+Additionality. A project is deemed additional 
+only if it delivers emission reductions or remov -
+als over and above what would have occurred in the absence of the incentive offered by crediting 
+the GCS activity. Methodologies and protocols 
+make use of different approaches and tests to demonstrate the additionality of projects. Unlike 
+some other mitigation technologies, GCS proj -
+ects generally only impose financial costs to op -
+erators and are undertaken for the sole purpose 
+of climate mitigation; however, the presence of 
+relevant CCS or carbon removal regulation, eco -
+nomic incentives and/or potential revenue gen -
+eration from use of captured CO2 may warrant that candidate project activities be subject to an 
+assessment of their additionality.
+Project emissions. Describes the methods for 
+measuring and quantifying the emissions sources 
+occurring inside the project boundary that shall be compared to the baseline. For GCS activities, 
+project emissions include combustion emissions sources inside the project boundary, emissions 
+relating to any bought in heat and/or electricity, CO2 leaks across the chain of activities, including 
+any potential release or see page 4 from the GCS 
+site. Some methodologies may define release or 
+emission as the movement of CO2 outside of the 
+pre-defined boundary of a GCS which could lead to releases to the atmosphere.
+Leakage. Describes the methods for measuring 
+the net change in GHG that occur outside of the 
+project boundary and that are measurable and attributable to the project activity. Leakage as -
+sociated with GCS activities can include emis -
+sions from incremental fossil fuel production that is needed to cover the energy requirements for 
+CO2 capture, transport and injection, any land 
+use change effects resulting from the demand 
+for biomass as a source of energy (for BECCS) or 
+the diversion of low carbon intensity energy away from existing users for use in DAC facility. 
+Monitoring. Sets out the requirements for proj -
+ect monitoring. For GCS activities this includes 
+both the operational and post-injection phases, 
+and various surface and sub-surface aspects 
+including the provision of QA/QC over the secu -
+rity of storage, early warning of irregularities and 
+the risk of leaks, and the quantification of leaks if 
+they are detected. Unlike conventional emission 
+reduction or removal activities, a more complex stepwise technical guidance can be expected to 
+be required involving the design of a sub-surface 
+monitoring plan with appropriate QA/QC aspects 
+and a range of details specific to the proposed 
+storage site (e.g. technology types, locations, fre -
+quency of application).
+Non-permanence and liability for CO2 reversal. 
+GCS projects could in some cases experience a 
+reversal of storage (a leak or seepage) of stored 
+CO2 back to the atmosphere at some point in time either during or after the end of project op-
+eration. If leaks occur during the crediting period, 
+liability generally falls to the project operator to remediate the damage caused (e.g. by drawing down on a buffer account or buying recognised credits from elsewhere). If a leak occurs after the crediting period, then liability for the emissions and their remediation needs to be effectively al -
+located to maintain the environmental integrity of the issued credits. 
+Environmental and social impacts and sustain -
+ability. Describes any requirements for under -
+taking environmental and socio-economic im-
+pact assessments across the project chain and relevant environmental media (e.g. air emissions, solid waste generation, water use) and including plans in the event of any foreseen negative envi -
+ronmental or community impacts. Requirements to assess the sustainability of project activities is often also included (e.g. based on contribu -
+tions to the UN Sustainable Development Goals (SDGs) or other specified sustainability goals/criteria (e.g. in relation to biomass fuels).FROM SITE SELECTION 
+TO MONITORING AND LIABILITY , GCS METHODOLOGIES MUST ADDRESS BOUNDARIES, LEAKAGE, AND NON-PERMANENCE TO SAFEGUARD THE INTEGRITY OF ISSUED CREDITS.
+MAKING NET ZERO POSSIBLE 19
+03 METH ODOLOGIES AND
+ PRO TOCOLS FOR GCS:
+ A S YNTHESIS
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 20
+MAKING NET ZERO POSSIBLE 21
+3. 1 REVIEWED S TANDARDS
+Reviewed standards are listed in T able 1 (inde -
+pendent crediting programmes) and T able 2 (do-
+mestic crediting/quantification standards), cov -
+ering 13 standard setters.25 
+Those listed have been reviewed and synthesized with the aim of highlighting commonalities, illus -
+trating differences and drawing out good practice 
+from across the current GCS standards ecosys -
+tem. Other related documents are also covered.
+Most of the reviewed standards apply for the pur -
+pose of carbon credit origination, except for the EU and BSI, which are for the purpose of quantifi -
+cation/certification.
+TABLE 1 - PROJECT-BASED METHODOLOGICAL STANDARDS FROM INDEPENDENT CREDITING PROGRAMMES (AT 08/2025)
+ST ANDARDS 
+BODYMETHODOLOGY /PROTOCOL/MODULE VERSION SOURCE
+American Carbon 
+Registry (ACR)Methodology for the Quantification, Monitoring, Reporting and Verification of Greenhouse Gas Emissions Reductions and Removals from Carbon Capture and Storage Projectsv. 1. 1 (09/2021)v2.0 (pending)
+Link
+Verra-Verified 
+Carbon Standard (VCS)VM0049 Methodology for Carbon Capture and Storage v. 1.0 (06/2024)
+LinkVMD0056 CO2 Capture from Air (Direct Air Capture) (module) v. 1.0 (10/2024)
+VMD0057 CO2 Transport for CCS Projects (module) v. 1.0 (10/2024)
+VMD0058 Module for CO2 Storage in Saline Aquifers and Depleted Hydrocarbon Reservoirs (module)v. 1.0 (10/2024)
+VMD0059 CO2 Capture from Bioenergy (module) v. 1.0 (04/2025)
+Geologic Carbon Storage Non-Permanence Risk T ool (tool) v.4. 1 (04/2025)
+Link
+Geologic Carbon Storage (GCS) Requirements (requirement) v.4. 1 (04/2025) Link
+Global Carbon Council (GCC)GCCMT001 - Methodology for Project Activities Involving the Capture, Transport and Geological Storage of Carbon Dioxidev. 1. 1 (04/2024)
+Link
+GCC Guidance for Geological Storage v.1 .1
+Gold StandardMethodology for Biomass Fermentation with Carbon Capture and Geologic Storage v.2.0 (05/2025) Link
+Methodology T ool 03 - Project Emissions Calculations and Monitoring Requirements for Geological Storage Complexesdraft (07/2024)
+Link
+Methodology T ool 04 - Reversal risk assessment for geological storage draft (09/2024) Link
+Puro.earth Geologically Stored Carbon Methodology v.2 (ed.2024) Link
+IsometricDirect Air Capture v. 1. 1.5 (08/2025)
+LinkBiogenic Carbon Capture and Storage v. 1. 1.8 (08/2025)
+CO2 Storage in Saline Aquifers (mod) v1. 1.0 (05/2025)
+CO2 Storage via In-situ Mineralization in Mafic and Ultramafic Formations (mod) v1. 1.0 (08/2025)
+(various related modules)
+3.2 S YNTHESIS OF CURRENT
+ METHODOLOGIES
+3.2. 1  Applicability conditions
+The reviewed methodologies and protocols vary 
+considerably in terms of applicability conditions 
+and eligible activities. 
+CCS/mixed. Alberta, ACR and GCC methodol-
+ogies all include fossil CCS and therefore adopt 
+broad scopes of application covering industri -
+al CO2 sources (e.g. hydrogen production, gas 
+sweetening, cement production) non-industrial 
+CO2 sources (e.g. electric generating facilities, 
+including biomass), and DAC. Verra/VCS is ex -
+pected to be expanded to fossil CCS in future via 
+the CCS+ Initiative (Box 2). The British Columbia protocol is not specific on the source of CO2, 
+suggesting widespread applicability to most 
+sources of CO2. 
+eCDR only. Puro.earth, Gold Standard and Iso -
+metric methodologies and protocols apply only 
+to carbon removals. Puro.earth and Isometric 
+include biogenic CO2, DAC and potentially also waste-to-energy emissions.
+26 Gold Standard is 
+limited to the capture and storage of CO2 in fer -
+mentation off-gas from biomass refining. 
+Modular flexibility. Verra/VCS and Isometric use 
+modular approaches potentially covering a wide 
+array of configurations: various capture sourc -
+es, transport modes, and storage types. So far, Verra/VCS, under the generic VM0049 Carbon 
+Capture and Storage methodology, has approved modules for DAC and bioenergy CO2 capture (BEC), and saline aquifer and depleted hydrocar -
+bon field storage (Box 2). Isometric has protocols 
+for DAC and BEC, and modules for saline aquifers 
+and CO2 storage via mineralisation.TABLE 2 - METHODOLOGICAL STANDARDS FROM GOVERNMENTAL BODIES (AT 08/2025)
+ST ANDARDS BODY METHODOLOGY /PROTOCOL/MODULE VERSION SOURCE
+UNFCCCModalities and procedures for carbon dioxide capture and storage in geological 
+formations as clean development mechanism project activities (CDM CCS M&Ps) 
+Decision 10/CMP .72011 Link
+IPCC 2006 IPCC Guidelines (Volume 2, Chapter 5) 2006 Link
+Environment and Climate 
+Change Canada (ECCC)Direct air carbon dioxide capture and geological storage v. 1.0 (01/2025) Link
+Alberta Emission Offset 
+SystemEnhanced Oil Recovery v.2.0 (01/2022) Link
+Quantification protocol for CO2 capture and permanent storage in deep saline aquifers (version 2.0)(01/2025)
+Link
+British Columbia Offset ProgrammeCarbon Capture and Sequestration (CCS) Protocol (version 1.0) (08/2025)
+Link
+European Commission (EU) (DG CLIMA)Commission Delegated Regulation establishing the certification methodologies for permanent carbon removals activities (BECCS and DACCS)Draft (07/2025)
+Link
+British Standards Institute (BSI) 
+(Dept. of Energy Security 
+and Net Zero, UK; DESNZ)Direct air carbon capture and storage (DACCS). Quantification of greenhouse gas (GHG) emissions and removals  (BSI Flex 2007)v1.0 (07/2025)
+Link
+Bioenergy with carbon capture and storage (BECCS). Quantification of greenhouse gas emissions (GHG) and removals (BSI Flex 2006)v1.0 (07/2025)
+Link
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 22
+MAKING NET ZERO POSSIBLE 23
+Storage types. The suite of GCS methodologies 
+and protocols impose various constraints on the 
+allowable geological storage media. ACR (v1. 1) is unique in being only applicable to operational 
+EOR activities.
+27 Alberta applies separate meth-
+odologies for activities involving EOR and saline 
+aquifers. While most allow for storage in depleted 
+hydrocarbon fields, Puro.Earth, Isometric, Gold 
+Standard and Environment and Climate Change 
+Canada (ECCC) all explicitly exclude EOR, as does the EU’s Carbon Removal and Carbon 
+Farming certification regulation (CRCF). Gold 
+Standard also does not allow for storage in any sub-seabed reservoirs. The treatment of CO2 
+injected dissolved in water as being applied to 
+shallow basalts formations is somewhat ambigu-
+ous across the suite of methodologies and proto-
+cols:
+28 only Puro.earth and Isometric are explicit in 
+covering this storage approach, while Verra/VCS 
+is considering a draft module at time of writing.Jurisdictions. The ECCC, Alberta, British Co-
+lumbia, ACR, EU and BSI methodologies are 
+geographically limited to Canada, Alberta, British 
+Columbia, the U.S. and Canada, the 27 European 
+Union member states, and the United Kingdom 
+(UK) respectively (although the BSI standard 
+hints at global applicability). 
+Permits. All methodologies establish require-
+ments for permitting of the GCS site, which can 
+also impose geographical restrictions. Verra/
+VCS, GCC, Gold Standard, Puro.earth and Iso-
+metric all suggest global applicability but include expectations regarding the technical and legal 
+elements governing site permitting and the pre -
+vailing legal regime for geological storage. Such conditions suggest partial or de facto geograph -
+ical restrictions because of the low number of 
+countries worldwide that have established dedi -
+cated GCS regulatory programs (see 3.2.6).Formed in 2021, the CCS+ initiative—con -
+sisting of nearly 50 member companies and 
+a secretariat—has the core goal of develop -
+ing a comprehensive, modular, quantification and accounting methodology applicable to a variety of CCS and CDR configurations and circumstances.
+T o date, a central methodology and four 
+supporting modules covering DACCS and BECCS have been approved by CCS+ Ini -
+tiative members (see T able 1). These have all been adopted by VERRA under its voluntary carbon standard (VCS). Two tools have also been developed to account and allocate proj -
+ect and leakage emissions in circumstances where infrastructure is shared, and for differ -
+entiating between reductions and removals from the capture of mixed CO2 sources.
+In addition to developing new modules, the 
+CCS+ initiative is also seeking to operation-alise the system under an “open source” ar -
+rangement, aiming to provide a harmonized, efficient, approach to MRV implementation.BOX 2 - THE CCS+ INITIA TIVE APPROACH TO METHODOLOGY DEVELOPMENT
+
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 24
+The various applicability or eligibility conditions 
+have implications for the following aspects of methodology design:
+• Baselines. Any limitations on the scope 
+of eligible CO2 capture sources under a 
+methodology will determine the extent to 
+which baseline choices must be elaborated. 
+For some eCDR methodologies, the baseline 
+is straightforward as it is assumed no activity would happen, so each tonne of CO2 stored is 
+assumed to be removed from the atmosphere 
+(e.g. EU or British Columbia). Methodologies 
+applicable to point source CO2 capture tend 
+to be more complex, with factors such as new build or retrofit featuring in the baseline 
+emissions determination (e.g. ACR and GCC). 
+Puro.earth and Isometric require various other factors to be considered in the baseline 
+scenario (e.g. prior land use; a counterfactual 
+storage scenario). 
+• Non-permanence and longer-term liability in case of carbon reversals. Applying geographical limitations significantly 
+simplifies methodological requirements for 
+the management of non-permanence and long-term liability for carbon reversal. This 
+is because laws, regulations and permitting 
+requirements in the jurisdictions to which 
+the limitation applies allows aspects such 
+as site selection and regulatory monitoring to be excluded from the direct scope of the 
+methodological framework. Global application, 
+by contrast, requires such aspects to either be addressed in the methodology itself or else 
+through reference to specific jurisdictions (as 
+in the case of Isometric, which cites EU and 
+U.S. laws), but also creates ambiguity over the 
+exact expectations. 
+The CDM CCS M&Ps also contains several lim-itations on activity type (e.g. exclusion of projects from international waters) and provides technical 
+guidance for the minimum requirements for na -
+tional laws and regulations.3.2.2  Pr oject/activity boundary
+The project or activity boundary and covered 
+emission sources are generally straightforward 
+to define for CCS projects, albeit with the grow -
+ing calls for net removal credits driving a trend to -
+wards increasingly wide lifecycle GHG account -
+ing boundaries (Box 1). As such, there is growing 
+diversity in the way emissions sources are includ -
+ed or excluded by standard setters: 
+• Puro.earth, Isometric, ECCC, EU and BSI all adopt lifecycle GHG accounting 
+encompassing estimated emissions from site construction (including land use change), 
+materials supply chains, biomass supply-
+chains, site decommissioning etc. Isometric 
+specifies many detailed lifecycle GHG effects to be measured using the suite of modules 
+offered under the standard.
+29 ACR (v2.0) is 
+also tending towards inclusion of relevant up- and downstream project emissions.
+• Some standards include only selected 
+lifecycle emissions such as those embodied in 
+bought-in materials consumed during capture (GCC, Alberta, ECCC), emissions from well 
+drilling during construction (ACR, ECCC), 
+while explicitly excluding other sources 
+such as construction and decommissioning (Alberta, ECCC).
+• All methodologies take account of energy 
+and fuel emissions associated with capturing, transporting and injecting CO2 
+into the subsurface. Variations do exist in the treatment of emissions associated with 
+supplying energy (including biomass energy) 
+to project sites (see Project Emissions and Leakage below). 
+• Verra/VCS and Gold Standard take a narrow perspective of the boundary, encompassing 
+the project site where CO2 is captured, 
+transported and stored. Any emissions 
+attributable to the project outside of this boundary (e.g. upstream, relating to emissions 
+embodied in bought in energy and materials) are treated as leakage emissions.
+• In all cases, the subsurface GCS site is located within the project boundary and is therefore 
+subject to monitoring of the subsurface CO2 
+plume and quantification of any emissions.
+ACR and Isometric also refer to a temporal boundary, and ACR places obligations for post in -
+jection monitoring therein. However, most meth-odologies rely on the regulatory arrangements for the GCS site to address the longer-term residual 
+liability for emissions and carbon reversal.ALL STANDARDS SETTERS 
+APPL Y RESTRICTIONS TO THE APPLICABILITY OF THEIR GCS METHODOLOGIES, AND JURISDICTIONAL ASPECTS VARY IN TURN. All standards setters apply restrictions to the applicability of their GCS methodologies. These cover technical aspects (CO2 source; storage type etc.) and jurisdictional aspects (the countries in which the methodology or protocol may be applied). In the case of the former, several are developing modular ap-proaches that can accommodate future ex -
+pansions to other sources and sink types. In the case of the latter, the restriction often re -
+lates to the jurisdictional safeguards in place to regulate GCS site selection, operation, closure and post-closure.
+More recently, ICPs have been providing 
+increasingly detailed technical and/or legal guidance on the expectations for regulatory approvals of GCS activities (e.g. Verra/VCS, Gold Standard, GCC, Puro.earth and Isomet -
+ric), although some ambiguity and variations exist (see below).
+MAKING NET ZERO POSSIBLE 25
+3.2.3  Baseline scenario and baseline emissions
+Baselines for eCDR tend to be straightforward 
+based on the view that without the project ac -
+tivity there is a low likelihood of any carbon re -
+moval occurring. The EC, for example, assumes a standardised baseline of zero removals. How -
+ever, Isometric and, to some extent, Puro.earth, require a counterfactual storage scenario to be considered (i.e. whether carbon would remain or 
+otherwise become stored if the project did not 
+happen). 
+Baselines for fossil CCS can be more complex 
+to determine because of the presence of an un -
+derlying activity that produces goods or services that could be derived by other methods (e.g. electricity). The ACR and GCC methodologies 
+are unique in allowing for baseline emissions to 
+be calculated using either projection-based or 
+standards-based approaches. The choice of 
+approach depends on various factors (e.g. the source of CO2 and the age of facility in respect of 
+whether it is a new build or retrofit etc). 
+Projection-based approaches use historical or 
+actual data to determine the baseline emissions 
+based on the assumption that the amount of CO2 
+injected would otherwise be emitted to or remain 
+in the atmosphere. Both the Alberta and the Brit -
+ish Columbia protocols establish the baseline 
+according to the mass of CO2 injected into the 
+reservoir (irrespective of CO2 source). In the case of Puro.earth, Verra/VCS (VMD0056, DAC), 
+Gold Standard, Isometric, ECCC and EC, which 
+apply to removals only, the amount of CO2 inject -
+ed is also applied as the baseline emissions with the assumption that this is equal to the amount of CO2 that would otherwise remain in the atmo -
+sphere absent of the project activity. In the case of Isometric and Puro.earth, this assumption is modified by any identified and quantified coun-
+terfactual storage (including land use change ef -
+fects). Verra/VCS (VMD0059, BEC), GCC, Puro.earth and Isometric explicitly or implicitly include variations on the baseline scenario for BECCS projects depending on whether the activity ap -
+plies to an existing (retrofit) or new-build plant. 
+This affects the treatment of upstream emissions 
+from biomass supply in the project emissions 
+calculation (e.g. excluded for a retrofit to existing 
+facilities on the assumption that the emissions 
+occur in the baseline).
+Standards-based approaches use a benchmark 
+to determine the baseline emissions. The bench -
+mark is based upon an activity providing an equiv -
+alent service or function as the source of CO2 in the underlying activity (e.g. a standard emission 
+factor for a cement facility as opposed to the 
+actual mass of CO2 captured from the facility in the project activity). These methods can be 
+used to address concerns over the possibility of 
+incentivising inefficient and/or carbon intensive 
+activities instead or promoting alternative forms 
+of production. A standards-based approach can be considered more conservative: it can avoid 
+over-crediting an inefficient facility because the 
+baseline is set according to a benchmark for CO2 generation in the underlying (CO2 source) activ -
+ity, rather than the actual amount of CO2 gener -
+ated. Baseline emissions determined through 
+benchmarks can also better accommodate sit -
+uations where the energy penalty of retrofitting 
+CO2 capture to an existing facility has impacts 
+upon the efficiency of the underlying activity (e.g. 
+fuel boilers in electric power facilities).
+Using only a projection-based approach, or lim -
+iting applicability to removals only, significantly 
+simplifies methodological aspects of GCS stan -
+dards. In contrast, including a standards-based 
+approach can support wider applicability across 
+multiple activities and sectors, but increases the 
+complexity and poses some issues. For exam -
+ple, the ACR (v1. 1) protocol draws upon U.S. state 
+and federal proposals for emissions performance 
+standards to guide the standards-based (bench -mark) for CCS in electric generating facilities. 
+Under the CDM, the combined margin approach 
+was used to determine the baseline for CO2 cap-ture when applied to electric generating facilities, an approach also adopted in the GCC methodol-ogy for CCS applied to grid-connected fossil fuel power plants. 
+A baseline established using a standards-based 
+benchmark, in being conservative, may signifi-cantly reduce the level of credits compared to projection-based methods, which could impact upon project financing and financial additionali-ty assessment. Notably, ACR (v1. 1) recommends that the most conservative of either a projec -
+tion- or standards-based approaches should be adopted.
+BASELINES FOR GCS VARY FROM SIMPLE ZERO-REMOVAL ASSUMPTIONS FOR eCDR TO COMPLEX 
+PROJECTION- OR 
+STANDARDS-BASED APPROACHES FOR FOSSIL CCS, BALANCING SIMPLICITY WITH CREDIBILITY AND FINANCIAL IMPACT.
+There are important interactions be -
+tween baseline approaches and applica-bility conditions. 
+When the methodology applies a wide 
+range of CO2 sources, greater complex -
+ity arises in identification and selection of the baseline scenario and in the baseline emissions methodology. This is because of the potentially different ways of deliv -
+ering the goods or services produced by the underlying activity generating CO2 (e.g. electricity or cement).
+Protocols focused on removals only (e.g. 
+Verra/VCS, Puro.earth, Isometric, EC, BSI) generally avoid the need for base -
+line considerations and associated chal -
+lenges. In some cases, a counterfactual storage or land use change effects are to be considered (new build sites) and, in the case of BECCS, the retrofit of CO2 capture to an existing site can modify baseline emission approaches.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 26
+3.2.4  Additionality
+Current methodologies and standards show 
+some minor variations in approaches to demon-strate additionality, although almost all rely on some or all of the following tests:
+1. Does the activity exceed regulatory require-ments? The regulatory surplus test.
+2. Is the activity the most economically attrac-tive course of action, taking barriers into ac-count? The financial additionality test.
+3. Is the activity common practice in the local and regional context? The common practice test.
+Most standards directly or indirectly draw such assessments from principles established un-der the CDM (e.g. TOOL01
+30 and TOOL0231), to 
+which both GCC and Gold Standard refer directly. Some also include a performance standard based on determining ‘climate’ or ‘environmen -
+tal’ additionality relative to typical practice. ACR, for example, employs both the typical ‘regulatory surplus’ test, as well as a type of ‘best in class’ or ‘front runner’ type test (e.g. environmental addi-tionality based on common practice analysis).
+32 
+Isometric, along with the three aforementioned usual tests, also includes an ‘environmental per -
+formance’ additionality test, which requires pro -
+ponents to demonstrate that the activity is net negative after taking account of the counterfac -
+tual storage.3.2.5  Project and leakage emissions
+Project emissions and leakage emissions are the 
+sources that are measured during project imple -
+mentation and counted against the baseline (or 
+the measured removals) to estimate the net GHG 
+effectiveness of a GCS activity (Figure 1). The 
+covered sources are determined by the project or activity boundary. In many cases, leakage emis -
+sions may be mitigated rather than quantified.
+Most of the methodologies cover the same proj-
+ect emissions sources, including fossil emissions relating to heat and/or electricity used to capture, 
+transport and inject CO2. However, other varia-
+tions exist across the suite of methodologies. For 
+example, the CDM and ACR (v1. 1; on the basis of 
+de minimis streams) exclude upstream GHG ef -
+fects (e.g. embodied emissions) associated with the supply of materials for a project and generally do not require the upstream emissions associat -
+ed with the extraction and supply of fuel or ener -
+gy imported to a project site to be included. Con -
+versely, almost all other methodologies include some consideration of lifecycle GHG effects such as upstream emissions and emissions embodied 
+in bought-in goods (e.g. capture chemicals). Both Puro.earth and Isometric also include emissions 
+arising from energy used during geological stor -
+age site monitoring, and Isometric includes staff 
+travel. Methodologies and protocols from at least 
+Verra/VCS, BSI and EU include a materiality 
+threshold below which qualifying leakage emis -
+sions sources may be excluded (e.g. typically 
+2%). Some ICPs include a discount factor which 
+is applied to account for monitoring uncertainty (Verra/VCS, if greater than 10%; Isometric). ACR (v2.0) is tending towards inclusion of relevant up- and downstream project emissions.
+The GCC methodology takes a different ap -
+proach to storage site monitoring than the other 
+methodologies. It specifies three components of 
+storage site monitoring that could lead to project 
+emissions, namely: conditions of use; CO2 migra-
+tion analysis; storage site architecture. 
+Biomass and leakage
+Most methodologies covering BECCS consider 
+leakage effects such as land use change poten -
+tially driven by biomass use, and implement mea-
+sures to control these, usually through a proxy 
+such as biomass sustainability (Box 3).Different approaches are adopted within 
+existing methodologies and protocols to determine additionality, ranging from an implicit assumption of additionality to more bespoke, project-specific, ad-ditionality assessments. Most standard setters require at least regulatory sur -
+plus testing.
+Quantification / certification protocols 
+from EU and BSI so far exclude specific mention of additionality.
+
+MAKING NET ZERO POSSIBLE 27
+The following approaches are currently applied 
+in BECCS methodologies and protocols: 
+• Verra/VCS (VMD0059) states that 
+BECCS qualifies as CDR if it is derived from sustainable biomass, and that in circumstances where excess non-traceable biomass feedstock is consumed at the source plant, project proponents must use various parts of CDM TOOL16 Project and Leakage Emissions from Biomass to determine market leakage. Verra/VCS is also exceptional in allowing sustainable but non-traceable biomass to be counted as an emission reduction, subject to certain rules and conditions (see VT0013 Differentiating Reductions and Removals in CCS Projects).
+• Puro.earth follows a similar approach as described in Box 3, with mitigation of biomass leakage risks through conditions set in the Puro Biomass Sourcing Criteria, and the assessment and quantification of unmitigated leakage emissions (circumstances where the criteria are not met during operations). 
+• Isometric, in its Biomass Feedstock Accounting module, also follows a similar approach as Box 3, with an assessment of direct and indirect market leakage effects of biomass sourcing using multi-criteria and allowing ‘zero leakage’ emissions to be applied to materials meeting the criteria. This can include third party certification programmes for forestry biomass. 
+• The GCC methodology requires project participants to use CDM TOOL 16 to estimate biomass leakage emissions.• The EU CRCF requires that certification 
+methodologies, among others:
+- Pr omote the sustainability of biomass 
+in accordance with the sustainability 
+and GHG emissions saving criteria for biofuels, bioliquids and biomass fuels in the Renewable Energy Directive (EU 2018/2001).
+- Ensur e the consistency of the application 
+of the principle of the cascading use of biomass.
+- Ensur e the avoidance of unsustainable 
+demand for biomass raw material.
+• BSI, as well as requiring a sustainability assessment, also calls for a full assessment of leakage risks and quantification of leakage emissions.
+Carbon intensity of energy for DACCS
+Energy requirements for DAC are in the order 
+of 7.2-8.8 GJ (2,000-2,400 kWh) per tCO2 captured (heat and electricity), meaning the source of energy significantly impacts upon the net negativity of the process. Methodolo -
+gies for DAC are therefore applying increasing scrutiny to the approaches taken to estimate emissions from the supply of energy to the pro -
+cess, drawing upon accounting methods ap -
+plied to certify “green” hydrogen. In most cases a combination of mitigation and quantification is applied (Box 4).Using biomass for eCDR (e.g. BECCS) only 
+produces a net removal effect if appropri -
+ate management is applied to maintain the 
+source biological carbon stocks in equilib -
+rium (i.e. growth and harvesting remaining broadly in balance). Information on biological carbon stocks is recorded in the land use, land use change and forestry (LULUCF) sec -
+tion of a country’s national GHG inventories 
+(NGHGIs), with the assumption that carbon 
+in harvested biomass is mostly instantly emit -
+ted to the atmosphere. As such, emissions 
+from biomass combustion for energy do not need to be recorded in the Energy section of 
+the NGHGI to avoid double counting (i.e. its 
+recorded as a memo item but zero-rated or 
+recorded as a negative emission (removal) when captured and durably stored). Y et, the patchy reporting by countries of the LULUCF 
+sector emissions and removals makes it chal-
+lenging to discern whether biological stocks 
+are being effectively managed at source, and/or whether possible leakage effects are occurring (e.g. direct or indirect land use changes resulting from activity-shifting by previous users of the source biomass).
+T o fill this gap, eCDR methodologies using 
+biomass are setting requirements for bio-mass ‘sustainability’ as a proxy indicator of leakage risk mitigation. Approaches to 
+assess sustainability generally consist of, 
+firstly, a biomass classification system (e.g. 
+waste; forest products; agricultural prod-ucts; other), and second, sustainability and traceability criteria/conditions for each type. 
+For example, requirements from Verra/VCS (VMD0059) include (in sum):
+• Traceability. Provide relevant data on  
+e.g. biomass type and category, volumes, 
+origin, modes of transportation  
+employed, certification, chain of custody information etc.
+• Sustainability. Subject to demonstrated traceability, the following applies:
+• Waste. Considered to be ‘sustainable’ 
+by default = no leakage (subject to 
+demonstrating that it is waste).
+• Forest and agricultural products.
+• Compliance with regulatory/certification 
+programmes:
+- A r ecognised regulatory programme 
+(e.g. EU Renewable Energy Directive) or an alternative regulatory programme meeting listed requirements (below)
+- An el igible certification programme 
+(e.g. Forest Stewardship Council; 
+Sustainable Biomass Program; 
+International Sustainability and Carbon Certification etc) or an alternative certification programme meeting listed requirements (below), or,
+- Compl iance with listed requirements: 
+- Biod iversity; sustainable forest manage -
+ment; soil heath; water; food security; social sustainability; LULUCF (country of origin must have a current nationally determined contribution (NDC) cover -
+ing LULUCF); cascading use.
+• Other. Not sustainable.
+If biomass used in activities cannot be demonstrated to be sustainable, usually no 
+carbon removal credits are awarded.BOX 3 - SOURCING SUST AINABLE BIOMASS FOR BECCS
+Source: adapted from Zakkour, P.D., J. Lujan, G. Cook and A. Frey (forthcoming). Carbon Crediting Standards for T ech -
+nology-Based Carbon Dioxide Removal in Developing Countries. A report by Carbon Counts and Energy Changes, spon -
+sored by the World Bank.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 28
+Power procurement requirements are current -
+ly implemented in methodologies and protocols 
+from Verra/VCS, Puro.earth, Isometric, ECCC, EU 
+and BSI following approaches broadly aligned as 
+outlined above (Box 4). 
+Variations currently exist in expectations around 
+temporal matching, including:
+• EC and BSI: annual matching, with review of 
+potential hourly matching by 2028.
+• Isometric (Energy Accounting module): hourly matching (>200 GWh/yr) or annual matching 
+under certain conditions. 
+• Puro.earth (Geologically Stored Carbon 
+Methodology): annual matching, with the expectation of a transition to hourly matching in future.
+• Verra/VCS (VT0010): annual matching, with a 
+view to increasing the reconciliation frequency.
+Puro.earth (Geologically Stored Carbon meth -
+odology) and previous versions of the Isometric 
+Energy Accounting module (v1. 1) allow for energy 
+leakage risks to be mitigated by relying on exist -
+ing regional and local policies and measures, such 
+as sourcing electricity from facilities covered by emissions trading and power sector decarboni -
+sation plans, where present.DACCS only produces a net removal effect 
+if it is powered by low- or zero-carbon en-ergy sources. Assurance and MRV of low carbon intensity (CI) or renewable energy 
+use in DACCS, including the mitigation of potential leakage effects of energy acquisi -
+tion (e.g. market leakage due to previous low CI or renewable energy users switching to 
+other, more emissive, energy sources), has 
+emerged as a core theme in DACCS certifi -
+cation standards over recent years. 
+Power procurement methods are widely 
+prescribed in DAC methodologies and pro -
+tocols. Several nuances notwithstanding, assurance over the use of low CI/renewable 
+energy generally cover requirements to:1. Use low CI/renewable energy self-
+generated onsite (“behind-the-meter”).
+2. Use low CI/renewable energy generated offsite from sources owned or otherwise purpose-built for the DAC facility 
+operator and acquired via a wheeling 
+agreement (e.g. Verra/VCS VT0010), 
+and/or
+3. Procure low CI/renewable energy through ‘green’ power purchase 
+agreements (PPA)
+•   Wheeled power or PPAs subject to:
+- Spa tial correlation: the DAC facility 
+and low CI power plant(s) being on 
+the same electricity transmission 
+system, eGRID subregions (U.S./
+Canada), bidding zone (EU) or 
+equivalent).
+- Double claiming: en vironmental 
+attribute certificates (such as 
+renewable energy certificates) 
+issued to the power plant(s) being 
+acquired and retired by the DAC 
+facility operator.
+- Ma tching of expected demand and 
+contracted supply.
+4. Procure or otherwise acquire waste 
+heat, subject to among others:
+• Evidence that the waste heat was previously non-recoverable by the 
+third party.
+• The underlying process is not 
+expanded because of the heat demand of the DAC facility. 
+Where these conditions are met, the energy used at the DAC facility may apply a low CI  
+or zero emissions factor. T o date, DACCS 
+methodologies have not allowed the use of  ‘virtual’ green PPAs or the basic acquisition 
+of low CI energy or environmental attribute 
+certificate (EAC) absent of a direct linkage to 
+the power supply source. 
+T emporal correlation. The time matching of 
+dispatched power and its use by the DAC fa -
+cility is also an active methodological topic. 
+Some stakeholders contend that the gran-
+ularity of temporal correlation needs to be 
+very high because of diurnal and seasonal imbalances in renewable energy supply (i.e. intermittency) and DAC energy demand, 
+meaning that DAC facilities could use elec-tricity supplied from high emission sources at 
+some points across a daily and yearly cycle. 
+Others assert that temporal correlation with 
+a frequency higher than annual matching is 
+not technically feasible and is likely to be fi -
+nancially prohibitive. They also highlight that the analytical evidence calling for higher fre -
+quency temporal correlation is contestable in 
+respect of the effect on emissions outcomes.
+Plant vintage. T o mitigate market leakage 
+risks, the vintage of the low CI/renewable power plants is also considered. Limiting 
+procurement of low CI/renewable electricity 
+to recently built plants provides indications 
+that the risk of diverting it from other users 
+is minimised, a topic referred to as the “ad -
+ditionality” of power. Several eCDR method -
+ologies set a maximum period of 36 months 
+between the start of operation of the power plants under procurement and the eCDR 
+project (Isometric; Puro.earth; EC; BSI). Ful -
+ly repowered renewable generation of wind 
+or solar projects can also qualify (e.g. under 
+Verra/VCS VT0010).BOX 4 - SOURCING LOW CARBON INTENSITY ENERGY FOR DIRECT AIR CAPTURE
+Source: adapted from Zakkour, P.D., J. Lujan, G. Cook and 
+A. Frey (forthcoming). Carbon Crediting Standards for T echnology-Based Carbon Dioxide Removal in Devel-oping Countries. A report by Carbon Counts and Energy Changes, sponsored by the World Bank. Note: 1 Verra/VCS VT0010 Emissions From Electricity Consumption And Generation. Version 1.1 (11 March 2025); 2The count -
+ing of low CI/renewable energy solely on the basis of the purchase and retirement of EACs without any contractual linkage (PPA or wheeling agreement) or geographical link -
+age (supply and offtake in different electricity transmis -
+sion systems). 3 Commission Delegated Regulation (EU) 2023/1184 of 10 February 2023 supplementing Directive (EU) 2018/2001 of the European Parliament and of the Council by establishing a Union methodology setting out detailed rules for the production of renewable liquid and gaseous transport fuels of non-biological origin.
+MAKING NET ZERO POSSIBLE 29
+3.2.6  Non-permanence and liability for carbon
+ reversals
+Policymakers, regulators, crediting programmes 
+and stakeholders at large need assurances that the environmental integrity of certifications and credits issued to GCS project operators today do not become compromised by future leaks of stored CO2 that reverse the original emission re -
+duction or removal effect.The current suite of methodologies illustrate that standard setters are using various approaches to manage reversal risks, broadly consisting of three main methodological components:
+1. Upfront QA/QC requirements governing the 
+appropriate selection, operation, closure and 
+post-closure of GCS sites.
+2. Monitoring of the GCS site performance 
+during the operational phase and in a 
+post-closure phase, and reporting of any 
+irregularities, migration, leaks and emissions, 
+and 
+3. Mechanisms for the ongoing management 
+of long-term liability to, among other things, 
+for remediate climate impacts in the event of 
+carbon reversal.
+General QA/QC requirements for storage sites
+Variations exist in the way methodologies are im -
+plementing these QA/QC requirements. 
+The methodologies from ACR, Alberta and Brit -
+ish Columbia do not offer significant guidance 
+on QA/QC for GCS site selection and operation but instead rely on Canadian and U.S. federal and provincial/state regulations to backstop such 
+requirements. Similarly, the EU and BSI certifica-
+tion standards rely on EU and UK law, respective-
+ly, that govern CO2 storage activities. As such, QA/QC aspects largely fall outside of the direct scope of the methodology. These standards 
+therefore also apply geographical limitations, as 
+noted above (Section 2.3. 1 Applicability condi -
+tions).Under the CDM CCS M&Ps, Parties to the Kyoto 
+Protocol agreed that non-Annex I parties wishing to host GCS activities under the CDM may only 
+do so if they had established laws or regulations that, inter alia:
+• Set procedures for appropriate selection, characterisation and development of GCS 
+sites
+• Define means by which to confer rights to 
+store CO2 in, and gain access to, subsurface 
+pore space, 
+• Provide for timely and effective redress for affected entities and remedial measures in the 
+event of leaks, and 
+• Establish means for addressing liability 
+arrangements for GCS sites.
+T echnical guidance is provided in Appendix  B
+of the CDM CCS M&Ps.
+Regarding the VCM, the more recent method -
+ologies from Verra/VCS, Gold Standard, GCC, 
+Puro.earth and Isometric, in contrast to earlier 
+VCM standards, offer a something of a hybrid ap -
+proach that is more reflective of the CDM. Their 
+methodologies provide substantial technical 
+QA/QC guidance in respect of matters such as 
+site selection, well design, operation, post-injec -
+tion and closure. Rather than a specific QA/QC benchmark with direct requirements for proj -
+ect developers applying the methodology, the 
+benchmark is framed as an expectation of the 
+laws, regulations and regulatory oversight that is implemented by countries wishing to host project 
+activities applying the methodology. 
+There is also considerable nuance across the 
+current suite of methodologies: some are open to interpretation as to whether a specific geo -
+logical storage permit and dedicated regulator is needed or whether a generic permit — issued and overseen following the provided technical or 
+legal guidance — would suffice.
+ There is an emerging trend towards 
+increasingly stringent environmental accounting drawing from lifecycle anal -
+ysis-type frameworks. Accurately esti -
+mating the full lifecycle GHG emissions of activities can be challenging. In some circumstances certain lifecycle GHG emissions and removals could be ex -
+cluded where system inputs are being counted or regulated under other legis -
+lation, carbon pricing or market-based frameworks.
+For BECCS, all standard setters apply 
+some type of leakage mitigation. The most stringent approach is to implement sustainability and traceability require-ments on biomass to ensure leakage is mitigated.
+For DACCS, methodological approach -
+es are being developed to account for 
+the use of low carbon intensity of renew -
+able energy procurement to run the DAC facility. The ‘additionality’ of procured power is also a feature to mitigate leak -
+age (market leakage).MANAGING NON-PERMANENCE IN GCS REQUIRES ROBUST QA/QC, CONTINUOUS MONITORING, AND CLEAR LIABILITY MECHANISMS TO SAFEGUARD THE INTEGRITY OF ISSUED CREDITS.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 30
+The following local permitting and oversight re -
+quirements are specified by ICPs:
+• Verra/VCS (GCS Requirements v4. 1): the 
+GCS site shall be located “in a jurisdiction where regulatory oversight: 1) is provided by 
+the government or a government agency (i.e., 
+a statutory regulator); 2) meets the minimum criteria [specified in the GCS Requirements 
+v4. 1 document]”. Expectations for the local legal framework are also included with the 
+reversal risk assessment.
+• Puro.earth (Geological Storage Carbon 
+Methodology): “the injection of a CO2 Stream 
+into a geological storage reservoir shall 
+only take place in jurisdictions with a robust 
+legal framework for the environmentally safe 
+geological storage of CO2”. The methodology 
+includes a list of a priori accepted jurisdictions while also allowing for, subject to approval, projects in jurisdictions where the local 
+regulatory framework meets all requirements 
+for a robust legal framework.
+• Isometric (CO2 Storage in Saline Aquifer 
+module v1. 1): permit “application and approval” 
+is needed under “the national/international 
+regulations” and “If there is a lack of distinct relevant local regulations to meet the minimum requirements in this module…Project Proponents are required to follow either the U.S. EPA Underground Injection Control (UIC) or EU directives”. 
+• Global Carbon Council (GCCMT001): the GCS site shall be “…surveyed, identified and permitted in compliance with relevant national laws, regulations and standards applicable to 
+the exploration, survey, development of, and 
+utilisation of, subsurface resources and/or 
+protection of subsurface resources in the host 
+country” and “In jurisdictions where any of the 
+above requirements for the storage complex 
+are not specified in local regulations” a permit 
+issued in accordance with the GCC Guidance 
+for Geological CO2 Storage must be obtained.
+• Gold Standard (Methodology T ool 03): “The 
+project shall obtain the necessary regulatory permits, licenses, certifications, or other 
+authorizations for the storage site from the 
+appropriate national or subnational entities and/or certification bodies”. The scope of 
+the “regulatory approval and/or independent 
+certification process” is to be aligned with 
+technical guidance provided in T ool 3.
+In each of these cases, some interpretation can be applied over the precise expectations for the 
+permit type and regulator. The GCC and Gold 
+Standard suggest greater latitude in the use or 
+acceptance of a more general type of permit than the other ICPs.
+Project proponents applying any of the current 
+GCS methodologies and protocols will require, 
+inter alia, evidence of government/governmen -
+tal agency issued permit to store CO2 including 
+access and tenure rights to the pore space in the GCS site, and the need for regulatory oversight 
+of GCS operations. Some uncertainty exists over 
+which entity is responsible for judging the robust -
+ness of national laws and regulations relative to 
+the benchmark guidance specified in the stan -
+dard. Puro.earth is explicit in reserving the right 
+to “determine the eligibility of a legal framework”.
+The variation in QA/QC requirements across 
+methodologies suggests that wider deployment 
+and accelerated scale-up of GCS technologies 
+will require continued efforts to find a good bal -
+ance between ensuring sufficiently high environ -
+mental quality standards while maintaining wide -
+spread applicability to a range of potential host 
+country circumstances. 
+Short-term liability for reversals
+(operational phase)
+If CO2 leaks from a GCS site during a crediting 
+period (i.e. in the site’s operational phase), all methodologies require those leaks to be mea -
+sured and reported as project emissions. The 2006 IPCC Guidelines can help to 
+build the case with local stakeholders to 
+establish robust regulatory standards to address non-permanence risks posed by GCS (see Section 4). 
+Under current IPCC 2006 Guidelines, 
+countries may count captured CO2 as not 
+emitted in their NGHGI—or as a negative emission in the case of BECCS—if it can be shown that the CO2 is stored in “prop -
+erly monitored geological storage sites” 
+as set out in Volume 2, Chapter 5: Carbon 
+Dioxide Transport, Injection and Geologi -
+cal Storage. 
+The guidance in Volume 2, Chapter 5, 
+states that the absence of empirical data on GCS emissions mean that Tier 3 mea-
+surements (i.e. project/activity specific data) shall be used in the NGHGI to help “build confidence that there will be min -
+imum leakage”. The methodological ap -
+proach for Tier 3 data compilation entails, among others, characterisation, modelling and monitoring the GCS site. It also sug -
+gests conditions under which monitoring may cease. Various QA/QC guidance also implies regulatory oversight of GCS oper -
+ations (see Annex B).
+Robust monitoring 
+under IPCC Guidelines is key to trusted, permanent 
+carbon storage.In terms of regulatory requirements, good 
+practice for NGHGI compilers included in Volume 2, Chapter 5, includes determining whether:
+• an adequate geological site 
+characterization report has been 
+produced for each storage site,
+• the operator has assessed the 
+potential for leakage at the storage site, and 
+• each site has a suitable monitoring plan (see Annex A). 
+As such, crediting methodologies should 
+seek to dovetail QA/QC requirements with 
+NGHGI reporting approaches to allow for 
+GCS related activities to be accounted 
+for appropriately in NGHGIs (see Sec-
+tion 4.3. 1 below). In particular, alignment 
+of methods will be critical in supporting 
+robust international transfers of mitigation 
+outcomes (see Section 4.2.2 below).
+Presently DACCS is not covered by the 
+2006 IPCC Guidelines. However, the Par -
+is Agreement rulebook suggest that there is latitude for Parties to report carbon re -
+moval by DACCS activities so long as the 
+CO2 transport and storage components 
+are monitored and reported in accor -
+dance with Volume 2, Chapter 5. Notably, Norway reported emissions reductions 
+achieved by its Sleipner CCS project in its 
+NGHGIs from 1999 onwards despite IPCC 
+guidance on CCS only being available from 2006. Further clarity should be forth-coming in an IPCC Methodologies Report on CDR, due be finalised by 2027.BOX 5 - CO2 CAPTURE, TRANSPORT AND GEOLOGICAL
+STORAGE IN 2006 IPCC GUIDELINES
+MAKING NET ZERO POSSIBLE 31
+In circumstances where the scale of a leak ex -
+ceeds the level of reduction or removals occur -
+ring within a monitoring period, a reversal, a car -
+bon reversal, or a net reversal of storage can be 
+considered to have occurred (i.e. emissions were 
+higher than reductions or removals for that same 
+period, leading to net negative climate change 
+impacts). Aside from requirements to suspend 
+any ongoing injection operations until the leak is 
+repaired or corrected, methodologies typically 
+require a carbon reversal to be remediated by ac-
+quiring and retiring reduction or removal credits.
+T o support these remediation requirements, 
+some standards apply a buffer pool; namely ACR, 
+Verra/VCS, Gold Standard, GCC, ECCC, Brit -
+ish Columbia and Isometric. The buffer pool is a 
+withheld credit reserve taken from all GCS proj-
+ects registered with a particular registry that can 
+be used for this purpose, ranging from 3% up to 
+16.4%. The size of individual project contributions to the buffer pool are either fixed (e.g. ACR at 10% 
+(v1. 1); GCC and CDM at 5% of credits generated) 
+or from a risk rating determined through by a risk 
+assessment procedure/tool (e.g. ACR (v2.0), Ver -ra/VCS, Gold Standard, British Columbia). Iso -
+metric, while including reversal risk assessment 
+procedures, pre-determines that saline aquifer storage is at ‘Very Low Risk’ of reversal and fixes the buffer contribution at 2%. Buffer pools are typically applied at the registry level for all simi -
+lar project types. ACR and Isometric, in contrast, apply a project-level buffer. The GCC proposes to apply a buffer but has yet to define how it will function. EU and UK include a buffer through their links with national legislation that includes provi-sions for ‘financial mechanisms’. Use of the buf -
+fer pool for remediation can depend in whether a 
+specific reversal event is considered intentional 
+or unintentional (or unavoidable or avoidable).
+Neither Alberta nor Puro.Earth employ a buffer 
+pool for GCS activities. Alberta instead applies fixed credit discount that is “retired to the atmo -
+sphere”. Puro.earth requires any operator (‘CO2 Supplier’) reporting reversals to surrender equiv -
+alents units (i.e. Puro CORCs)
+33 equal to Reversal 
+quantity.ICPs have been providing increasingly 
+detailed technical and/or legal guid -
+ance on the expectations for regulatory approvals of GCS activities (e.g. Verra/VCS, Gold Standard, GCC, Puro.earth and Isometric), although some ambiguity and variations exist.
+These approaches have yet to be fully 
+tested, and some questions remain as to whether the approaches can be ef -
+fectively implemented across a range of jurisdictions, or whether sufficient guid-ance is provided assure operators and validation and verification bodies (VVBs) regarding the types of permits and over -
+sight to be applied.
+Buffers offer a means for standard set -
+ters to implement a layer of insurance against the risk of non-permanence and carbon reversal. In doing so, buffers reduce the number of credits issued to project developers. Variations exist across the existing suite of method -
+ologies in terms of the (i) the level and means for calculating the contribution (ii) the level at which it is pooled (registry or project) and (iii) the conditions under which it can be called upon (e.g. avoid -
+able or unavoidable). 
+The buffer contribution is additional 
+to the uncertainty discount applied by some ICPs (e.g. Verra/VCS, Isometric; see Section 3.2.5).
+
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 32
+Long-term liability for reversals
+(post-injection phase)
+Long-term stewardship of GCS sites involves 
+allocating responsibility for any ongoing monitor -
+ing and assigning liability for any impacts of CO2 
+leaks including carbon reversals in the post-in -
+jection phase. The matter is handled somewhat 
+unevenly across the current suite of GCS meth-
+odologies. 
+Verra/VCS, Gold Standard and Isometric require 
+a site closure plan to be established but refrain 
+from prescribing precise conditions for continu -
+ing and/or terminating monitoring activities in the post-injection phase. The expectation seems to be that these conditions will be defined by the lo -
+cal permitting regime and through the approach-
+es prescribed in the site closure plan. GCC sim -
+ilarly requires the preparation of a site closure 
+plan, with a preliminary plan included of the docu -
+mentation prepared for project registration. Puro.
+earth requires that post-closure monitoring be 
+undertaken until the transfer of responsibility to 
+a national entity. Isometric notes the conditions 
+for long-term liability under U.S. and EU laws and 
+regulations, but refrain from outlining conditions for any liability transfer.Both ACR and GCC propose a minimum of 5 
+years post injection monitoring by the project 
+owner (with attendant liability for any carbon re-
+versal), and, in addition, variously require either/or:  
+• An extension of 5 years’ post-closure monitoring until plume stability is 
+demonstrated indicative of a low risk of 
+leakage (GCC and ACR v2.0).
+• Extensions by 2 years of post-closure monitoring on a rotational basis until “no leakage” assurance is achieved (GCC and ACR).
+GCC, Puro.earth and ECCC methodologies are 
+explicit in stating that the host jurisdiction/coun -
+try is expected to take on long-term liability for 
+the project GCS site, including for carbon rever -
+sal, while this is implicit for the EU and the UK in referring to national GCS laws. The latter two also 
+explicitly mention that the requirement for reme -
+diation in the event of any carbon reversals will fall upon the host jurisdiction/country government. 
+Further aspects mentioned by standards include:
+• ACR (v1. 1) requires a legal Risk Mitigation Covenant, filed in the jurisdiction, to allow 
+for access to monitoring and to prohibit or 
+compensate for any post injection intentional 
+reversal of stored CO2 or an equivalent mechanism as approved by ACR. In ACR 
+(v2.0), long-term liability can also be assured in instances where this is transferred to a jurisdictional authority.
+• Alberta offers various flexible mechanisms by which to manage and address long-term 
+liability, including the ability to limit reversal 
+liability for GCS credits for Alberta’s provincial 
+compliance carbon market (“TIER”) by 
+increasing a project’s discount factor.
+• GCC proposes that, once monitoring 
+indicates that the risk of seepage is sufficiently 
+low and that permanent storage is highly likely to be achieved, site closure can occur, and 
+monitoring can be discontinued. Thereafter, 
+in line with 2006 IPCC Guidelines, the host 
+country shall be liable for undertaking any 
+future monitoring (as per paragraph 4(v) of 
+Volume 2, Chapter, 5, Section 5.7. 1 in line with 
+Paris Agreement requirements).
+34
+Following a transfer of liability, the accounting of 
+any GCS site leaks as emissions in NGHGI ensur -
+ing that a de facto trigger for remediation exists and environmental integrity is thereby maintained 
+(see Section 4).
+3.2.7  Environmental and social impacts, and
+ sustainability
+All ICP standards include general requirements for environmental and social safeguards as well 
+as sustainable development requirements, al -
+though there is some variation across the meth -
+odologies. Usually these are contained in the 
+general ICP standard. 
+Often requirements are connected to national 
+laws and regulations in which the project is locat -
+ed. For example:
+• ACR (v1. 1) refers to federal and/or state level 
+requirements for EIA and obliges project participants to share these documents with 
+ACR. ACR also requires project proponents to APPROACHES TO 
+LONGTERM LIABILITY FOR GCS VARY, BUT ALLOCATING RESPONSIBILITY AND ASSIGNING REVERSAL LIABILITY(TO HOST COUNTRIES OR OTHER ENTITIES) IS KEY .GCS methodologies have historically relied on applicability conditions to limit use to juris -
+dictions with local laws and regulations that backstop the responsibility for GCS site post injection monitoring and the handling of liabil-ity for remediating carbon reversals. 
+More recently, ICPs have been setting out 
+more detailed technical, legal and regulatory expectations, although some ambiguity and uncertainty exists about whether, when and how long-term responsibilities and liabilities for GCS sites will be allocated and imple -
+mented.
+Greater consideration of the 2006 IPCC 
+Guidelines in respect of how GCS sites should be monitored, and the conditions un-der which monitoring could cease, could help to clarify and harmonise approaches to man -
+aging longer term monitoring and liabilities for remediating any reversals.
+MAKING NET ZERO POSSIBLE 33
+document a mitigation plan for any foreseen 
+negative community or environmental impacts and to disclose any negative environmental or community impacts made during the reporting 
+period. 
+• Verra/VCS (VCS Standard v.4.7) requires 
+project proponents to demonstrate how 
+the project activities or additional activities, 
+contribute to sustainable development in accordance with the UN Sustainable 
+Development Goals (SDGs), and includes 
+safeguard requirements to do ‘no net harm’
+35 
+and make an assessment of stakeholder 
+risks and human rights and equity etc. The Verra/VCS GCS Requirements (v4. 1) also require non-permanence risk to be assessed 
+including a “discussion of concerns and 
+vulnerabilities” and an “urgent response and remedial plans in the event of a leak”. 
+• Isometric (Isometric Standard v. 1.7.6) refers to 
+similar topics and notes the Integrity Council 
+for the Voluntary Carbon Market’s (ICVCM) Core Carbon Principles requirements.
+36 
+The Isometric Standard also suggests that 
+a full Environmental and/or Social Impact 
+Assessment (EIA and/or SIA) be conducted by a third party for all projects, which becomes 
+mandatory if impacts are considered 
+significant and/or if required by the host 
+jurisdiction.
+Some of the governmental standards, such as the 
+EU and BSI, include basic information on mea -
+sures to address environmental and social im -
+pacts. However, projects developed under these 
+protocols are subject to the relevant assessment 
+requirements/regulations in place in the respec -
+tive jurisdictions.The CDM CCS M&Ps specifically require that a 
+comprehensive and thorough risk and safety as -
+sessment be carried out in order to assess the integrity of the GCS site and potential impacts on local communities and ecosystems in proximity 
+to the proposed project activity. They outline the 
+environmental media and specific risks to be in -
+cluded, alongside a requirement to employ best 
+available techniques.
+All methodologies involving BECCS include 
+checks on the sustainability of biomass (see 
+Box 3), and the DACCS methodologies include measures to prevent displacement of renewable energy through “additionality” provisions (e.g. ECCC; see Box 3).
+3.2.8  Transboundary projects
+Existing methodologies and protocols do not ad -
+dress possible issues posed by the transbound-
+ary movement of CO2 in a GCS project activity 
+(which may occur either intentionally or uninten -
+tionally). Some work was undertaken within the 
+CDM to address the issue,37 although the matter 
+was never fully concluded by Parties38 (see also 
+Annex A , Section A-3 ).
+Issues relating to, inter alia, permitting of cross-border storage sites, unintentional 
+cross-border migration of CO2 in the subsur -
+face, leaks from storage sites occurring across 
+borders, and possibilities for double counting 
+represent difficult subjects that are primarily legal in nature rather than methodological. The 2006 IPCC Guidelines provide guidance for how such 
+movements of CO2 should be recorded by NGH -
+GI compilers (see Annex A-3 ).GCS STANDARDS EMBED 
+ENVIRONMENTAL AND SOCIAL SAFEGUARDS—RANGING FROM EIA s 
+AND COMMUNITY IMPACT PLANS TO SDG ALIGNMENT AND HUMAN RIGHTS PROTECTIONS—TO ENSURE PROJECTS DELIVER SUSTAINABILITY BENEFITS.
+
+04 S AFEGUARDING AND
+ A CCOUNTING FOR GCS UNDER
+ THE P ARIS AGREEMENT
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 34
+MAKING NET ZERO POSSIBLE 35
+4. 1 GE OSTORAGE AND RISK
+Activities involving GCS either reduce or avoid at -
+mospheric CO2 emissions from point sources or 
+remove CO2 that is already in the atmosphere by capturing and transferring already formed CO2 
+to the lithosphere, (Section 2. 1). 
+Climate mitigation approaches involving en -
+hanced geological carbon reservoirs therefore 
+present unique risks, impacting upon how they 
+are counted towards climate goals and credited 
+for use in carbon markets. More specifically, risks 
+of GCS include potential impacts on the local environment and human health, and, given the 
+possibility for stored CO2 to leak from a GCS site back to the atmosphere in the future, its effective -
+ness in delivering long-term (permanent) climate change mitigation. The nature of these parallel 
+‘local’ and ‘global’ risks is summarised graphically below (Figure 2).
+T o address these risks, mitigation activities in -
+volving GCS call for specific and additional safe -
+guards in methodological design relative to other 
+types of climate mitigation activities. Local popu-lations and ecosystems must be protected from 
+potential adverse environmental effects, while 
+the environmental integrity of climate mitigation 
+accounting and claims must be insulated from the 
+risk of carbon reversal (see also Section 3.2.6).
+4.2 SAFEGUARDING
+The framework outlined above (Section 4. 1; Fig-ure 2) has formed the basis for the design of safe -
+guards to manage and mitigate GCS risks over the last 20 years or so. Approaches are primarily built upon a three-part legal and regulatory model 
+as follows (see also Section 3.2.6):
+1. Development: upfront QA/QC requirements 
+relating to GCS site permitting or licensing 
+conditions to ensure appropriate site charac-terisation, selection and operation, including 
+appropriate monitoring that can track sub-
+surface CO2 plume behaviour and provide 
+assurances over CO2 storage integrity. 
+2. Operation, closure and post-injection: rules and regulatory oversight of GCS site oper -
+ations, closure and post-injection actions to ensure effective management is applied that 
+reduces the risk of future CO2 leaks occur -
+ring.
+3. Liability: allocation of short- and long-term 
+responsibility for the stored CO2 to ensure appropriate redress is implemented if leaks/carbon reversal occurs.
+The EU, the U.S., Canada, Australia and the UK 
+among others have established laws, regulations, technical standards and governance procedures to manage these aspects. Crediting and/or cer -
+tification of GCS activities in these jurisdictions can rely on the local regulatory frameworks to 
+mitigate the risk of non-permanence and to al -
+locate liability in the event of carbon reversals. Conversely, in jurisdictions where GCS laws and regulations are locally absent—and/or cannot be entirely filled by parallel laws and regulations—al -
+ternative means for implementing safeguards are needed if GCS activities are to proceed with high environmental integrity.
+4.2. 1  Safeguards under the CDM
+Project-based mechanisms for fossil CCS emerged from the CDM after more than six years of negotiations on the specific treatment of GCS. Discussions culminated at CMP .
+39 in 2011 with 
+agreement of the Modalities and procedures for carbon dioxide capture and storage in geologi -
+cal formations as clean development mechanism project activities (Decision 10/CMP .; Box 6). GIVEN UNIQUE RISKS AND OPPORTUNITIES, GCS PROJECTS REQUIRE SPECIFIC SAFEGUARDS TO PROTECT LOCAL COMMUNITIES AND ECOSYSTEMS WHILE ENSURING PERMANENTL Y STORED CO2.FIGURE 2 - T AXONOMY OF POSSIBLE RISKS OF GEOLOGICAL STORAGE
+GEOLOGICAL
+SEQUESTRATION RISK
+LOCAL GLOBAL
+SURFACE RELEASE
+• Suffocation
+• Ecosystem impacts (tree roots, ground animals)CO2 IN SUBSURFACE
+• Metals mobilisation
+• Other contaminant mobilisationQUANTITY -BASED
+• Ground heave
+• Induced seismicity
+• Displacement of groundwater resources
+• Damage to hydrocar -
+bon productionSURFACE RELEASE
+• CO2 back to the atmosphere
+Source: Wilson, E. J and Keith, D.W., 2002. ‘Geological Carbon Storage: Understanding the Rules of the Underground.’  In: Proc. of the 6th Intl. Conf. on GHG Control T ech.; Volume 1. J. Gale and Y. Kaya (eds). Kyoto, Japan, October 2002. Elsevier.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 36
+By way of Decision 10/CMP .7, Kyoto Protocol 
+Parties established the following assurance and 
+safeguard mechanisms for countries wishing to 
+host GCS activities (see also Handbook v1.0): 
+a. Political support: requirement to submit an 
+expression of agreement to the UNFCCC 
+secretariat to allow the implementation of 
+CCS project activities in its territory.40
+b. Legal and regulatory safeguards: other Participation Requirements specifying de 
+minimis legal and regulatory standards 
+for GCS sites (e.g. site selection, redress 
+for affected communities, remedial measures against leaks/reversals, liability 
+arrangements) mirroring the three-part legal and regulatory model outlined above.
+c. Environmental and social safeguards: requirement to undertake comprehensive 
+and thorough risk and safety assessments 
+to assess the integrity of the GCS and potential impacts on human health and 
+ecosystems in proximity to the proposed 
+GCS site.
+In doing so, the rules established safeguards 
+for GCS activities in developing countries sim -
+ilar to those implemented in OECD countries. 
+Such regulatory alignment is essential for credit 
+fungibility and the mitigation of regulatory arbi -
+trage. 
+The potential to establish similar safeguards as 
+set out in (a), (b) and (c) above under the Article 6 of the Paris Agreement is considered below.
+41Modalities and procedures for CDM proj -
+ects were agreed in 2001. However, under 
+the Kyoto Protocol, the absence of emission 
+limitation or reduction targets for developing 
+countries meant CDM host countries faced 
+no direct climate liability if stored carbon 
+resulting from CDR or CCS projects leaked 
+CO2 back to the atmosphere. The arrange-
+ment posed environmental integrity risks to 
+the Kyoto Protocol goals. 
+Concerns over the risks of carbon reversal 
+from afforestation and reforestation (A/R) 
+CDM project activities led Kyoto Protocol 
+Parties to establish, in 2003, dedicated M&Ps 
+for A/R2 that specified the issuance of only 
+temporary or long-term certified emission 
+reductions units (tCER/lCER). Both tCERs 
+or lCERS expired after fixed periods of time, 
+with the acquiring Party thereafter respon -
+sible for their replacement. The temporary 
+credit approach to A/R proved unpopular in 
+carbon markets, however. 
+In 2005, two CDM methodologies for CCS 
+were submitted by project developers for 
+consideration by the CDM Executive Board 
+(EB). Following an initial review, the CDM 
+EB requested guidance from Parties to the Kyoto Protocol (the CMP) as to whether 
+CCS projects could be considered as CDM 
+project activities taking into account issues 
+relating to project boundary, leakage and 
+permanence. 
+Thereafter, in 2006 the CMP agreed to re -
+quest views from Parties and observers on the following concerns relating to CCS ac-
+tivities:
+(a) L ong-term physical leakage (seepage) 
+levels of risks and uncertainty;
+(b) Pr oject boundary issues (such as res -
+ervoirs in international waters or several 
+projects using one reservoir) and proj -
+ects involving more than one country 
+(projects that cross national boundar -
+ies);
+(c) L ong-term responsibility for monitoring 
+the reservoir and any remediation mea-
+sures that may be necessary after the 
+end of the crediting period;
+(d) L ong-term liability for storage sites;
+(e) A ccounting options for any long-term 
+leakage (seepage) from reservoirs;
+(f) Crit eria and steps for the selection of 
+suitable storage sites with respect to 
+the potential for release of greenhouse 
+gases (GHGs);(g) P otential leakage paths and site charac -
+teristics and monitoring methodologies 
+for physical leakage (seepage) from the 
+storage site and related infrastructure, 
+for example, transportation;
+(h) Oper ation of reservoirs (for example, 
+well-sealing and abandonment pro -
+cedures), dynamics of carbon dioxide (CO2) distribution within the reservoir and remediation issues;
+(i) An y other relevant matters, including 
+environmental impacts.
+The unpopularity of the tCERs/lCERs ap-proach to managing reversal risks led Parties 
+to consider alternative approaches for CCS. 
+Negotiations on the above topics ensued 
+over the period 2007-2011 with multiple sub-
+missions by Parties and observers and the 
+development of three synthesis reports on possible approaches to resolve concerns. 
+Eventually, in 2011, Parties agreed to estab -
+lish, by way of new, dedicated, modalities and procedures, specific new safeguards for undertaking CCS as CDM project activities 
+in developing countries (Decision 10/CMP .7) that allowed the generation of permanent 
+certified emission reductions (CERs).BOX 6 - CARBON REVERSALS IN THE CDM
+Notes: 1 Modalities and procedures for a clean development mechanism, as defined in Article 12 of the Kyoto Protocol (Decision 17/CP.7); 2Modalities and procedures for afforestation 
+and reforestation project activities under the clean development mechanism in the first commitment period of the Kyoto Protocol (Decision 19/CP.9); 322nd Meeting of the CDM Execu -
+tive Board, November 2005; 4Decision 1/CMP.2; 5FCCC/SBSTA/2008/INF.1, FCCC/SBSTA/2008/INF.3, FCCC/SBSTA/2011/INF.7
+MAKING NET ZERO POSSIBLE 37
+4.2.2  Safeguards under Article 6
+Article 6.4 (PACM)
+The Paris Agreement Crediting Mechanism 
+(PACM) is an UN-operated project-based cred -
+iting mechanism similar to the CDM. Activities 
+registered under the PACM may be issued Article 
+6, Paragraph 4, emission reductions (A6.4ERs), 
+which can be used as ITMOs towards NDCs, towards other international mitigation purposes (OIMP or IMP), or for other purposes (e.g. mitiga -
+tion contributions). 
+The PACM is governed by the rules, modalities 
+and procedures (RMPs) agreed by Paris Agree -
+ment Parties in 2021,
+42 and is implemented by 
+the Article 6.4 Supervisory Body (SBM), which is responsible for developing the requirements and 
+processes necessary to operate the mechanism.
+The RMPs requested the SBM to review various 
+methodological and procedural aspects of the 
+CDM and other mechanisms to help inform its 
+design, including to elaborate and further develop 
+guidance on activities involving removals (moni -
+toring, reporting, accounting for removals and 
+crediting periods, addressing reversals, avoid-
+ance of leakage, and avoidance of other negative 
+environmental and social impacts).a. P olicy support for GCS activities
+The RMPs set out requirements for Parties wish-
+ing to host PACM activities. These include the fol -
+lowing notifications to the SBM:
+• Indicate publicly the types of activity that the Party would consider approving/authorising, and how such types of activity and any associated emission reductions would contribute to the achievement of its NDC and, if applicable, to its long-term low GHG emissions development strategy (L T-LEDS), and also to the long term goals of the Paris Agreement.
+43
+• Approval of PACM activities prior to their 
+registration, including an explanation of 
+how the activity contributes to sustainable 
+development and relates and contributes to the host country’s NDC.
+44 
+• Authorisation covering, among others, the entities wishing to participate in the PACM activity (public or private) and how A6.4ERs issued to the PACM activity shall be used (e.g. towards NDCs, IMP or other purposes).
+45 
+Where A6.4ERs are authorised for use towards NDCs or OIMP they shall be subject to corresponding adjustments.
+46
+Public indication of the types of activities that Parties consider relevant to the PACM provides an opportunity for countries to state their political support for GCS activities. Backing such indica-tions with similar clarifications in NDCs and other documents (e.g. L T-LEDS) provides an additional assurance check that candidate host countries have established some form of national policy support for GCS technology, and, at least in prin -
+ciple, acknowledge the MRV responsibilities as -
+sociated with hosting such activities. 
+Notably, only around 50 Parties mention CCS 
+within their First or Second NDCs (Zakkour and Heidug, 2019)
+47 and even fewer envisage a role 
+for eCDR.48 So far, only a handful of countries have submitted their NDC 3.0, but the new round 
+of submissions could see greater support for 
+GCS related mitigation approaches.
+Political support for GCS activities could be fur -
+ther reinforced at the time of approval and autho -
+rization of individual PACM activities.
+b. L egal and regulatory requirements
+The RMPs specify that an A6.4ER is:
+“…measured in CO2-equivalent 
+calculated in accordance with the 
+methodologies and metrics assessed 
+by the IPCC and adopted by the 
+CMA,49 or in other metrics adopted by 
+the CMA pursuant to the RMPs”. 
+As such, PACM activities involving GCS should 
+follow the MRV requirements for CO2 transport 
+and storage set out in Volume 2, Chapter 5 of the 2006 IPCC Guidelines. As noted in Box 5, the 
+2006 IPCC Guidelines include several legal and 
+regulatory considerations (see also Annex A). 
+Furthermore, the 2006 IPCC Guidelines oblige 
+host countries to monitor and report any emis -
+sions from CO2 transport and GCS sites, in -
+cluding those resulting from PACM activities, 
+and report any emissions in NGHGIs included within biennial transparency reports (BTRs). As such, host countries assume a de facto back -
+stopping role in the event of any carbon reversal, with remediation obligations arising through the counting of reported emissions against the host 
+country’s progress made in achieving its NDC (i.e. 
+in its BTRs; see Section 4.3. 1). As such, the SBM 
+and other bodies may need to consider how this responsibility might be managed between the UNFCCC secretariat, A6.4ER seller and buyer countries (or airline, in the case of CORISA use under IMP).UNDER ARTICLE 6.4, GCS 
+PROJECTS REQUIRE CLEAR POLITICAL SUPPORT, ROBUST MRV, AND CLEAR RULES THAT ENSURE PERMANENCE AND SAFEGUARD NDC INTEGRITY .
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 38
+In response to a request in the RMPs, in October 
+2024, the SBM presented the draft Standard: Re -
+quirements for activities involving removals un-
+der the Article 6.4 mechanism (PACM Removals 
+Standard).50 This standard, which was taken note 
+of by Parties at CMA.6 in November 2024,51 ap-
+plies de facto to GCS activities under the PACM covering various aspects (Box 7).
+At the time of writing, further work is ongoing by 
+the SBM and its Methodological Expert Panel 
+(MEP) covering:
+52
+• Standard: Addressing non-permanence/reversals (including post-crediting period monitoring, reporting, and remediation of reversals, post-reversal action; late, incomplete or missing monitoring reports; 
+reversal risk assessment; avoidable 
+and unavoidable reversals, reversal compensation).
+• T ool: Reversal Risk Assessment (including 
+upper limits on risk rating; risk rating 
+constituting a negligible risk; remediation measures in the risk assessment tool).
+• Other means to implement remedial actions following a reversal (including insurance policies, or comparable guarantee products, or third-party guarantees; a monetary permanence reserve enabling remediation of reversals through the central purchase and 
+cancellation of A6.4ERs with negligible or no 
+reversal risk).
+The SBM, at its 17th meeting (August 2025), re -
+moved the role of host countries from the scope 
+of the Standard: Addressing non-permanence/
+reversals.
+Therefore, unlike the CCS CDM Modalities and 
+Procedures, the PACM Removals Standard does 
+not envision a strong role for national laws, reg -
+ulations or regulators in establishing assurances over the permanence of GCS activities and for re -
+mediating any carbon reversals (beyond the ap -
+proval and authorisation indicated in (a) above).c. En vironmental and social safeguards
+The PACM Removals Standard requires partic -
+ipants to apply robust social and environmental 
+safeguards to minimise and, where possible, avoid negative environmental and social impacts 
+of the activity. All projects developed under the 
+PACM must be assessed using the A6.4 Sustain -
+able Development T ool (A6.4 SD T ool). 
+The SBM, at its 10th meeting (February 2024), 
+requested the UNFCCC secretariat to develop new specific annex(es) to the A6.4 SD T ool to in -
+clude “safeguards criteria and guiding questions specific to respective CDR activities at an appro -
+priate stage in its development of regulations for activities involving removals”.
+53The SBM, at its 17th meeting (August 2025), fur -
+ther clarified the request for additional criteria 
+and guiding questions for safeguards for various CDR methods, “including DACCS and BECCS”.
+Work on the A6.4 SD T ool remains ongoing at 
+time of writing and new specific annexes have yet 
+to be published. As such, expectations around the 
+sustainable development contributions or other 
+environmental and social safeguards to be met 
+by eCDR methods under the PACM are pending. 
+Article 6.2 (cooperative approaches)
+Article 6.2 cooperative approaches differ from 
+Article 6.4 in having decentralised governance, 
+albeit subject to common guidance around the 
+types of units, participation, accounting and re -THE DRAFT PACM 
+REMOVALS STANDARD INTRODUCES DETAILED RULES ON REVERSALS AND SAFEGUARDS BUT LEAVES HOST COUNTRY LAWS WITH A LIMITED ROLE IN ENSURING PERMANENCE.
+Monitoring and reporting, specifying the 
+scope and frequency of monitoring to be ap -
+plied, and the items to be reported Post-cred-
+iting period monitoring and reporting, requir -
+ing monitoring to continue after the end of the last crediting period so as to:
+• assess whether any reversals have occurred, 
+• quantify the amount of reversals, and
+• confirm the continued storage of GHGs 
+Addressing reversals, requiring project par -
+ticipants to prevent and minimise reversals, to remediate any reversals in full, and to im -
+plement the following:
+• Reversal risk assessment, considering risks such as financial, regulatory, political/governance, natural disturbance, climate impacts, and to establish a risk mitigation plan. The methodology is to 
+be set out in a Reversal Risk Assessment 
+T ool (forthcoming).
+• A Reversal Risk Buffer Pool Account, 
+with contributions based on quantitative results of the reversal risk assessment. Also includes the option to tag A6.4ERs as being at negligible risk of reversal.
+Remediation of reversals, specifying the con -
+ditions under which the Reversal Risk Buffer Pool Account may be accessed to remediate reversals.
+The PACM Removals Standard requires proj -
+ect participants to self-assess the risk of re -
+versal, albeit subject to validation, verification 
+and SBM oversight.BOX 7 - TOPICS COVERED IN THE PACM REMOVALS ST ANDARD
+MAKING NET ZERO POSSIBLE 39
+porting by participating Parties.54 The decen -
+tralised arrangements can bring various bilateral 
+and multilateral crediting systems into the ambit 
+of market mechanisms under the Paris Agree -
+ment, including ICP and/or domestic standards. 
+Third party mechanisms compliant with Article 
+6.2 guidance have latitude to set their own meth -
+odological and governance requirements.a. P olicy support for GCS activities
+In a similar way as required under the RMPs, Ar -
+ticle 6.2 guidance mandates each participating 
+Party in a cooperative approach to ensure that:
+“4.…(f) Its participation contributes to 
+the implementation of its NDC and long-term low-emission development strategy, if it has submitted one…” 
+55
+The implication is that any Party wishing to host 
+and credit GCS-based activities under Article 6.2 must include variants of the technology within 
+its NDC or L T-LEDS. In the same way as under 
+PACM, inclusion within NDCs offers an assur -
+ance check for host country policy support for 
+the technology, as well as acknowledgment of the 
+associated MRV responsibilities. As noted above 
+for PACM, such inclusion is limited at present.
+Countries hosting a cooperative approach are 
+also required to authorise and report and account 
+(track) for transactions of the resulting units (IT -
+MOs). 
+b. L egal and regulatory requirements
+As with the RMPs for Article 6.4, guidance on Arti -
+cle 6.2 cooperative approaches notes that ITMOs 
+resulting from a cooperative approach must be:56
+‘1…(c) Measured in metric tonnes of 
+carbon dioxide equivalent (t CO2 eq) 
+in accordance with the methodologies 
+and metrics assessed by the 
+Intergovernmental Panel on Climate 
+Change…’Countries generating ITMOs from GCS-based 
+cooperative approaches will therefore need to 
+fulfil the requirements of the 2006 IPCC Guide -
+lines, including legal and regulatory consider -
+ations therein (Box 5; Annex A).
+Most methodologies and protocols require GCS 
+sites to be permitted under national laws and reg -
+ulations in order to be credited or certified under the standard. Two approaches are emerging in these respects:
+1. Limiting jurisdictions. Several standard set -
+ters limit applicability of their GCS methodol-ogy/protocol to jurisdictions with dedicated laws and regulations that include appropriate legal and regulatory safeguards for GCS sites (e.g. ACR and domestic crediting sys -
+tems; Section 3.2)
+2. Prescribing expectations. More recently, standard setters—including Verra/VCS, Gold Standard, GCC, Puro.earth and Isometric—have set out legal criteria and/or technical guidance for the regulatory oversight to be applied in candidate host jurisdictions. Some refer to specific legal and regulatory systems, but also apply some subtlety on the exact expectations for permitting, while others may offer greater latitude for interpretation in terms of scope and applicability (see Section 3.2.6). ARTICLE 6.2 COOPERATIVE APPROACHES GIVE COUNTRIES FLEXIBILITY TO CREDIT GCS ACTIVITIES, BUT REQUIRE NDC INCLUSION, IPCC-ALIGNED MRV, AND ROBUST NATIONAL LAWS OR EQUIVALENT SAFEGUARDS.Countries wishing to host GCS-based activities under PACM and generate credits as A6.4ERs will need to, among others: (i) indicate public support and in -
+clude such activities within their NDCs; and (ii) comply with PACM standards and tools to manage non-permanence risk and carbon reversal.
+In accordance with the Paris Agreement, 
+any CO2 leaks (carbon reversal) from GCS sites will need to be monitored and reported as emissions by the host coun-try in accordance with the 2006 IPCC Guidelines, thereby directly impacting upon its capacity to meet its NDC. The requirement applies irrespective of whether the activity was an authorised PACM activity or not (see Section 4.3. 1 
+below ). 
+Therefore, although the PACM seeks to establish measures for remediating carbon reversals only at the level of ac -
+tivity participants, ultimate liability for any GCS site leaks (carbon reversals) will fall upon the host country regardless of the PACM buffer account or other project level mechanisms.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 40
+Parties intending to participate in Article 6.2 are 
+required to submit prior to first authorization an 
+Initial Report, as well as subsequent Regular 
+Information thereafter. These reports shall 
+contain comprehensive information on various 
+matters including: (i) that the Party fulfils the 
+Participation Requirements (as in (a) above); 
+and, (ii) a description of how each cooperative approach ensures environmental integrity in terms of, among others: 
+57
+“18. (h)(iii)…minimizing the risk of non-
+permanence of mitigation across several NDC periods and how, when reversals of emission reductions or removals occur, the cooperative 
+approach will ensure that these are 
+addressed in full.”
+Consequently, any country that includes GCS 
+activities within the scope of its NDC and/or L T-LEDS and anticipates implementing these 
+through Article 6.2 should state in its Initial Re -
+port how it intends to manage non-permanence 
+risks. Equally, buyer countries in a cooperative approach will need to have considered the matter. In either case, Parties will need to have a strong 
+understanding of the approach taken to legal and 
+regulatory safeguards in the methodologies and 
+protocols that could be used to credit GCS activ -
+ities under Article 6.2.
+As noted for the PACM, the 2006 IPCC Guide -
+lines oblige host countries to monitor and report 
+any emissions from CO2 transport and GCS sites (Box 5), including those resulting for cooperative approaches, and report any emissions in NGH -
+GIs. Therefore, in same way as for the PACM, host countries assume a de facto backstopping role in 
+the event of any carbon reversal, with remedia-
+tion obligations arising through the counting of reported emissions against the host country’s 
+progress made in achieving its NDC (i.e. in BTRs; 
+see Section 4.3. 1). Countries participating in cooperative approach -
+es should therefore consider how responsibility 
+for remediation in the event of a reversal might 
+be allocated and/or shared with standard set -
+ters, projects participants and between buyer 
+and seller Parties (or with airlines, in the case of 
+CORISA use under IMP). Examples of measures could include providing host country access to 
+buffer accounts and/or agreeing liability arrange-
+ments for remediating carbon reversals in bilater -
+al agreements governing Article 6.2 cooperative 
+approaches. 
+So far, Switzerland has been most active in es -
+tablishing bilateral agreements for Article 6.2 
+cooperative approaches, with 14 in place at the 
+time of writing.
+58  Given the active presence of 
+Swiss-based DAC firms in Kenya,59 the bilateral 
+agreement with Kenya is the most likely of the 14 
+to encompass GCS. However, while the topic of 
+permanence and carbon reversals is acknowl -
+edged therein, the agreement lacks specificity in 
+terms of how principles and criteria for environ -
+mental integrity might be practically implemented 
+(Box 8). Further details can be expected in any 
+Initial Reports and Regular Information from Swit -
+zerland that pertain to specific projects involving 
+GCS.
+In the case of Japan, which operates its own 
+international crediting mechanism (the Joint 
+Crediting Mechanism; JCM), structuring such 
+arrangements could be more straightforward (Box 9).c. En vironmental and social safeguards
+Within its Article 6.2 Initial Report, as well as in 
+Regular Information provided thereafter, Parties must, among others, describe how each cooper -
+ative approach will (or is):
+“Minimize and, where possible, avoid 
+negative environmental and social 
+impacts and be consistent with its 
+sustainable development objectives.” 
+[and]
+“Be consistent with the sustainable 
+development objectives of the Party, noting national prerogatives.”UNDER ARTICLE 6.2, 
+COUNTRIES HOSTING GCS MUST SHOW IN INITIAL REPORTS HOW THEY WILL MANAGE NON-PERMANENCE, ALLOCATE REVERSAL LIABILITY , AND SAFEGUARD SUSTAINABLE DEVELOPMENT.
+ARTICLE 3Environmental integrityMinimal principles and criteria relevant for ensuring environmental integrity of 
+Mitigation Outcomes, for which transfer 
+and use are authorised, are hereby 
+established:
+Mitigation Outcomes shall be new, real, 
+verified, additional to any that would otherwise occur and permanent or 
+achieved under a system that ensures 
+permanence, including by appropriate 
+compensation of any material reversals;BOX 8 - PERMANENCE AND
+CARBON REVERSAL IN THESWITZERLAND-KENY A BILA TERAL AGREEMENT
+Source: Switzerland-Kenya Implementing Agreement to the Paris Agreement, May 2025
+MAKING NET ZERO POSSIBLE 41
+As outlined above (Section 3.2.7), third party 
+standards generally require environmental, sus -
+tainability and social impacts to be assessed for 
+all project types. 
+GCS methodologies and protocols also increas -
+ingly require project proponents to undertake 
+specific risk and safety assessments for each ac -
+tivity, the results of which could be used to inform environmental and socio-economic impacts and risks (see Section 3.2.7 for examples). 
+Carbon Offsetting and Reduction Scheme for 
+International Aviation (CORSIA)
+Credits originated under either the PACM or Arti -
+cle 6.2 cooperative approaches maybe used to -
+wards the CORSIA in respect of OIMP/IMP . 
+Credits originated by ICPs or other standards can 
+be treated as CORSIA Eligible Emission Units (CEEUs) when they are: (i) originated from ICPs and methodologies thereunder approved by the CORSIA T echnical Advisory Body; (ii) authorised for use towards IMP by the host country Party; and, (iii) meet the test for applying a CORSIA label 
+as set out in the applicable  ICP’s  rules. 
+CEEUs can be used by airlines participating in CORSIA to offset their reported emissions, and will be correspondingly adjusted by the country of origination (see Section 4.3).
+Most of the ICPs reviewed in this Handbook 
+are approved to supply CEEUs by the CORSIA T echnical Advisory Body. However, the T echni -
+cal Advisory Body has through various ways so far excluded methodologies involving GCS or en -
+hanced removals.
+60THE CORSIA TECHNICAL ADVISORY BODY HAS SO FAR EXCLUDED METHODOLOGIES INVOLVING GCS OR ENHANCED REMOVALS.
+Under the JCM, each partner country signs 
+a bilateral agreement with the Government 
+of Japan (see: https:/ /www.jcm.go.jp/about). 
+Various relevant safeguards are included in the project evaluation criteria. For example, Annex I of the FY2022 Guidelines for Submitting Proposals include the following eligibility requirements:
+2) Is the model project expected to reduce 
+emissions of GHG including energy-related 
+CO2 through JCM?
+• The model project should be consistent with the climate change policies in the 
+country where the project is implemented 
+(hereinafter referred to as ‘partner and 
+other countries’).
+6) Are the decarbonizing technologies 
+internationally in practical use and can 
+be introduced in the partner and other 
+countries? This means:
+• The technologies should be realized in other project(s) (a track record of commercial operation or demonstration project etc. will be reviewed), or the 
+facilities/equipment using the technology should be commercially manufactured (Catalogues, specification etc. will be 
+reviewed).
+• Are equipment maintenance technologies 
+and local support available in the partner and other countries?
+11) Does the model project adhere to the environmental and social legal system 
+requirement?
+• The installation and operation of the 
+facilities/equipment shall comply with the environmental laws and regulations of the partner country and refer to international 
+practices and guidelines regarding the 
+environmental protection (air pollution, 
+water contamination, waste treatment, noise/vibration, ecosystem etc.).
+Further, the Japan Oil, Gas and Metals 
+National Corporation (JOGMEC) has 
+established guidelines for CCS projects, which draws heavily on ISO and U.S. best practice standards. The JOGMEC work could be integrated with JCM bilateral agreements to ensure best practice is 
+followed for CCS projects under the JCM.BOX 9 - POTENTIAL GCS SAFEGUARDS UNDER THE JAPANESE
+JOINT CREDITING MECHANISM (JCM)
+Sources: GEC (2022) Call for Proposals for JCM Model Projects in FY2022, Guidelines for Submitting Proposals. 6 April 
+2022. Global Environment Centre Foundation (GEC). JOGMEC (2022). Recommended guideline for the implementation of Carbon dioxide Capture and Storage projects (JOGMEC CCS guideline). Executive Summary. Version 1. May 2022. Japan Oil, Gas and Metals National Corporation (JOGMEC).
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 42
+4.3 ACCOUNTING
+For GCS activities to be effectively counted with -
+in the Paris Agreement framework, the resulting 
+reductions and/or removals must be recognised 
+and counted not only in approaches under Article 
+6 (as described above), but also in the tracking 
+of progress made in implementing and achieving 
+Parties’ NDCs.
+Both components are related: activities that Par -
+ties consider eligible for crediting under Article  6 
+should be included in NDCs, while the application 
+of corresponding adjustments to A6.4ERs and/or 
+ITMOs under Article 6 mean that the reductions 
+and/or removals must be effectively recorded 
+in the host country NGHGI in order to make the 
+necessary adjustments during NDC progress 
+tracking.61
+4.3. 1  Counting GCS activities towards NDCs
+As noted above (Section 4.2.2), Article 13 of the 
+Paris Agreement requires signatory Parties to 
+regularly provide:
+• a NGHGI of anthropogenic emissions by sources and removals by sinks of GHGs using 
+good practice methodologies accepted by the 
+IPCC and agreed upon by the CMA.
+• information necessary to track progress made 
+in implementing and achieving its NDC.
+In respect of these requirements, two further UN -
+FCCC decisions govern NDC design and imple-
+mentation:
+1. Information to enhance clarity and understanding (ICTU; Decision 4/CMA. 1), 
+which provides guidance on the information 
+that Parties should disclose in preparing their 
+NDCs.
+2. The enhanced transparency framework and its modalities procedures and guidelines 
+(ETF/MPGs; Decision 18/CMA 1.), which  
+set out the reporting that Parties must 
+provide in tracking progress towards 
+achieving their NDC. Including GCS in NDCs
+For NDC design, ICTU requires that an NDC’s 
+scope include:
+62
+“…sectors, gases, categories and 
+pools […] consistent with 
+Intergovernmental Panel on Climate 
+Change (IPCC) guidelines”.
+And that, in accounting for NDCs:“Parties whose NDC cannot be 
+accounted for using methodologies 
+covered by IPCC guidelines provide information on their own 
+methodology used…”
+[and also that]“…once a source, sink or activity is 
+included, continue to include it”.FOR GCS TO COUNT 
+UNDER THE PARIS AGREEMENT, PROJECTS MUST BE INCLUDED IN NDCS AND RECORDED IN NATIONAL INVENTORIES TO ENABLE PROPER TRACKING AND ADJUSTMENTS.Countries wishing to host GCS-based 
+activities as Article 6.2 cooperative 
+approaches and generate credits as ITMOs will need to, among others: (i) in -
+clude such activities within their NDCs; and (ii) state in their Initial Report how they intend to manage non-permanence risk and carbon reversal.
+Any CO2 leaks (carbon reversal) from 
+GCS sites will need to be monitored and reported as emissions by the host coun-try in accordance with the 2006 IPCC Guidelines, thereby directly impacting upon its capacity to meet its NDC. The requirement applies irrespective of whether the activity was an authorised Article 6.2 cooperative approach or not (see Section 4.3. 1 below ). As such, Initial 
+Reports and Regular Information should address how liability for remediating car -
+bon reversals will be managed between ITMO buyers and sellers.
+The bilateral agreements between Par -
+ties participating on Article 6.2 coop -
+erative approaches incorporating GCS 
+activities will likely need to carefully con -
+sider the approach to address the risk of non-permanence and the allocation of responsibility to remediate carbon reversals (see Japan’s Joint Crediting Mechanism; JCM, or the Swiss Article 6 procurement programme).
+CORSIA has yet to approve any CCS or 
+eCDR methodologies as eligible to gen -
+erate CEEUs.
+MAKING NET ZERO POSSIBLE 43
+Tracking GCS towards NDCs
+For NDC tracking, the ETF requires Parties to 
+submit BTRs that must include, among others, a NGHGI as well as measures of progress made in achieving the NDC. The MPGs for the ETF state that in preparing 
+NGHGIs in BTRs:
+63 
+“Each Party shall use the 2006 
+IPCC Guidelines, and…any subsequent version”
+[and that] 
+“Each Party may use nationally 
+appropriate methodologies if 
+they better reflect its national 
+circumstances and are consistent with the IPCC guidelines”
+[and that]
+“Each Party shall report methods 
+used, including the rationale for the choice of methods, in accordance 
+with good practice elaborated in the 
+IPCC guidelines”
+The decisions of the UNFCCC regarding both 
+NDC design and tracking show clear direction 
+towards the use of the 2006 IPCC Guidelines (Box 5).
+4.3.2  Double counting
+Double counting or claiming is not an issue unique to CCS or eCDR, but rather a wider topic 
+to be addressed in interactions and accounting 
+between VCM and government-to-government 
+carbon trading. For the environmental integrity 
+of the Paris Agreement, the matter is addressed 
+through the authorizations and corresponding 
+adjustments provisions in the Article  6 rules. 
+Y et, some stakeholders have called for corporate 
+climate-related compensation or neutralisation 
+claims using carbon credits to be backed by cor -responding adjustments or otherwise be limited 
+to that of a ‘mitigation contribution’ type claim. Proponents of this approach assert that without 
+the corresponding adjustment, a double claim by a country and a company casts doubt upon any 
+offset claim by the company, and that the limita-
+tion to a contribution claim helps to reinforce the 
+idea that offsetting should not replace measures 
+by companies to reduce their own emissions. 
+On the other hand, such credits and claims 
+could occur within a single country, which if cor -
+responding adjustments are applied, means the corporate entity may lay claim to a reduction or removal that may not be counted by its own host 
+country government.
+64 Y et, host country gov -
+ernments would rather tend to rely upon such 
+‘double counting’ to occur in order to promote 
+domestic climate action by private actors.65 For 
+this reason, in circumstances where credits from a GCS activity are acquired by an entity to 
+substantiate corporate climate-related claims, and the same associated reductions or remov -
+als are also recorded in the NGHGI of the host country, the arrangement should be considered as one on ‘nesting’ rather than double counting 
+or claiming: the emissions of the corporation 
+and the reductions or removals achieved by the 
+GCS activity are nested and therefore counted 
+in the same NGHGI of the country in which they occur.
+66 As a corollary, eliminating the concept of 
+nested GHG inventories in essence places cor -
+porate and country GHG accounts on an equal footing in respect of the Paris Agreement.
+Similarly, if a corporate credit acquisition and 
+cancellation involves cross-border trade with -
+out authorizations (or an authorization for other 
+purposes), the measured reduction or removal 
+will be reflected in the NGHGI of the host coun -
+try and no corresponding adjustment needs to 
+be applied in respect of achieving its NDC: the 
+benefit of the action will remain with the host 
+country. Without a corresponding adjustment, The guidance provided in ICTU means 
+that Parties wishing to use CCS or eCDR in pursuit of NDCs should ac -
+knowledge the detailed good practice methodological guidance for hosting GCS sites set out in the 2006 IPCC Guidelines (Box 5; Annex A). 
+The absence of specific guidance on 
+DACCS also means that a Party look -
+ing to deploy such activities will need to provide information in their NDC on the accounting measures that they will take to recognise and count the activity in their NGHGIs.
+Continued reporting by Parties of the 
+amounts of CO2 captured and geolog -
+ically stored is contingent on proper monitoring of the GCS. The obligation in ICTU to continue including GCS sites and the ETF requirement to monitor them in accordance with 2006 IPCC Guidelines means that Parties are the de facto underwriter of reversal risk, even where projects were implement -
+ed by private entities and/or subject to trading under Article 6. 
+The conditions for ceasing monitoring 
+set out in Volume 2, Chapter 5, signpost potential conditions under which on -
+going liability for reversal residual risks may be curtailed.
+Double counting is not a GCS-specific issue. The risk of double-counting is un -
+likely to pose issues unless transbound -
+ary projects are allowed (i.e. capture in one country and storage in another), although such projects face more sig-nificant challenges in terms of authori-zations and approvals. 
+The accounting risks are addressed 
+through the Paris Agreement’s re-quirement to apply corresponding adjustments for transfers of ITMOs or A6.4ERs towards NDCs and for CEEUs under CORSIA.the corporate’s country of residence will have 
+no claim to the credit towards achieving its NDC. 
+Thus, although the action may be claimed by 
+both the corporate and the host country in which 
+the activity took place, the corporate claim and related accounting remains entirely within the 
+purview of the VCM and has no impact upon the 
+environmental integrity of the Paris Agreement. 
+If, on the other hand, the credit acquired and can -
+celled by the corporate is authorised by the host 
+country for use towards NDC or IMP , but not by the buyer country (i.e. partial corresponding ad-
+justment by the supplier), accounting differenc -
+es could arise that impact upon environmental 
+integrity—the reductions or removals achieved by activity will be added back to the host coun -
+try’s emissions in respect of NDC achievement, 
+but will not be deducted from any buyer account. 
+As such, a single claim by the corporate does not pose any risk of double counting. 
+Most ICPs include provisions relating to double 
+counting or double claiming, as well as specific measures for corresponding adjustments espe-cially in relation to IMP (principally CORSIA).
+ANNEX
+IPCC 2006 GUIDELINES
+AND GCS
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 44
+MAKING NET ZERO POSSIBLE 45
+A. 1 CO VERAGE OF CCS AND BECCS IN 2006 IPCC
+ GUIDELINES
+The following sections of the 2006 GLs apply to CCS and BEC -
+CS activities:
+• Volume 1, Chapter 1 (Introduction). The general concepts 
+for reporting indicates that (i) CO2 emissions from biomass 
+combustion for energy are reported in AFOLU Sector as part 
+of net changes in carbon stocks; (ii) captured CO2 should be 
+allocated (i.e. reported as emitted) in the sector generating the 
+CO2 unless it can be shown that the CO2 is “stored in proper -
+ly monitored geological storage sites as set out in Chapter 5 
+of Volume 2”. Therefore, countries wishing to count mitigation activities utilizing GCS towards their NDCs must fulfil the MRV requirements for CO2 transport and storage described below. 
+• Volume 2, Chapter 2 (Stationary Combustion). Subsection 
+2.3.4 describes how emissions reductions achieved by CO2 
+capture at combustion sources may be deducted from the rele -
+vant sector emissions total in the NGHGI. This includes capture of CO2 from fossil thermal, biomass or waste-to-energy fuelled 
+power plants. The guidance confirms capture of biogenic CO2 
+can be treated as negative emissions in NGHGIs. In all cases, Tier 3 methods must be applied to CO2 capture sources.
+67 
+• Volume 2, Chapter 4 (Fugitive Emissions). This section de-
+scribes how both fugitive emissions from GCS projects and the 
+transport and disposal of acid gas from oil and gas facilities must 
+be treated. Subsection 4.2. 1 describes methods for natural gas 
+processing and hydrogen production. Guidance on accounting and reporting of emissions from EOR systems is also included.  
+• Volume 3, various chapters (Industrial Processes and Prod -
+uct Use). Chapter 1 describes the general methods for the 
+capture of process CO2 emissions from industrial activities, 
+while the specific chapters for each subsector provide further 
+details on capture from each emissions source type (cement 
+(2.2), methanol (3.9), ammonia (3.2), iron and steel (4.2)).• Volume 2, Chapter 5 (Carbon Dioxide Transport, Injection and 
+Geological Storage). This chapter sets down specific require-
+ments for the MRV of CO2 after the capture stage, covering 
+emissions from the transport of CO2 in pipelines, surface injec -
+tion facilities and underground geological CO2 storage sites.
+In combination, the guidance in Volumes 2 and 3 provide the ba-sis for monitoring and reporting captured and geologically stored fossil and biogenic CO2 as ‘not emitted’ in NGHGIs (i.e. recog -
+nising GCS activities as mitigation measures/activities). This pro-
+vides the basis for the MRV of GCS activities as measure within 
+NGHGIs and BTRs (Section 4.3. 1).
+Importantly, CO2 captured in the relevant source sectors may 
+only be deducted from the sector totals in a country’s NGHGI if it 
+is stored in “properly monitored storage sites” following the guid -
+ance in Volume 2, Chapter 5.
+68 Therein, Volume 2, Chapter 5, sets 
+down detailed requirements for inventory compilers to follow in 
+respect of the oversight to GCS in order to build confidence in 
+the durability of storage. 
+Presently DAC is not covered by IPCC GHG inventory compila -
+tion guidance, although the elements applicable to geological 
+CO2 storage sites should be seen as common, regardless of 
+CO2 source (see also Box 5).
+These requirements are described in detail below. 
+A.2  RE QUIREMENTS FOR CO2 STORAGE SITES UNDER
+ IP CC 2006 (VOL. 2, CH. 5)
+A.2. 1  Monitoring
+NGHGI compilers must apply Tier 3 monitoring to estimate emis -
+sions from the capture, transport, and storage of CO2. All data 
+collected by operators at the site level must therefore be reported 
+to the host country NGHGI compiler and directly used to compile 
+the NGHGI report. 
+Estimates of emissions from these activities based on Tier 1 or 
+Tier 2 emissions factors may not be used for NGHGI compilation: actual activity level data must be used.A.2.2  Methodology: Site characterisation and
+ selection
+Volume 2, Chapter 5, sets down specific Tier 3 requirements for 
+geological CO2 storage sites to ‘help build confidence that there will be minimum leakage’ (p. 5. 14). In these respects, the 2006 IPCC Guidelines state that:
+• “In order to understand the fate of CO2 injected into 
+geological reservoirs over long timescales, assess its 
+potential to be emitted back to the atmosphere or seabed via 
+the leakage pathways identified in T able 5.3, and measure any 
+fugitive emissions, it is necessary to:
+(a) Pr operly and thoroughly characterise the geology of 
+the storage site and surrounding strata;
+(b) M odel the injection of CO2 into the storage reservoir 
+and the future behaviour of the storage system;
+(c) M onitor the storage system;
+(d) Us e the results of the monitoring to validate and/or 
+update the models of the storage system.” 
+(pp. 5. 13-5. 14)
+In order to meet Tier 3 reporting requirements these same re -
+quirements must be devolved to GCS site operators. Thus, any 
+GCS standard, methodology or protocol (as covered in the main 
+sections of the Handbook) must look to fulfil these requirements 
+so that emission reductions or removals achieved by GCS proj-
+ect activities can be effectively recorded in national inventory 
+reports. Accounting and policy problems will arise if this this not 
+fulfilled.
+A.2.3  Methodology: Regulatory aspects
+In respect of regulatory interactions, the method in Volume 2, Chapter 5, suggests that:
+“…if one or more appropriate governing bodies that regulate car -
+bon dioxide capture and storage exist, then the inventory compiler 
+may obtain emissions information from those bodies... [and that]… 
+If no such agency exists, then it would be good practice for the 
+inventory compiler to follow the methodology presented below.”
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 46
+The step-wise methodology presented below this chapeau cov -
+ers, among others, the following:
+1. I dentify and document all geological storage operations  
+in the jurisdiction… 
+2. De termine whether an adequate geological site 
+characterization report has been produced for each  
+storage site…. 
+3. De termine whether the operator has assessed the  
+potential for leakage at the storage site…
+4. De termine whether each site has a suitable monitoring  
+plan…
+5. Col lect and verify annual emissions from each site…
+Significant effort by the NGHGI compiler is therefore required if 
+there GCS regulations are locally absent. 
+A.2.4  Quality Assurance, Quality Control
+Fulfilling the QA/QC requirements in the 2006 IPCC Guidelines 
+implies several de facto regulatory approval and verification ele -
+ments to be implemented by the NGHGI compiler or other nation -
+al regulatory agencies. Specifically:
+“On-site QA/QC will be achieved by regular inspection of monitor -
+ing equipment and site infrastructure by the operator. Monitoring 
+equipment and programmes will be subject to independent scru -
+tiny by the inventory compiler and/or regulatory agency. (pp. 5.19)
+All data including the site characterization reports, geological models, simulations of CO2 injection, predictive modelling of the 
+site, risk assessments, injection plans, licence applications, moni -
+toring strategies and results and verification should be retained by 
+the operator and forwarded to the inventory compiler for QA/QC.
+Where applicable, the relevant regulatory body can provide ver -
+ification of emissions estimates and/or the monitoring plan de -
+scribed above. If no such body exists, the site operator should at 
+the outset provide the inventory compiler with the results of peer review by a competent third party confirming that the geological 
+and numerical models are representative, the reservoir simulator 
+is suitable, the modelling realistic and the monitoring plan suitable. As they become available, the site operator should compare the 
+results of the monitoring programme with the predictive models 
+and adjust models, monitoring programme and/or injection strat -
+egy appropriately. The site operator should inform the inventory 
+compiler of changes made.” (5.20
+)
+Furthermore, Section 5. 10 specifies the Reporting and Documen -
+tation to be obtained by the national inventory compiler prior to 
+the start of geological storage operations:
+5. 10 REPORTING AND DOCUMENTATION
+Guidelines for reporting emissions from geological storage:
+Prior to the start of the geological storage operation, the national inventory compiler where storage takes place should obtain and 
+archive the following:
+• Report on the methods and results of the site  
+characterization
+• Report on the methods and results of modelling
+• A description of the proposed monitoring programme including appropriate background measurements
+• The year in which CO2 storage began or will begin
+• The proposed sources of the CO2 and the infrastructure involved in the whole CCGS chain between source and 
+storage reservoir.
+The same national inventory compiler should receive annually 
+from each site:
+• The mass of CO2 injected during the reporting year
+• The mass of CO2 stored during the reporting year
+• The cumulative mass of CO2 stored at the site
+• The source (s) of the CO2 and the infrastructure involved in 
+the whole CCGS chain between source and storage reservoir
+• A report detailing the rationale, methodology, monitoring 
+frequency and results of the monitoring programme - to 
+include the mass of any fugitive emissions of CO2 and any 
+other greenhouse gases to the atmosphere or seabed from the storage site during the reporting year.
+• A report on any adjustment of the modelling and forward modelling of the site that was necessary in the light of the 
+monitoring results.• The mass of any fugitive emissions of CO2 and any other 
+greenhouse gases to the atmosphere or seabed from the 
+storage site during the reporting year.
+• Descriptions of the monitoring programmes and monitoring methods used, the monitoring frequency and their results.
+• Results of third-party verification of the monitoring 
+programme and methods.
+There may be additional reporting requirements at the project 
+level where the site is part of an emissions trading scheme.” (p. 
+5.20)
+Consequently, any GCS standing, methodology or protocol must 
+be cognizant of these reporting obligations and include them 
+accordingly in order to align project and national GHG accounts. 
+Problematically, the inventory compiler in most jurisdictions is 
+unlikely to be sufficiently competent or suitably prepared for the collection and review of these sorts of technical reports, informa-
+tion and data.
+A.2.5  Linkages to permanence, liability, and
+ c arbon reversals
+In terms of the liability for remediating carbon reversals, coun -
+tries reporting CO2 as not emitted consistent with 2006 IPCC 
+Guidelines will have to act as the backstop holder of liability for any emissions of stored CO2. Any emissions from GCS sites will need to be included in NGHGIs inside BTRs, and therefore count -
+ed against NDC progress.
+A project-based methodology can devolve liability to the project 
+operator during the crediting period, and potentially beyond the 
+crediting period and into the post-injection phase through ongo -
+ing monitoring and remediation obligations. Section 3.2.6 consid -
+ers the current approaches across methodologies and protocols. The extent to which ongoing monitoring can be enforced through 
+a voluntary standard is open to debate, however, as discussed in 
+the main body of the handbook (Section 4.2.2).
+For long-term monitoring, the 2006 IPCC Guidelines support 
+reduction and cessation of monitoring on a performance basis. 
+Specifically, host countries are required to ensure that:
+MAKING NET ZERO POSSIBLE 47
+“The [monitoring] plan should provide for monitoring of the site 
+after the injection phase. The post-injection phase of monitoring should take account of the results of the forward modelling of 
+CO2 distribution to ensure that monitoring equipment is deployed 
+at appropriate places and appropriate times. Once the CO2 ap -
+proaches its predicted long-term distribution within the reservoir 
+and there is agreement between the models of CO2 distribution 
+and measurements made in accordance with the monitoring plan, 
+it may be appropriate to decrease the frequency of (or discontin -
+ue) monitoring. Monitoring may need to be resumed if the stor -
+age site is affected by unexpected events, for example seismic 
+events.” (pp. 5.15-5.16).
+The provisions for continued monitoring of the site post-injection, 
+and the termination of monitoring, can help inform methodologi -
+cal choices regarding the period of time during which project op -
+erators must undertake storage monitoring.
+A.3  TR ANSBOUNDARY ACCOUNTING
+The 2006 IPCC Guidelines include provisions for the MRV and 
+accounting of cross-border transfers of CO2 across a chain of 
+operations. Specifically, in respect of the Reporting and Docu -
+mentation requirements, inventory compilers are obliged to meet 
+the following requirements:
+“Reporting of cross-border CCS operations
+CO2 may be captured in one country, Country A, and exported 
+for storage in a different country, Country B. Under this scenario, 
+Country A should report the amount of CO2 captured, any emis -
+sions from transport and/or temporary storage that takes place in Country A, and the amount of CO2 exported to Country B. 
+Country B should report the amount of CO2 imported, any emis -
+sions from transport and/or temporary storage (that takes place in Country B), and any emissions from injection and geological 
+storage sites.If CO2 is injected in one country, Country A, and travels from the 
+storage site and leaks in a different country, Country B, Country A is responsible for reporting the emissions from the geological 
+storage site. If such leakage is anticipated based on site charac -
+terization and modelling, Country A should make an arrangement 
+with Country B to ensure that appropriate standards for long-term 
+storage and monitoring and/or estimation of emissions are ap -
+plied (relevant regulatory bodies may have existing arrangements 
+to address cross-border issues with regard to groundwater pro -
+tection and/or oil and gas recovery).
+If more than one country utilizes a common storage site, the coun-
+try where the geological storage takes place is responsible for 
+reporting emissions from that site. If the emissions occur outside of that country, they are still responsible for reporting those emis -
+sions as described above. In the case where a storage site occurs in more than one country, the countries concerned should make 
+an arrangement whereby each reports an agreed fraction of the 
+total emissions.” (pp. 5.20-5.21)
+These requirements imply that a project activity that potentially 
+risks cross-border movement of CO2 – either deliberately, acci -
+dently, or because of shared infrastructure – will need to ensure agreement is reached between the relevant countries regarding how monitoring and reporting will be undertaken, and how liability 
+will be allocated in the event of carbon reversals.
+These types of requirements typically far exceed the types of ob -
+ligations that can be placed on a project developer within volun -
+tary carbon crediting methodologies.The cover decision to the CDM CCS M&Ps agreed that 
+the Conference of the Parties serving as the Meeting of 
+the Parties to the Kyoto Protocol (CMP) would consid -
+er “The eligibility of carbon dioxide capture and storage 
+project activities which involve the transport of carbon 
+dioxide from one country to another or which involve 
+geological storage sites that are located in more than one country”. 
+A UNFCCC T echnical Report on transboundary proj -
+ects was prepared in 2012 (UNFCCC 2012) to support 
+decisions in these regards. The paper covered a range 
+of technical scenarios and some of the potential legal aspects and implications. However, since then, no fur -
+ther decisions were taken by the CMP to determine el -
+igibility of cross-border CCS projects and so guidance is lacking in these respects.BOX 10 - CROSS-BORDER CCS PROJECTS
+UNDER THE CDM 
+Notes: 1Decision 10/CMP.7; 2UNFCCC, 2012. Transboundary car -
+bon capture and storage project activities. T echnical paper. FCCC/TP/2012/9.
+GEOSTORAGE AND CREDITING HANDBOOK - V2.0 48
+ENDNOTES
+1. IETA Geostorage and Carbon Crediting: A Comprehensive Handbook for 
+Methodological Design and Safeguarding.
+2. Not all current GCS-related quantification or crediting methodologies are covered (e.g. Australian Carbon Credit Unit (ACCU) Scheme is presently excluded). The review also excludes CCS within the scope of emissions trading (e.g. the EU emissions trading scheme; EU ETS) and where CCS or eCDR falls into the purview of low carbon fuel standards (e.g. the California CCS Protocol under the LCFS; CCS treatment in the EU Renewable Energy Directive).
+3. IETA Geostorage and Carbon Crediting: A Comprehensive Handbook for Methodological Design and Safeguarding.
+4. ACR is in the process of further expanding the scope in a forthcoming meth-odology update (v2.0), which includes CO2 capture from bioenergy as well as storage in depleted hydrocarbon reservoirs and saline aquifers
+5. Injection of CO2 dissolved in water into basalts for the purposes of geologi -
+cal storage by rapid shallow mineralization.
+6. The CO2 generated from biomass combustion or decomposition can only be treated as zero-rated—and therefore counted as negative emissions when captured and geologically stored—if the biomass is sourced from managed land where growth and harvesting are in long-term equilibrium (sustainable).
+7. The DAC facility and the power plants are to be located on the same electric-ity transmission system/grid.
+8. The time of power plants dispatch and the time of energy use at the DAC facility. Most methodologies currently accept annual matching (i.e. energy supplied and used in the same calendar year) although there are calls increase the granularity to daily or hourly matching.
+9. T o mitigate against market leakage (e.g. the diversion of low/zero emissions power from other, previous, users), most methodologies limit the vintage of low/zero emissions power plants from which electricity is procured to a maximum of 36 months prior to project start.
+10. The loss of CO2 containment and its re-release from the GCS stie to the atmosphere, which reverses the original climate change mitigation effect.
+11. The European Union Directive 2009/31/EC on geological CO2 storage (‘the CCS Directive’); U.S. EPA Safe Drinking Water Act, Underground Injection Control, Class VI Well Rule (‘the UIC Class VI Well Rule’)
+12. “Located in a jurisdiction where regulatory oversight is: 1) is provided by the government or a government agency (i.e., a statutory regulator); 2) meets the minimum criteria [specified in the GCS Requirements v4. 1 document]”. The latter includes requirements for drilling permits, access and tenure rights, assignment of responsibility for closure and funding for post-injection site care etc.
+13. In addition to requiring a well permit issued by a “relevant authority”, it states that “The site should be well characterized in accordance with the permit application and approval requirements under the national/international reg-ulations. If there is a lack of distinct relevant local regulations to meet the min -
+imum requirements of this Module, Project Proponents are required to follow either the U.S. EPA Underground Injection Control (UIC) or EU directives.”
+14. T able 1 therein sets out minimum legal “robustness” requirements.
+15. A withheld credit reserve that can be called upon to remediate/compensate for any reversals in circumstances where releases of stored CO2 exceed the level of measured reductions or removals within a given timeframe (i.e. a monitoring period).
+16. ACR (v2.0) will apply a risk analysis that can allow for the Reserve contribu-tion to be reduced.
+17. A6.4-SBM014-A06 / A6.4-STAN-METH-002. Also covers emission reduc-tion activities with reversal risks (e.g. fossil CCS)18. Decision 2/CMA.3; Annex I.
+19. With leadership from Mitsui & Co.
+20. BECCS and DACCS form a core part of a suite of technologies referred to as engineered carbon dioxide removal.
+21. https:/ /www.ieta.org/initiatives/high-level-criteria-for-carbon-geostor -
+age-activities/ 
+22. https:/ /www.ieta.org/ieta-publishes-comprehensive-global-hand-book-on-geostorage-and-carbon-crediting 
+23. Measured removals should be recorded as negative emissions for calcula-tion purposes.
+24. The term seepage refers to fugitive emissions (leaks) from the CCS system to avoid confusion with emissions leakage outside of project boundaries.
+25. Not all current GCS-related quantification or crediting methodologies are covered (e.g. Australian Carbon Credit Unit (ACCU) Scheme is presently excluded). The review also excludes CCS within the scope of emissions trading (e.g. the EU emissions trading scheme; EU ETS) and where CCS or eCDR falls into the purview of low carbon fuel standards (e.g. the California CCS Protocol under the LCFS; CCS treatment in the EU Renewable Energy Directive).
+26. The capture of co-mingled fossil CO2, as might be found in waste incinerator emissions, is allowed but not credited.
+27. ACR forthcoming update (v2.0) will include storage in depleted hydrocarbon reservoirs and saline aquifers.
+28. The Orca and Mammoth projects in Iceland have been permitted in align-ment with the EU CCS Directive, suggesting that approach could be relevant to the EU and UK methodologies.
+29. Isometric modules include GHG Accounting, Energy Use Accounting, Trans -
+portation Emissions Accounting, Embodied Emissions Accounting, Biomass Feedstock Accounting etc. These refer to the inclusion of emissions arising from monitoring activities and also from staff travel.
+30. T ool for the demonstration and assessment of additionality
+31. Combined tool to identify the baseline scenario and demonstrate addition -
+ality
+32. Environmental additionality equates to an assessment of whether an activity leads to emission reductions or removals that exceeds a pre-agreed credit -
+ing baseline, such as a standardised performance benchmark.
+33. Where CORCS are unavailable, the CO2 Supplier may surrender other ‘unre-tired certified carbon removal credits of comparable physical storage perma -
+nence and comparable low risk of reversal’ subject to Puro.earth approval.
+34. See Annex, B-2.4.
+35. Based on assessing the environmental and socio-economic impacts of an activity 
+36. Section 4: Assessment Framework - Core Carbon Principles 2023, The Integrity Council for the Voluntary Carbon Market
+37. FCCC/TP/2012/9: T echnical paper on transboundary carbon capture and storage project activities
+38. FCCC/SBSTA/2012/L.21: Draft conclusions proposed by the Chair
+39. Conference of the Parties serving as the Meeting of the Parties to the Kyoto Protocol
+40. Decision 10/CMP .7 Annex, Section F (Participation Requirements), para-graph 8.
+41. Non-market cooperative approaches under Article 6.8 are not considered here, although similar safeguarding questions would apply were GCS activi-ties to be included thereunder.
+42. Decision 3/CMA.3.
+43. Decision 3/CMA.3. Annex, para 26(e).
+44. Decision 3/CMA.3. Annex, para 40.45. Decision 3/CMA.3. Annex, paras 41-45.
+46. The requirement for internationally transferred mitigation outcomes to be added back to a Party’s NDC tracking account when counted against another Party’s NDC or used for other international mitigation purposes or other purposes.
+47. Zakkour, P .D. and W. Heidug, 2019. A Mechanism for CCS in the Post-Paris Era: Piloting Results-Based Finance and Supply Side Policy Under Article 6. King Abdullah Petroleum Studies and Research Center discussion paper. April 2019. https:/ /doi.org/10.30573/KS--2019-DP52. 
+48. Zakkour, P .D., J. Lujan, G. Cook and A. Frey (forthcoming). Carbon Crediting Standards for T echnology-Based Carbon Dioxide Removal in Developing Countries. A report by Carbon Counts and Energy Changes, sponsored by the World Bank
+49. Conference of the Parties serving as the Meeting of the Parties to the Paris Agreement
+50. A6.4-SBM014-A06 / A6.4-STAN-METH-002. Also covers emission reduc-tion activities with reversal risks (e.g. fossil CCS)
+51. Decision 5/CMA.6
+52. Workplan of the MEP , 2025
+53. A6.4-SB010-Meeting report
+54. Decision 2/CMA.3
+55. Decision 2/CMA.3. Annex II, paragraph 4(f)
+56. Decision 2/CMA.3; Annex I.
+57. Decision 2/CMA.3; Annex IV.A and B.
+58. https:/ /www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/klimapolitik/climate--international-affairs/staatsvertraege-umsetzung-kli-mauebereinkommen-von-paris-artikel6.html
+59. https:/ /climeworks.com/press-release/climeworks-and-great-carbon-valley-chart-path-to-large-scale-dac
+60. ICAO (International Civil Aviation Organisation) 2024. CORSIA Emissions Unit Eligibility Criteria. Carbon Offsetting and Reduction Scheme for Interna -
+tional Aviation (CORSIA). October 2024.
+61. In other words, a carbon removal must be first be recorded in the NGHGI, and, where it is treated as an ITMO under Article 6, then correspondingly added back to the national emissions totals in the NGHGI for the purposes of NDC progress tracking.
+62. Decision 4/CMA. 1, Annex I.3(b), Annex II. 1(b), Annex II.3(b))
+63. Decision 18/CMA. 1, Annex C. 1. para 20, para 22. Annex E.1, para 39.
+64. Because the host country government has applied a corresponding ad-justment against the credit origination but not against the emissions of the corporate.
+65. In other words, when a government creates policy to incentivise private actors to mitigate emissions, these actions should result in measurable reductions or removals in its NGHGI and therefore count towards achieving its NDC.
+66. See IEAGHG 2024. Measurement, Reporting and Verification (MRV) for Car -
+bon Dioxide Removals (CDR) in the context of both project-based approach-es and national greenhouse gas inventories. IEA Greenhouse Gas R&D Programme, TR 2024-09, October 2024, https:/ /doi.org/10.62849/2024-09
+67. The IPCC Guidelines allow for different tiers to be used to estimate emission and removals by sinks. Tiers 1 and 2 involve the use of international or regional emission factors, respectively. Tier 3 methods usually involve the use of data and information specific to a particular project or activity, thereby resulting in a better quality of NGHGI.
+68.   2006 IPCC, Volume 1, section 1. 1
+MAKING NET ZERO POSSIBLE 49ACRONYMS AND ABBREVIATIONS
+A6.4ER  Article 6 .4 emission reduction (tradable unit)
+AEPA  Al berta Environment and Protected Areas
+BECCS  Bioener gy with carbon capture and storage
+BTR  Biennial T ransparency Report
+CCGS  CO2 c apture and geological storage (from 2006 IPCC Guidelines)
+CCS  Carbon d ioxide (CO2) capture and storage
+CEEU  CORSIA El igible Emissions Unit
+CMA  Con ference of the Parties serving as the meeting of the Parties to
+ the P aris Agreement
+CMP  Con ference of the Parties serving as the meeting of the Parties to
+ the K yoto Protocol
+COP  Con ference of Parties to the UNFCCC
+CORSIA  Carbon Of fsetting and Reduction Scheme for International Aviation
+CRCF  Carbon R emoval and Carbon Farming certification regulation (EU)
+DAC  Dir ect air capture
+DACCS  Dir ect air carbon capture and storage
+eCDR  Engineer ed carbon dioxide removal
+EOR  Enhanced oi l recovery
+ETF  Enhanced tr ansparency framework (Paris Agreement)
+GCC  Global Carbon Counci l
+GCS  Geologic al CO2 storage
+GHG  Gr eenhouse gas
+IMP  In ternational mitigation purposes (Article 6)
+IPCC  In tergovernmental Panel on Climate Change
+ITMO  In ternationally transferred mitigation outcome (tradable unit)
+L T-LEDS  L ong-term low emissions development strategies
+M&P  M odalities and procedures
+MPGs  M odalities, procedures and guidelines for the ETF
+MRV  M easurement, reporting and verification
+NDC  Na tionally determined contribution
+NGHGI  Na tional GHG inventory or anthropogenic emissions by sources  
+ or r emovals by sinks
+OIMP  Other in ternational mitigation purposes (Article 6)
+RMPs  Rules, modal ities and procedures (Article 6.4)
+SBM  Article 6 .4 (PACM) Supervisory Body
+UNFCCC  Unit ed Nations Framework Convention on Climate Change
+VCM  V oluntary carbon market
+VCS  V erified carbon standard
+VVB  V alidation and verification body
+ICP  Independent crediting programme
+C Crediting (estimating net removal for purposes of issuing carbon credits)
+Q Quantification (estimating net carbon removal, which could form the basis for issuance of carbon credits)
+LP Local permit (requires a dedicated CO2 geostorage permit [e.g. US EPA Class VI, EU CCS Directive, Canadian 
+ Pr ovincial laws etc or equivalent]).  MS = Member State of the EU, aligned with EU CCS Directive requirements
+LP + TG  Local permit + T echnical guidance (requires a dedicated CO2 geostorage permit meeting technical guidance 
+ pr ovided in the standard).  (g) genotes that a general permit is allowed if issuance is based on the use of information 
+ al igned with the provided technical guidance.
+ LP + LG  Local permit + Legal guidance (requires a dedicated CO2 geostorage permit, issued according to the legal
+ guidance/ checklist provided in the standard)
+RS  Regulatory surplus test.
+FA Financial additionality test.
+CP  Common practice analysis.
+PS  Performance standard test (environmental or technical)
+P Projection-based (i.e. assumed that captured and injected CO2 would otherwise be emitted or remain in
+ a tmosphere - often correlated with historical emissions/removals)
+S Standards-based (i.e. emissions absent of the project activity estimated using a benchmark providing
+ simi lar product or service)
+R/NB  Retrofit or new-build modifies baseline scenario and emission requirements (e.g. retrofit means supply chain 
+ emissions e xist in the baseline)
+LUC  Land use change effect to be considered in the baseline accounting for the carbon storage in an
+ und isturbed site (for NB sites). Similar to counterfactual storage (CS). LUC emissions to be counted in
+ cons truction emissions.
+CS  Counterfactual storage (quantification of the CO2 removal and storage that would have taken place withou
+ the pr oject’s activity, assuming the baseline scenario)
+B Buffer reserve (withholding of credits in a dedicated account [e.g. ECCC Environmental Integrity Account;  
+ ER T Reserve] to be called upon and units cancelled in the event of a carbon reversal) (r) denotes that the  
+ buf fer contribution based on a risk rating/risk assessment. (d) denotes that a discount factor is applied to
+ addr ess uncertainty or reversals (e.g. Verra/VCS ‘Identification and Assessment of Uncertainties’;
+ Is ometric ‘Conservative estimate of Removals’; AB portion ‘retired to atmosphere’). Discount factor applies in 
+ add ition to buffer contributions, where relevant. Figures in parenthesis are indicative estimates of the
+ per centage buffer contributions from issued credits. Discount factors would be additional to the
+ buf fer contributions. * National geostorage regulations implementing financial mechanisms may
+ incorpor ate a separate buffer reserve or allow for other forms of insurance against reversal risk.
+R Replacement obligation (of equivalent units; e.g. Section 6.7.5.3 of Puro Standard, v4.2)
+CC  Credit cancellation (where reversals occur after injection has ceased but no liability transfer has 
+ been enact ed). Absence of buffer means that the credits must be acquired (e.g. from market, insurer)
+L TM-HC  Liability transfer and long-term monitoring by the state/host country, implying liability for reversals
+ thr ough monitoring of emissions from storage. (o/i) denotes that the ex ante acceptance of, or the transfer
+ o f, liability for CO2 storage site monitoring and remediation to the host country may be optional or is implied 
+ r ather than prescribed. (r) denotes that the absence of a liability transfer process negatively impacts upon
+ ass essed risk.TABLES ON Pg  12-13
+ieta.orgHeadquarters
+Grand-Rue 11CH-1204 GenèveSwitzerland+41 22 737 05 00
+Brussels
+Rue du Commerce Handelsstraat 1231000 BrusselsBelgium+32 289 55 747
+Washington
+1001 Pennsylvania Ave. NW Suite 7117Washington, DC 20004+1 470 222 IETA (4382)
+Toronto
+180 John StreetToronto, ONM5T 1X5 
+Singapore
+63 Robinson Rd,Level 8 Afro-Asia,Singapore 068894
+IETA also has 
+representation in:Argentina, Brazil,China, Colombia,India, Italy, Japan, South Africa,UK and US.

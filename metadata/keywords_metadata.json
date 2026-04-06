@@ -10,7 +10,8 @@
     ],
     "char_count": 6524,
     "word_count": 908,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:16:41.762723",
+    "doc_type": "IETA Presentation / Slide Deck"
   },
   "Apresentação IBP 14102025_parte02de02": {
     "filename": "Apresentação IBP 14102025_parte02de02.txt",
@@ -23,7 +24,8 @@
     ],
     "char_count": 7082,
     "word_count": 1011,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:16:45.041752",
+    "doc_type": "IETA Presentation / Slide Deck"
   },
   "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted": {
     "filename": "Atualidades e Tendências Internacionais dos Mercados de Carbono_extracted.txt",
@@ -38,35 +40,38 @@
     ],
     "char_count": 3910,
     "word_count": 551,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:17:12.305719",
+    "doc_type": "IETA Presentation / Slide Deck"
   },
   "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02": {
     "filename": "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte01de02.txt",
     "keywords": [
       "sbce",
-      "carbon-credits",
       "interoperability",
       "vcm",
-      "ratings"
+      "ratings",
+      "offsets"
     ],
     "char_count": 53610,
     "word_count": 7575,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:17:56.330319",
+    "doc_type": "External Paper / Research"
   },
   "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02": {
     "filename": "BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\BeZero Carbon - Brazil's carbon credit market - Perspectives on the SBCE Law as a catalyst for growth (1) 1_parte02de02.txt",
     "keywords": [
       "sbce",
-      "carbon-credits",
       "interoperability",
       "vcm",
-      "ratings"
+      "ratings",
+      "offsets"
     ],
     "char_count": 13139,
     "word_count": 1886,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:18:00.576922",
+    "doc_type": "External Paper / Research"
   },
   "CM-TNC-Article-6-Explainer_parte01de03": {
     "filename": "CM-TNC-Article-6-Explainer_parte01de03.txt",
@@ -80,7 +85,8 @@
     ],
     "char_count": 39404,
     "word_count": 5853,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:18:26.072465",
+    "doc_type": "External Paper / Research"
   },
   "CM-TNC-Article-6-Explainer_parte02de03": {
     "filename": "CM-TNC-Article-6-Explainer_parte02de03.txt",
@@ -94,7 +100,8 @@
     ],
     "char_count": 40551,
     "word_count": 6000,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:18:28.613701",
+    "doc_type": "External Paper / Research"
   },
   "CM-TNC-Article-6-Explainer_parte03de03": {
     "filename": "CM-TNC-Article-6-Explainer_parte03de03.txt",
@@ -108,79 +115,98 @@
     ],
     "char_count": 40746,
     "word_count": 5656,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:18:31.379758",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03": {
     "filename": "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte01de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "compliance"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 34412,
     "word_count": 5092,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:05.136067",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03": {
     "filename": "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte02de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "compliance"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 48343,
     "word_count": 7122,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:02.281013",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03": {
     "filename": "Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace State of the Voluntary Carbon Market 2025 (1)_parte03de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "compliance"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 44762,
     "word_count": 6381,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:07.401164",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace_State of the VCM_2024_parte01de03": {
     "filename": "Ecosystem Marketplace_State of the VCM_2024_parte01de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace_State of the VCM_2024_parte01de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "trends"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 36956,
     "word_count": 4654,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:11.794155",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace_State of the VCM_2024_parte02de03": {
     "filename": "Ecosystem Marketplace_State of the VCM_2024_parte02de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace_State of the VCM_2024_parte02de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "trends"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 52281,
     "word_count": 7610,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:14.510174",
+    "doc_type": "External Paper / Research"
   },
   "Ecosystem Marketplace_State of the VCM_2024_parte03de03": {
     "filename": "Ecosystem Marketplace_State of the VCM_2024_parte03de03.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Ecosystem Marketplace_State of the VCM_2024_parte03de03.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
-      "trends"
+      "compliance",
+      "interoperability",
+      "trends",
+      "offsets"
     ],
     "char_count": 10587,
     "word_count": 1507,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:16.999561",
+    "doc_type": "External Paper / Research"
   },
   "IATA Handbook_parte01de03": {
     "filename": "IATA Handbook_parte01de03.txt",
@@ -188,13 +214,15 @@
     "keywords": [
       "aviation",
       "corsia",
+      "corresponding-adjustments",
       "article-6.2",
-      "corresponding-adjusments",
-      "hard-to-abate"
+      "hard-to-abate",
+      "offsets"
     ],
     "char_count": 40354,
     "word_count": 4715,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:41.874441",
+    "doc_type": "External Report"
   },
   "IATA Handbook_parte02de03": {
     "filename": "IATA Handbook_parte02de03.txt",
@@ -202,13 +230,15 @@
     "keywords": [
       "aviation",
       "corsia",
+      "corresponding-adjustments",
       "article-6.2",
-      "corresponding-adjusments",
-      "hard-to-abate"
+      "hard-to-abate",
+      "offsets"
     ],
     "char_count": 44634,
     "word_count": 7073,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:44.482283",
+    "doc_type": "External Report"
   },
   "IATA Handbook_parte03de03": {
     "filename": "IATA Handbook_parte03de03.txt",
@@ -216,54 +246,58 @@
     "keywords": [
       "aviation",
       "corsia",
+      "corresponding-adjustments",
       "article-6.2",
-      "corresponding-adjusments",
-      "hard-to-abate"
+      "hard-to-abate",
+      "offsets"
     ],
     "char_count": 23041,
     "word_count": 3523,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:19:48.310942",
+    "doc_type": "External Report"
   },
   "IETABR_TechnicalWorkshop_Offsets_21072025_extracted": {
     "filename": "IETABR_TechnicalWorkshop_Offsets_21072025_extracted.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\IETABR_TechnicalWorkshop_Offsets_21072025_extracted.txt",
     "keywords": [
       "sbce",
-      "vcm",
       "interoperability",
-      "brazil"
+      "brazil",
+      "vcm",
+      "offsets"
     ],
     "char_count": 27119,
     "word_count": 4091,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:08.451869",
+    "doc_type": "IETA Presentation / Slide Deck"
   },
   "IETA_VCM-Guidelines.2025-Final_parte01de02": {
     "filename": "IETA_VCM-Guidelines.2025-Final_parte01de02.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\IETA_VCM-Guidelines.2025-Final_parte01de02.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
       "claims",
-      "intergrity",
+      "integrity",
       "net-zero"
     ],
     "char_count": 41462,
     "word_count": 6321,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:20:36.735766",
+    "doc_type": "IETA Position / Discussion Paper"
   },
   "IETA_VCM-Guidelines.2025-Final_parte02de02": {
     "filename": "IETA_VCM-Guidelines.2025-Final_parte02de02.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\IETA_VCM-Guidelines.2025-Final_parte02de02.txt",
     "keywords": [
       "vcm",
-      "carbon-credits",
       "claims",
-      "intergrity",
+      "integrity",
       "net-zero"
     ],
     "char_count": 53271,
     "word_count": 7248,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:20:39.874169",
+    "doc_type": "IETA Position / Discussion Paper"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte01de07.txt",
@@ -276,7 +310,8 @@
     ],
     "char_count": 51950,
     "word_count": 5381,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:41.036256",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte02de07.txt",
@@ -289,7 +324,8 @@
     ],
     "char_count": 51572,
     "word_count": 7522,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:43.974379",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte03de07.txt",
@@ -302,7 +338,8 @@
     ],
     "char_count": 48032,
     "word_count": 6986,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:46.521470",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte04de07.txt",
@@ -315,7 +352,8 @@
     ],
     "char_count": 51329,
     "word_count": 7591,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:49.084518",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte05de07.txt",
@@ -328,7 +366,8 @@
     ],
     "char_count": 56214,
     "word_count": 8075,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:51.706978",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte06de07.txt",
@@ -341,7 +380,8 @@
     ],
     "char_count": 63421,
     "word_count": 9176,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:54.343999",
+    "doc_type": "External Paper / Research"
   },
   "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07": {
     "filename": "Nesting-of-REDD-Initiatives-Manual-for-Policymakers (1)_parte07de07.txt",
@@ -354,63 +394,68 @@
     ],
     "char_count": 28101,
     "word_count": 4439,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:21:56.625482",
+    "doc_type": "External Paper / Research"
   },
   "Relatorio_ICC_UK_PACT-1_parte01de04": {
     "filename": "Relatorio_ICC_UK_PACT-1_parte01de04.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Relatorio_ICC_UK_PACT-1_parte01de04.txt",
     "keywords": [
       "sbce",
-      "vcm",
       "interoperability",
+      "vcm",
       "brazil",
-      "carbon-credits"
+      "offsets"
     ],
     "char_count": 77043,
     "word_count": 11172,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:20.761609",
+    "doc_type": "External Report"
   },
   "Relatorio_ICC_UK_PACT-1_parte02de04": {
     "filename": "Relatorio_ICC_UK_PACT-1_parte02de04.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Relatorio_ICC_UK_PACT-1_parte02de04.txt",
     "keywords": [
       "sbce",
-      "vcm",
       "interoperability",
+      "vcm",
       "brazil",
-      "carbon-credits"
+      "offsets"
     ],
     "char_count": 82896,
     "word_count": 12068,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:24.962864",
+    "doc_type": "External Report"
   },
   "Relatorio_ICC_UK_PACT-1_parte03de04": {
     "filename": "Relatorio_ICC_UK_PACT-1_parte03de04.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Relatorio_ICC_UK_PACT-1_parte03de04.txt",
     "keywords": [
       "sbce",
-      "vcm",
       "interoperability",
+      "vcm",
       "brazil",
-      "carbon-credits"
+      "offsets"
     ],
     "char_count": 92232,
     "word_count": 13573,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:27.296786",
+    "doc_type": "External Report"
   },
   "Relatorio_ICC_UK_PACT-1_parte04de04": {
     "filename": "Relatorio_ICC_UK_PACT-1_parte04de04.txt",
     "filepath": "C:\\Users\\maryb\\OneDrive\\Desktop\\IETA_Tests\\IETA_Bot\\documents\\Relatorio_ICC_UK_PACT-1_parte04de04.txt",
     "keywords": [
       "sbce",
-      "vcm",
       "interoperability",
+      "vcm",
       "brazil",
-      "carbon-credits"
+      "offsets"
     ],
     "char_count": 29229,
     "word_count": 3451,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:29.557918",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte01de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte01de06.txt",
@@ -419,11 +464,13 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 28583,
     "word_count": 4051,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:52.189726",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte02de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte02de06.txt",
@@ -432,11 +479,13 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 33777,
     "word_count": 4960,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:55.214186",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte03de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte03de06.txt",
@@ -445,11 +494,13 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 26349,
     "word_count": 3954,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:57.137576",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte04de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte04de06.txt",
@@ -458,11 +509,13 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 32549,
     "word_count": 4519,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:22:59.012534",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte05de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte05de06.txt",
@@ -471,11 +524,13 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 35274,
     "word_count": 5304,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:23:01.098006",
+    "doc_type": "External Report"
   },
   "State and Trends of Carbon Pricing 2025 (1)_parte06de06": {
     "filename": "State and Trends of Carbon Pricing 2025 (1)_parte06de06.txt",
@@ -484,10 +539,238 @@
       "ets",
       "vcm",
       "global",
-      "trends"
+      "trends",
+      "offsets"
     ],
     "char_count": 49900,
     "word_count": 5951,
-    "processed_date": "2026-04-04T19:00:50.035880"
+    "processed_date": "2026-04-06T09:23:03.681565",
+    "doc_type": "External Report"
+  },
+  "IETABR_TechnicalWorkshop_Offsets_21072025": {
+    "filename": "IETABR_TechnicalWorkshop_Offsets_21072025.pdf",
+    "keywords": [
+      "vcm",
+      "brazil",
+      "interoperability",
+      "sbce",
+      "offsets"
+    ],
+    "char_count": 20351,
+    "word_count": 2936,
+    "processed_date": "2026-04-06T09:23:25.153531",
+    "doc_type": "IETA Presentation / Slide Deck"
+  },
+  "border-carbon-adjustments-brazil": {
+    "filename": "border-carbon-adjustments-brazil.txt",
+    "keywords": [
+      "brazil",
+      "cbam",
+      "global",
+      "hard-to-abate"
+    ],
+    "char_count": 70662,
+    "word_count": 9965,
+    "processed_date": "2026-04-06T09:23:52.195699",
+    "doc_type": "External Report"
+  },
+  "Business Briefs-Brazil_05082025_vFinal": {
+    "filename": "Business Briefs-Brazil_05082025_vFinal.txt",
+    "keywords": [
+      "brazil",
+      "sbce",
+      "ets",
+      "offsets"
+    ],
+    "char_count": 8016,
+    "word_count": 1100,
+    "processed_date": "2026-04-06T09:24:26.705409",
+    "doc_type": "IETA Position / Discussion Paper"
+  },
+  "Business Briefs_BrazilJurisdictional_05082025_vFinal": {
+    "filename": "Business Briefs_BrazilJurisdictional_05082025_vFinal.txt",
+    "keywords": [
+      "brazil",
+      "sbce",
+      "jredd",
+      "land-use"
+    ],
+    "char_count": 5914,
+    "word_count": 797,
+    "processed_date": "2026-04-06T09:24:40.983347",
+    "doc_type": "IETA Position / Discussion Paper"
+  },
+  "CarbonChain_CBAM-Compliance-Guide-Manufacturers-Exporters_18-03-2026": {
+    "filename": "CarbonChain_CBAM-Compliance-Guide-Manufacturers-Exporters_18-03-2026.txt",
+    "keywords": [
+      "cbam",
+      "compliance",
+      "hard-to-abate",
+      "mrv"
+    ],
+    "char_count": 67189,
+    "word_count": 8356,
+    "processed_date": "2026-04-06T09:25:01.238793",
+    "doc_type": "External Paper / Research"
+  },
+  "IETA-2025-GHG-Report.WEB": {
+    "filename": "IETA-2025-GHG-Report.WEB.txt",
+    "keywords": [
+      "ets",
+      "ghg-report",
+      "global",
+      "private-sector",
+      "trends"
+    ],
+    "char_count": 231442,
+    "word_count": 34154,
+    "processed_date": "2026-04-06T09:26:16.273346",
+    "doc_type": "IETA Report"
+  },
+  "IETABR_CCS Roundtable_11032026_v1": {
+    "filename": "IETABR_CCS Roundtable_11032026_v1.txt",
+    "keywords": [
+      "ccs-ccus",
+      "energy",
+      "hard-to-abate",
+      "oil-and-gas",
+      "brazil"
+    ],
+    "char_count": 10869,
+    "word_count": 1484,
+    "processed_date": "2026-04-06T09:10:30.072631",
+    "doc_type": "IETA Presentation / Slide Deck"
+  },
+  "IETABR_DiscussionPaper_SBCE_VFinalClean": {
+    "filename": "IETABR_DiscussionPaper_SBCE_VFinalClean.txt",
+    "keywords": [
+      "brazil",
+      "mrv",
+      "scope",
+      "sbce"
+    ],
+    "char_count": 31682,
+    "word_count": 4316,
+    "processed_date": "2026-04-06T09:10:55.904954",
+    "doc_type": "IETA Position / Discussion Paper"
+  },
+  "IETABR_NotasWorkshopABDI_30032026": {
+    "filename": "IETABR_NotasWorkshopABDI_30032026.txt",
+    "keywords": [
+      "cbam",
+      "brazil",
+      "carbon-accouting",
+      "mrv",
+      "sbce",
+      "scope",
+      "open-coalition",
+      "trends"
+    ],
+    "char_count": 15199,
+    "word_count": 2197,
+    "processed_date": "2026-04-06T09:25:38.890105",
+    "doc_type": "IETA Presentation / Slide Deck"
+  },
+  "IETABR_PhaseII_Frameworks (1)": {
+    "filename": "IETABR_PhaseII_Frameworks (1).txt",
+    "keywords": [
+      "brazil",
+      "sbce",
+      "article-6.2",
+      "hard-to-abate",
+      "vcm",
+      "removals",
+      "redd",
+      "corresponding-adjustments"
+    ],
+    "char_count": 20424,
+    "word_count": 2922,
+    "processed_date": "2026-04-06T09:12:30.320298",
+    "doc_type": "IETA Position / Discussion Paper"
+  },
+  "MRV - WB": {
+    "filename": "MRV - WB.txt",
+    "keywords": [
+      "mrv",
+      "carbon-accouting",
+      "ets",
+      "registry",
+      "sbce",
+      "scope"
+    ],
+    "char_count": 17546,
+    "word_count": 2419,
+    "processed_date": "2026-04-06T09:13:10.230480",
+    "doc_type": "External Paper / Research"
+  },
+  "Report_CMWG_GCS_Handbook_2.0FINAL_September2025": {
+    "filename": "Report_CMWG_GCS_Handbook_2.0FINAL_September2025.txt",
+    "keywords": [
+      "mrv",
+      "carbon-accouting",
+      "ccs-ccus",
+      "vcm",
+      "hard-to-abate",
+      "energy"
+    ],
+    "char_count": 181814,
+    "word_count": 27318,
+    "processed_date": "2026-04-06T09:13:50.073280",
+    "doc_type": "IETA Report"
+  },
+  "SBTi_Abatable_Explainer": {
+    "filename": "SBTi_Abatable_Explainer.txt",
+    "keywords": [
+      "sbti",
+      "vcm",
+      "claims",
+      "net-zero",
+      "standard"
+    ],
+    "char_count": 238,
+    "word_count": 57,
+    "processed_date": "2026-04-06T09:14:25.461828",
+    "doc_type": "External Report"
+  },
+  "Sylvera-CORSIA-First-Phase-Scenario-Modeling-Report-25": {
+    "filename": "Sylvera-CORSIA-First-Phase-Scenario-Modeling-Report-25.txt",
+    "keywords": [
+      "corsia",
+      "aviation",
+      "corresponding-adjustments",
+      "hard-to-abate",
+      "global",
+      "article-6.2"
+    ],
+    "char_count": 93459,
+    "word_count": 41898,
+    "processed_date": "2026-04-06T09:15:02.628195",
+    "doc_type": "External Report"
+  },
+  "WB_A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastrucuture_2024": {
+    "filename": "WB_A Roadmap for Safe, Efficient, and Interoperable Carbon Markets Infrastrucuture_2024.txt",
+    "keywords": [
+      "interoperability",
+      "digital",
+      "registry",
+      "mrv",
+      "cadtrust"
+    ],
+    "char_count": 64632,
+    "word_count": 8186,
+    "processed_date": "2026-04-06T09:15:34.621808",
+    "doc_type": "External Report"
+  },
+  "WB_ETS linking and cross border consideration_Revised_2025": {
+    "filename": "WB_ETS linking and cross border consideration_Revised_2025.txt",
+    "keywords": [
+      "ets",
+      "global",
+      "carbon-accouting"
+    ],
+    "char_count": 3935,
+    "word_count": 534,
+    "processed_date": "2026-04-06T09:16:10.389789",
+    "doc_type": "External Report"
   }
 }

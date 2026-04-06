@@ -1,0 +1,1014 @@
+rEPORTC O R S I A  F i r s t  P h a s e  
+S c e n a r i o  M o d e l i n g
+A n a l y s i n g  f u t u r e  p r i c e s ,  s u p p l y  a n d  d e m a n d  
+u n d e r  6  d i f f e r e n t  s c e n a r i o s  f o r  C O R S I A
+
+C o n t e n t sF o r e w o r dE x e c u t i v e  S u m m a r yB a c k g r o u n dC O R S I A  M a r k e t  D r i v e r sC O R S I A  S c e n a r i o sC O R S I A  M a r k e t  M o d e l i n gL o o k i n g  A h e a dA n n e x  I :  S y l v e r a  m o d e l i n g  a p p r o a c hA n n e x  I I :  E x p e r t  p o l l  r e s u l t sA c k n o w l e d g e m e n t s
+CORSIA first Phase Modeling2
+F o r e w o r dO u r  r e c e n t  d a t a  s i m u l a t i o n s  a n d  
+c o n v e r s a t i o n s  w i t h  m a r k e t  e x p e r t s  -  a n a l y s e d  
+i n  t h i s  r e p o r t  -  r e v e a l  f a s c i n a t i n g  m a r k e t  
+t e n s i o n s  t h a t  a i r l i n e s  a n d  s t a k e h o l d e r s  s h o u l d  
+u n d e r s t a n d :  w h i l e  a i r l i n e s  m i g h t  b e  
+p u r c h a s i n g  u p  t o  1 4 4  m i l l i o n  e l i g i b l e  
+e m i s s i o n s  u n i t s  b y  J a n u a r y  2 0 2 8 ,  t h e  
+a u t h o r i z a t i o n  p r o c e s s  u n d e r  A r t i c l e  6  o f  t h e  
+P a r i s  A g r e e m e n t  i s  c r e a t i n g  u n i q u e  s u p p l y  
+d y n a m i c s  t h a t  w i l l  d e fi n e  t h i s  n a s c e n t  m a r k e t .
+
+W h a t  m a k e s  t h i s  p a r t i c u l a r l y  c h a l l e n g i n g  i s  
+t h e  c h a i n  o f  u n c e r t a i n t y  i t  c r e a t e s .  M a n y  
+r e g u l a t o r s  h a v e n ' t  y e t  d e fi n e d  e n f o r c e m e n t  
+r u l e s ,  a i r l i n e s  a r e  h e s i t a n t  t o  c o m m i t  w i t h o u t  
+s u p p l y  c e r t a i n t y ,  a n d  h o s t  c o u n t r i e s  s e e  n o  
+u r g e n c y  t o  a c c e l e r a t e  t h e  a u t h o r i z a t i o n  o f  
+c r e d i t s  w i t h o u t  c l e a r  d e m a n d  s i g n a l s .
+S i n c e  c o - f o u n d i n g  S y l v e r a  i n  2 0 2 0 ,  I ' v e  
+w a t c h e d  v o l u n t a r y  c a r b o n  m a r k e t s  s t a r t  t o  
+p r i c e  i n  t h e  c l i m a t e  i n t e g r i t y  o f  t h e  u n d e r l y i n g  
+p r o j e c t s .  H o w e v e r ,  u n t i l  r e c e n t l y ,  c o m p e l l i n g  
+a n d  p r e d i c t a b l e  d r i v e r s  o f  d e m a n d  h a v e  b e e n  
+c o n s p i c u o u s l y  a b s e n t .  N a t i o n a l  e m i s s i o n  
+t r a d i n g  s c h e m e  i n c l u s i o n  o f  p r o j e c t - b a s e d  
+c r e d i t s  h a s  s t a r t e d  t o  c h a n g e  t h e  g a m e ,  a n d  
+C O R S I A  l o o k s  t o  t a k e  t h i s  o n e  s t e p  f u r t h e r .‘ A  w a t e r s h e d  
+m o m e n t  f o r  
+c o m p l i a n c e  
+m a r k e t s ’T h i s  r e p o r t  r e p r e s e n t s  S y l v e r a ' s  fi r s t  c o m p r e h e n s i v e  
+e x e r c i s e  t o  q u a n t i f y  t h e s e  d y n a m i c s  t h r o u g h  o u r  
+s t a t e - o f - t h e - a r t  a g e n t - b a s e d  m a r k e t  s i m u l a t i o n ,  t o  
+d e l v e  d e e p e r  i n t o  t h e  i s s u e s  a t  p l a y  a n d  p r o j e c t  
+p o t e n t i a l  s c e n a r i o s .  
+
+T h e  o p p o r t u n i t y  h e r e  l i e s  w i t h  t h e  o r g a n i z a t i o n s  t h a t  
+u n d e r s t a n d  a n d  n a v i g a t e  t h i s  s u p p l y  c h a l l e n g e ,  w h o  
+w i l l  n o t  o n l y  s e c u r e  t h e i r  c o m p l i a n c e  o b l i g a t i o n s  b u t  
+g a i n  s i g n i fi c a n t  e c o n o m i c  a d v a n t a g e  i n  a  p o t e n t i a l  
+s u p p l y  c r u n c h .A l l i s t e r  F u r e y
+C E O
+CORSIA first Phase Modeling3
+E x e c u t i v e  s u m m a r y  p t . 1U n d e r  C O R S I A,  a i r l i n e s  w i t h  c o m p l i a n c e  o b l i g a t i o n s  
+i n  t h e  F i r s t  P h a s e  ( 2 0 2 4 - 2 0 2 6 )  a r e  e x p e c t e d  t o  
+p u r c h a s e  a n d  c a n c e l  e l i g i b l e  e m i s s i o n s  u n i t s  ( E E U s )  
+b y  3 1  J a n u a r y  2 0 2 8 .  H o w e v e r ,  t h e  s u p p l y  o f  E E U s  
+r e q u i r e  h o s t  c o u n t r y  a u t h o r i z a t i o n  a n d  
+c o r r e s p o n d i n g  a d j u s t m e n t s  u n d e r  A r t i c l e  6  o f  t h e  
+P a r i s  A g r e e m e n t .  
+
+C u r r e n t l y ,  i t  a p p e a r s  t h a t  v e r y  f e w  h o s t  c o u n t r i e s  a r e  
+p r e p a r e d  t o  a u t h o r i z e  t h e  c o r r e s p o n d i n g  
+a d j u s t m e n t s  —  p o s i n g  a  s i g n i fi c a n t  r i s k  t o  C O R S I A  
+i m p l e m e n t a t i o n .
+
+T h e  r i s k  o f  i n a d e q u a t e  s u p p l y  f o r  f u l l  c o m p l i a n c e  o f  
+t h e  F i r s t  P h a s e  i s  b y  f a r  t h e  m o s t  i m p o r t a n t  
+c o n c e r n  a m o n g s t  t h e  4 0 +  e x t e r n a l  p o l i c y  a n d  
+m a r k e t  e x p e r t s  t h a t  p a r t i c i p a t e d  i n  r o u n d t a b l e  
+d i s c u s s i o n s  h o s t e d  b y  S y l v e r a  r e c e n t l y .  A  s h o r t a g e  o f  E E U s  c o u l d  h a v e  c a s c a d i n g  e f f e c t s  o n  
+h o w  g o v e r n m e n t s  a n d  a i r l i n e s  r e s p o n d .  T h i s  i s  
+e x a c e r b a t e d  b y  t h e  f a c t  t h a t  m a n y  r e g u l a t o r s  h a v e  n o t  
+y e t  d e fi n e d  t h e  r u l e s  a r o u n d  h o w  C O R S I A  c o m p l i a n c e  w i l l  
+b e  e n f o r c e d  i n  t h e i r  j u r i s d i c t i o n s .
+
+R e fl e c t i n g  t h i s  c o n c e r n ,  a  s u r v e y  a m o n g s t  t h e  e x p e r t s  
+i d e n t i fi e d  t h a t  t h e  m o s t  l i k e l y  o u t c o m e  f o r  C O R S I A ’ s  F i r s t  
+P h a s e  m i g h t  f e a t u r e  p a r t i a l  c o m p l i a n c e  ( n o t  a l l  a i r l i n e s  
+c a n c e l  c r e d i t s  a s  e x p e c t e d )  i n  c o n j u n c t i o n  w i t h  l i m i t e d  
+E E U  s u p p l y  ( r i s k  o f  s h o r t a g e  r e l a t i v e  t o  t h e  f u l l  o f f s e t t i n g  
+r e q u i r e m e n t s ) .
+
+T h i s  r e p o r t  s u m m a r i z e s  t h e s e  fi n d i n g s  a n d  S y l v e r a ’ s  
+fi r s t - e v e r  s e t  o f  s c e n a r i o s  f o r  C O R S I A,  d r a w i n g  o n  
+a g e n t - b a s e d  m a r k e t  s i m u l a t i o n s .
+CORSIA first Phase Modeling4
+E x e c u t i v e  s u m m a r y  p t . 2T h e  a n a l y s i s  s u g g e s t s  t h a t  E E U  p r i c e s  m a y  r e a c h  $ 2 5 – 3 6  b y  
+2 0 2 7 ,  d e p e n d i n g  h e a v i l y  o n  d e m a n d  a n d  s u p p l y  c o n d i t i o n s .  T h e  
+e s t i m a t e d  d e m a n d  f o r  F i r s t  P h a s e  E E U s  r a n g e s  f r o m  7 4  t o  1 4 4  
+m i l l i o n  u n i t s ,  t i e d  t o  v a r y i n g  s c e n a r i o s  o f  a i r l i n e  c o m p l i a n c e .  
+
+O n  t h e  s u p p l y  s i d e ,  s c e n a r i o s  d i v e r g e  s h a r p l y :  a  m a x i m u m  
+s u p p l y  o f  2 7 4  m i l l i o n  E E U s  c o u l d  m a t e r i a l i z e  w i t h  b r o a d  h o s t  
+c o u n t r y  a u t h o r i z a t i o n s  a n d  l a r g e  i n fl u x  o f  J R E D D +  a n d  P A C M  
+c r e d i t s .  C o n v e r s e l y ,  i f  f e w  c o u n t r i e s  a r e  r e a d y  t o  a u t h o r i z e  
+c r e d i t s ,  F i r s t  P h a s e  s u p p l y  c o u l d  b e  c o n s t r a i n e d  t o  j u s t  1 3 6  
+m i l l i o n  E E U s .  
+
+T h e  p r i m a r y  m a r k e t  v a l u e  o f  F i r s t  P h a s e  E E U  d e m a n d  i s  h e n c e  
+e s t i m a t e d  t o  r a n g e  f r o m  $ 1 . 8  b i l l i o n  t o  $ 5 . 2  b i l l i o n ,  c o m p a r a b l e  
+t o  t h e  e n t i r e  v a l u e  o f  t h e  v o l u n t a r y  c a r b o n  c r e d i t  r e t i r e m e n t s  o n  
+a n  a n n u a l i z e d  b a s i s .
+CORSIA first Phase Modeling5
+2 0 2 52 0 2 62 0 2 72 0 2 82 0 2 92 0 3 09 08 07 06 05 04 03 02 01 00P r i c e  r a n g e  o f  s c e n a r i o s  c o n s i d e r e dW e i g h t e d  a v e r a g e  (b y  s u r v e y e d  l i k e l i h o o d )M o d e l e d  C O R S I A  E E U  p r i c e s  ( n o m i n a l  U S D )  
+B a c k g r o u n d  p t . 1A  b r i e f  i n t r o d u c t i o n  t o  C O R S I A
+T h e  C a r b o n  O f f s e t t i n g  a n d  R e d u c t i o n  S c h e m e  f o r  
+I n t e r n a t i o n a l  A v i a t i o n  ( C O R S I A )  i s  a  g l o b a l  m a r k e t -
+b a s e d  p r o g r a m  a d o p t e d  i n  2 0 1 6  b y  t h e  I n t e r n a t i o n a l  
+C i v i l  A v i a t i o n  O r g a n i z a t i o n  ( I C A O ) ,  a  U N  a g e n c y .  I t s  
+g o a l  i s  t o  a c h i e v e  c a r b o n - n e u t r a l  g r o w t h  i n  
+i n t e r n a t i o n a l  a v i a t i o n  f r o m  2 0 2 0  o n w a r d .  
+
+U n d e r  C O R S I A,  a i r l i n e s  m u s t  p u r c h a s e  a p p r o v e d  
+c a r b o n  c r e d i t s ,  k n o w n  a s  E l i g i b l e  E m i s s i o n s  U n i t s  
+( E E U s ) ,  t o  o f f s e t  a n y  a n n u a l  e m i s s i o n s  t h a t  e x c e e d  
+8 5 %  o f  t h e i r  2 0 1 9  b a s e l i n e . *
+C O R S I A  i s  s t r u c t u r e d  i n  t h r e e  p h a s e s :  t h e  P i l o t  P h a s e  
+( 2 0 2 1 – 2 0 2 3 ) ,  t h e  F i r s t  P h a s e  ( 2 0 2 4 – 2 0 2 6 ) ,  a n d  t h e  
+S e c o n d  P h a s e  ( 2 0 2 7 – 2 0 3 5 ) .  F o r  t h e  c u r r e n t  F i r s t  P h a s e ,  
+a i r l i n e s  h a v e  u n t i l  J a n u a r y  3 1 ,  2 0 2 8 ,  t o  r e t i r e  E E U s  
+c o v e r i n g  e x c e s s  e m i s s i o n s  f r o m  2 0 2 4  t o  2 0 2 6 .
+
+A l t h o u g h  t h e  c o m p l i a n c e  d e a d l i n e  i n  J a n u a r y  2 0 2 8  i s  f a s t  
+a p p r o a c h i n g ,  t h e r e  r e m a i n s  c r i t i c a l  u n c e r t a i n t i e s  t h a t  w i l l  
+i n fl u e n c e  o n  t h e  s c h e m e ’ s  t r a j e c t o r y .
+
+F o r  f u r t h e r  i n f o r m a t i o n  a b o u t  C O R S I A,  p l e a s e  r e f e r  t o  
+o u r  b l o g :  D e c o d i n g  C O R S I A  P h a s e  1 .
+CORSIA first Phase Modeling6*  F o r  C O R S I A ’ s  P i l o t  a n d  F i r s t  P h a s e s ,  t h e  b a s e l i n e  o n l y  a c c o u n t s  f o r  i n t e r n a t i o n a l  e m i s s i o n s  i n  2 0 1 9  b e t w e e n  c o u n t r i e s  t h a t  a r e  v o l u n t a r i l y  
+p a r t i c i p a t i n g  i n  C O R S I A.  T h e  m a n d a t o r y  S e c o n d  P h a s e  w o u l d  s e e  a  h i g h e r  b a s e l i n e  t h a t  a c c o u n t s  f o r  i n t e r n a t i o n a l  e m i s s i o n s  b e t w e e n  
+c o u n t r i e s ,  s u b j e c t  t o  c e r t a i n  e x e m p t i o n s  f o r  L e a s t  D e v e l o p e d  C o u n t r i e s  ( L D C s ) ,  S m a l l  I s l a n d  D e v e l o p i n g  S t a t e s ,  L a n d l o c k e d  D e v e l o p i n g  
+C o u n t r i e s  a n d  c o u n t r i e s  c o n t r i b u t i n g  t o  a  n e g l i g i b l e  s h a r e  i n t e r n a t i o n a l  a v i a t i o n  e m i s s i o n s
+
+B a c k g r o u n d  p t . 2W h y  t h i s  r e p o r t  i s  i m p o r t a n t  -  a n d  w h y  n o w ?A s  a  p l a t f o r m  h e l p i n g  s t a k e h o l d e r s  n a v i g a t e  c a r b o n  
+m a r k e t s ,  S y l v e r a  h a s  d e v e l o p e d  a n  i n - h o u s e  a g e n t -
+b a s e d  m a r k e t  s i m u l a t i o n  m o d e l  t o  u n d e r s t a n d  
+f u t u r e  p r i c e s ,  s u p p l y  a n d  d e m a n d  u n d e r  d i f f e r e n t  
+s c e n a r i o s  f o r  C O R S I A.
+
+I n  J u n e  2 0 2 5 ,  S y l v e r a  c o n v e n e d  a  s e r i e s  o f  
+r o u n d t a b l e s  t h a t  b r o u g h t  t o g e t h e r  4 0 +  e x p e r t s  
+a c r o s s  p o l i c y  ( i n c l u d i n g  C O R S I A  T A B  m e m b e r s ) ,  
+c a r b o n  c r e d i t i n g  s t a n d a r d s ,  a n d  t h e  p r i v a t e  s e c t o r  t o  
+d i s c u s s  t h e  i n i t i a l  a n a l y s i s .  
+T h e  d i s c u s s i o n s  h i g h l i g h t e d  k e y  c o n c e r n s  a m o n g s t  t h e  
+p a r t i c i p a n t s ,  w h i c h  c o u l d  b e  s u m m a r i z e d  a s  t h e  c l a s s i c  
+“ c h i c k e n - a n d - e g g ”  c h a l l e n g e  f o r  a  n a s c e n t  m a r k e t  l i k e  
+C O R S I A :  p r o j e c t  d e v e l o p e r s  a n d  h o s t  c o u n t r i e s  n e e d  
+c l e a r  d e m a n d  s i g n a l s  t o  a c t  a n d  u n l o c k  s u p p l y .  
+
+B u t  d e m a n d  s i g n a l s  a r e  m u t e d  t o d a y  b e c a u s e  a i r l i n e s  
+a r e  s t i l l  w a i t i n g  f o r  c l a r i t y  o v e r  s u p p l y  c o n d i t i o n s  a n d  
+r e g u l a t o r y  g u i d a n c e  o n  h o w  C O R S I A  w i l l  b e  e n f o r c e d  i n  
+t h e i r  j u r i s d i c t i o n s .
+
+T h i s  r e p o r t  a i m s  t o  r a i s e  a w a r e n e s s  t o  t h i s  c h a l l e n g e ,  
+a n d  d e s c r i b e  p o s s i b l e  o u t c o m e s  f o r  t h e  C O R S I A  
+m a r k e t .  T h e  m o d e l i n g  a n a l y s i s  s h o w c a s e s  w h y  t h i s  
+m a t t e r s  –  t h e  m a r k e t  d e p e n d s  c r u c i a l l y  o n  h o w  t h i s  
+c h a l l e n g e  w i l l  b e  r e s o l v e d  i n  t h e  n e x t  f e w  y e a r s .
+CORSIA first Phase Modeling7
+C O R S I A
+M a r k e t  D r i v e r s
+CORSIA first Phase Modeling8
+T h e  C O R S I A  m a r k e t  r e m a i n s  
+n a s c e n t ,  a n d  h i n g e s  o n  t h e  g r o w t h  
+o f  a v a i l a b l e  s u p p l y .
+CORSIA first Phase Modeling9
+T h e  m a r k e t  f o r  C O R S I A  E E U s  P t . 1
+A  n a s c e n t  m a r k e tA l t h o u g h  C O R S I A  h a d  a  P i l o t  P h a s e  i n  2 0 2 1 - 2 0 2 3 ,  
+t h e r e  w a s  e f f e c t i v e l y  n o  m a r k e t  f o r  C O R S I A  E E U s  
+b e c a u s e  t h e  C O V I D- 1 9  p a n d e m i c  c a u s e d  a  d r a m a t i c  
+d e c l i n e  i n  i n t e r n a t i o n a l  a v i a t i o n  e m i s s i o n s ,  l e a d i n g  t o  
+z e r o  o f f s e t t i n g  r e q u i r e m e n t s  f o r  t h e  P i l o t  P h a s e .
+
+A s  C O R S I A  h a s  n o w  e n t e r e d  i t s  F i r s t  P h a s e  
+( 2 0 2 4 - 2 0 2 6 ) ,  i t  f a c e s  t h e  c h a l l e n g e  o f  b u i l d i n g  u p  a  
+l i q u i d  m a r k e t  i n  a  m a t t e r  o f  a  f e w  y e a r s ,  i n  t i m e  f o r  
+t h e  c o m p l i a n c e  d e a d l i n e  i n  J a n u a r y  2 0 2 8 .
+A s  o f  J u n e  2 0 2 5 ,  o n l y  a  s i n g l e  s u p p l y  s o u r c e  h a s  i s s u e d  
+c r e d i t s  t h a t  a r e  e l i g i b l e  u n d e r  C O R S I A  F i r s t  P h a s e  ( 1 5 . 8 4  
+m i l l i o n  A R T  T R E E S  c r e d i t s  f r o m  a  G u y a n a  j u r i s d i c t i o n a l  
+R E D D +  p r o g r a m ) .  I n  a n   i n  l a t e  2 0 2 4 ,  G u y a n a ’ s  
+E E U s  w e r e  o f f e r e d  a t  $ 2 1 . 7 0 ,  b u t  o n l y  1 1  a i r l i n e s  b o u g h t  
+f e w e r  t h a n  4 0 0 , 0 0 0  o f  t h e m . *
+
+A s  a  r e s u l t ,  t h e r e  i s  n e g l i g i b l e  l i q u i d i t y  i n  t h e  m a r k e t ,  
+i m p e d i n g  p r i c e  d i s c o v e r y .
+a u c t i o n
+CORSIA first Phase Modeling10*  T h e r e  a r e  q u a l i t y  c o n c e r n s  o v e r  t h e  G u y a n a  J R E D D +  p r o g r a m ,  a s  h i g h l i g h t e d  b y  a n  A r t i c l e  6 . 2  T e c h n i c a l  E x p e r t  R e v i e w  i n  M a y  2 0 2 5 ,  q u e s t i o n i n g  t h e  e n v i r o n m e n t a l  i n t e g r i t y  o f  i t s  H F L D  (h i g h - f o r e s t ,  
+l o w - d e f o r e s t a t i o n )  b a s e l i n e  a n d  C A  a c c o u n t i n g  w i t h i n  i t s  N a t i o n a l l y  D e t e r m i n e d  C o n t r i b u t i o n  ( N D C ) .
+
+T h e  m a r k e t  f o r  C O R S I A  E E U s  P t . 2E l i g i b i l i t y  c r i t e r i a  o n  E E U  s u p p l yT h e  I C A O ' s  
+e s t a b l i s h  t h e  f r a m e w o r k  f o r  a s s e s s i n g  c a r b o n  
+c r e d i t i n g  p r o g r a m s  a n d  t h e i r  m e t h o d o l o g i e s  f o r  
+C O R S I A  e l i g i b i l i t y .
+
+S o  f a r ,  t h e  I C A O  h a s  a p p r o v e d  s i x  c a r b o n  c r e d i t i n g  
+p r o g r a m m e s  t o  p r o v i d e  E E U s  f o r  t h e  F i r s t  P h a s e  o f  
+C O R S I A :  A m e r i c a n  C a r b o n  R e g i s t r y  ( A C R ) ,  A R T  
+T R E E S ,  C l i m a t e  A c t i o n  R e s e r v e  ( C A R ) ,  G l o b a l  C a r b o n  
+C o u n c i l  ( G C C ) ,  G o l d  S t a n d a r d  ( G S ) ,  a n d  V e r r a ’ s  
+V e r i fi e d  C a r b o n  S t a n d a r d  ( V C S ) .
+ C O R S I A  E m i s s i o n s  U n i t  E l i g i b i l i t y  C r i t e r i aU n d e r  e a c h  s t a n d a r d ,  E E U  s u p p l y  i s  s u b j e c t  t o  
+e x c l u s i o n s  b a s e d  o n  m e t h o d o l o g y ,  c a r b o n  c r e d i t  t y p e ,  
+v i n t a g e ,  a n d  p r o j e c t  s t a r t  d a t e .  
+
+F u r t h e r m o r e ,  o n l y  p r o j e c t s  t h a t  s e c u r e  a  L e t t e r  o f  
+A u t h o r i z a t i o n  ( L O A )  f r o m  t h e  h o s t  c o u n t r y ,  a l o n g  w i t h  
+c o r r e s p o n d i n g  a d j u s t m e n t s  ( C A s )  o r  i n s u r a n c e  i f  C A s  a r e  
+n o t  o b t a i n e d ,  c a n  s u p p l y  E E U s .  
+CORSIA first Phase Modeling11
+T h e  m a r k e t  f o r  C O R S I A  E E U s  P t . 3G r o w t h  o f  e l i g i b l e  s u p p l y  s o u r c e sF i v e  m o r e  s t a n d a r d s  a r e  c o n d i t i o n a l l y  a p p r o v e d  f o r  
+C O R S I A ’ s  F i r s t  P h a s e .  T h e s e  i n c l u d e  t h e  B i o C a r b o n  
+F u n d  I n i t i a t i v e  f o r  S u s t a i n a b l e  F o r e s t  L a n d s c a p e s ,  
+C e r c a r b o n o ,  t h e  F o r e s t  C a r b o n  P a r t n e r s h i p  F a c i l i t y  
+( F C P F )  C a r b o n  F u n d  M e t h o d o l o g i c a l  F r a m e w o r k ,  
+P r e m i u m  T h a i l a n d  V o l u n t a r y  E m i s s i o n  R e d u c t i o n  
+P r o g r a m  ( T - V E R )  a n d  I s o m e t r i c .
+
+T h e  f u l l  a p p r o v a l  o f  t h e s e  s t a n d a r d s ,  s u b j e c t  t o  
+m e e t i n g  s p e c i fi c  c o n d i t i o n s  s t i p u l a t e d  b y  I C A O ,  m a y  
+b r i n g  f u r t h e r  s u p p l y  i n  t h e  f u t u r e .  H o w e v e r ,  t h e s e  
+s t a n d a r d s  c o n t a i n  f a r  f e w e r  p r o j e c t s  a n d  c r e d i t  
+i s s u a n c e s  t h a n  t h e  o n e s  t h a t  a r e  a l r e a d y  a p p r o v e d .
+F u r t h e r  g r o w t h  m a y  c o m e  f r o m  t h e  P a r i s  A g r e e m e n t  
+C r e d i t i n g  M e c h a n i s m  ( P A C M ) ,  e s t a b l i s h e d  u n d e r  A r t i c l e  
+6 . 4  o f  t h e  P a r i s  A g r e e m e n t .  A l t h o u g h  i t  i s  n o t  y e t  
+o p e r a t i o n a l ,  t h e r e  a r e  e x p e c t a t i o n s  t h a t  i t  w i l l  b e  
+a p p r o v e d  b y  I C A O  a f t e r  i t  b e c o m e s  o p e r a t i o n a l .  T h i s  i s  
+p o t e n t i a l l y  s i g n i fi c a n t  d u e  t o  t h e  l a r g e  n u m b e r  o f  C D M  
+p r o j e c t s  t h a t  c o u l d  t r a n s i t i o n  t o  P A C M  m e t h o d o l o g i e s .
+CORSIA first Phase Modeling12
+H o s t  c o u n t r y  a u t h o r i z a t i o n s
+G i v e n  t h e  r e q u i r e m e n t  f o r  h o s t  c o u n t r y  
+a u t h o r i z a t i o n s  t o  g r a n t  c o r r e s p o n d i n g  a d j u s t m e n t s ,  
+t h e  a c t u a l  s c o p e  o f  E E U  s u p p l y  i s  m o r e  l i m i t e d .
+
+O f  t h e  4 , 0 0 0 +  p r o j e c t s  t h a t  m e e t  I C A O ’ s  e l i g i b i l i t y  
+c r i t e r i a  ( i . e .  r e g i s t r i e s ,  c r e d i t i n g  p e r i o d ,  
+m e t h o d o l o g y ) ,  o n l y  a r o u n d  1 , 5 0 0  o f  t h o s e  a r e  
+l o c a t e d  i n  t h e  1 6  c o u n t r i e s  t h a t  a r e  a t  l e a s t  
+m o d e r a t e l y  r e a d y  f o r  A r t i c l e  6  a u t h o r i z a t i o n s  ( s e e  
+a n n e x ) .  T h e y  h a v e  a n  e s t i m a t e d  i n v e n t o r y  o f  ~ 8 0  
+m i l l i o n  c r e d i t s  t h a t  h a v e  b e e n  i s s u e d  a n d  n o t  y e t  
+c a n c e l l e d  o r  r e t i r e d .
+
+C O R S I A  E E U  s u p p l y  i n  t h e  F i r s t  P h a s e  d e p e n d s  
+c r u c i a l l y  o n  t h e  w i l l i n g n e s s  a n d  a b i l i t y  f o r  t h o s e  
+g o v e r n m e n t s  t o  p r o v i d e  a u t h o r i z a t i o n s  t o  t h e  
+c r e d i t s ,  i n c l u d i n g  t h o s e  i n  t h e  i n v e n t o r y  a n d  t h o s e  t o  
+b e  i s s u e d   o r  t o  b e  i s s u e d  b y  2 0 2 7 .
+CORSIA first Phase Modeling13S o u r c e :  r e g i s t r y  d a t a  a s  o f  J u n e  2 0 2 5 ;  S y l v e r a  a s s e s s m e n t  o f  p r o j e c t - l e v e l  e l i g i b i l i t y  b a s e d  
+o n  I C A O  c r i t e r i a  a n d  c o u n t r y - l e v e l  r e a d i n e s s  f o r  A r t i c l e  6  a u t h o r i z a t i o n s
+N u m b e r  o f  r e g i s t e r e d  p r o j e c t s  
+O n e  p r o j e c t  o n l y :  G u y a n a ’ s  J u r i s d i c t i o n a l  F o r e s t  C a r b o n  C r e d i t s  P r o g r a mO n e  p r o j e c t  o n l y :  G u y a n a ’ s  J u r i s d i c t i o n a l  F o r e s t  C a r b o n  C r e d i t s  P r o g r a mC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n02 , 5 0 05 , 0 0 07 , 5 0 01 0 , 0 0 01 2 , 5 0 0
+A  s u b s e t  o f  t h e s e  1 , 5 0 0  p r o j e c t s  w i l l  l i k e l y  f o r m  t h e  m a j o r i t y  o f  E E U  s u p p l y  b y  2 0 2 74 , 0 0 0 +  p r o j e c t  c o u l d  t e c h n i c a l l y  s u p p l y  E E U ’ s  u p o n  a u t h o r i z a t i o nC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n02 , 5 0 05 , 0 0 07 , 5 0 01 0 , 0 0 01 2 , 5 0 0
+A  s u b s e t  o f  t h e s e  1 , 5 0 0  p r o j e c t s  w i l l  l i k e l y  f o r m  t h e  m a j o r i t y  o f  E E U  s u p p l y  b y  2 0 2 7C u r r e n t  i n v e n t o r y  o f  v i n t a g e  2 0 2 1 - 2 0 2 6  c r e d i t s  ( M i l l i o n s ) C r e d i t s  a l r e a d y  i s s u e d  a n d  n o t  y e t  c a n c e l l e d  o r  r e t i r e dC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n01 0 02 0 03 0 04 0 05 0 0
+1 5 . 8  m i l l i o n  c r e d i t s  ( v i n t a g e s  2 0 2 1  a n d  2 0 2 2 )  i s s u e d  b y  t h e  G u y a n a  J R E D D +  p r o g r a mT h e s e  c u r r e n t l y  r e p r e s e n t  a  m a j o r  
+c o n s t r a i n t  t o  t h e  p o t e n t i a l  s u p p l y  o f  
+E E U sP r o j e c t s  t h a t  i s s u e d  c r e d i t sP r e - i s s u a n c e  p r o j e c t s
+T h e  d e m a n d  s i d e  P t . 1P a r t i c i p a t i o n  o f  C O R S I AP a r t i c i p a t i o n  o f  C O R S I A  i s  d e fi n e d  a t  a  c o u n t r y  l e v e l ,  
+w h i c h  t h e n  t r a n s l a t e s  t h e  r u l e s  t o  n a t i o n a l  
+r e g u l a t i o n s  t o  b e  f o l l o w e d  b y  i n d i v i d u a l  a e r o p l a n e  
+o p e r a t o r s .
+
+T h e  I C A O ' s  
+( S A R P s )  g u i d e  p a r t i c i p a t i n g  c o u n t r i e s  i n  
+i m p l e m e n t i n g  C O R S I A  t h r o u g h  n a t i o n a l  r e g u l a t i o n s .  
+T h e s e  r e g u l a t i o n s  c o v e r  t h e  m o n i t o r i n g ,  r e p o r t i n g ,  
+a n d  v e r i fi c a t i o n  ( M R V )  o f  i n t e r n a t i o n a l  a v i a t i o n  
+e m i s s i o n s  a n d  t h e  e n f o r c e m e n t  o f  o f f s e t t i n g  
+o b l i g a t i o n s .S t a n d a r d s  a n d  R e c o m m e n d e d  P r a c t i c e s  E a c h  a e r o p l a n e  o p e r a t o r  i s   t o  a  s p e c i fi c  
+C O R S I A  m e m b e r  c o u n t r y  t o  w h i c h  t h e y  m u s t  r e p o r t  t h e i r  
+M R V  a n d  o f f s e t t i n g  o b l i g a t i o n s .  C u r r e n t l y ,  1 2 9  c o u n t r i e s  
+a r e  v o l u n t a r i l y  i n  C O R S I A ’ s  F i r s t  P h a s e .  
+H o w e v e r ,  t h e  m a n d a t o r y  S e c o n d  P h a s e ,  c o m m e n c i n g  i n  
+2 0 2 8 ,  w i l l  e n c o m p a s s  a l l  c o u n t r i e s  w i t h  m i n o r  
+e x c e p t i o n s . *
+
+T h e  e m i s s i o n s  c o v e r a g e  a n d  o f f s e t t i n g  r e q u i r e m e n t s  o f  
+C O R S I A  w i l l  t h e n  b e  e v a l u a t e d  b a s e d  o n  i n t e r n a t i o n a l  
+a v i a t i o n  e m i s s i o n s  b e t w e e n  s t a t e s  t h a t  t a k e  p a r t  i n  
+C O R S I A.
+a t t r i b u t e d
+p a r t i c i p a t i n g  
+CORSIA first Phase Modeling14*  T h e s e  e x c e p t i o n s  i n c l u d e  S m a l l  I s l a n d  D e v e l o p i n g  S t a t e s ,  L e a s t  D e v e l o p e d  C o u n t r i e s  ( L D C s ) ,  L a n d l o c k e d  
+D e v e l o p i n g  C o u n t r i e s ,  a n d  n a t i o n s  c o n t r i b u t i n g  a  n e g l i g i b l e  s h a r e  o f  i n t e r n a t i o n a l  a v i a t i o n  e m i s s i o n s .
+
+T h e  d e m a n d  s i d e  P t . 2
+U n c e r t a i n t y  i n  c o m p l i a n c e  d e m a n d  
+f o r  C O R S I A  E E U sA l t h o u g h  t h e  e m i s s i o n s  c o v e r a g e  o f  C O R S I A  i s  
+c l e a r l y  d e fi n e d ,  t h e  l e v e l  o f  c o m p l i a n c e ,  i n  p r a c t i c e ,  
+c o u l d  b e  l o w e r .
+
+F e w  c o u n t r i e s  h a v e  t a k e n  s t e p s  t o  e n f o r c e  C O R S I A  
+t h r o u g h  n a t i o n a l  r e g u l a t i o n .  O u t  o f  3 6  c o u n t r i e s  
+ f o r  9 0 %  o f  i n t e r n a t i o n a l  a v i a t i o n  
+e m i s s i o n s ,  f e w e r  t h a n  1 5  h a v e  i n d i c a t e d  
+w i l l i n g n e s s  o r  p r o p o s e d  r e g u l a t i o n s  t o  i m p l e m e n t  
+C O R S I A.  N o t a b l y ,  t h e  t o p  t w o  e m i t t e r s ,  C h i n a  a n d  
+t h e  U S A,  h a v e  n o t  c o n fi r m e d  t h e i r  i n t e n t i o n  t o  
+e n f o r c e  t h e  s c h e m e .
+
+N o n e t h e l e s s ,  t h e r e  i s  s p e c u l a t i o n  a m o n g s t  m a r k e t  
+p a r t i c i p a n t s  t h a t  s o m e  a i r l i n e s  w i l l  c o m p l y  w i t h  
+C O R S I A  o f f s e t t i n g  r e q u i r e m e n t s  i r r e s p e c t i v e  o f  l e g a l  
+e n f o r c e m e n t  b y  t h e i r  c o u n t r y  o f  a t t r i b u t i o n .r e s p o n s i b l eT h e r e  h a s  a l s o  b e e n  s p e c u l a t i o n  t h a t  i f  t h e  E u r o p e a n  
+U n i o n  ( E U )  d e e m  C O R S I A  a s  u n s a t i s f a c t o r y  u p o n  i t s  
+r e v i e w  s c h e d u l e d  i n  2 0 2 6 ,  i t  c o u l d  e x t e n d  t h e  E U  
+E m i s s i o n s  T r a d i n g  S y s t e m  t o  c o v e r  i n t e r n a t i o n a l  a v i a t i o n ,  
+f u r t h e r  c o m p l i c a t i n g  t h e  d e m a n d  o f  E E U s .  A l t h o u g h  
+m e m b e r s  o f  t h e  E U  i n d i c a t e d  t h a t  t h e y  a r e  c o m m i t t e d  t o  
+C O R S I A ’ s  s u c c e s s ,  t h e  p o l i c y  d e c i s i o n  r e m a i n s  t o  b e  
+s e e n .
+
+A d d i t i o n a l  f a c t o r s  t h a t  i n fl u e n c e  c o m p l i a n c e  d e m a n d  f o r  
+E E U s  i n c l u d e  t h e  l e v e l  o f  i n t e r n a t i o n a l  a v i a t i o n  t r a f fi c  a n d  
+t h e  u p t a k e  o f  s u s t a i n a b l e  a v i a t i o n  f u e l s  ( S A F ) ,  b u t  t h e r e  
+i s  u n l i k e l y  t o  b e  a  m a t e r i a l  i m p a c t  o n  P h a s e  1  o f f s e t t i n g  
+r e q u i r e m e n t s .
+CORSIA first Phase Modeling15
+T h e  k e y  u n c e rt a i n t i e s
+T h e  r i s k  o f  i n a d e q u a t e  c r e d i t s  w i t h  L O A s  
+a n d  C A ’ s  w a s  v o t e d  a s  t h e  p r i m a r y  c o n c e r nT h e  4 0 +  e x p e r t s  w h o  p a r t i c i p a t e d  i n  t h e  r o u n d t a b l e s  w e r e  a s k e d  t o  r a n k  
+t h e  l i s t  o f  s i x  u n c e r t a i n t i e s  i n  o r d e r  o f  t h e i r  i m p o r t a n c e  t o  d e t e r m i n e  t h e  
+s u c c e s s  o r  f a i l u r e  o f  C O R S I A.  
+
+C o n c e r n s  a r o u n d  t h e  s c a l i n g  u p  o f  L O A s  a n d  C A s  r e c e i v e d  t h e  h i g h e s t  
+r a n k  f r o m  m o s t  p a r t i c i p a n t s ,  r e fl e c t i n g  a  c o n s e n s u s  v i e w  t h a t  h o s t  
+c o u n t r y  a u t h o r i z a t i o n s  a c t  a s  a  c r i t i c a l  b o t t l e n e c k  f o r  C O R S I A.
+
+C o n c e r n s  a r o u n d  t h e  i n t e g r i t y  o f  E E U s  c a m e  s e c o n d ,  b u t  t h e  r e s p o n s e  
+d i v e r g e d  a r o u n d  t h e  r o u n d t a b l e s :  r a n k i n g  h i g h  a m o n g s t  p a r t i c i p a n t s  i n  t h e  
+A P A C  s e s s i o n ,  a n d  r a n k i n g  l o w e r  a m o n g s t  t h o s e  f r o m  E u r o p e ,  A f r i c a ,  a n d  
+t h e  A m e r i c a s .  
+
+I s s u e s  c o n c e r n i n g  i n s u r a n c e  a n d  t h e  E U ' s  e n d o r s e m e n t  o f  C O R S I A  r a n k e d  
+l o w e r ,  w i t h  s o m e  r o u n d t a b l e  p a r t i c i p a n t s  e a g e r  t o  d i s p e l  t h e m  a s  s i g n i fi c a n t  
+o b s t a c l e s  t o  C O R S I A.  
+
+S e e  A n n e x  I I  f o r  d e t a i l e d  s u r v e y  r e s u l t s .
+CORSIA first Phase Modeling16T Y P ES u p p l yS u p p l yD e m a n dS u p p l yD e m a n dD e m a n dV o l u m e  o f  c r e d i t s  w i t h  L O A ’ s  a n d  C A ’ s  d o  n o t  
+m a t e r i a l i z e  a t  s c a l eI n t e g r i t y  c o n c e r n s  o v e r  C O R S I A  E E U  s u p p l yL a c k  o f  C O R S I A  e n f o r c e m e n t  i n  t h e  U S ,  
+l e a d i n g  t o  i n a c t i o n  b y  s o m e  a i r l i n e s  I n s u r a n c e  ( r e q u i r e d  b y  s o m e  s t a n d a r d s )  n o t  y e t  
+r e a d i l y  a v a i l a b l e  t o  c o v e r  v o l u m e s  f o r  P h a s e  1E U  m a y  o p t  t o  c o v e r  i n t e r n a t i o n a l  e m i s s i o n s  i n  
+t h e  E U  E T S  i n s t e a dL a c k  o f  C O R S I A  e n f o r c e m e n t  i n  o t h e r  
+j u r i s d i c t i o n s  o u t s i d e  o f  t h e  E U  a n d  U SU N C E R T A I N T YV O T E D  A S  M O S T  
+I M P O R T A N TV O T E D  A S  2 N D  
+M O S T  I M P O R T A N T2 7 %3 2 %2 4 %1 8 %1 9 %9 %1 6 %1 2 %8 %1 2 %5 %1 8 %
+C O R S I A  
+S c e n a r i o s
+CORSIA first Phase Modeling17
+M a x i m u m  s u p p l y *  A s s u m e s  3 0 +  h o s t  
+c o u n t r i e s  a r e  r e a d y  t o  a u t h o r i z e  a n d  
+a d j u s t  c r e d i t s  a s  o f  2 0 2 6 ;  s u p p l y  i s  
+a l s o  b o o s t e d  b y  l a r g e  J R E D D +  a n d  
+P A C M  i s s u a n c e s .
+M o d e r a t e  s u p p l y *  A s s u m e s  1 5 +  
+h o s t  c o u n t r i e s  a r e  r e a d y  t o  
+a u t h o r i z e  a n d  a d j u s t  c r e d i t s  a s  o f  
+2 0 2 6 .
+L i m i t e d  s u p p l y *  
+A s s u m e s  e x i s t i n g  c o n s t r a i n t s  r e m a i n  
+i n  n e a r - t e r m ,  w i t h  f e w  c o u n t r i e s  
+r e a d y  t o  a u t h o r i z e  l a r g e  v o l u m e s .
+U n l i k e l y ,  d u e  t o  i n a d e q u a t e  s u p p l y ^S C E N A R I O  AS C E N A R I O  BS C E N A R I O  C
+S C E N A R I O  FP l a u s i b l e  a l t e r n a t i v e ,  n o t  p r e s e n t e dP l a u s i b l e  a l t e r n a t i v e ,  n o t  p r e s e n t e dP l a u s i b l e  a l t e r n a t i v e ,  n o t  p r e s e n t e dS C E N A R I O  DS C E N A R I O  ET h e  6  d i s t i n c t  s c e n a r i o sT h e s e  s c e n a r i o s ,  A - F ,  s p a n  a  r a n g e  o f  d e m a n d  
+a n d  s u p p l y  o u t c o m e s  f o r  C O R S I AS c e n a r i o  m a t r i x
+D e m a n dS u p p l y
+CORSIA first Phase Modeling18F u l l  c o m p l i a n c e 
+F i r s t  P h a s e  o f f s e t t i n g  c o m p l i a n c e  m a t e r i a l i z e s  b y  3 1  J a n u a r y  2 0 2 8 .D e l a y e d  c o m p l i a n c e 
+F i r s t  P h a s e  c o m p l i a n c e  d e a d l i n e  d e l a y e d  t o  J a n u a r y  2 0 3 0 .P a r t i a l  c o m p l i a n c e 
+F i r s t  P h a s e  c o m p l i a n c e  o b s e r v e d  b y  a i r l i n e s  i n  t h e  E U ,  S w i t z e r l a n d ,  
+U K ,  J a p a n ,  C a n a d a ,  a n d  k e y  G u l f  S t a t e s  s u c h  a s  U A E  a n d  Q a t a r .N o  c o m p l i a n c e 
+C O R S I A  c o l l a p s e s  ~ 2 0 2 7  d u e  t o  i n a d e q u a t e  s u p p l y  a n d / o r  l a c k  o f  
+c o m p l i a n c e .
+*  A l s o  a s s u m e s  t h a t  i n s u r a n c e  o p t i o n s  ( o r  a l t e r n a t i v e  s a f e g u a r d s )  a r e  r e a d i l y  a v a i l a b l e  f o r  f o r  a u t h o r i z e d  c r e d i t s ,  s o  t h a t  c r e d i t s  c a n  b e  u s e d  f o r  c o m p l i a n c e .
+^  T e c h n i c a l l y ,  r e g u l a t o r s  c o u l d  s t i l l  e n f o r c e  C O R S I A  f u l l y  –  w i t h  a i r l i n e s  p a y i n g  p e n a l t i e s  i n  t h e  e v e n t  t h a t  t h e y  c o u l d  n o t  c a n c e l  s u f fi c i e n t  c r e d i t s  i n  t i m e .
+
+A s s u m e d  c o n d i t i o n sT h e  m o d e l i n g  a n a l y s i s  f u r t h e r  a s s u m e s  a  
+s p e c i fi c  s e t  o f  c o n d i t i o n s  f o r  e a c h  s c e n a r i oS c e n a r i oAF u l l  c o m p l i a n c e  w i t h  m a x i m u m  E E U  
+s u p p l yB F u l l  c o m p l i a n c e  w i t h  m o d e r a t e  E E U  
+s u p p l yCD e l a y e d  c o m p l i a n c e  w i t h  m o d e r a t e  
+E E U  s u p p l y *DD e l a y e d  c o m p l i a n c e  w i t h  l i m i t e d  E E U  
+s u p p l y *EP a r t i a l  c o m p l i a n c e  w i t h  l i m i t e d  E E U  
+s u p p l yA s s u m e d  c o n d i t i o n s+  A l l  m a j o r  j u r i s d i c t i o n s  i n  C O R S I A  P h a s e  1  w i l l  s e e  c o m p l i a n c e  d u e  t o  e i t h e r  r e g u l a t o r y  r e q u i r e m e n t s  o r  v o l u n t a r y  p a r t i c i p a t i o n
++  B y  2 0 2 7 ,  o v e r  3 0 +  h o s t  c o u n t r i e s  w i l l  h a v e  t h e  p o l i c y  a n d  c a p a c i t y  t o  i s s u e  a u t h o r i z a t i o n s  ( w i t h  r e a d i l y  a v a i l a b l e  i n s u r a n c e )  a n d  i m p l e m e n t  C A s
++  S i g n i f i c a n t  E E U  s u p p l y  c o m i n g  f r o m  J R E D D +  a n d  P A C M  v o l u m e s ,  c o m b i n e d  t o  e x c e e d  1 0 0  m i l l i o n  b y  e n d  o f  2 0 2 7+  S i m i l a r  d e m a n d  c o n d i t i o n s  a s  i n  S c e n a r i o  A ,  b u t  u n d e r  m o r e  r e s t r i c t i v e  s u p p l y  c o n d i t i o n s
++  A  s m a l l e r  s e t  o f  h o s t  c o u n t r i e s  h a v i n g  d e v e l o p e d  t h e  p o l i c y  a n d  c a p a c i t y  f o r  a u t h o r i z a t i o n  a n d  C A s  b y  2 0 2 7 ,  a n d
++  S l o w e r  i s s u a n c e s  f r o m  J R E D D +  p r o g r a m s  a n d  d e l a y s  i n  b r i n g i n g  P A C M  c r e d i t s  t o  t h e  m a r k e t+  S i m i l a r  s u p p l y  c o n d i t i o n s  a s  i n  S c e n a r i o  B
++  I C A O  d e l a y s  t h e  F i r s t  P h a s e  c o m p l i a n c e  d e a d l i n e  b y  t w o  y e a r s  d u e  t o  a  l a c k  o f  E E U  s u p p l y  ( t o  3 1  J a n u a r y  2 0 3 0 )
++  T h e  d e l a y  a l l o w s  f o r  m o r e  t i m e  d u r i n g  w h i c h  E E U  s u p p l y  r a m p s  u p .  B y  t h e n ,  m o r e  h o s t  c o u n t r i e s  s h o u l d  h a v e  a s s e s s e d  t h e i r  p r o g r e s s  t o w a r d s  t h e  2 0 3 0  c l i m a t e  t a r g e t s  
+o u t l i n e d  i n  t h e i r  P a r i s  A g r e e m e n t  N a t i o n a l l y  D e t e r m i n e d  C o n t r i b u t i o n s  ( N D C ) ,  t h e r e b y  w i l l  h a v e  e n h a n c e d  c l a r i t y  a n d  c a p a c i t y  t o  a u t h o r i z e  t h e  e x p o r t  o f  c a r b o n  c r e d i t s  a s  E E U s  +  S i m i l a r  d e m a n d  c o n d i t i o n s  a s  i n  S c e n a r i o  C ,  b u t  p r o j e c t s  a  l i m i t e d  s u p p l y  
++  H o s t  c o u n t r i e s '  r e a d i n e s s  t o  a u t h o r i z e  a n d  i m p l e m e n t  C A s  r e m a i n s  r e l a t i v e l y  c o n s t r a i n e d  i n  t h e  n e a r - t e r m ,  w i t h  j u s t  7  c o u n t r i e s  b e i n g  a b l e  t o  
+p r o v i d e  s o m e  a u t h o r i z a t i o n s  b e t w e e n  2 0 2 5 - 2 0 2 6+  S i m i l a r  s u p p l y  c o n d i t i o n s  t o  S c e n a r i o  D
++  P a r t i a l  c o m p l i a n c e  w h e r e b y  o n l y  a  f e w  m a j o r  a i r  t r a f f i c  j u r i s d i c t i o n s ,  n a m e l y  E U ,  t h e  U K ,  S w i t z e r l a n d ,  J a p a n ,  C a n a d a ,  t h e  U A E ,  a n d  Q a t a r ,  e n f o r c e  C O R S I A  
+t h r o u g h  r e g u l a t i o n ,  a n d  a i r l i n e s  i n  o t h e r  j u r i s d i c t i o n s  d o  n o t  p u r s u e  v o l u n t a r y  p a r t i c i p a t i o n .  T h i s  e f f e c t i v e l y  h a l v e s  t h e  d e m a n d  f o r  C O R S I A  E E U s  i n  P h a s e  1+  A s s u m e s  t h a t  d u e  t o  o n g o i n g  c h a l l e n g e s  i n  s u p p l y  c o n d i t i o n s ,  t h e  C O R S I A  p r o g r a m  f a i l s  t o  g e n e r a t e  a n y  c o m p l i a n c e  e i t h e r  t h r o u g h  r e g u l a t i o n  o r  v o l u n t a r y  p a r t i c i p a t i o n  
++  T h e  u n d e r l y i n g  s u p p l y  c a r b o n  c r e d i t s  m a y  c o n t i n u e  t o  f i n d  b u y e r s  i n  t h e  v o l u n t a r y  o r  o t h e r  c o m p l i a n c e  m a r k e t sFN o  c o m p l i a n c e
+*  A n y  d e l a y  i n  C O R S I A  F i r s t  P h a s e  c o m p l i a n c e  w o u l d  r e q u i r e  c l e a r  a n d  t i m e l y  c o m m u n i c a t i o n  t o  p r o v i d e  c o n fi d e n c e  t o  t h e  m a r k e t .  O t h e r w i s e ,  a  d e l a y  c o u l d  f u r t h e r  
+s u p p r e s s  s u p p l y  s i g n a l s  a n d  p r o v o k e  f u r t h e r  q u e s t i o n s  a b o u t  w h e t h e r  C O R S I A  w i l l  b e  i m p l e m e n t e d .  T h e  m o d e l i n g  a s s u m e s  t h e  f o r m e r ,  p o s i t i v e  c a s e  m a t e r i a l i z e s .CORSIA first Phase Modeling19
+W e  s u r v e y e d  4 0 +  e x p e rt sT h e  s u r v e y  o f  r o u n d t a b l e  p a r t i c i p a n t s  i n d i c a t e d  t h a t  p a r t i a l  c o m p l i a n c e  
+w i t h  l i m i t e d  s u p p l y  i s  r e l a t i v e l y  l i k e l y
+CORSIA first Phase Modeling20T o  h e l p  i n f o r m  t h i s  r e p o r t ,  w e  h a v e  c o n d u c t e d  r o u n d t a b l e  d i s c u s s i o n s  w i t h  l e a d i n g  
+m a r k e t  e x p e r t s ,  i n c l u d i n g  i n d i v i d u a l s  f r o m  C O R S I A ’ s  T e c h n i c a l  A d v i s o r y  B o d y ,  c a r b o n  
+c r e d i t i n g  s t a n d a r d s ,  g o v e r n m e n t  b o d i e s ,  a n d  m a r k e t  p a r t i c i p a n t s  f r o m  t h e  p r i v a t e  s e c t o r .
+
+T h e  p a r t i c i p a n t s  w e r e  g i v e n  t h e  f o l l o w i n g 
+Q u a l i t a t i v e  d e s c r i p t i o n  o f  t h e  fi v e  s c e n a r i o s *
+      ( t h e y  w e r e  u n a w a r e  o f  S y l v e r a ’ s  m o d e l i n g  r e s u l t s 
+1 0 0  p o i n t s  t o  a l l o c a t e  b a s e d  o n  t h e i r  e v a l u a t i o n  o f  e a c h  s c e n a r i o ’ s  l i k e l i h o o d .  
+*  G i v e n  t h e  r e fi n e m e n t s  i n  s c e n a r i o  o p t i o n s  a n d  t e r m i n o l o g i e s  a f t e r  t h e  r o u n d t a b l e  d i s c u s s i o n s ,  a n d  t h e  f a c t  
+t h a t  i n d i v i d u a l s  w i l l  i n h e r e n t l y  h a v e  s l i g h t l y  d i f f e r e n t  i n t e r p r e t a t i o n s  o f  e a c h  s c e n a r i o  d e s c r i p t i o n ,  t h e s e  s u r v e y  
+r e s u l t s  s h o u l d  b e  i n t e r p r e t e d  w i t h  c a u t i o n
+CORSIA first Phase Modeling21B a s e d  o n  t h e  a g g r e g a t e d  s u r v e y  r e s p o n s e s ,  t h e  e x t r e m e  
+s c e n a r i o s  ( A,  F )  w e r e  d e e m e d  t h e  l e a s t  l i k e l y .
+
+M e a n w h i l e ,  s c e n a r i o  E  w i t h  p a r t i a l  c o m p l i a n c e  a n d  l i m i t e d  
+s u p p l y  r e c e i v e d  t h e  m o s t  v o t e s .  I m p o r t a n t l y ,  “ l i m i t e d  
+s u p p l y ”  s e e m e d  t o  b e  t h e  p r e v a i l i n g  s e n t i m e n t  a s  
+s c e n a r i o s  D  a n d  E  c o m b i n e d  r e c e i v e d  o v e r  h a l f  o f  t h e  
+v o t e s .
+AF u l l  c o m p l i a n c e  w i t h  m a x i m u m  E E U  
+s u p p l yBF u l l  c o m p l i a n c e ,
+m o d e r a t e  s u p p l yCD e l a y e d  c o m p l i a n c e  w i t h  m o d e r a t e  
+E E U  s u p p l y *DD e l a y e d  c o m p l i a n c e ,  
+i m i t e d  s u p p l yEP a r t i a l  c o m p l i a n c e ,
+l i m i t e d  s u p p l yFN o  c o m p l i a n c e1 3 %1 8 %2 6 %3 1 %1 1 %S c e n a r i o  o p t i o n  n o t  a v a i l a b l e  d u r i n g  r o u n d t a b l e  s u r v e y sS u r v e y  r e s u l t :  l i k e l i h o o d  o f  v a r i o u s  C O R S I A  s c e n a r i o s
+I n  t h e  i n i t i a l  v e r s i o n  o f  t h e  s c e n a r i o  m a t r i x ,  S c e n a r i o  C  d i d  n o t  e x i s t  a n d  w a s  o n l y  c r e a t e d  a f t e r  f e e d b a c k  f r o m  t h e  r o u n d t a b l e  d i s c u s s i o n s .  A s  a  r e s u l t ,  t h e  p a r t i c i p a n t s  
+c a s t e d  v o t e s  f o r  fi v e  s c e n a r i o  o n l y  ( e x c l u d i n g  S c e n a r i o  C ) .  A d d i t i o n a l l y ,  t h e  i n i t i a l  s c e n a r i o s  p r e s e n t e d  a p p l i e d  t h e  t e r m i n o l o g y  " e n f o r c e m e n t "  t o  d e s c r i b e  d e m a n d  
+c o n d i t i o n s .  W e  h a v e  l a t e r  m o d i fi e d  i t  a s  “ c o m p l i a n c e ”  t o  b e  c l a r i f y  t h a t  d e m a n d  m a y  o r i g i n a t e  f r o m  v o l u n t a r y  c o m p l i a n c e  b y  a i r l i n e s  e v e n  i f  t h e i r  r e g u l a t o r s  d o  n o t  
+e n f o r c e  C O R S I A .
+
+C O R S I A
+M o d e l i n g  R e s u l t s
+CORSIA first Phase Modeling22
+O u r  m o d e l i n g  a p p r o a c hD r a w i n g  o n  t h e  b e s t  a v a i l a b l e  d a t a  
+a n d  a s s u m p t i o n s  t o  s i m u l a t e  t h e  
+C O R S I A  E E U  m a r k e t
+CORSIA first Phase Modeling23T h e  m o d e l  c o n s i d e r s  a l l  r e l e v a n t  s u p p l y  a n d  
+d e m a n d  c o m p o n e n t s  o f  t h e  C O R S I A  E E U  m a r k e t .  
+I n  p a r t i c u l a r ,  i t  h a s  a  b o t t o m - u p  r e p r e s e n t a t i o n  o f  
+a l l  i n d i v i d u a l  h o s t  c o u n t r i e s  t h a t  w i l l  p r o v i d e  t h e  
+A r t i c l e  6  a u t h o r i z a t i o n s ,  a s  w e l l  a s  e m i s s i o n s  f r o m  
+a i r l i n e s  f a c i n g  c o m p l i a n c e  o b l i g a t i o n s .
+
+T h e  f o l l o w i n g  d i a g r a m  i d e n t i fi e s  t h e  k e y  i n p u t  
+d a t a  a n d  a s s u m p t i o n s  t h a t  i n fl u e n c e  t h e  C O R S I A  
+m o d e l i n g  r e s u l t s .  
+D a t a  i n p u t s  &  d e f a u l t  a s s u m p t i o n s
+F o r w a r d - l o o k i n g  a s s u m p t i o n s  m a y  
+c o n t a i n  s o m e  u n c e r t a i n t i e s ,  b u t  a r e  
+r e l a t i v e l y  p r e d i c t a b l e  o v e r  t h e  n e x t  
+3 - 5  y e a r sS c e n a r i o - s p e c i fi c  a s s u m p t i o n s
+R e p r e s e n t s  l a r g e  ‘ s w i n g  f a c t o r s ’  t h a t  
+c o u l d  a f f e c t  m a r k e t  o u t c o m e s  
+s i g n i fi c a n t l yD e m a n dS u p p l y+  H i s t o r i c a l  a v i a t i o n  e m i s s i o n s  ( 2 0 1 9 - 2 0 2 3 )
+   C O R S I A  p a r t i c i p a t i o n  b y  s t a t e
++  R e c e n t  a i r  t r a f f i c  ( u n t i l  A p r i l  2 0 2 5 )
++  A s s u m e d  f u t u r e  a i r  t r a f f i c  a n d  e f f i c i e n c y
++  S u s t a i n a b l e  A v i a t i o n  F u e l  u p t a k e
++  H e d g i n g  b e h a v i o r  b y  a i r l i n e s+  I s s u i n g  p r o j e c t s
++  P r e - i s s u a n c e ,  p i p e l i n e  p r o j e c t s
++  C u r r e n t  i n v e n t o r y  o f  u n r e t i r e d  c r e d i t s
++  E x p e c t e d  i s s u a n c e s
++  D e l i v e r y  r i s k s  a n d  t i m e  l a g s
++  F u t u r e  i n v e s t m e n t s  i n  n e w  p r o j e c t s+  E n f o r c e m e n t  b y  r e g u l a t o r s
++  L e v e l  o f  c o m p l i a n c e  b y  a i r l i n e s
++  C o m p l i a n c e  d e a d l i n e s  ( e . g .  J a n  2 0 2 8 )
+E s t i m a t e d  C O R S I A  E U  p r i c e+  E x t e n t  t o  w h i c h  h o s t  c o u n t r y  
+a u t h o r i z a t i o n s  a n d  i n s u r a n c e  w i l l  r a m p  u p  
+o v e r  t i m e
++  I s s u a n c e  v o l u m e s  f r o m  l a r g e  s u p p l y  
+s o u r c e s  ( e . g .  J R E D D + ,  P A C M )N o t e :  p l e a s e  r e f e r  t o  t h e  a n n e x  f o r  f u r t h e r  i n f o r m a t i o n  o n  t h e  m o d e l i n g  a p p r o a c h  a n d  d e t a i l e d  
+a s s u m p t i o n s
+E s t i m a t e d  o f f s e t t i n g  r e q u i r e m e n t sA i r l i n e s  r e g u l a t e d  i n  t h e  E U ,  U S ,  U A E  a n d  t h e  U K  a l o n e  c o u l d  r e p r e s e n t  h a l f  o f  P h a s e  1  o f f s e t t i n g  r e q u i r e m e n t s
+CORSIA first Phase Modeling24*  N o t a b l y ,  s t a t e s  t h a t  r e p r e s e n t e d  l e s s  t h a n  0 . 5 %  o f  g l o b a l  i n t e r n a t i o n a l  r e v e n u e - t o n - k i l o m e t e r  ( R T K )  i n  2 0 1 8  d o  n o t  n e e d  t o  m e e t  o f f s e t t i n g  r e q u i r e m e n t s .
+^  J u r i s d i c t i o n s  w h i c h  d o  n o t  v o l u n t e e r  f o r  C O R S I A  P h a s e  1 ,  a n d  m a y  p a r t i c i p a t e  f r o m  P h a s e  2  o n w a r d s .  H o w e v e r ,  E t h i o p i a  c o u l d  b e  e x e m p t e d  a s  a n  L D C .
+S o u r c e :  S y l v e r a  a n a l y s i s  a s  o f  J u n e  2 0 2 5 ,  u s i n g  a v i a t i o n  e m i s s i o n s  d a t a  f r o m  I C A O  ( 2 0 2 4 ,  2 0 2 5 )  a n d  t h e  E u r o p e a n  C o m m i s s i o n  ( 2 0 2 4 ) .  S o m e  c o u n t r i e s  ( e . g .  
+I n d i a )  a r e  n o t  i d e n t i fi e d  a n d  p l a c e d  i n  t h e  ‘ o t h e r s ’  c a t e g o r y  b e c a u s e  o f  m i s s i n g  d a t a  o n  a i r l i n e - l e v e l  e m i s s i o n s .
+E s t i m a t e d  o f f s e t t i n g  r e q u i r e m e n t s  u n d e r  C O R S I A  ( M t C O 2 e )
+A c t u a l  d e m a n d  f o r  C O R S I A  E E U s  m a y  b e  l o w e r ,  d e p e n d i n g  o n  t h e  l e v e l  o f  c o m p l i a n c e  a n d  u p t a k e  o f  s u s t a i n a b l e  a v i a t i o n  f u e l s  ( S A F )
+2 0 2 42 0 2 52 0 2 62 0 2 72 0 2 82 0 2 92 0 3 02 0 3 12 0 3 22 0 3 32 0 3 42 0 3 52 0 01 8 01 6 01 4 01 2 01 0 08 06 04 02 00O t h e r  b e l o w  R T K  t h r e s h o l dO t h e r  a b o v e  R T K  t h r e s h o l dB r a z i l ^  E t h i o p i a ^  C h i n a ^  N e w  Z e a l a n dM e x i c oT h a i l a n dA u s t r a l i aC a n a d aS i n g a p o r eJ a p a nS o u t h  K o r e aT u r k e yQ a t a rU n i t e d  K i n g d o mU n i t e d  A r a b  E m i r a t e sU n i t e d  S t a t e sE UP h a s e  1  ( 2 0 2 4 - 2 0 2 6 ) 
+V o l u n t a r y  p a r t i c i p a t i o n  b y  
+m e m b e r  s t a t e s .  C a n c e l l a t i o n s  
+r e q u i r e d  b y  3 1  J a n  2 0 2 8 .
+P h a s e  1   
+o f f s e t t i n g  r e q u i r e m e n t s : 
+6 5 . 1  m i l l i o n
+P h a s e  1   
+o f f s e t t i n g  r e q u i r e m e n t s : 
+7 9 . 1  m i l l i o n
+P h a s e  2  ( 2 0 2 7 - 2 0 3 5 ) 
+M a n d a t o r y  f o r  a l l  i n t e r n a t i o n a l  fl i g h t s ,  w i t h  s o m e  
+e x e m p t i o n s *  C a n c e l l a t i o n s  i n  3 - y e a r  c y c l e s ,  
+w i t h  fi r s t  d e a d l i n e  i n  3 1  J a n  2 0 3 1 .
+
+E s t i m a t e d  C O R S I A  d e m a n dC O R S I A  E E U  d e m a n d  c o u l d  r e a c h  1 4 4 M  f o r  P h a s e  1  i f  m o s t  a i r l i n e s  i n  p a r t i c i p a t i n g  j u r i s d i c t i o n s  c o m p l y
+CORSIA first Phase Modeling25S o u r c e :  C O R S I A  m a r k e t  m o d e l i n g  a n a l y s i s  p e r f o r m e d  b y  S y l v e r a ,  r e s u l t s  a s  o f  2 7  J u n e  2 0 2 5I n  a  f u l l  c o m p l i a n c e  s c e n a r i o ,  w h e r e  a l l  m a j o r  a i r  t r a f fi c  h u b s  e n f o r c e  
+C O R S I A  o f f s e t t i n g  o r  w i t n e s s  v o l u n t a r y  o f f s e t t i n g  b y  a i r l i n e s ,  F i r s t  
+P h a s e   d e m a n d  f o r  E E U s  i s  p r o j e c t e d  t o  b e  1 4 4  m i l l i o n .  
+
+T h i s  i s  t h e  s a m e  u n d e r  a  d e l a y e d  c o m p l i a n c e  s c e n a r i o ,  w h i c h  m e r e l y  
+s h i f t s  t h e  c a n c e l l a t i o n  d e a d l i n e  b y  t w o  y e a r s ,  r a t h e r  t h a n  a f f e c t i n g  t h e  
+a b s o l u t e  v o l u m e .
+
+A  p a r t i a l  c o m p l i a n c e  s c e n a r i o  w o u l d  r o u g h l y  h a l v e  t h e  F i r s t  P h a s e  
+d e m a n d  a t  7 4  m i l l i o n  E E U s ,  a s  i t  a s s u m e s  t h a t  o n l y  a e r o p l a n e  
+o p e r a t o r s  i n  t h e  E U ,  U K ,  S w i t z e r l a n d ,  J a p a n ,  C a n a d a ,  U A E ,  a n d  Q a t a r  
+w i l l  b e  c a n c e l l i n g  c r e d i t s  f o r  c o m p l i a n c e .  
+
+T h e  e s t i m a t e d  C O R S I A  E E U  d e m a n d  i n c r e a s e s  s i g n i fi c a n t l y  a f t e r  F i r s t  
+P h a s e  d u e  t o  a n  i n c r e a s e  i n  c o v e r a g e  ( e . g .  C h i n a ,  I n d i a ) .
+F u l l  c o m p l i a n c e  o r  
+d e l a y e d  c o m p l i a n c e1 4 43 4 1
+7 41 5 03 4 14 0 03 0 02 0 01 0 00P a r t i a l  c o m p l i a n c eE s t i m a t e d  C O R S I A  E E U  d e m a n d  b y  a e r o p l a n e  o p e r a t o r s  ( m i l l i o n s )
+1 s t  c o m p l i a n c e  c y c l e  ( 2 0 2 4 - 2 6  e m i s s i o n s )2 n d  c o m p l i a n c e  c y c l e  ( 2 0 2 7 - 2 9  e m i s s i o n s )
+E s t i m a t e d  C O R S I A  s u p p l yC O R S I A  E E U  s u p p l y  e s t i m a t e d  b e t w e e n  1 3 6 - 2 7 4 M  b y  t h e  e n d  o f  2 0 2 7 ,  d e p e n d i n g  o n  h o s t  c o u n t r y  a u t h o r i z a t i o n s
+CORSIA first Phase Modeling26S o u r c e :  C O R S I A  m a r k e t  m o d e l i n g  a n a l y s i s  p e r f o r m e d  b y  S y l v e r a ,  r e s u l t s  a s  o f  2 7  J u n e  2 0 2 5
+T h e  s u p p l y  o f  C O R S I A  E E U s  v a r y  w i d e l y  a c r o s s  t h e  s c e n a r i o s ,  
+r e fl e c t i n g  s i g n i fi c a n t  u n c e r t a i n t y  o v e r  h o s t  c o u n t r y  a u t h o r i z a t i o n s  a n d  
+f u t u r e  v o l u m e s  f r o m  J R E D D +  a n d  P A C M  c r e d i t s .
+
+S c e n a r i o  A ,  w h i c h  i s  m o s t  o p t i m i s t i c  r e g a r d i n g  f u t u r e  s u p p l y ,  s e e s  
+o v e r  2 7 0  m i l l i o n  E E U s  m a d e  a v a i l a b l e  t o  t h e  m a r k e t  b y  t h e  e n d  o f  2 0 2 7 ,  
+w h i c h  i s  1 3 0 M  l a r g e r  t h a n  t h e  e x p e c t e d  t o t a l  d e m a n d  i n  P h a s e  1 .
+
+S c e n a r i o s  B  a n d  C  a s s u m e  m o d e r a t e  s u p p l y ,  r e s u l t i n g  i n  1 7 0- 1 9 1  m i l l i o n  
+s u p p l y  b y  e n d  o f  2 0 2 7 .  T h e  d i f f e r e n c e  b e t w e e n  t h e  s c e n a r i o s  a r e  
+e x p l a i n e d  b y  t h e  i n c r e a s e  i n  s u p p l y  ( a n d  a u t h o r i z a t i o n s )  i n  r e s p o n s e  t o  
+h i g h e r  p r i c e s  i n  S c e n a r i o  B .  
+
+S c e n a r i o s  D  a n d  E  a s s u m e s  c o n s t r a i n t s  i n  h o s t  c o u n t r y  a u t h o r i z a t i o n s  
+t h a t  l e a d  t o  o n l y  1 3 6 - 1 4 4  m i l l i o n  s u p p l y  b y  t h e  e n d  o f  2 0 2 7 .
+A.  F u l l  c o m p l i a n c e ,  
+m a x  s u p p l yB .  F u l l  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l yC  .  D e l a y e d  
+c o m p l i a n c e ,  
+m o d e r a t e  s u p p l yD .  D e l a y e d  c o m p l i a n c e ,  
+l i m i t e d  s u p p l yE  .  P a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y1 0 0 08 0 06 0 04 0 02 0 00C O R S I A  E E U  s u p p l y  w i t h  h o s t  c o u n t r y  a u t h o r i z a t i o n s  ( m i l l i o n s )
+S u p p l y  m a d e  a v a i l a b l e  d u r i n g  2 0 2 4 - 2 7S u p p l y  m a d e  a v a i l a b l e  d u r i n g  2 0 2 8- 3 0P h a s e  1  d e m a n d  u n d e r  f u l l  o r  d e l a y e d  c o m p l i a n c e  ( 1 4 4 M )P h a s e  1  d e m a n d  u n d e r  p a r t i a l  c o m p l i a n c e  ( 7 4 M )5 3 84 3 94 1 13 8 32 9 11 3 61 4 41 7 01 9 12 7 4
+E s t i m a t e d  C O R S I A  p r i c e sC O R S I A  E E U  p r i c e  c o u l d  r e a c h  $ 2 5 - 3 6  i n  2 0 2 7 ,  d e p e n d i n g  o n  s u p p l y  a v a i l a b i l i t y  a n d  c o m p l i a n c e  l e v e l s
+CORSIA first Phase Modeling27* T h e  d e l a y e d  c o m p l i a n c e  s c e n a r i o s  c o n s i d e r e d  i n  t h e  m o d e l  a s s u m e s  t h a t  t h e  m a r k e t  r e m a i n s  c o n fi d e n t  i n  t h e  e v e n t u a l  
+i m p l e m e n t a t i o n  o f  C O R S I A.  S o m e  r o u n d t a b l e  p a r t i c i p a n t s  n o t e d  t h a t  t h e  o p p o s i t e  c o u l d  h a p p e n ,  i . e .  w e a k e n i n g  t h e  c o m m i t m e n t  
+t o  C O R S I A  a n d  l e a d i n g  t o  f u r t h e r  d o u b t s  a b o u t  t h e  p r o g r a m .
+
+S o u r c e :  C O R S I A  m a r k e t  m o d e l i n g  a n a l y s i s  p e r f o r m e d  b y  S y l v e r a ,  r e s u l t s  a s  o f  2 7  J u n e  2 0 2 5
+2 0 2 52 0 2 62 0 2 72 0 2 82 0 2 92 0 3 08 07 06 05 04 03 02 01 00E s t i m a t e d  p r i c e  o f  C O R S I A  E E U s  ( n o m i n a l  U S $ )S c e n a r i o  A
+( f u l l  c o m p l i a n c e ,  
+m a x i m u m  s u p p l y )P r i c e s  r e f l e c t  r e l a t i v e l y  a b u n d a n t  E E U  s u p p l y  v o l u m e s  m a d e  
+a v a i l a b l e  t o  t h e  m a r k e t  f o r  c o m p l i a n c e ,  w i t h  a  s u r p l u s  o f  ~ 1 3 0 M  
+a f t e r  c a n c e l l a t i o n s  i n  J a n  2 0 2 8 .S c e n a r i o  B
+( f u l l  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l y )P r i c e s  a p p r o x i m a t e l y  $ 1 0 - 1 5  h i g h e r  t h a n  S c e n a r i o  A  a s  
+c o m p l i a n c e  d e a d l i n e  a p p r o a c h e s ,  d u e  t o  f e w e r  c o u n t r i e s  
+a u t h o r i z i n g  c r e d i t s  a n d  f a r  l e s s  v o l u m e s  f r o m  J R E D D +  a n d  P A C M .S c e n a r i o  C
+( d e l a y e d  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l y )P r i c e s  i n  2 0 2 7 - 2 0 2 8  d i v e r g e  l o w e r  r e l a t i v e  t o  f r o m  S c e n a r i o  B  a s  
+t h e  m a r k e t  r e a c t s  t o  a n  u n a n t i c i p a t e d  t w o - y e a r  d e l a y  i n  t h e  
+P h a s e  1  c o m p l i a n c e  d e a d l i n e . *  H o w e v e r ,  t h e  o f f s e t t i n g  
+r e q u i r e m e n t s  a r e  m e r e l y  s h i f t e d  b a c k ,  r e s u l t i n g  i n  h i g h e r  p r i c e  
+p r e s s u r e  a s  t h e  ( d e l a y e d )  P h a s e  1  c o m p l i a n c e  d e a d l i n e  
+a p p r o a c h e s  i n  J a n  2 0 3 0 .S c e n a r i o  D
+( d e l a y e d  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y )R a p i d  i n c r e a s e  i n  p r i c e s  i n  t h e  n e a r  t e r m  d u e  t o  c o n s t r a i n e d  
+s u p p l y  a n d  a n  e x p e c t a t i o n  o f  s h o r t a g e  f o r  P h a s e  1  c o m p l i a n c e  i n  
+J a n  2 0 2 8 .  A n  u n a n t i c i p a t e d  t w o - y e a r  d e l a y  i n  P h a s e  1  c o m p l i a n c e ,  
+a n n o u n c e d  i n  2 0 2 7 ,  s l o w s  d o w n  t h e  p r i c e  i n c r e a s e  i n  2 0 2 7 - 2 0 2 8 .  
+L i m i t e d  e l i g i b l e  s u p p l y  u l t i m a t e l y  p u s h e s  E E U  p r i c e s  a b o v e  $ 6 0  
+f o r  P h a s e  1  c o m p l i a n c e .S c e n a r i o  E
+( p a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y )E s t i m a t e d  p r i c e  t r a j e c t o r y  m u c h  l o w e r  t h a n  S c e n a r i o  D ,  d u e  t o  
+p a r t i a l  c o m p l i a n c e  o n  o f f s e t t i n g  r e q u i r e m e n t s .S c e n a r i o  F
+( p a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y )T h e  m a r k e t  g r a p p l e s  w i t h  s i g n i f i c a n t  u n c e r t a i n t y  u n t i l  i t  b e c o m e s  
+c l e a r  b y  2 0 2 7  t h a t  d e m a n d  f o r  C O R S I A  E E U s  w i l l  n o t  m a t e r i a l i z e .  
+T h e  C O R S I A  E E U  m a r k e t  d i s s o l v e s  i n  2 0 2 7  a n d  t h e  u n d e r l y i n g  
+c r e d i t s  m i g h t  f i n d  o t h e r  v o l u n t a r y  a n d  c o m p l i a n c e  b u y e r s .
+A d d i t i o n a l  f a c t o r s  t o  m o n i t o r
+CORSIA first Phase Modeling28W h i l e  t h e  a n a l y s i s  s e e k s  t o  b e s t  c a p t u r e  t h e  i m p a c t  o f  c o r e  m a r k e t  d r i v e r s  f o r  C O R S I A  E E U s ,  t h e r e  a r e  
+i n h e r e n t  u n c e r t a i n t i e s  i n  t h e  m o d e l  c a l i b r a t i o n .  S y l v e r a  w i l l  b e  m o n i t o r i n g  t h e  f o l l o w i n g  f a c t o r s  a n d  
+u p d a t e  t h e  m o d e l i n g  a n a l y s i s  a s  r e l e v a n t  i n  t h e  f u t u r e .
+W h i l e  C O R S I A  E E U s  c a n  b e  u s e d  b y  a i r l i n e s  t o  
+c o m p l y  w i t h  C O R S I A,  t h e  s a m e  c r e d i t s  c o u l d  a l s o  b e  
+r e t i r e d  o r  c a n c e l l e d  b y  o t h e r  e n t i t i e s .
+
+T h i s  i s  n o t a b l e  a s  s o m e  v o l u n t a r y  m a r k e t  b u y e r s  
+p r e f e r  I C A O- a p p r o v e d  c r e d i t s ,  v i e w i n g  t h e m  a s  a  
+b e n c h m a r k  f o r  q u a l i t y .
+
+W h i l e  t h e  m o d e l i n g  h a s  c o n s i d e r e d  t h i s  d y n a m i c ,  
+t h e  c a l i b r a t i o n  a s s u m e s  t h a t  V C M  b u y e r s  g r a v i t a t e  
+t o w a r d s  t h e  I C A O- a p p r o v e d  c r e d i t s  b u t  w i t h o u t  t h e  
+c o r r e s p o n d i n g  a d j u s t m e n t s ,  d u e  t o  t h e  p r i c e  
+p r e m i u m  o f  a u t h o r i z e d  c r e d i t s .I f  v o l u n t a r y  b u y e r s  e n d  u p  p u r c h a s i n g  a u t h o r i z e d  c r e d i t s  
+a t  s c a l e ,  t h i s  c o u l d  p u s h  t h e  C O R S I A  E E U  m a r k e t  t o  e v e n  
+g r e a t e r  s c a r c i t y .C O R S I A  E E U  d e m a n d  b e y o n d  a i r l i n e s
+A d d i t i o n a l  f a c t o r s  t o  m o n i t o r
+CORSIA first Phase Modeling29H o s t  c o u n t r y  c a p a c i t y  t o  p r o v i d e  t h e  n e c e s s a r y  
+a u t h o r i z a t i o n s  i s  s l o w l y  d e v e l o p i n g  t h r o u g h  r e l e v a n t  
+i n s t i t u t i o n s  a n d  i n f r a s t r u c t u r e .
+
+M e a n w h i l e ,  t h e i r  w i l l i n g n e s s  t o  g r a n t  a u t h o r i z a t i o n s  
+d e p e n d s  o n  w h e t h e r  t h e y  a r e  o n  t r a c k  t o  m e e t  t h e i r  N D C  
+t a r g e t s ,  a s  c o u n t r i e s  w i l l  w a n t  t o  a v o i d  o v e r s e l l i n g  a n d  
+f a l l i n g  s h o r t  o f  t h e i r  o w n  c l i m a t e  g o a l s .  
+
+T h i s  i s  a  r a p i d l y  e v o l v i n g  l a n d s c a p e  a s  m o r e  c o u n t r i e s  
+a n n o u n c e  t h e i r  i n t e n t i o n s  a r o u n d  c o r r e s p o n d i n g  
+a d j u s t m e n t s  a g a i n s t  t h e i r  N D C s .  
+
+O u r  m o d e l i n g  a n a l y s i s  a p p l i e d  h i g h - l e v e l  a s s u m p t i o n s  
+( s e e  a n n e x )  t h a t  w i l l  r e q u i r e  u p d a t e s  o v e r  t i m e .
+H o s t  c o u n t r y  w i l l i n g n e s s  a n d  a b i l i t y  t o  
+a u t h o r i z e  c a r b o n  c r e d i t sC O R S I A  s u p p l y  w i l l  b e  i n fl u e n c e d  b y  t h r e e  t y p e s  o f  n a s c e n t  
+s o u r c e s .  T h e  m o d e l i n g  a n a l y s i s  c u r r e n t l y  i n c l u d e s  ( 1 )  a n d  ( 2 ) ,  
+b u t  e x c l u d e s  ( 3 ) .
+
+( 1 )  J u r i s d i c t i o n a l  R E D D +  c r e d i t s ,  p a r t i c u l a r l y  t h o s e  u n d e r  
+A R T  T R E E S  a n d  V e r r a ,  a r e  a l r e a d y  e l i g i b l e  f o r  C O R S I A  F i r s t  
+P h a s e .
+
+( 2 )  P A C M  c r e d i t s  a r e  l i k e l y  t o  g a i n  a p p r o v a l  b y  I C A O .  
+H o w e v e r ,  t h e  P A C M  m e t h o d o l o g i e s  a r e  y e t  t o  b e  a n n o u n c e d ,  
+m a k i n g  i t  d i f fi c u l t  t o  a c c o u n t  f o r  t h e  p o t e n t i a l  v o l u m e s .
+
+( 3 )  E n e r g y  t r a n s i t i o n  c r e d i t s  f r o m  c o a l  p l a n t  r e t i r e m e n t s ,  
+w i t h  r e l e v a n t   m e t h o d o l o g i e s  b e i n g  d e v e l o p e d .  T h e s e  
+s o u r c e s  a r e  e x c l u d e d  f r o m  t h e  m o d e l i n g  b e c a u s e  i t  i s  
+u n c l e a r  i f  t h e y  w i l l  b e  e l i g i b l e  f o r  C O R S I A.
+E x p a n s i o n  o f  s u p p l y  f r o m  n a s c e n t  
+s o u r c e s  w i t h  l a r g e  p o t e n t i a l  s u p p l y
+A d d i t i o n a l  f a c t o r s  t o  m o n i t o r
+CORSIA first Phase Modeling30A l t h o u g h  t h e  I C A O  a p p r o v e s  c a r b o n  s t a n d a r d s  a n d  
+m e t h o d o l o g i e s  f o r  E E U  s u p p l y ,  i t  a l l o w s  i n d i v i d u a l  
+c o u n t r i e s  t o  f u r t h e r  b u i l d  o n  t h e s e  r e q u i r e m e n t s .
+
+T h e  E U  i s  e x p e c t e d  t o  i n t r o d u c e  a d d i t i o n a l  r e q u i r e m e n t s  
+t h a t  w o u l d  l i m i t  t h e  s e t  o f  E E U s  t h a t  E U - b a s e d  a i r l i n e s  a r e  
+a l l o w e d  t o  u s e  f o r  C O R S I A  c o m p l i a n c e .
+
+D e p e n d i n g  o n  t h e s e  r u l e s ,  t h e  C O R S I A  E E U s  m i g h t  a c t  a s  
+a  p r i c e  fl o o r  t o  t h e  E U - e l i g i b l e  C O R S I A  E E U s ,  a n d  t h e  
+p r i c e  p r e m i u m  w i l l  r e fl e c t  t h e  r e l a t i v e  s c a r c i t y  o f  t h e  E U -
+s p e c i fi c  m a r k e t .
+M a r k e t  b i f u r c a t i o n  d u e  t o  E U - s p e c i fi c  
+r e q u i r e m e n t s  H o w e v e r ,  s i n c e  t h e  r u l e s  a r e  n o t  y e t  fi n a l i z e d ,  t h i s  i s  n o t  
+a c c o u n t e d  f o r  i n  t h e  m o d e l i n g  a n a l y s i s .
+C O R S I A
+L o o k i n g  a h e a d
+CORSIA first Phase Modeling31
+L o o k i n g  a h e a dT h e  a n a l y s i s  i n  t h i s  r e p o r t  h i g h l i g h t s  a  w i d e  
+r a n g e  o f  p o t e n t i a l  o u t c o m e s  f o r  C O R S I A
+CORSIA first Phase Modeling32E x c l u d i n g  t h e  “ n o  c o m p l i a n c e ”  s c e n a r i o ,  t h e  E E U  p r i c e s  i n  
+t h e  s c e n a r i o s  c o n s i d e r e d  m a y  r e a c h  $ 2 5 - 3 6  b y  2 0 2 7 .  
+D e p e n d i n g  o n  t h e  c o m p l i a n c e  o u t c o m e s ,  t h e  s c e n a r i o s  
+i m p l y  a  p r i m a r y  m a r k e t  v a l u e  f o r  C O R S I A  F i r s t  P h a s e  E E U s  o f  
+$ 1 . 8  b i l l i o n  t o  $ 5 . 2  b i l l i o n .  T h e  u p p e r  e s t i m a t e s  a r e  
+c o m p a r a b l e  t o  t h e  c u r r e n t  v o l u n t a r y  c a r b o n  m a r k e t  o n  a n  
+a n n u a l i z e d  b a s i s .
+
+I n  o t h e r  w o r d s ,  i f  C O R S I A  i s  f u l l y  i m p l e m e n t e d  a s  h o p e d ,  i t  
+w i l l  t r a n s f o r m  t h e  l a n d s c a p e  f o r  c a r b o n  c r e d i t  m a r k e t s  
+g l o b a l l y .
+H o w e v e r ,  t h i s  r e p o r t  a l s o  u n d e r s c o r e s  l o o m i n g  c h a l l e n g e s  
+t o  t h e  p r o g r a m .  A  p o t e n t i a l  s h o r t a g e  o f  c r e d i t s  a n d  
+i n c o m p l e t e  c o m p l i a n c e  g l o b a l l y  c o u l d  s i g n i fi c a n t l y  e r o d e  
+c o n fi d e n c e  i n  t h i s  n a s c e n t  m a r k e t .  I n t e g r i t y  a l s o  n e e d s  t o  
+b e  u p h e l d  i f  t h i s  m a r k e t  w e r e  t o  a c h i e v e  l a s t i n g  i m p a c t .
+
+A t  S y l v e r a ,  w e  w i l l  c l o s e l y  m o n i t o r  d e v e l o p m e n t s  i n  t h e  
+C O R S I A  m a r k e t  b o t h  i n  t e r m s  o f  f u t u r e  s u p p l y  u n l o c k e d  b y  
+h o s t  c o u n t r y  a u t h o r i z a t i o n s  a n d  i n d i c a t o r s  f o r  f u t u r e  
+e n f o r c e m e n t  o r  c o m p l i a n c e .  W e  h o p e  t h i s  r e p o r t  h e l p s  
+p r o v i d e  c l a r i t y  t o  m a r k e t  p a r t i c i p a n t s ,  a n d  w e  w i l l  c o n t i n u a l l y  
+r e v i e w  a n d  u p d a t e  o u r  a n a l y s i s  i n  t h e  c o m i n g  m o n t h s .
+T o  fi n d  o u t  m o r e  a b o u t  t h e  d i f f e r e n t  w a y s  S y l v e r a  c a n  h e l p  y o u  
+n a v i g a t e  C O R S I A,  c h e c k  t h e  b a c k  p a g e  o f  t h i s  r e p o r t .
+
+A n n e x  I :
+S y l v e r a  m o d e l i n g  a p p r o a c h
+CORSIA first Phase Modeling33
+1 .  S y l v e r a ’ s  m a r k e t  s i m u l a t i o n  m o d e lA n  a g e n t - b a s e d  m a r k e t  s i m u l a t i o n  t h a t  c o n s i d e r s  t h e  f u l l  r a n g e  o f  
+u n c e r t a i n t i e s  i n  c a r b o n  c r e d i t  m a r k e t s .
+CORSIA first Phase Modeling34T o  i d e n t i f y  h o w  d i f f e r e n t  s o u r c e s  o f  u n c e r t a i n t y  
+c o u l d  a f f e c t  m a r k e t  o u t c o m e s ,  S y l v e r a  h a s  
+d e v e l o p e d  a n  i n - h o u s e  m a r k e t  s i m u l a t i o n  m o d e l  
+t o  e v a l u a t e  d i f f e r e n t  p o s s i b l e  s c e n a r i o s .  
+
+T h e  s c e n a r i o s  r e p r e s e n t  a  w i d e  r a n g e  o f  f u t u r e  
+p o l i c y  c h o i c e s ,  d e m a n d  p a t h w a y s ,  a n d  e c o n o m i c  
+c o n d i t i o n s .F o r  e a c h  s c e n a r i o ,  t h e  m o d e l i n g  t o o l  s i m u l a t e s  
+d e m a n d ,  s u p p l y  a n d  p r i c e  b y  p r o j e c t  t y p e  o n  a n  
+a n n u a l  b a s i s  i n  t h e  m e d i u m  t e r m .
+
+I n  d o i n g  s o ,  w e  b r i n g  t o g e t h e r  S y l v e r a ’ s  c o r e  
+s t r e n g t h s 
+D a t a :  E x t e n s i v e  d a t a  o n  p r o j e c t s  a n d  s u p p l y  
+p i p e l i n 
+P o l i c y :  D e e p  k n o w l e d g e  a c r o s s  d o m e s t i c  a n d  
+i n t e r n a t i o n a l  c a r b o n  m a r k e t 
+A n a l y t i c s :  A d v a n c e d  m a r k e t  m o d e l i n g  
+c a p a b i l i t i e sD i s t i n c t i v e  m o d e l  f e a t u r e sA g e n t - b a s e d :  e x p l i c i t  r e p r e s e n t a t i o n  o f  
+d i f f e r e n t  m a r k e t  p a r t i c i p a n t s  w h i c h  m a k e  
+i n d e p e n d e n t  d e c i s i o n s  g i v e n  t h e  p r i c e  
+s i g n a l s  a n d  b e l i e f s ,  i n c l u d i n g  b e h a v i o r  s u c h  
+a s  a i r l i n e  h e d g i n gI n t e r l i n k e d  m a r k e t s :  c o n s i d e r s  a l l  d i s t i n c t  
+s u p p l y  s o u r c e s  t h a t  c o m b i n e  t o  m e e t  
+d e m a n d  a c r o s s  v o l u n t a r y  a n d  c o m p l i a n c e  
+m a r k e t s ,  w i t h  b u y e r s  t r a d i n g  o f f  c r e d i t  p r i c e  
+a n d  c o m p l i a n c e  e l i g i b i l i t yG r a n u l a r  d a t a  i n p u t s :  i t  c o n s i d e r s  t h e  
+p o t e n t i a l  i s s u a n c e  v o l u m e s  a n d  d e l i v e r y  t i m e  
+l a g s  o f  o v e r  2 0 , 0 0 0  i n d i v i d u a l  p r o j e c t s ,  a n d  
+t h e  l i k e l i h o o d  o f  t h o s e  b e c o m i n g  e l i g i b l e  f o r  
+C O R S I A  c o m p l i a n c e
+2 .  T h e  s c e n a r i o  m o d e l i n g  a p p r o a c h  t o  C O R S I AO v e r v i e w  o f  k e y  d a t a  i n p u t s  
+a n d  a s s u m p t i o n s
+CORSIA first Phase Modeling35T h e  m o d e l  c o n s i d e r s  a l l  a v a i l a b l e  s u p p l y  s o u r c e s ,  
+h o s t  c o u n t r i e s ,  a n d  a i r l i n e s  t h a t  m i g h t  f a c e  
+o f f s e t t i n g  r e q u i r e m e n t s  u n d e r  C O R S I A.  T h e  
+f o l l o w i n g  d i a g r a m  i d e n t i fi e s  t h e  k e y  i n p u t  d a t a  
+a n d  a s s u m p t i o n s  t h a t  i n fl u e n c e  t h e  C O R S I A  
+m o d e l i n g  r e s u l t s .  
+D a t a  i n p u t s  &  d e f a u l t  a s s u m p t i o n s
+F o r w a r d - l o o k i n g  a s s u m p t i o n s  m a y  
+c o n t a i n  s o m e  u n c e r t a i n t i e s ,  b u t  a r e  
+r e l a t i v e l y  p r e d i c t a b l e  o v e r  t h e  n e x t  
+3 - 5  y e a r sS c e n a r i o - s p e c i fi c  a s s u m p t i o n s
+R e p r e s e n t s  l a r g e  ‘ s w i n g  f a c t o r s ’  t h a t  
+c o u l d  a f f e c t  m a r k e t  o u t c o m e s  
+s i g n i fi c a n t l yD e m a n dS u p p l y+  H i s t o r i c a l  a v i a t i o n  e m i s s i o n s  ( 2 0 1 9 - 2 0 2 3 )
+   C O R S I A  p a r t i c i p a t i o n  b y  s t a t e
++  R e c e n t  a i r  t r a f f i c  ( u n t i l  A p r i l  2 0 2 5 )
++  A s s u m e d  f u t u r e  a i r  t r a f f i c  a n d  e f f i c i e n c y
++  S u s t a i n a b l e  A v i a t i o n  F u e l  u p t a k e
++  H e d g i n g  b e h a v i o r  b y  a i r l i n e s+  I s s u i n g  p r o j e c t s
++  P r e - i s s u a n c e ,  p i p e l i n e  p r o j e c t s
++  C u r r e n t  i n v e n t o r y  o f  u n r e t i r e d  c r e d i t s
++  E x p e c t e d  i s s u a n c e s
++  D e l i v e r y  r i s k s  a n d  t i m e  l a g s
++  F u t u r e  i n v e s t m e n t s  i n  n e w  p r o j e c t s+  E n f o r c e m e n t  b y  r e g u l a t o r s
++  L e v e l  o f  c o m p l i a n c e  b y  a i r l i n e s
++  C o m p l i a n c e  d e a d l i n e s  ( e . g .  J a n  2 0 2 8 )
+E s t i m a t e d  C O R S I A  E U  p r i c e+  E x t e n t  t o  w h i c h  h o s t  c o u n t r y  
+a u t h o r i z a t i o n s  a n d  i n s u r a n c e  w i l l  r a m p  u p  
+o v e r  t i m e
++  I s s u a n c e  v o l u m e s  f r o m  l a r g e  s u p p l y  
+s o u r c e s  ( e . g .  J R E D D + ,  P A C M )
+3 .  E s t i m a t i n g  C O R S I A  E E U  d e m a n dO v e r a l l  m o d e l i n g  a p p r o a c h  t o  e s t i m a t i n g  o f f s e t t i n g  r e q u i r e m e n t s
+CORSIA first Phase Modeling36S o u r c e :  p r e l i m i n a r y  S y l v e r a  a n a l y s i s  a s  o f  J u n e  2 0 2 5 ,  b a s e d  o n  a v i a t i o n  e m i s s i o n s  d a t a  f r o m  I C A O  ( 2 0 2 4 ,  
+2 0 2 5 )  a n d  t h e  E u r o p e a n  C o m m i s s i o n  ( 2 0 2 4 )T h r e e  h i g h - l e v e l  s t e p s  t o  e s t i m a t e  t h e  o f f s e t t i n g  r e q u i r e m e n t s :
+
+D e t e r m i n e  t h e  b e n c h m a r k  a s  8 5 %  o f  2 0 1 9  e m i s s i o n s  ( a s  p u b l i s h e d  
+b y  I C A O ,  a n d  a s s u m i n g  p a r t i c i p a t i o n  o f  m e m b e r  s t a t e s  a s  p l a n n e d )
+
+
+U s e  I C A O  m o n t h l y  a v i a t i o n  t r a f fi c  s t a t i s t i c s  ( u n t i l  A p r i l  2 0 2 5 )  t o  
+e x t r a p o l a t e  2 0 2 3  e m i s s i o n s  d a t a  i n t o  e s t i m a t e d  e m i s s i o n s  f o r  
+2 0 2 4 - 2 0 2 5
+
+
+A p p l y  t o p - d o w n  a s s u m p t i o n  o n  t h e  g r o w t h  o f  g r o s s  e m i s s i o n s  
+t h r o u g h  t o  2 0 3 5 .  T h e  a s s u m p t i o n  i s  e q u i v a l e n t  t o  i n t e r n a t i o n a l  
+a v i a t i o n  e m i s s i o n s  p e a k i n g  i n  2 0 4 0 .
+ABCABC
+2 0 2 42 0 2 52 0 2 62 0 2 72 0 2 82 0 2 92 0 3 02 0 3 12 0 3 22 0 3 32 0 3 42 0 3 58 0 07 0 06 0 05 0 04 0 03 0 02 0 01 0 00O f f s e t t i n g  r e q u i r e m e n tC O R S I A  b e n c h m a r k  ( 8 5 %  o f  2 0 1 9 )C o v e r e d  e m i s s i o n sE s t i m a t e d  e m i s s i o n s  a n d  o f f s e t t i n g  r e q u i r e m e n t s  u n d e r  C O R S I A  ( M t C O 2 e ) 
+( u n d e r  c o v e r a g e  a s  p l a n n e d )
+3 .  E s t i m a t i n g  C O R S I A  E E U  d e m a n dA d j u s t m e n t s  f o r  E U  E T S  c o v e r a g e  o f  i n t r a - E E A  fl i g h t s  a n d  p a r t i c i p a t i o n  f o r  s m a l l e r  s t a t e s
+CORSIA first Phase Modeling37S o u r c e :  p r e l i m i n a r y  S y l v e r a  a n a l y s i s  a s  o f  J u n e  2 0 2 5 ,  b a s e d  o n  a v i a t i o n  e m i s s i o n s  d a t a  f r o m  I C A O  ( 2 0 2 4 ,  
+2 0 2 5 )  a n d  t h e  E u r o p e a n  C o m m i s s i o n  ( 2 0 2 4 )T h e n ,  a d j u s t  t h e  e s t i m a t e d  o f f s e t t i n g  r e q u i r e m e n t s  d o w n w a r d s  d u e  
+t o 
+E m i s s i o n s  a l r e a d y  c o v e r e d  b y  t h e  E U  E T S  ( i n t r a - E E A  fl i g h t  
+e m i s s i o n s ) ,  w h i c h  m a y  n o t  c r e a t e  d e m a n d  f o r  C O R S I A  E E U 
+C o u n t r i e s  t h a t  a r e  n o t  o b l i g e d  t o  p a r t i c i p a t e  C O R S I A  b e c a u s e  t h e y  
+r e p r e s e n t  u n d e r  0 . 5 %  o f  t o t a l  i n t e r n a t i o n a l  r e v e n u e  t o n n e  
+k i l o m e t e r s  ( R T K )
+2 0 2 42 0 2 52 0 2 62 0 2 72 0 2 82 0 2 92 0 3 02 0 3 12 0 3 22 0 3 32 0 3 42 0 3 58 0 07 0 06 0 05 0 04 0 03 0 02 0 01 0 00O f f s e t t i n g  r e q u i r e m e n tC O R S I A  b e n c h m a r k  ( 8 5 %  o f  2 0 1 9 )C o v e r e d  e m i s s i o n sE s t i m a t e d  e m i s s i o n s  a n d  o f f s e t t i n g  r e q u i r e m e n t s  u n d e r  C O R S I A  ( M t C O 2 e ) 
+( u n d e r  c o v e r a g e  a s  p l a n n e d )
+2 0 2 42 0 2 52 0 2 6P h a s e  t o t a l4 3 . 65 7 . 16 7 . 11 6 8 . 33 7 . 44 8 . 95 8 . 01 4 4 . 2B e f o r e  
+a d j u s t m e n tA f t e r  
+a d j u s t m e n t
+4.  E s t i m a t i n g  C O R S I A  E E U  s u p p l yO v e r a l l  a p p r o a c h  t o  e s t i m a t i n g  s u p p l y  
+o f  C O R S I A  E E U s
+CORSIA first Phase Modeling38S t e p  1 .
+E s t i m a t i n g  t h e  v o l u m e  o f  c r e d i t s  t h a t  
+w o u l d  b e  e l i g i b l e  f o r  C O R S I A  
+c o n d i t i o n a l  o n  r e c e i v i n g  a n  i n s u r e d  
+L o A  o r  C AS t e p  2 .
+E s t i m a t i n g  t h e  s h a r e  o f  w h i c h  t h a t  
+w i l l  r e c e i v e  a u t h o r i z a t i o n  ( a n d  
+e v e n t u a l l y  C A )I d e n t i f y  e l i g i b l e  p r o j e c t s
+I d e n t i f y  p r o j e c t s  ( i n c l u d i n g  e a r l y  s t a g e  p r o j e c t s  t h a t  a r e  i n  d e v e l o p m e n t ,  a s  
+w e l l  a s  J R E D D  p r o g r a m s )  t h a t  m e e t  I C A O ’ s  e l i g i b i l i t y  c r i t e r i a .
+
+T h i s  f i l t e r s  b a s e d  o n  t h e  a p p r o v e d  r e g i s t r i e s ,  c r e d i t i n g  p e r i o d s  ( s t a r t i n g  a f t e r  
+2 0 1 6 ) ,  a n d  m e t h o d o l o g i e s .
+
+W e  a l s o  s i m u l a t e  i n v e s t m e n t s  t h a t  w i l l  c r e a t e  n e w  p r o j e c t s  ( t h o u g h  t h i s  
+r e m a i n s  m i n o r  b y  J a n  2 0 2 8 ) .S i m u l a t e  t h e  s h a r e  o f  s u p p l y  t h a t  w i l l  b e  a u t h o r i z e d  b y  h o s t  c o u n t r i e s
+H o s t  c o u n t r y  g o v e r n m e n t s  h a v e  e x h i b i t e d  v a r i o u s  a p p r o a c h e s  t o  d e c i d i n g  i f  a n d  h o w  t o  g r a n t  a u t h o r i z a t i o n s  f o r  
+c r e d i t s  t o  r e c e i v e  c o r r e s p o n d i n g  a d j u s t m e n t s .  W e  e x p e c t  s u c h  d e c i s i o n s  t o  a l s o  d e p e n d  o n  C O R S I A  p r i c e s .
+
+A l t h o u g h  i t  i s  n o t  p o s s i b l e  t o  p r e d i c t  t h e  d e c i s i o n s  b y  i n d i v i d u a l  g o v e r n m e n t s ,  w e  a p p l y  s c e n a r i o - s p e c i f i c  a s s u m p t i o n s  
+b a s e d  o n  ( a )  w h i c h  c o u n t r i e s  h a v e  a d v a n c e d  p r e p a r a t i o n s  f o r  A r t i c l e  6  a u t h o r i z a t i o n s ,  a n d  
+
+( b )  t h e  o p p o r t u n i t y  c o s t  t h e y  m i g h t  f a c e  i n  t e r m s  o f  m e e t i n g  t h e i r  N D C s .E s t i m a t e  p o t e n t i a l  c r e d i t  s u p p l y
+T h i s  c o n s i s t s  o f  b o t h  t h e  c u r r e n t  i n v e n t o r y  ( i . e .  c r e d i t s  i s s u e d  b u t  n o t  y e t  r e t i r e d  o r  
+c a n c e l l e d ) ,  a s  w e l l  a s  f u t u r e  i s s u a n c e s  o f  e l i g i b l e  v i n t a g e s .
+
+C u r r e n t  i n v e n t o r y  c a n  b e  d e t e r m i n e d  b a s e d  o n  h i s t o r i c a l  r e g i s t r y  d a t a  ( s e e  n e x t  p a g e ) .
+
+F u t u r e  i s s u a n c e s  c a n  b e  e s t i m a t e d  b a s e d  o n  k n o w n  s c a l e  a n d  c r e d i t i n g  p e r i o d  o f  e a c h  
+p r o j e c t ,  a d j u s t e d  f o r  d e l i v e r y  r i s k s  a n d  t i m e  l a g s .
+W e  e v a l u a t e  p o t e n t i a l  s u p p l y  o f  C O R S I A  E E U s  i n  a  t w o - s t e p  f r a m e w o r k :  
+
+4.  E s t i m a t i n g  C O R S I A  E E U  s u p p l y
+T h e  l i s t  o f  C O R S I A - a p p r o v e d  r e g i s t r i e s  a s  o f  J u n e  
+2 0 2 5  i n c l u d e  A m e r i c a n  C a r b o n  R e g i s t r y  ( A C R ) ,  A R T  
+T R E E S ,  C l i m a t e  A c t i o n  R e s e r v e  ( C A R ) ,  G l o b a l  C a r b o n  
+C o u n c i l  ( G C C ) ,  G o l d  S t a n d a r d  ( G S ) ,  a n d  V e r r a ’ s  
+V e r i fi e d  C a r b o n  S t a n d a r d  ( V C S ) .
+
+I C A O  f u r t h e r  r e q u i r e s  t h a t  t h e  p r o j e c t s  m u s t  h a v e  
+t h e i r  fi r s t  c r e d i t i n g  p e r i o d  b e g i n n i n g  o n  o r  a f t e r  2 0 1 6 ,  
+a n d  t h a t  t h e y  m e e t  m e t h o d o l o g y  c r i t e r i a  t h a t  i s  
+s p e c i fi c  t o  e a c h  s t a n d a r d  –  t h i s  e f f e c t i v e l y  r u l e s  o u t  
+a  m a j o r i t y  o f  r e n e w a b l e s  a n d  R E D D +  p r o j e c t s .
+
+S y l v e r a  h a s  e v a l u a t e d  t h e  A r t i c l e  6  r e a d i n e s s  o f  a  
+l a r g e  n u m b e r  o f  p o t e n t i a l  h o s t  c o u n t r i e s  ( s e e  n e x t  
+p a g e ) ,  w h i c h  i n fl u e n c e  t h e  l i k e l i h o o d  o f  t h o s e  
+p r o j e c t s  r e c e i v i n g  a u t h o r i z a t i o n s  i n  t h e  n e a r  t e r m .
+CORSIA first Phase Modeling39S o u r c e :  r e g i s t r y  d a t a  a s  o f  J u n e  2 0 2 5  f r o m  C O R S I A  a p p r o v e d  r e g i s t r i e s ;  S y l v e r a  a s s e s s m e n t  
+o n  A r t i c l e  6  ( A 6 )  r e a d i n e s s  f o r  i n d i v i d u a l  c o u n t r i e sC u r r e n t l y  r e p r e s e n t  a  m a j o r  c o n s t r a i n t  
+t o  t h e  p o t e n t i a l  s u p p l y  o f  E E U sN u m b e r  o f  r e g i s t e r e d  p r o j e c t s  
+O n e  p r o j e c t  o n l y :  G u y a n a ’ s  J u r i s d i c t i o n a l  F o r e s t  C a r b o n  C r e d i t s  P r o g r a mO n e  p r o j e c t  o n l y :  G u y a n a ’ s  J u r i s d i c t i o n a l  F o r e s t  C a r b o n  C r e d i t s  P r o g r a mC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n02 , 5 0 05 , 0 0 07 , 5 0 01 0 , 0 0 01 2 , 5 0 0
+A  s u b s e t  o f  t h e s e  1 , 5 0 0  p r o j e c t s  w i l l  l i k e l y  f o r m  t h e  m a j o r i t y  o f  E E U  s u p p l y  b y  2 0 2 74 , 0 0 0 +  p r o j e c t  c o u l d  t e c h n i c a l l y  s u p p l y  E E U ’ s  u p o n  a u t h o r i z a t i o nC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n02 , 5 0 05 , 0 0 07 , 5 0 01 0 , 0 0 01 2 , 5 0 0
+A  s u b s e t  o f  t h e s e  1 , 5 0 0  p r o j e c t s  w i l l  l i k e l y  f o r m  t h e  m a j o r i t y  o f  E E U  s u p p l y  b y  2 0 2 7C u r r e n t  i n v e n t o r y  o f  v i n t a g e  2 0 2 1 - 2 0 2 6  c r e d i t s  ( M i l l i o n s ) C r e d i t s  a l r e a d y  i s s u e d  a n d  n o t  y e t  c a n c e l l e d  o r  r e t i r e dC O R S I A  a p p r o v e d  r e g i s t r i e sW i t h  c r e d i t i n g  p e r i o d  o n  o r  a f t e r  2 0 1 6M e e t s  I C A O ’ s  m e t h o d o l o g y  c r i t e r i aI n  c o u n t r i e s  w i t h  m o d e r a t e  A r t i c l e  6  r e a d i n e s sO b t a i n e d  h o s t  c o u n t r y  a u t h o r i z a t i o n01 0 02 0 03 0 04 0 05 0 0
+1 5 . 8  m i l l i o n  c r e d i t s  ( v i n t a g e s  2 0 2 1  a n d  2 0 2 2 )  i s s u e d  b y  t h e  G u y a n a  J R E D D +  p r o g r a mP r o j e c t s  t h a t  i s s u e d  c r e d i t sP r e - i s s u a n c e  p r o j e c t s
+4.  E s t i m a t i n g  C O R S I A  E E U  s u p p l yA s s u m e d  t i m i n g  f o r  h o s t  
+c o u n t r i e s  r e a d y  t o  p r o v i d e  
+A r t i c l e  6  a u t h o r i z a t i o n s
+CORSIA first Phase Modeling40
+A r t i cl e 6  r ea d i n es sV er y  hi g hH i g hH i g hH i g hH i g hMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eMo d er a t eC o u n t r y
+G ha n a
+Z a m b i a
+Rw a n d a
+C a m b o d i a
+P eru
+B a n g l a d es h
+K en y a
+I n d i a
+Ug a n d a
+Ma l a w i
+Z i m b a b w e
+T ha i l a n d
+N ep a l
+T a n z a n i a
+S en eg a l
+C hi l eI n v en t o r y *600K2. 5M1. 0M200K022. 2M18. 5M11. 9M4. 0M2. 7M1. 0M500K500K300K100K0Ma xi m u m 
+s u p p l y  ( A )2025202520252025202520252025202620262026202620262026202620262026Mo d er a t e  
+s u p p l y  ( B )2025202520252025202520252025202620262026202620262026202620262026L i m i t ed   
+s u p p l y  ( C , D )2025202520252025202520252025202720272027202720272027202720272027
+A r t i cl e 6  r ea d i n es sL o wL o wL o wL o wL o wL o wL o wL o wL o wL o wL o wV er y  l o wV er y  l o wV er y  l o wV er y  l o wV er y  l o wV er y  l o wV er y  l o wV er y  l o wN o t  a s s es s edC o u n t r y
+Me xi co
+B r a z i l
+N i g eri a
+Mo z a m b i q u e
+N a m i b i a
+I v o r y  C o a s t
+I n d o n es i a
+P hi l i p p i n es
+P a r a g u a y
+C o l o m b i a
+A r g en t i n a
+V i et n a m
+E t hi o p i a
+S i err a  L eo n e
+S o u t h A f ri ca
+P a n a m a
+N i ca r a g u a
+Ma l a y s i a
+B o l i v i aO t herI n v en t o r y *9. 7M5. 0M4. 1M900K100K0000003. 5M300K200K100K100K00091. 5MMa xi m u m 
+s u p p l y  ( A )2026202620262026202620262026202620262026202620262026202620262026202620262026N / AMo d er a t e  
+s u p p l y  ( B )20272027202720282028202820282028202820282028P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030N / AL i m i t ed   
+s u p p l y  ( C , D )20282028202820292029202920292029202920292029P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030P o st 2030N / AA r t i c l e  6  r e a d i n e s s  b y  h o s t  c o u n t r i e s ,  a s  e v a l u a t e d  
+b a s e d  o n  p u b l i c l y  d i s c l o s e d  e v i d e n c e ,  i s  u s e d  a s  a  
+p r o x y  f o r  t h e  t i m i n g  a t  w h i c h  t h e  c o u n t r y  i s  r e a d y  t o  
+p r o v i d e  a u t h o r i z a t i o n s .
+
+T h e  a s s u m e d  t i m i n g  a s  s h o w n  d o e s  n o t  s e r v e  a s  a  
+p r e d i c t i o n ,  a n d  i s  m e a n t  o n l y  t o  s e r v e  a s  a  y a r d s t i c k  t o  
+c l e a r l y  d i f f e r e n t i a t e  t h e  s c e n a r i o s .
+
+T h i s  a s s u m p t i o n  d e t e r m i n e s  m o d e l  b e h a v i o r  a s  t o  
+w h i c h  p r o j e c t s  m i g h t  b e  a l l o w e d  t o  r e c e i v e  h o s t  
+c o u n t r y  a u t h o r i z a t i o n .
+
+B e y o n d  t h i s ,  t h e  m o d e l  a l s o  c o n s i d e r s  t h e  o p p o r t u n i t y  
+c o s t s  f o r  t h e  h o s t  c o u n t r y  ( i n  f o r g o i n g  t h e  m i t i g a t i o n  
+o u t c o m e s ) .  C o u n t r i e s  w i t h  a  h i g h  o p p o r t u n i t y  c o s t  
+m a y  w i t h h o l d  a u t h o r i z a t i o n s  e v e n  i f  t h e y  a r e  
+t e c h n i c a l l y  r e a d y  t o  p r o v i d e  t h e m .
+*  I n v e n t o r y  r e f e r s  t o  e s t i m a t e d  v o l u m e  o f  ( V 2 0 2 1 - 2 6 )  c r e d i t s  t h a t  w e r e  i s s u e d  a n d  n o t  y e t  
+r e t i r e d  o r  c a n c e l l e d ,  e l i g i b l e  f o r  C O R S I A  P h a s e  1  s u b j e c t  t o  a u t h o r i z a t i o n
+5 .  E s t i m a t i n g  C O R S I A  E E U  p r i c e sT h e  m o d e l  s i m u l a t e s  r e a l - w o r l d  m a r k e t  b e h a v i o r  t o  
+d e t e r m i n e  t h e  C O R S I A  p r i c e s
+CORSIA first Phase Modeling41T h e  e s t i m a t e d  s p o t  p r i c e  o f  a  C O R S I A  E E U  i n  a n y  
+g i v e n  y e a r  ( w i t h  c o r r e s p o n d i n g  a d j u s t m e n t ) .
+=+T h i s  i s  b a s e d  o n  t h e  m a r g i n a l  c o s t  o f  s u p p l y  t h a t  i s  
+r e q u i r e d  t o  m e e t  b o t h : 
+‘ p h y s i c a l  d e m a n d ’ :  c r e d i t s  t o  b e  r e t i r e d  t h i s  y e a 
+‘ h e d g i n g  d e m a n d ’ :  a s s o c i a t e d  w i t h  t h e  n e e d s  t o  
+h e d g e  a g a i n s t  o f f s e t t i n g  r e q u i r e m e n t s  i n  f u t u r e  
+y e a r s .  T y p i c a l l y  1 8- 2 4  m o n t h s  i n  a d v a n c e  f o r  
+a i r l i n e s .
+
+T h e  m a r g i n a l  c o s t  i s  d e r i v e d  f r o m  a  s u p p l y  c u r v e  
+t h a t  c o n s i s t s  o f  ‘ b l o c k s ’  f r o m  e a c h  p r o j e c t  t y p e  b y  
+r e g i o n .
+
+E a c h  ‘ b l o c k ’  i s  a s s o c i a t e d  w i t h  a n  a s s u m e d  a v e r a g e  
+b r e a k e v e n  c o s t  ( a l l - i n  c o s t  p e r  c r e d i t  i s s u e d ) ,  a s  
+w e l l  a s  a  C A  f e e  ( w h i c h  s o m e  h o s t  c o u n t r i e s  m a y  
+c h a r g e ) .
+T h e  t e c h n i c a l  p r e m i u m  c a p t u r e s  m a r k e t  d y n a m i c s  t h a t  a r e  
+n o t  p r o p e r l y  a c c o u n t e d  f o r  i n  t h e  f a i r  v a l u e .
+
+I n  p a r t i c u l a r ,  t h e  m o d e l  c o n s i d e r s  s i t u a t i o n s  w h e r e  a  m a r k e t  
+i s  ‘ s q u e e z e d ’  b e c a u s e  t h e  i n v e n t o r y  o f  c r e d i t s  i s  l o w  
+( r e l a t i v e  t o  a n t i c i p a t e d  d e m a n d ) .
+
+T h i s  i s  c o m m o n  p r a c t i c e  i n  t h e  t e c h n i c a l  a n a l y s i s  o f  
+c o m m o d i t y  m a r k e t s ,  w h e r e  p r i c e s  m a y  d e v i a t e  f r o m  t h e  f a i r  
+v a l u e .
+C O R S I A  p r i c e  e s t i m a t eF A I R  V A L U ET E C H N I C A L  P R E M I U M
+A n n e x  I I :
+E x p e rt  p o l l  r e s u l t s
+
+CORSIA first Phase Modeling42
+C O R S I A  s c e n a r i o s  l i k e l i h o o d  -  A P A C  v o t e s
+CORSIA first Phase Modeling43F u l l  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l y3 7P a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y2 9D e l a y e d  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y2 1F u l l  c o m p l i a n c e ,
+m a x  s u p p l y8N o  c o m p l i a n c e501 02 03 04 0
+N o t e :  S o m e  a t t e n d e e s  d i d  n o t  c a s t  v o t e s  f o r  1 0 0 %  o f  t h e  o u t c o m e s ,  h e n c e  t h e  t o t a l s  m a y  n o t  e q u a l  1 0 0 %  f o r  
+e v e r y  s c e n a r i o .
+C O R S I A  s c e n a r i o s  l i k e l i h o o d  -  E M E A  v o t e s
+CORSIA first Phase Modeling44P a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y3 8D e l a y e d  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y2 2F u l l  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l y1 9N o  c o m p l i a n c e1 0F u l l  c o m p l i a n c e ,
+m a x  s u p p l y901 02 03 04 0
+C O R S I A  s c e n a r i o s  l i k e l i h o o d  -  A m e r i c a s  v o t e s
+CORSIA first Phase Modeling45P a r t i a l  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y4 0D e l a y e d  c o m p l i a n c e ,  
+l i m i t e d  s u p p l y1 9F u l l  c o m p l i a n c e ,  
+m o d e r a t e  s u p p l y1 7N o  c o m p l i a n c e1 1F u l l  c o m p l i a n c e ,
+m a x  s u p p l y1 001 02 03 04 0
+N o t e :  S o m e  a t t e n d e e s  d i d  n o t  c a s t  v o t e s  f o r  1 0 0 %  o f  t h e  o u t c o m e s ,  h e n c e  t h e  t o t a l s  m a y  n o t  e q u a l  1 0 0 %  f o r  
+e v e r y  s c e n a r i o .
+A c k n o w l e d g e m e n t s
+CORSIA first Phase Modeling46
+CORSIA first Phase ModelingA c k n o w l e d g e m e n t sT h e  i n i t i a l  fi n d i n g s  o f  t h i s  r e p o r t  w e r e  p r e s e n t e d  t o  t h e  f o l l o w i n g  m a r k e t  e x p e r t s :  
+
+A d i t y a  S a n g h v i ,  A n d r e w  H o w a r d ,  A n n i e  P e t s o n k ,  A r i e l  P e r e z ,  A u d r e y  G o l d s t e i n ,  
+B a b a  K e n j i ,  B e n e d i k t  v o n  B u t l e r ,  C h a n d r a  S h e k h a r  S i n h a ,  C h r i s  S h i p l e y ,  C l a i r e  
+C h o m m e l o u x ,  D a m i e n  M e a d o w s ,  D a v i d  N e w e l l ,  F e n e l l a  A o u a n e ,  G r é g o i r e  B a r i b e a u ,  
+H e a t h e r  S h e f f e r ,  H o H y u n  B a e ,  H u g h  S a l w a y ,  I a i n  M a c k a y ,  I n e s  M e l e n d e z ,  J a c q u i  
+R u e s g a ,  J e f f  S w a r t z ,  J o n a t h a n  M c G i l l i v r a y ,  J o n g  I k  Y o o ,  K e r r y  L i e b e n b e r g ,  M a r y  
+G r a d y ,  M i c h a e l  I v e n s o ,  M o l l y  P e t e r s  S t a n l e y ,  N a t a l i a  D o r f m a n ,  N a t s u r u  T o d a ,  O l i v e r  
+S t e e l e ,  P e t e r  Z a m a n ,  P o s i e  H o l m e s ,  R i s a  O h n o ,  R e u b e n  M a n o k a r a ,  S a t o k o  A r i m a ,  
+S h a o  H u a  N g ,  S t e p h e n  D a l y ,  T a k a s h i  H o n g o ,  a n d  Y u t a  S h o j i .  
+
+W e  w o u l d  l i k e  t o  e x p r e s s  o u r  s i n c e r e  g r a t i t u d e  f o r  t h e i r  t i m e  a n d  i n p u t .  
+
+I t  s h o u l d  b e  n o t e d  t h a t  t h e  p a r t i c i p a n t s  d o  n o t  n e c e s s a r i l y  e n d o r s e  t h e  fi n d i n g s  o r  
+c o n c l u s i o n s  o f  t h i s  r e p o r t .
+47
+CORSIA first Phase ModelingS y l v e r a :  Y o u r  P a rt n e r  i n  N a v i g a t i n g  C O R S I AF o u n d e d  i n  J a n u a r y  2 0 2 0 ,  S y l v e r a  i s  t h e  g l o b a l  l e a d e r  i n  
+b r i n g i n g  t r u s t ,  t r a n s p a r e n c y ,  a n d  r i g o r  t o  c a r b o n  m a r k e t  d a t a .  
+O u r  p l a t f o r m  e m p o w e r s  g o v e r n m e n t s ,  i n v e s t o r s ,  a n d  
+c o r p o r a t e s  t o  m a k e  h i g h - i n t e g r i t y  c l i m a t e  d e c i s i o n s  a t  s c a l e .
+
+W i t h  d e e p  e x p e r t i s e  i n  b o t h  c a r b o n  m a r k e t s  a n d  p o l i c y ,  w e  
+p r o v i d e  t h e  c r i t i c a l  i n t e l l i g e n c e  a n d  t o o l s  n e e d e d  t o  s u c c e e d  
+i n  t h e  e v o l v i n g  C O R S I A  l a n d s c a p e .
+
+S t r a t e g i c  C O R S I A  C o m p l i a n c e  &  M a r k e t  I n t e l l i g e n c e
+
+O u r  p o l i c y  e x p e r t s  h e l p  a i r l i n e s ,  i n v e s t o r s ,  a n d  c a r b o n  m a r k e t  
+p a r t i c i p a n t s  d e v e l o p  r o b u s t  C O R S I A  c o m p l i a n c e  s t r a t e g i e s  b y  
+p r o v i d i n g  r e a l i s t i c  a s s e s s m e n t s  o f  m a r k e t  s c e n a r i o s  a n d  
+r e g u l a t o r y  d e v e l o p m e n t s .  W e  h e l p  y o u  n a v i g a t e  u n c e r t a i n t y  
+a n d  p o s i t i o n  f o r  a c t i o n  b e f o r e  p r i c e s  r i s e ,  e n s u r i n g  y o u r  
+s t r a t e g i e s  r e m a i n  r e s i l i e n t  a c r o s s  m u l t i p l e  s c e n a r i o s .
+E n d - t o - E n d  S u p p o r t
+
+F r o m  i n i t i a l  d i s c o v e r y  t h r o u g h  r i g o r o u s  d u e  d i l i g e n c e  t o  
+o n g o i n g  m o n i t o r i n g ,  S y l v e r a  s u p p o r t s  y o u r  c o m p l e t e  j o u r n e y  
+w i t h  C O R S I A - e l i g i b l e  c r e d i t s .  O u r  t r u s t e d  r a t i n g s  p r o v i d e  d e e p  
+p r o j e c t - l e v e l  a n a l y s i s  t o  a s s e s s  t r u e  q u a l i t y  a n d  r i s k .  W i t h  
+l i m i t e d  s u p p l y  a n d  i n t e n s i f y i n g  d e m a n d  f o r  C O R S I A - e l i g i b l e  
+c r e d i t s ,  w e  h e l p  y o u  i d e n t i f y  h i g h - q u a l i t y  o p p o r t u n i t i e s  i n  t h i s  
+n a s c e n t  m a r k e t .
+
+D a t a - D r i v e n  D e c i s i o n  M a k i n g
+
+H a v i n g  r e l i a b l e  d a t a  a n d  i n s i g h t s  i s  c r u c i a l  f o r  i n f o r m e d  
+d e c i s i o n - m a k i n g .  S y l v e r a ' s  M a r k e t  D a t a  p r o v i d e s ,  r e a l - t i m e  
+m a r k e t  i n t e l l i g e n c e ,  a n d  o u r  i n - h o u s e  s c e n a r i o  m o d e l i n g  h e l p s  
+y o u  t a k e  l o w - r i s k  c l i m a t e  a c t i o n .
+
+S y l v e r a . c o m
+48
