@@ -704,19 +704,17 @@
     "doc_type": "External Paper / Research"
   },
   "Report_CMWG_GCS_Handbook_2.0FINAL_September2025": {
-    "filename": "Report_CMWG_GCS_Handbook_2.0FINAL_September2025.txt",
+    "filename": "Report_CMWG_GCS_Handbook_2.0FINAL_September2025.docx",
     "keywords": [
-      "mrv",
       "carbon-accouting",
       "ccs-ccus",
-      "vcm",
-      "hard-to-abate",
-      "energy"
+      "global",
+      "mrv"
     ],
-    "char_count": 181814,
-    "word_count": 27318,
-    "processed_date": "2026-04-06T09:13:50.073280",
-    "doc_type": "IETA Report"
+    "doc_type": "IETA Report",
+    "char_count": 157702,
+    "word_count": 22629,
+    "processed_date": "2026-04-06T10:06:12.965412"
   },
   "SBTi_Abatable_Explainer": {
     "filename": "SBTi_Abatable_Explainer.txt",
