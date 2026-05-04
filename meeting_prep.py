@@ -601,7 +601,6 @@ if not documents:
 # ============================================================================
 
 st.title("📚 IETA Knowledge Base")
-st.markdown("Busca e curadoria de conteúdo técnico — lastreada exclusivamente na base de documentos internos da IETA Brasil.")
 st.markdown("---")
 
 # ── CONSULTA ─────────────────────────────────────────────────────────────────
@@ -920,4 +919,4 @@ if "last_results" in st.session_state:
 # RODAPÉ
 # ============================================================================
 st.markdown("---")
-st.caption("🌐 IETA Brazil Initiative · Use 'Recarregar' na sidebar sempre que a base for atualizada.")
+st.caption("🌐 Use 'Recarregar' na sidebar sempre que a base for atualizada.")
