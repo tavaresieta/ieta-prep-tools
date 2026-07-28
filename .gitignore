@@ -35,6 +35,9 @@ test_*.py
 # Installed packages list
 installed.txt
 
+# Claude Code session scratchpad
+scratchpad/
+
 # Metadata and chunked documents (if they contain sensitive data)
 # metadata/
 # documentos_chunked/
