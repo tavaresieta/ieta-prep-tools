@@ -24,6 +24,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Scratchpad for intermediate briefing work
+scratchpad/
+
 # Documents (descomente se não quiser subir documentos)
 # documents/*.pdf
 # documents/*.docx
