@@ -39,3 +39,6 @@ installed.txt
 # metadata/
 # documentos_chunked/
 # documentos_grandes/
+
+# Session scratchpad (temporary working files)
+scratchpad/
