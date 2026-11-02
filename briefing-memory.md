@@ -1,3 +1,18 @@
 # IETA Briefing Memory — Last 7 Editions
 <!-- This file is maintained automatically by the daily briefing routine.
      Do not edit manually. Format: Date | Headline | URL -->
+
+<!-- 2026-11-02 | Fazenda formalises phased MRV requirements for SBCE, with obligations starting in 2027 | https://carbon-pulse.com/566102/ -->
+<!-- 2026-11-02 | New ordinance covers emitters at or above 10,000 tCO2e per year under SBCE | https://acreagora.com/2026/11/01/empresas-com-emissoes-a-partir-de-10-mil-toneladas-anuais-terao-novas-obrigacoes-no-mercado-brasileiro-de-carbono/ -->
+<!-- 2026-11-02 | Chemical industry secures early entry into first SBCE phase after Abiquim technical study | https://cafecominformacao.com.br/abiquim-conquista-inclusao-da-industria-quimica-na-primeira-etapa-do-mercado-regulado-de-carbono/ -->
+<!-- 2026-11-02 | Opinion: Double-taxation risk between EU CBAM and SBCE raises urgency on commercial diplomacy | https://mistobrasil.com/2026/10/31/cbam-e-o-sbce-o-risco-da-dupla-oneracao-sobre-a-industria/ -->
+<!-- 2026-11-02 | Pulp and paper confirmed in first stage of Brazil's regulated carbon market under new ordinance | https://www.agazetadedourados.com.br/noticias/economia/setor-de-celulose-entra-na-primeira-etapa-do-mercado-regulado-de-carbono/30/10/2026/ -->
+<!-- 2026-11-02 | Argentine Senate gives preliminary approval to national carbon market framework, 60-2 | https://www.argentinaforestal.com/2026/10/31/el-senado-dio-media-sancion-a-un-nuevo-regimen-y-marco-regulatorio-de-mercado-de-carbono/ -->
+<!-- 2026-11-02 | European Parliament negotiators reach draft deal to add private yachts to EU ETS and triple clean shipping fuel allowances | https://carbon-pulse.com/566048/ -->
+<!-- 2026-11-02 | Türkiye's TR ETS enters pilot phase ahead of hosting COP31 in Antalya | https://carboncreditmarkets.com/en/single-post/44th-week-ccm-2026-world-doesn-t-stop-carbon-credits-t%C3%BCrkiye-s-ets-singapore-hub-brazil-s-timeline-progress-in-australia-pre-cop-in-fiji-and-tuvalu-ieta-and-legal-safe-harbour -->
+<!-- 2026-11-02 | IETA report urges governments to introduce safe harbour laws protecting good-faith use of high-integrity credits | https://www.ieta.org/uploads/wp-content/Resources/Reports/Safe-Harbour_FINAL.pdf -->
+<!-- 2026-11-02 | Singapore counts more than 160 carbon services firms as it accelerates Asia hub bid | https://carboncreditmarkets.com/en/single-post/44th-week-ccm-2026-world-doesn-t-stop-carbon-credits-t%C3%BCrkiye-s-ets-singapore-hub-brazil-s-timeline-progress-in-australia-pre-cop-in-fiji-and-tuvalu-ieta-and-legal-safe-harbour -->
+<!-- 2026-11-02 | U.S. timberland company sold 340,000 forest carbon credits in first nine months of 2026 | https://carbon-pulse.com/566048/ -->
+<!-- 2026-11-02 | Pre-COP31 meeting in Fiji and Tuvalu sets climate-finance tone with ~4,000 participants | https://carboncreditmarkets.com/en/single-post/44th-week-ccm-2026-world-doesn-t-stop-carbon-credits-t%C3%BCrkiye-s-ets-singapore-hub-brazil-s-timeline-progress-in-australia-pre-cop-in-fiji-and-tuvalu-ieta-and-legal-safe-harbour -->
+<!-- 2026-11-02 | European Shipowners (ECSA) press for tripled SMAP revenues as Council and Parliament negotiate EU ETS revision | https://cyprusshippingnews.com/2026/10/29/european-shipowners-reiterate-key-asks-for-eu-ets-negotiations-in-council-and-parliament/ -->
+<!-- 2026-11-02 | Brazilian steel and aluminium exporters accelerate emissions certification as EU CBAM enters commercial reality | https://www.fastmarkets.com/insights/brazilian-steel-aluminium-exporters-rush-to-adapt-as-cbam-shifts-from-future-risk-to-commercial-reality/ -->
